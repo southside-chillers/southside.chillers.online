@@ -1,0 +1,3 @@
+[submodule "southside/themes/ghostwriter"]
+	path = southside/themes/ghostwriter
+	url = https://github.com/jbub/ghostwriter.git

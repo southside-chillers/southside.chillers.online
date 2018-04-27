@@ -1,0 +1,17 @@
+version: 2
+jobs:
+  build:
+    machine: true
+    steps:
+      - checkout
+      - run:
+          name: submodules
+          command: git submodule update --init --recursive
+      - run:
+          name: build
+          command: docker run --rm -v $(pwd)/southside:/src jojomi/hugo:0.39 hugo
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build

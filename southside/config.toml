@@ -1,0 +1,4 @@
+baseURL = "https://southside.chillers.online/"
+languageCode = "en-us"
+title = "Southside Chillers"
+theme = "ghostwriter"
