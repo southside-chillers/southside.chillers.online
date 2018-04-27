@@ -17,4 +17,4 @@
     * commit your changes and push your branch to your fork
     * using the GitHub website, open a pull request from your branch to the `master` branch of this repository.
 
-* Once the content is done and the continuous integration tests pass, We'll your change and the site should automatically build and deploy.
+* Once the content is done and the continuous integration tests pass, We'll merge your change and the site should automatically build and deploy.
