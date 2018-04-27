@@ -1,6 +1,5 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description: "The Southside Chillers face fresh peril..."
 ---
-
