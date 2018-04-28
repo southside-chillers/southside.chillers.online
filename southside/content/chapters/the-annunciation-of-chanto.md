@@ -1,7 +1,7 @@
 ---
 title: "The Annunciation of Chanto"
 date: 2017-10-21T10:13:34-04:00
-description: "Sinister forces in a holy place"
+description: "A confrontation with sinister forces in a holy place."
 ---
 
 We left our heroes on a terrifying cliffhanger. While Harlan and Tannin face a shower of arrows from above the temple, Galadriel has been taken hostage by four orc cultists and a vicious bugbear within. The temple attendants have been brutally murdered.
