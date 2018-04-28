@@ -1,6 +1,6 @@
 ---
 title: "Slaad Meets World"
-date: 2018-04-28T15:54:52-04:00
+date: 2017-11-30T15:54:52-04:00
 description: "In the tower of spiders, can a one-armed man be king?"
 ---
 
