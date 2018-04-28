@@ -10,7 +10,7 @@ Tannin, in a barbarian rage, breaks down the temple door with his portable ram. 
 
 Out of nowhere, our most pond-resembling compatriot, Hanamir, emerges from his hiding place and frees Galadriel from the bugbear. He then strikes at the bugbear and misses; Galadriel, thrilled to be rescued, takes a swipe at the bugbear’s exposed thigh with her rapier and hits. The bugbear retaliates with a swing of his deadly morning star and deals considerable damage to both Hanamir and Galadriel. 
 
-Meanwhile, Tannin and Harlan battle the second and third cultists at the front of the temple. There’s more swinging and missing, and the fourth cultist rushes to the front to join the fray. Tannin succeeds in killing the second one with his battle axe. The third cultist mysteriously sacrifices himself while the fourth starts chanting and shrouds himself in flames—alas! a mage! 
+Meanwhile, Tannin and Harlan battle the second and third cultists at the front of the temple. There’s more swinging and missing, and the fourth cultist rushes to the front to join the fray. Tannin succeeds in killing the second one with his battle axe. The third cultist mysteriously sacrifices himself while the fourth starts chanting and shrouds himself in flames—alas! A mage! 
 
 Hanamir and Galadriel knock the bugbear unconscious. The chanting mage, affectionately known as Chanto, conjures a floating hand above the bugbear’s body, and uses magic to disappear and reappear in the corner of the temple. When Hanamir confronts him, Chanto demands to know our heroes’ purpose. “To learn what threatens the moon!” Hanamir replies. Chanto retorts, “Shargaas threatens the moon!” and conjures three darts that hit Hanamir, Galadriel, and Harlan. 
 
