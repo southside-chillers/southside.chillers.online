@@ -3,11 +3,13 @@
 <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
     {{ partial "intro.html" . }}
 
-    <h1>Recent Chapters</h1>
+    <h1 class="page-title">Tales of the Southside Chillers</h1>
+    <h2 class="site-header">Recent Chapters</h2>
+
     <ol class="post-list">
         {{ $pag := .Paginate (where .Data.Pages "Type" "chapters") }}
         {{ range $pag.Pages }}
-            {{ partial "post-stub.html" . }}
+            {{ partial "page-stub.html" . }}
         {{ end }}
     </ol>
 
