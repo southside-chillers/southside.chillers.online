@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container">
+    {{ partial "intro.html" . }}
+
+    <ol class="post-list">
+        {{ $pag := .Paginate .Data.Pages.ByDate }}
+        {{ range $index, $element := $pag.Pages }}
+            <li class="post-stub">
+                <a href="{{ .Permalink }}">
+                    <h4 class="post-stub-title">{{ add $index 1 }}) {{ .Title }}</h4>
+                    <p class="post-stub-description">{{ .Description }}</p>
+                </a>
+            </li>
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+        {{ partial "pagination.html" . }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
