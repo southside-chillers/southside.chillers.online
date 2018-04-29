@@ -2,6 +2,7 @@
 title: "Toward the Flame"
 date: 2017-11-01T12:14:03-04:00
 description: "An entry to hostile territory: the only way out is through."
+chapter: 5
 ---
 
 It's another beautiful day in the town of Eillin. Tannin is still on his personal side quest, but Harlan, Hanamir, and Galadriel are eager to solve the problem of the burning forest, and they're running out of time before the Moon Festival. Their only choice is to press on.

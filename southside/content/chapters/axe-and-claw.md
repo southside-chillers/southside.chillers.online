@@ -2,6 +2,7 @@
 title: "Axe and Claw"
 date: 2017-11-06T12:23:08-04:00
 description: "The pack descends, and the peril deepens."
+chapter: 6
 ---
 
 Harlan, Hanamir, and Galadriel return to the pond in the burning woods. They are still reeling from their encounter in the spider cave, but after Galadriel performs a short Song of Rest, they feel a bit stronger. 

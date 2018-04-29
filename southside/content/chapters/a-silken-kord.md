@@ -2,6 +2,7 @@
 title: "A Silken Kord"
 date: 2017-11-17T13:11:44-04:00
 description: "Divine wisdom, and entry to a dark tower."
+chapter: 7
 ---
 The giant spider blinks its uncountable eyes. Two swarms of tiny spiders flank it on either side, waiting for a signal to attack. Galadriel takes a step back. Will the gauntlet of Lolth prevent her from fighting? Or worse: will it cause her to turn against her friends? She feels an unnatural bond with the smaller spiders, but no such tenderness for the monstrous blue creature. This, at least, is a hopeful sign.
 

@@ -2,6 +2,7 @@
 title: "Slaad Meets World"
 date: 2017-11-30T15:54:52-04:00
 description: "In the tower of spiders, can a one-armed man be king?"
+chapter: 8
 ---
 
 After describing his brief vision of a troglodyte, Harlan pockets the mysterious verdant orb, and the party continues on through the tower of Lolth.

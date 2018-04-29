@@ -2,6 +2,7 @@
 title: "Questions in the Dark"
 date: 2017-12-14T18:32:45-04:00
 description: "The Chillers stealthily ascend...into danger."
+chapter: 10
 ---
 
 **INT. LOLTH TOWER -- NIGHT**
