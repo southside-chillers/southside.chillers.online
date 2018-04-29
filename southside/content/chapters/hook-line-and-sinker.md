@@ -2,6 +2,7 @@
 title: "Hook, Line and Sinker"
 date: 2017-12-07T19:21:41-04:00
 description: "A battle of wits...and wyrms."
+chapter: 9
 ---
 
 Chaos reigns in the stone arena. The sound of the newly-amputee Savage’s struggle with the Death Slaad from within the fog does not inspire confidence. The Wyrmling lets out a furious roar as it hits the water. 

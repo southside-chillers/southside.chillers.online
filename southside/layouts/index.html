@@ -9,12 +9,26 @@
     <ol class="post-list">
         {{ $pag := .Paginate (where .Data.Pages "Type" "chapters") }}
         {{ range $pag.Pages }}
-            {{ partial "page-stub.html" . }}
+        <li class="post-stub">
+            <a href="{{ .Permalink }}">
+                <h4 class="post-stub-title">{{ .Params.chapter }}) {{ .Title }}</h4>
+                <p class="post-stub-description">{{ .Description }}</p>
+            </a>
+        </li>
         {{ end }}
     </ol>
 
     <div class="post-navigation">
-        {{ partial "pagination.html" . }}
+    {{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+        {{ if $pag.HasPrev }}
+        <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; Later Chapters</a>
+        {{ end }} {{ if $pag.HasNext }}
+        <a class="older-posts" href="{{ $pag.Next.URL }}">Earlier Chapters &rarr;</a>
+        {{ end }}
+    </nav>
+    {{ end }}
     </div>
 </div>
 

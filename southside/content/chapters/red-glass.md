@@ -2,6 +2,7 @@
 title: "Red Glass"
 date: 2017-10-02T09:29:36-04:00
 description: "Our heroes seek answers...and valuable non-crystalline amorphous solids."
+chapter: 2
 ---
 
 After the goblin’s death the heroes scramble for the fallen object: a brass key. It did not fit the gate nearby, for no lock was present, but noises were heard down the stairs behind it. Before another step could be taken a large dwarf descends rapidly down the well, loudly coming to rest at the bottom of the well shaft. As the heroes are checking the health of the newcomer, they find Hanamir in an unresponsive state. After some quick introductions, the dwarven barbarian Tannin McBitters agrees to join the party, replacing the newly catatonic Hanamir. Not wanting to abandon her half-orc friend to the elements, Galadriel uses a spell of minor illusion to disguise Hanamir as the most realistic pond any of the adventurers has ever seen. A truly stunning display of magical artistry.

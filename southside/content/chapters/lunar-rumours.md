@@ -2,6 +2,7 @@
 title: "Lunar Rumours"
 date: 2017-09-21T17:44:34-04:00
 description: "Astrological trouble brews as our adventure begins."
+chapter: 1
 ---
 
 🍻 Our story begins as all quests must: with a chance encounter between three strangers in a tavern. Hanamir (a half-orc monk), Harlan (a human cleric of the storm god Kord), and Galadriel (a half-elf bard) are separately enjoying their beverages of choice in this tavern when the mayor of town, Frunk, begins drunkenly ranting about a man, H'Jun, who owes him an eel brain. Our heroes learn that the eel brain is a necessary component for an "invention" that the mayor was planning to build in preparation for the town's famous Moon Festival 🌙, in honor of the town's patron goddess. He also needs red glass for the invention, but the focus was definitely on this missing eel brain. The takeaway from our conversation was that H'Jun was entrusted to bring the eel brain to Mayor Frunk, but fell asleep on the job and was robbed.

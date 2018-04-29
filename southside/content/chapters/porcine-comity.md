@@ -2,6 +2,7 @@
 title: "Porcine Comity"
 date: 2017-10-23T12:01:31-04:00
 description: "Discoveries with unforeseen consequences, and a new friend?"
+chapter: 4
 ---
 
 After their night's rest, each member of the party finds that their dreams have come true! They all feel _amazing_ — not only well-rested, but measurably more proficient at a variety of skills important to them.
