@@ -325,11 +325,11 @@ The trio wander away from the dance floor, back to where they first chatted with
 
 Galadriel responds by casting invisibility on him and giving him bardic inspiration; Harlan follows up by casting enhance ability and gives him the guidance of Kord. It’s overkill, but they want to be sure.
 
-Hanamir tiptoes up to the two leaders until he can just barely hear what they’re saying. Something about “Ben”—something about unsealing a city, whether that will be necessary if someone’s gotten in—something about a betrayal—they’ll need “all the Ben...”
+Hanamir tiptoes up to the two leaders until he can just barely hear what they’re saying. Something about “Been”—something about unsealing a city, whether that will be necessary if someone’s gotten in—something about a betrayal—they’ll need “all the Been...”
 
 It’s not clear what they mean yet, but that night, the adventurers discuss it as they settle into their rickety twin beds at the inn. Hanamir struggles to get his blanket to cover his whole body.
 
-“It’s that ring with the B on it, the one the Savage has,” says Harlan. “The B must stand for Ben, and if you have a ring, you’re a member.”
+“It’s that ring with the B on it, the one the Savage has,” says Harlan. “The B must stand for Been, and if you have a ring, you’re a member.”
 
 “So, we know Frunk and the Savage and King Slee are members,” says Hanamir. He wears an adorable nightcap and matching pajamas with little bespectacled worms reading books on them. “Who else?”
 
