@@ -7,6 +7,9 @@
 ### 2) Set up a local environment
 
 * Using [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [fork this repository](https://help.github.com/articles/fork-a-repo/), and then [clone](https://help.github.com/articles/cloning-a-repository/) your fork somewhere onto your machine.
+* Enter the project directory using command `cd southside.chillers.online`.
+* Install the 'ghostwriter' theme. First, enter the themes directory with command `cd themes`. Then command `git clone https://github.com/jbub/ghostwriter` to install the theme.
+* Return to the main project directory with command `cd ..`.
 * Using [hugo](https://gohugo.io/getting-started/installing/), run the local site with a command like `hugo server -D`. You should then see a local preview available at http://localhost:1313/.
 
 ### 3) Make edits, commit your changes, and open a pull request
