@@ -29,9 +29,9 @@ When they reach the top of the hill, Bryn is already at the door to welcome them
 
 “It’s you guys!” he exclaims. “Come in, come in. We weren’t sure what happened. It was the strangest thing. The occlusion of the moon—it disappeared all of a sudden! And Eilistraee arrived in town for the festival!”
 
-“Yes, well, we tracked down the source of the problem. A rogue priestess of Lolth was responsible,” says Harlan. “Do you know the name Kazna?”
+“Yes, well, we tracked down the source of the problem. A rogue priestess of Lolth was responsible,” says Harlan. “Do you know the name Cazna?”
 
-“Kazna, of course,” says Bryn. “She was the culprit? She fled the town years ago. We didn’t know she was alive! ”
+“Cazna, of course,” says Bryn. “She was the culprit? She fled the town years ago. We didn’t know she was alive! ”
 
 “Oh, she’s dead now,” says Galadriel.
 
@@ -155,7 +155,7 @@ The cameraman gets distracted by a very intoxicated human woman who has climbed 
 
 “Hey, speaking of being grateful,” says Frunk, lowering his voice. “I belong to an ancient order that is charged with protecting the town. After your success on this, we’d be interested in hiring you all on a permanent basis to help defend us against outside threats.”
 
-“We’d be open to that,” says Harlan. “Do you know anything of Regent Khargol? He seems like the most likely next threat. Apparently he and the followers of Shargaas were working in conjunction with Kazna and the Lolth followers to destroy Eilistraee.”
+“We’d be open to that,” says Harlan. “Do you know anything of Regent Khargol? He seems like the most likely next threat. Apparently he and the followers of Shargaas were working in conjunction with Cazna and the Lolth followers to destroy Eilistraee.”
 
 “That surprises me. As orcs go, Khargol is pretty reasonable.” Frunk gives Hanamir an apologetic look. “He fights with honor, I mean. We have a tense relationship with the orcs of this region, and if they’re plotting against us, it might be time to break the unspoken truce.”
 
@@ -253,7 +253,7 @@ Eilistraee notices them and stops dancing. She leaves the dance floor and approa
 
 Galadriel sinks to her knees and bows her head. Realizing that she is not about to say anything, Harlan pipes up.
 
-“Truly, it was our honor to help defeat Kazna,” he says.
+“Truly, it was our honor to help defeat Cazna,” he says.
 
 “Yes. Did you catch it, by the way?” adds Hanamir. “It was pretty sweet.”
 
