@@ -41,50 +41,6 @@ When they reach the top of the hill, Bryn is already at the door to welcome them
 
 Hanamir takes it with a quick bow.
 
----
-
-# The True History of Eillin
-
-## Founding & Governance
-
-Eillin was founded in the year 325 by Veneyphe and Bynrize. Veneyphe was a Half-Elf and Bynrize was a Drow and while little is known about their history or how they came to meet it is known that they founded the town as an homage to Eillistrae and as a symbol of peace between the Drow and Half-Elves.
-
-Eileen has little need of formal governance, the town elects an informal "mayor," the title mostly a tribute to the nickname of Venephye for the first 86 years of the town's existence. After her death there was no formal leader, but the co-founder of the town, Bynrize, served roughly the same role of settling disputes. In his old age he delegated this to an outsider and dear friend, Frunk Thunderstruck the Dwarf. This decision was made at a time of great tension between the Half-Elf and Drow populations, and eased some of the tensions.
-
-The recent death of Bynrize leaves the young town faced with a choice, will it continue in the tradition of its now departed founders or will it forge a new path in the modern world?
-
-## The Moon Festival
-
-In 330, with a small population the town saw its first moon festival. On this day Ellistrae appeared in her Drow form and walked among the town and all in the town celebrated her presence. Since then she has appeared once every year while locals throw a feast in her honor.
-
-The festival has grown so large that people come from all over to attend. In many years even the Human Rulers of nearby Aberith come to pay homage to her holiness and celebrate the beautiful spectacle of a 24-hour full moon.
-
-## War & Peace
-
-The history of Ellistrae has not always been peaceful, Orcs sacked the town in 389 and again in 534.
-
-After the first raid several factions were created to defend Eillin, though they were opposed by Veneyphe as she felt that they would lead their followers to violate the town’s unspoken principle of neutrality.
-
-Starting in 633 the southern half of the continent, which includes Eillin saw undead hordes descend on cities periodically. During this period many left Eillin to live in the city of Aberith. Eventually this led to an alliance between the two, with Aberith pledging protection in exchange for goods from Eillin. After about 50 years, the hordes eventually subsided and peace blossomed again.
-
-The next threat that Eillin would face would nearly tear it apart. A long-extant cult of Drow made an attempt on the life of Bynrize on the eve of the moon festival. They felt that the alliance with the Half-Elf had gone on long enough and wanted to return the town to the Drow.
-
-The leaders were defeated and their supporters were driven out of town. This led to continued strife between the Drow and Half-Elf population for many years, but that tension is mostly forgotten.
-
-## Local Geography
-
-Eillin is on the southern coast of Ivrend, a continent comprised primarily of Elves, Humans, and Half-Elves with the occasional Orc and Dwarf settlement. The town is bordered on the north by the anomalous “mountains of greed” a visual siren song of jewels from which it is said none return and on the south by the enchanting Moon Sea. 
-
-Surrounding the town there are several small hamlets and farms. Three main roads lead out of the town: east, west, and northeast.
-
-To the west of the town there is a forest in which it was long rumored that evil dwelled. Young children used to play on the edge of the forest hoping to get a glimpse at the evil that lurked there but it is widely believed these were just the occasional wild animal or lost wanderer.
-
-To the northeast there is the road that leads to the city of Aberith, the largest city on the eastern half of the continent. It is several day’s journey but some make the journey on a regular basis to trade goods in the cosmopolitan city of Aberith.
-
-To the immediate east are the ruins of an ancient city. Not much is known about the history of the city but it is believed to have been destroyed well before the creation of Eillin. Visiting the city is banned by the Crown of Aberith.
-
----
-
 “Want to come with us to the Moon Festival?” says Galadriel. 
 
 “We’ll buy you a drink!” says Harlan. 
@@ -171,9 +127,9 @@ The flashback window fades from view, and you’re back with Galadriel and Buddy
 
 You see a close-up window of Frunk Thunderstruck, dwarf mayor of Eillin, addressing the camera directly. He’s sitting on a bench outside Fleck’s Tavern. The noise of celebrants can be heard all around him.
 
-“I was excited for tonight because… well, to be quite honest, this has been the most stressful couple of weeks in my life. Trying to put together this festival with this whole moon crisis going on, and not even being able to tell people about it…” Frunk rolls his eyes. “Just, let me say, I’m glad it’s over. And I’m glad I ran into those random people that day and convinced them to check out the situation with the red glass—hey, speaking of which, that’s them!” He points past the camera. “Hey! Adventurers!” He waves them over. Hanamir, Harlan, and Galadriel shuffle into the frame. Frunk tugs on the sleeve of a man standing nearby.
-
 ---
+
+“I was excited for tonight because… well, to be quite honest, this has been the most stressful couple of weeks in my life. Trying to put together this festival with this whole moon crisis going on, and not even being able to tell people about it…” Frunk rolls his eyes. “Just, let me say, I’m glad it’s over. And I’m glad I ran into those random people that day and convinced them to check out the situation with the red glass—hey, speaking of which, that’s them!” He points past the camera. “Hey! Adventurers!” He waves them over. Hanamir, Harlan, and Galadriel shuffle into the frame. Frunk tugs on the sleeve of a man standing nearby.
 
 “Slee! These are the ones I was telling you about,” says Frunk.
 
@@ -185,7 +141,11 @@ The man, a human of about sixty years old, turns to face the party. He has a sal
 
 “It’s an honor to meet heroes such as yourselves. Frunk tells me that the festival would not have happened for the first time in centuries if not for your help,” says the king. “Please, tell us how you did it.”
 
+---
+
 The cameraman gets distracted by a very intoxicated human woman who has climbed onto a signpost and released a large quantity of flying golf-ball-sized creatures into the night air. They fly in circles and emit some impressive colored sparks for about thirty seconds. The camera pans back to our group.
+
+---
 
 “Anyway, we killed her exactly dead,” Galadriel is explaining animatedly to King Slee, whose brow is furrowed.
 
@@ -392,3 +352,47 @@ This final flashback window dissolves into air. Galadriel puts down her lute and
 She places her lute in its case delicately and winks.
 
 “This has been Galadriel T. Moonwater with your recap. Good night!”
+
+---
+
+# The True History of Eillin
+
+## Founding & Governance
+
+Eillin was founded in the year 325 by Veneyphe and Bynrize. Veneyphe was a Half-Elf and Bynrize was a Drow and while little is known about their history or how they came to meet it is known that they founded the town as an homage to Eillistrae and as a symbol of peace between the Drow and Half-Elves.
+
+Eileen has little need of formal governance, the town elects an informal "mayor," the title mostly a tribute to the nickname of Venephye for the first 86 years of the town's existence. After her death there was no formal leader, but the co-founder of the town, Bynrize, served roughly the same role of settling disputes. In his old age he delegated this to an outsider and dear friend, Frunk Thunderstruck the Dwarf. This decision was made at a time of great tension between the Half-Elf and Drow populations, and eased some of the tensions.
+
+The recent death of Bynrize leaves the young town faced with a choice, will it continue in the tradition of its now departed founders or will it forge a new path in the modern world?
+
+## The Moon Festival
+
+In 330, with a small population the town saw its first moon festival. On this day Ellistrae appeared in her Drow form and walked among the town and all in the town celebrated her presence. Since then she has appeared once every year while locals throw a feast in her honor.
+
+The festival has grown so large that people come from all over to attend. In many years even the Human Rulers of nearby Aberith come to pay homage to her holiness and celebrate the beautiful spectacle of a 24-hour full moon.
+
+## War & Peace
+
+The history of Ellistrae has not always been peaceful, Orcs sacked the town in 389 and again in 534.
+
+After the first raid several factions were created to defend Eillin, though they were opposed by Veneyphe as she felt that they would lead their followers to violate the town’s unspoken principle of neutrality.
+
+Starting in 633 the southern half of the continent, which includes Eillin saw undead hordes descend on cities periodically. During this period many left Eillin to live in the city of Aberith. Eventually this led to an alliance between the two, with Aberith pledging protection in exchange for goods from Eillin. After about 50 years, the hordes eventually subsided and peace blossomed again.
+
+The next threat that Eillin would face would nearly tear it apart. A long-extant cult of Drow made an attempt on the life of Bynrize on the eve of the moon festival. They felt that the alliance with the Half-Elf had gone on long enough and wanted to return the town to the Drow.
+
+The leaders were defeated and their supporters were driven out of town. This led to continued strife between the Drow and Half-Elf population for many years, but that tension is mostly forgotten.
+
+## Local Geography
+
+Eillin is on the southern coast of Ivrend, a continent comprised primarily of Elves, Humans, and Half-Elves with the occasional Orc and Dwarf settlement. The town is bordered on the north by the anomalous “mountains of greed” a visual siren song of jewels from which it is said none return and on the south by the enchanting Moon Sea.
+
+Surrounding the town there are several small hamlets and farms. Three main roads lead out of the town: east, west, and northeast.
+
+To the west of the town there is a forest in which it was long rumored that evil dwelled. Young children used to play on the edge of the forest hoping to get a glimpse at the evil that lurked there but it is widely believed these were just the occasional wild animal or lost wanderer.
+
+To the northeast there is the road that leads to the city of Aberith, the largest city on the eastern half of the continent. It is several day’s journey but some make the journey on a regular basis to trade goods in the cosmopolitan city of Aberith.
+
+To the immediate east are the ruins of an ancient city. Not much is known about the history of the city but it is believed to have been destroyed well before the creation of Eillin. Visiting the city is banned by the Crown of Aberith.
+
+---

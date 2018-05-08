@@ -1,7 +1,7 @@
 ---
 title: "Ovine Arbitration"
 date: 2018-02-06T21:32:00-04:00
-description: "Sad tidings, and a runinant client."
+description: "Sad tidings, and a ruminant client."
 chapter: 14
 ---
 
