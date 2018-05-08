@@ -1,6 +1,6 @@
 ---
 title: "The Thaumazoologist"
-date: 2018-05-08T08:50:29-04:00
+date: 2018-02-27T08:50:29-04:00
 description: "A new friend, and the party must decide whether to brave the City of the Dead."
 chapter: 17
 ---
