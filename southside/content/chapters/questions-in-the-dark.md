@@ -97,7 +97,7 @@ A somewhat bloodied orc emerges. He wears armor; he’s a warrior.
 
 **Hanamir**: It doesn’t matter.
 
-**Orc**: Well, you held up your end of the deal, I’ll hold up mine and be on my way...Good luck with Kazna. _(he leaves)_
+**Orc**: Well, you held up your end of the deal, I’ll hold up mine and be on my way...Good luck with Cazna. _(he leaves)_
 
 The group checks the orc’s cell. It smells pretty bad. Some rat bones...not too much else in there worthy of reporting. It seems he had been in there a week or two.
 
@@ -275,9 +275,9 @@ Galadriel notices that the drow is fidgeting with something and staring at the g
 
 **Harlan**: She’s onto us.
 
-**Drow**: Kazna and the followers of Shargaas both needed Eilistraee out of the way.
+**Drow**: Cazna and the followers of Shargaas both needed Eilistraee out of the way.
 
-**Galadriel**: Who’s Kazna?
+**Galadriel**: Who’s Cazna?
 
 **Drow**: The high priestess of this temple.
 

@@ -19,7 +19,7 @@ She conjures a new flashback window. In it, you can see Hanamir, Harlan, and Gal
 
 “And books are your favorite! An unlikely gift from an orc god,” says Galadriel. 
 
-“Yes. He doesn’t quite understand, but he knows I am particular about my books,” says Hanamir. “I told him Shargaas is attacking the moon. He didn’t know, and he was displeased. I asked him what we can do to help. His advice was to kill the priestess, Kazna, and not to trust Tiamat.”
+“Yes. He doesn’t quite understand, but he knows I am particular about my books,” says Hanamir. “I told him Shargaas is attacking the moon. He didn’t know, and he was displeased. I asked him what we can do to help. His advice was to kill the priestess, Cazna, and not to trust Tiamat.”
 
 “The dragon god?” says Harlan. “That’s not one of our orbs.”
 
@@ -33,7 +33,7 @@ She conjures a new flashback window. In it, you can see Hanamir, Harlan, and Gal
 
 Harlan takes the fire giant orb to its corresponding statue and returns with nothing in his hands.
 
-“I didn’t get a material gift this time, but I did get some information,” he says. “This fire giant god—very intimidating guy—really hates Lolth. He is very much rooting for us and against her. He says that Kazna is protected by a barrier that is impenetrable by force or magic. It will hold as long as she concentrates on her spell. So he advised us not to waste our energy trying to break down the barrier.” He pauses. “I also asked him how to get to the top of the tower. He said we’d need to speak to Tiamat about that.”
+“I didn’t get a material gift this time, but I did get some information,” he says. “This fire giant god—very intimidating guy—really hates Lolth. He is very much rooting for us and against her. He says that Cazna is protected by a barrier that is impenetrable by force or magic. It will hold as long as she concentrates on her spell. So he advised us not to waste our energy trying to break down the barrier.” He pauses. “I also asked him how to get to the top of the tower. He said we’d need to speak to Tiamat about that.”
 
 “But—” starts Galadriel, eyes wide.
 
@@ -89,7 +89,7 @@ There is a long silence, punctuated only with flickers of light from within the 
 
 “My advice? These orbs you possess are worth a great deal of human gold. Go sell them and be prosperous. Do not give them back to evil gods.”
 
-“Understood. Understood,” says Harlan. “And how might we reach the top of the tower? And kill Kazna?”
+“Understood. Understood,” says Harlan. “And how might we reach the top of the tower? And kill Cazna?”
 
 “I know nothing of that.”
 
@@ -177,7 +177,7 @@ It doesn’t take long. The shadow lifts with a softly clicking sigh.
 
 Hanamir holds eye contact with her for a long moment, then assures Harlan, “It’s true.”
 
-“I told Lolth that I killed her followers,” says Galadriel. “I told her I did it to prove that I alone am worthy of being her high priestess. I asked her how to unseat Kazna.” 
+“I told Lolth that I killed her followers,” says Galadriel. “I told her I did it to prove that I alone am worthy of being her high priestess. I asked her how to unseat Cazna.” 
 
 “And?” says Harlan.
 
@@ -201,7 +201,7 @@ Tears spring into Galadriel’s eyes.
 
 “But is there anything I—”
 
-“I have nothing to say.” The shadow seems to gain ground over the moon’s waning light. At the opposite end of the rooftop, behind a shimmering web, they see Kazna, who seems not to have noticed them.
+“I have nothing to say.” The shadow seems to gain ground over the moon’s waning light. At the opposite end of the rooftop, behind a shimmering web, they see Cazna, who seems not to have noticed them.
 
 “Remember, we learned she’s protected by a barrier,” says Harlan. “Probably the web.”
 
@@ -211,29 +211,29 @@ Tears spring into Galadriel’s eyes.
 
 “He’s staying in my backpack, thank you,” says Galadriel, wiping away tears. “I will never trust you with him in a million years.” She climbs down over the side of the tower, trying to remain calm, but trembling with grief. Buddy nuzzles the back of her neck and oinks reassuringly. 
 
-The side of the tower is smooth and cold. She creeps along the side until she is at the edge beneath Kazna. The priestess remains deeply entranced in her ritual… and there is no web on this side.
+The side of the tower is smooth and cold. She creeps along the side until she is at the edge beneath Cazna. The priestess remains deeply entranced in her ritual… and there is no web on this side.
 
-Galadriel climbs closer. She lifts herself up to stand on the roof behind Kazna. Through the web, she can see Harlan rush forward, trying to create a distraction. Kazna looks up and notices him, and with a flick of her wrist, she conjures a phase spider and sets it upon him. She is still engrossed in her spell. 
+Galadriel climbs closer. She lifts herself up to stand on the roof behind Cazna. Through the web, she can see Harlan rush forward, trying to create a distraction. Cazna looks up and notices him, and with a flick of her wrist, she conjures a phase spider and sets it upon him. She is still engrossed in her spell. 
 
 Galadriel breathes as quietly as she can and tiptoes even closer. The priestess smells like incense and witch hazel. She sees the phase spider lunge at Harlan and miss. The time to do it—if she’s going to do it—is now.
 
-She draws her short sword and, without hesitating further, plunges it into Kazna’s back. 
+She draws her short sword and, without hesitating further, plunges it into Cazna’s back. 
 
 “I’m the high priestess now, biiitch!” cries Galadriel.
 
-Kazna howls in pain and the magical web around her evaporates like steam into the night sky. Harlan’s hammer is already raised; he dodges another attack from the phase spider, runs through the disintegrating barrier, and slams Kazna with it, knocking her to the ground. 
+Cazna howls in pain and the magical web around her evaporates like steam into the night sky. Harlan’s hammer is already raised; he dodges another attack from the phase spider, runs through the disintegrating barrier, and slams Cazna with it, knocking her to the ground. 
 
-Hanamir, still invisible, swings for the phase spider and makes a dent in its prickly blue hide. Shrieking in confusion, it advances on the foe it can see. It sinks its teeth into Harlan’s side and rips a mortal-looking chunk of flesh right out of him. Meanwhile, Kazna picks herself up, wounded and enraged.
+Hanamir, still invisible, swings for the phase spider and makes a dent in its prickly blue hide. Shrieking in confusion, it advances on the foe it can see. It sinks its teeth into Harlan’s side and rips a mortal-looking chunk of flesh right out of him. Meanwhile, Cazna picks herself up, wounded and enraged.
 
 Galadriel gathers up all the magic she can muster and casts Healing Word on Harlan. His arteries stop gushing quite so terminally onto the rooftop. He reaches for the satchel the hunger god gave him and, in desperation, takes a bite of bread. Immediately—and a little eerily—he is restored to perfect health.
 
-Galadriel then whips back around and casts Tasha’s Hideous Laughter on Kazna. The priestess is overcome with giggles, then full-bellied laughter, then hysterics, and falls to her knees.
+Galadriel then whips back around and casts Tasha’s Hideous Laughter on Cazna. The priestess is overcome with giggles, then full-bellied laughter, then hysterics, and falls to her knees.
 
 “You see, Lolth?” Galadriel cries. “She is weak! She is not worthy of your favor! She is not fit to wipe the crust from your multitudinous eyes!”
 
 Harlan feels Hanamir’s invisible arms lifting him back to his feet. “Use the storm,” he whispers. “Now’s your shot.”
 
-“On it,” says Harlan. He summons a gust of wind and blasts it straight at Kazna. 
+“On it,” says Harlan. He summons a gust of wind and blasts it straight at Cazna. 
 
 Convulsing, she flies backward off the roof. 
 
@@ -245,11 +245,11 @@ Everyone, even the phase spider, rushes to the edge. The priestess, screaming no
 
 The moon emerges, full and bright and unnaturally large. The phase spider blinks out of existence. 
 
-A plume of smoke from the ground rises up to the edge of the roof. It is in the shape of Kazna’s body, but its edges are blurred, and moonlight shines through it, so bright that the adventurers shield their eyes. The shadow Kazna does not laugh.
+A plume of smoke from the ground rises up to the edge of the roof. It is in the shape of Cazna’s body, but its edges are blurred, and moonlight shines through it, so bright that the adventurers shield their eyes. The shadow Cazna does not laugh.
 
-The tower goes hazy; things that were once solid might not be. A black curtain sweeps to one side out of the nothingness, and an arachnid, all enormous legs and glittering obsidian eyes, appears. It picks up Kazna’s lifeless body. Suddenly the arachnid is a drow, Lolth in her humanoid form, twelve feet tall and even more terrifying to behold. She cradles Kazna like a child and kisses her face, and then, with a snap of her jaw, bites off the priestess’s legs.
+The tower goes hazy; things that were once solid might not be. A black curtain sweeps to one side out of the nothingness, and an arachnid, all enormous legs and glittering obsidian eyes, appears. It picks up Cazna’s lifeless body. Suddenly the arachnid is a drow, Lolth in her humanoid form, twelve feet tall and even more terrifying to behold. She cradles Cazna like a child and kisses her face, and then, with a snap of her jaw, bites off the priestess’s legs.
 
-Kazna’s severed torso falls to the ground. Lolth grabs the corpse’s hand and drags her back through the black curtain. The black curtain disappears.
+Cazna’s severed torso falls to the ground. Lolth grabs the corpse’s hand and drags her back through the black curtain. The black curtain disappears.
 
 The party exhales. They have no words for their disbelief. They are standing alone at the top of the tower. Before them, they see three other curtains billowing gently, though there is no breeze. 
 
