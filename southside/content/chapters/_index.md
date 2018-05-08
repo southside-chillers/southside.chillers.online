@@ -1,7 +1,5 @@
 ---
 title: "Chapters"
 menu: "main"
-weight: 1
+weight: 10
 ---
-
-description of chapters

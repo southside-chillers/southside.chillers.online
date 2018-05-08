@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+    <article class="post-container">
+        {{ partial "chapter-header.html" . }}
+        {{ partial "page-content.html" . }}
+    </article>
+</div>
+
+{{ if .NextInSection }}
+<div class="next-chapter-link">
+    <a href="{{ .NextInSection.Permalink }}">Next Chapter: {{ .NextInSection.Title }}</a>
+</div>
+{{ end }}
+
+{{ partial "footer.html" . }}
