@@ -299,7 +299,7 @@ Galadriel notices that the drow is fidgeting with something and staring at the g
 
 **Harlan**: And you don’t want to be here when that happens. So tell us what we want to know, and we’ll let you live. We’ll let you go.
 
-**Drow**: ...We had a plan. We thought the Shargaas followers wanted to destroy the city so that they could unseal the city of the undead. We wanted the city for ourselves again because we were run out of town. We discovered that they were infiltrating this tower so that as soon as Eilistraee was destroyed, they would kill us before we could take the town, because apparently that interferes with their plans.
+**Drow**: ...We had a plan. We thought the Shargaas followers wanted to destroy the city so that they could unseal the city of the dead. We wanted the city for ourselves again because we were run out of town. We discovered that they were infiltrating this tower so that as soon as Eilistraee was destroyed, they would kill us before we could take the town, because apparently that interferes with their plans.
 
 **Harlan**: And these orbs?
 

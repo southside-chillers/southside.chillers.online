@@ -89,7 +89,7 @@ They search the cellar. Hanamir brushes some dust off one wall and uncovers a sm
 
 "Could this be a way in?" wonders Harlan.
 
-"A way in?" says Hermione, blanching. "Why would you be looking for a way in to the City of the Undead?"
+"A way in?" says Hermione, blanching. "Why would you be looking for a way in to the City of the Dead?"
 
 "It’s a long story," says Hanamir, seeming to regain some of his earlier pep. "And we don’t have a reason to go in there yet, but we should revisit this once we explore the orc encampment. Hermione, does that interest you at all?"
 
@@ -119,7 +119,7 @@ In the larger tent, Hanamir finds a singed scrap of paper that he immediately re
 
 "Oh! This was a good one. The Reproductive Cycle of the Slaad," he says. "Horrifying stuff."
 
-He also finds a diagram pinned to one panel of the tent. It looks like a rudimentary map of the wall that surrounds the City of the Undead. The orcs had made a few markings around its persimeter. 
+He also finds a diagram pinned to one panel of the tent. It looks like a rudimentary map of the wall that surrounds the City of the Dead. The orcs had made a few markings around its persimeter. 
  
 "I wonder what these mean," he muses out loud. Resolving to figure it out, he rolls up the map and tucks it in his backpack.
 
@@ -185,7 +185,7 @@ Harlan rolls his eyes and continues dragging her.
 
 "The trail of the books leads there," says Hanamir. "My code compels me to follow."
 
-"But—but—should we not be better prepared? Would we not be served by a trip back to town first, before we enter the literal City of the Undead?!"
+"But—but—should we not be better prepared? Would we not be served by a trip back to town first, before we enter the literal City of the Dead?!"
 
 "Oh, sure, we can go back to town first," says Hanamir.
 
@@ -211,7 +211,7 @@ The adventurers begin the trek back to Eillin. They get an extra-thorough patdow
 
 "You wouldn’t dare," she sneers. The guards wave them through.
 
-Back at the inn, the adventurers gather over pints of Fleck’s ale and some mediocre pub food. In hushed tones at their table, they discuss entering the City of the Undead.
+Back at the inn, the adventurers gather over pints of Fleck’s ale and some mediocre pub food. In hushed tones at their table, they discuss entering the City of the Dead.
 
 "These books are my responsibility," says Hanamir. "If they are all destroyed, I must seek justice. If they are not all destroyed, I must recover them."
 
