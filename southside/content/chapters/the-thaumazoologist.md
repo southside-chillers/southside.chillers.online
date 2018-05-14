@@ -234,23 +234,3 @@ The hurricane dissipates, and the four adventurers are left staring at their dri
 "There was some weal in there, though, right?" says Galadriel. She raises her glass. Hermione clinks with her, just happy to have had a shower and to be among friends in a well-lit tavern.
 
 "Whether weal or woe awaits me," says Hanamir. "A man must have a code."
-
-With uncharacteristic loquacity, he continues:
-
-"It is true what you say, my friends. The Crypt City is certainly perilous; more perilous than anything we have yet faced. Given what we know, and the auguries of Kord, we must expect danger - we may emerge victorious; we may not emerge at all."
-
-"We could indeed take a more cautious path - gather our strength in greener pastures, hope that the forces of shadow and death in this place remain contained, until we are ready."
-
-"I do not believe that the cautious path, in this case, is the wise path. The Shargaasians gather strength - their evil will not stop with the destruction of my books, and neither Elieen, nor Aberith, may long withstand whatever darkness they seek within those black walls. Time, I fear, is not an asset we can freely spend."
-
-"Harlan and Galadriel, we have faced together many perils. I have no cause to doubt your courage or wisdom, but I know that this quest is not yours. Herminone, you have recently escaped captivity and it would be asking much to expect you to join me. This path is mine, and I will walk it alone if I must - but I ask, nonetheless, for your help."
-
-"Come with me, and let us end this threat before it escapes its cage. You saw the fear that the Lolthians had of the orcs. You know the history of the town - the orcs and the undead have burned it before, and they will burn it again."
-
-"I would choose a different way, if I thought I could. If I could choose my time, it would be a time of peace. I would choose warm halls, and peaceful study. But this choice is not given to us."
-
-"This is a time of strife, my friends, and a time for heroes."
-
-"This is a time of dungeons..."
-
-"and dragons."
