@@ -151,7 +151,7 @@ Hanamir leads them back out of town, past Bryn’s observatory, until he finds t
 
 "Who did?" says Galadriel.
 
-"That...demon looking thing!" says the groundhog.
+"That... demon looking thing!" says the groundhog.
 
 "Around what time was this?"
 
@@ -181,7 +181,7 @@ Hanamir leads them back out of town, past Bryn’s observatory, until he finds t
 
 "Maybe a small dagger!"
 
-Galadriel translates and looks at Harlan and Hanamir, as if to say, A dagger, ehhhh?
+Galadriel translates and looks at Harlan and Hanamir, as if to say, *A dagger, ehhhh?*
 
 "And did you see anything through the portal she made?"
 
@@ -191,7 +191,7 @@ Galadriel translates and looks at Harlan and Hanamir, as if to say, A dagger, eh
 
 "Sure! But I’m watching my groundhog weight!" 
 
-The groundhog picks up the granola and pops back in the hole with a voooop sound. 
+The groundhog picks up the granola and pops back in the hole with a *voooop* sound. 
 
 "Gotta go!"
 
@@ -211,19 +211,19 @@ There seems to be no response, until Harlan points upward.
 
 There are words appearing in the clouds, disrupting the steady patter of the rain.
 
-TOWN DEFENDED
+*TOWN DEFENDED*
 
 ...
 
-WILLING TO MEET
+*WILLING TO MEET*
 
 ...
 
-ABERYTH?
+*ABERYTH?*
 
 "How about...in seven days?" Hanamir asks the sky.
 
-SOUNDS GOOD
+*SOUNDS GOOD*
 
 "Where in Aberyth, though?" says Harlan.
 
@@ -287,7 +287,7 @@ The orc growls again and launches another unsuccessful attack. Harlan hits him a
 
 "You not killing me," says the orc.
 
-"Not killing you, like I killed your dad, you mean?" says Hanamir, prompting a DAAAAMN! from Galadriel on the ceiling. 
+"Not killing you, like I killed your dad, you mean?" says Hanamir, prompting a *DAAAAMN!* from Galadriel on the ceiling. 
 
 The orc glowers at him and makes a half-hearted swing.
 
@@ -299,9 +299,9 @@ The orc glowers at him and makes a half-hearted swing.
 
 They search the temple. Galadriel decides to climb over to the crescent-shaped window and punch out a pound of red glass, just in case that ever comes in handy again. Harlan checks out the dead orc’s fancy armor, and concludes that while it’s unusual, it’s not something he’s interested in taking for himself.
 
-Behind a secret compartment in the altar, they find a book. It’s a title that was also part of Bryn’s collection: Anatomy of Bugbears, Second Edition. But inside this one is a sticker that makes Hanamir’s eyes brim with tears: 
+Behind a secret compartment in the altar, they find a book. It’s a title that was also part of Bryn’s collection: *Anatomy of Bugbears, Second Edition*. But inside this one is a sticker that makes Hanamir’s eyes brim with tears: 
 
-*Propery of Drephis State University*
+*Property of Drephis State University*
 
 And, to make it worse: the book has been desecrated. Completely hollowed out. It’s nothing but a rectangular cavity between two covers and a spine.
 
