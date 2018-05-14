@@ -1,7 +1,7 @@
 ---
 title: "The Disappearing Dwarf"
 date: 2018-01-08T21:28:04-04:00
-description: "Our heroes once more become a triad."
+description: "Our heros once more become a triad."
 chapter: 11
 ---
 Galadriel is tuning her lute. She looks up.
