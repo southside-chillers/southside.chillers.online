@@ -463,7 +463,7 @@ This time, she assents to Hanamir’s suggestion to stow him in a pocket dimensi
 
 The skeleton beckons again and points to the tavern. Galadriel makes the first move, crossing the street toward the skeleton. He moves ahead to hold the door to the tavern open for her.
 
-“Thank you, sir!” she says. The skeleton bows, and the other adventurers follow her into the interior of the tavern. It is indeed a cozy place, as Hermione described—if very old fashioned. All three skeletons turn their heads at the arrival of newcomers, but nobody gets up. The skeleton with the lute goes behind the bar and gestures for us to have a drink. He writes something down on a piece of parchment and hands it to us; his writing is archaic, but not unintelligible.
+“Thank you, sir!” she says. The skeleton bows, and the other adventurers follow her into the interior of the tavern. It is indeed a cozy place, as Hermione described—if very old fashioned. All three skeletons turn their heads at the arrival of newcomers, but nobody gets up. The skeleton with the lute goes behind the bar and gestures for them to have a drink. He writes something down on a piece of parchment and hands it to Hanamir; his writing is archaic, but not unintelligible.
 
 “My name is Bandi. We don’t get visitors very often here! We’re so excited to have you,” Hanamir reads. In his head, he estimates that the style of writing might be at least a thousand years old.
 
@@ -505,7 +505,7 @@ Bandi waves one of the three other skeletons over. The skeleton, assumed to be M
 
 “A gnome in these parts?” writes Mandi. “I’m sorry, I’ve never seen a gnome in my life!”
 
-They are interrupted by a startling noise from outside the tavern. It can only be described as horrific—as if the fabric of spacetime itself is ripping, as if the concept of sound is undergoing a traumatic experience. The skeletons are terrified; Handi and Vandi run to the back room. Mandi starts bolding the window shutters closed. Bandi runs to the door and pushes a table against it to barricade it shut.
+They are interrupted by a startling noise from outside the tavern. It can only be described as horrific—as if the fabric of spacetime itself is ripping, as if the concept of sound is undergoing a traumatic experience. The skeletons are terrified; Handi and Vandi run to the back room. Mandi starts bolting the window shutters closed. Bandi runs to the door and pushes a table against it to barricade it shut.
 
 “What’s going on?!” says Hermione. But none of the skeletons are writing anything down; they’re too busy prepping for what seems like an imminent attack. 
 

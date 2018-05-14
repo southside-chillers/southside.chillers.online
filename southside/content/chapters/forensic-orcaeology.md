@@ -237,7 +237,7 @@ No more words appear in the clouds.
 
 "Yes," says Hanamir decisively. 
 
-It’s a long walk. The rain begins to clear as they pass by Eillin again, going around it instead of through it to avoid the heavy security at the border. By evening, they have reached the temple on the outskirts of the abandoned orc encampment. The City of the Undead is visible in the distance, surrounded by a stark obsidian wall. 
+It’s a long walk. The rain begins to clear as they pass by Eillin again, going around it instead of through it to avoid the heavy security at the border. By evening, they have reached the temple on the outskirts of the abandoned orc encampment. The City of the Dead is visible in the distance, surrounded by a stark obsidian wall. 
 
 Hanamir does a quick stealth-lap around the temple to check for any obvious traps or guards. He finds no traps, and sees that there is only one door, slightly ajar, underneath a red glass window in the shape of a crescent moon. He sneaks inside. Galadriel and Harlan approach the temple but don’t enter, listening and waiting.
 
