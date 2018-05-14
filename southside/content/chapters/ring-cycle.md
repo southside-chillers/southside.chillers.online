@@ -87,7 +87,7 @@ Meanwhile, Harlan approaches Galadriel while she is getting her bellybutton pier
 
 They rejoin Hanamir and Hermione. With her new magic supplies, Hermione performs a ritual to see what she can learn about the shimmering red gem she found in the fire. 
 
-“It’s not magical,” she says, sounding surprised. “But the inscription is indeed ancient. It says _Geril IV_ in some language I still can’t identify.”
+“It’s not magical,” she says, sounding surprised. “But the inscription is indeed ancient. It says *Geril IV* in some language I still can’t identify.”
 
 “Geril IV,” says Harlan. “Hmm. I’m not familiar with any Gerils, much less four of them.”
 
