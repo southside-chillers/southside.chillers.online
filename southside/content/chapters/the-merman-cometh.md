@@ -115,7 +115,7 @@ Hanamir throws a dart at the orc with the skin condition—it hits. A massive pu
 
 Before his skin is fully the texture of gak, Harlan gropes around for the satchel he keeps tied at his hip and finds the Bread of Eternal Hunger. He plunges his left hand into the bag, hoping for a merciful end to this torment, no matter the evil god who might grant it to him. But instead, he lets out an agonized scream.
 
-“_AUGHGHGH!_”
+*“AUGHGHGH!”*
 
 Harlan pulls away his arm from the bag to reveal a jagged stump, a handless wrist, spurting alarming quantities of blood. He collapses to the ground in a semisolid heap.
 
