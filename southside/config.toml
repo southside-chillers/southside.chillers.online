@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Southside Chillers"
 theme = "ghostwriter"
 
-
 [params]
   description = " "
   copyright = " "
