@@ -1,6 +1,6 @@
 ---
 title: "Fear and Loathing in Teron"
-date: 2018-04-06T12:00:00-04:00
+date: 2018-04-09T12:00:00-04:00
 description: "A Savage journey to the heart of the Ivrindian dream."
 chapter: 21
 ---
