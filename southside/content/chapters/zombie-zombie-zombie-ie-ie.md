@@ -363,7 +363,7 @@ Hermione casts Protection from Evil and Good on Hanamir, which doesn’t seem to
 
 At this, Tannin tackles him, and it’s enough to give Hanamir another chance to throw off the enchantment. 
 
-“Whoa,” he says. He pushes Tannin off of him before he flies into a barbarian rage out of habit. “Thanks, guys. The Lich possessed me there for a minute. He wanted me to take us to the tombs.”
+“Whoa,” he says. He pushes Tannin off of him before he can fly into a barbarian rage out of habit. “Thanks, guys. The Lich possessed me there for a minute. He wanted me to take us to the tombs.”
 
 “Okay, I have had it with this place,” says Hermione. “Let’s get out of here *right now*.”
 
