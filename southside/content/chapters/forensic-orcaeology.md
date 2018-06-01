@@ -219,13 +219,13 @@ There are words appearing in the clouds, disrupting the steady patter of the rai
 
 ...
 
-*ABERYTH?*
+*ABERITH?*
 
 "How about...in seven days?" Hanamir asks the sky.
 
 *SOUNDS GOOD*
 
-"Where in Aberyth, though?" says Harlan.
+"Where in Aberith, though?" says Harlan.
 
 No more words appear in the clouds. 
 

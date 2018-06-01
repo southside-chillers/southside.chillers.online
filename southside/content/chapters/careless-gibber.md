@@ -177,7 +177,7 @@ As they approach the outskirts of Eillin, they notice that guards are posted at 
 
 "You haven’t heard of us?" Galadriel says, miffed. "We’re local heroes."
 
-"The mayor can attest to this," says Hanamir. "As can King Slee of Aberyth." He pauses and then shouts confidently, "Send for the king!"
+"The mayor can attest to this," says Hanamir. "As can King Slee of Aberith." He pauses and then shouts confidently, "Send for the king!"
 
 "Uh, that won’t be necessary," says the guard. "But fine, if Frunk can vouch for you, come in."
 

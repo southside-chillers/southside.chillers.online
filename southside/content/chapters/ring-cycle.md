@@ -37,7 +37,7 @@ There is a long silence, punctuated by the sound of Buddy chowing down on some e
 
 Everyone stares at him with rapt attention. Hanamir normally doesn’t speak in paragraphs.
 
-“We could indeed take a more cautious path—gather our strength in greener pastures, hope that the forces of shadow and death in this place remain contained, until we are ready. But I do not believe that the cautious path, in this case, is the wise path. The Shargaasians gather strength; their evil will not stop with the destruction of my books, and neither Eillin, nor Aberyth, may long withstand whatever darkness they seek within those black walls. Time, I fear, is not an asset we can freely spend.”
+“We could indeed take a more cautious path—gather our strength in greener pastures, hope that the forces of shadow and death in this place remain contained, until we are ready. But I do not believe that the cautious path, in this case, is the wise path. The Shargaasians gather strength; their evil will not stop with the destruction of my books, and neither Eillin, nor Aberith, may long withstand whatever darkness they seek within those black walls. Time, I fear, is not an asset we can freely spend.”
 
 Drephis State has produced quite the effective public speaker. They listen on, transfixed.
 
@@ -329,7 +329,7 @@ Back in the town square, the adventurers start making their plans to leave Eilli
 
 “One more here in town… that must be Feld,” says Galadriel.
 
-“One in Aberyth, for the king,” says Hermione.
+“One in Aberith, for the king,” says Hermione.
 
 “And one beyond the wall,” says Hanamir. 
 

@@ -289,7 +289,7 @@ While he speaks, Hanamir sneaks closer to the door and starts fiddling with the 
 
 Noke doesn’t say anything. Harlan continues.
 
-“We take it to the King of Aberyth, and ensure that it is stored in a safe place, and never used by anyone again.”
+“We take it to the King of Aberith, and ensure that it is stored in a safe place, and never used by anyone again.”
 
 “No deal,” says Noke, finally. “I am nothing without the wand. I’m an old man who never learned much magic. But the wand makes me powerful. I’ll give you the tower if you let me keep the wand.”
 
