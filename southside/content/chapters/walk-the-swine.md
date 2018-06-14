@@ -241,7 +241,7 @@ They come closer, and Harlan’s face falls. H’Jun is vomiting all over the sp
 
 “Found one of those yet, big guy?” asks Hanamir. 
 
-“Not yet… a few leads, though… don’t worry,” says H’Jun. “My word is—*hic*—my bond.”
+“Not yet… a few leads, though… don’t worry,” says H’Jun. “My word is— *hic* —my bond.”
 
 “Well, mind if we go inside for a bit?” says Harlan. “Our friend here is a wizard who’s been robbed of his implements, and we’d like to see if Shinebright left anything he could use.”
 
