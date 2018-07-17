@@ -2,7 +2,7 @@
 title: "Are You There, Kord? It's Me, Harlan"
 date: 2018-05-25T12:00:00-04:00
 description: "Sometimes even the toughest heroes need a hand. Part 1 of 2."
-chapter: 26
+chapter: "26, part 1"
 ---
 
 The adventurers make their way back over the bridge to meet up with Tannin and Redyl. The two are sitting on a bench and look to be deep in an animated conversation.

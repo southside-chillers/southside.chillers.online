@@ -11,8 +11,9 @@
         {{ range $pag.Pages }}
         <li class="post-stub">
             <a href="{{ .Permalink }}">
-                <h4 class="post-stub-title">{{ .Params.chapter }}) {{ .Title }}</h4>
-                <p class="post-stub-description">{{ .Description }}</p>
+                    <h3 class="post-chapter-ordinal">{{ .Params.chapter }}</h3>
+                    <h4 class="post-stub-title">{{ .Title }}</h4>
+                    <p class="post-stub-description">{{ .Description }}</p>
             </a>
         </li>
         {{ end }}
