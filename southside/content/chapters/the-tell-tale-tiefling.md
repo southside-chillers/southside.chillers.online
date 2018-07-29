@@ -105,7 +105,7 @@ Magic does not react to this statement. She continues looking at the ground, her
 
 At this point, Hanamir slips away from the group. He doesn’t have much to say to Magic that the others won’t cover. He figures it’d be wise to get a read on their situation, especially as far as the guards outside are concerned.
 
-Hanamir tiptoes to the door and places an ear to it. He can hear the guards chatting with one another, but they are far enough away that he can’t understand their conversation. Good, he thinks. He uses a piece of scrap metal to bar the door. He then walks the interior perimeter of the warehouse and discovers another door on the opposite side of the building. Good, he thinks again. 
+Hanamir tiptoes to the door and places an ear to it. He can hear the guards chatting with one another, but they are far enough away that he can’t understand their conversation. *Good*, he thinks. He uses a piece of scrap metal to bar the door. He then walks the interior perimeter of the warehouse and discovers another door on the opposite side of the building. *Good*, he thinks again. 
 
 He returns to the center of the warehouse, where it seems Harlan, Galadriel, and Hermione are still cajoling Magic to talk about Bryn’s murder. Tannin has become distracted by an oily puddle of water next to them and is staging battles between iridescent water-dwarves and water-giants.
 
@@ -241,7 +241,7 @@ Galadriel dusts herself off and walks back to where Magic sits, shackled and tre
 
 “Magic, we are your friends. But we can’t help you if you won’t be honest with us. You need to tell us the full truth of what happened with Bryn,” she says, in the most feather-soft voice she can summon.
 
-Magic holds her hands over her lips, eyes wide. She looks to be deep an internal struggle. She tries stuffing her own fist in her mouth, without success, before screaming,
+Magic holds her hands over her lips, eyes wide. She looks to be deep in an internal struggle. She tries stuffing her own fist in her mouth, without success, before screaming,
 
 “I KILLED HIM! I DID IT! I DIDN’T MEAN TO, BUT I KILLED HIM! ... I DON’T KNOW WHY I’M SHOUTING!”
 
