@@ -67,7 +67,7 @@ Hanamir’s fist appears out of the haze and connects with the guard’s jaw. Th
 
 Another guard pops out into the hallway to back up his friend and is immediately hit in the face with a splash of water from Tannin’s flask. As he sputters and spits, Tannin freezes the water on his face. His eyelids are frozen shut and his nose and mouth are covered in icicles.
 
-“It’s ice to meet you!” says Tannin. He chuckles at his own pun while the ice-faced guard punches himself in the mouth to break a hole in the ice that is large enough to breathe through. 
+“It’s *ice* to meet you!” says Tannin. He chuckles at his own pun while the ice-faced guard punches himself in the mouth to break a hole in the ice that is large enough to breathe through.
 
 Hermione doesn’t wait for another guard to leave the room. She shoots Magic Missiles directly inside, not entirely able to aim at anyone in particular through the smoke. She hears the sound of at least one missile hitting someone. And then another guard—maybe the one who had originally detained Galadriel, but maybe someone entirely new—gets a punch in the gut from Harlan.
 
