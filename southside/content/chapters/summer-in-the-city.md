@@ -83,7 +83,7 @@ Hermione watches as he then copies this same text over twice, separates the thre
 
 “Be right back,” he whispers, and slips away toward the stacks. He and the librarian then have an animated but essentially silent conversation resulting in Hanamir handing over the other two copies of his letter, and the two of them shaking hands warmly.
 
-Hermione turns back to her pile of books. Ixquichpehua: History and Myth is the one she’s starting with. A quick glance at the table of contents gives her the beginnings of a headache.
+Hermione turns back to her pile of books. *Ixquichpehua: History and Myth* is the one she’s starting with. A quick glance at the table of contents gives her the beginnings of a headache.
 
 *Part I: A Magical Empire*
 
