@@ -35,7 +35,7 @@ The first item is infinitely more important than the second, and it’s why she 
 
 “Here you go,” says the clerk, pulling a dank-smelling volume from a shelf.
 
-“Thank you,” says Galadriel. She waits for the clerk to leave before even glancing at the book’s spine. Heroique Soldieres of Aberythe’s Past. Promising!
+“Thank you,” says Galadriel. She waits for the clerk to leave before even glancing at the book’s spine. *Heroique Soldieres of Aberythe’s Past*. Promising!
 
 *TORPLETON, Greggorye. Knowne to friends as “Old Gregg.” Thys valiante soldiere fought for the Crowne of Aberythe under Her Majestye Resia II. During the Battle of Twelve Swordes, he led a party of humans against undead hordes at the Hillock Graves & vanquished the hideouse foes & lost but three of his owne soldieres. Afterward, the TORPLETONS pursued a quiette life of farminge to the west of the Elven City Ang’Svin.*
 
@@ -88,13 +88,19 @@ Hermione turns back to her pile of books. Ixquichpehua: History and Myth is the 
 *Part I: A Magical Empire*
 
 *The Worship of Animal Gods, p. 1*
+
 *Cursed Shrines, Enchanted Treasures, p. 56*
+
 *A Legacy of Eternal Torment, p. 94*
+
+
 
 *Part II: Modern Exploration*
 
 *A Short List of Failed Voyages, p. 125*
+
 *Known Traps, p. 151*
+
 *Vengeful Guardians, p. 233*
 
 She wonders if any of the other books might be a little more encouraging in their content. But their titles, if possible, sound worse:
