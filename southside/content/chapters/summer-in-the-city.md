@@ -25,8 +25,9 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 Galadriel has three items on her to-do list for her free time in Aberith:
 
-Look up any records on her father, a human named Jeff “Bubba” Torpleton
-Find a short-term gig
+1. Look up any records on her father, a human named Jeff “Bubba” Torpleton
+
+2. Find a short-term gig
 
 The first item is infinitely more important than the second, and it’s why she hasn’t mentioned it to her friends even once. In the sweltering heat of the early afternoon, she walks to the Hall of Public Records on the southern waterfront. A clerk, wearing thick spectacles and an unflattering dress made of something like burlap, handles her request.
 
@@ -34,7 +35,7 @@ The first item is infinitely more important than the second, and it’s why she 
 
 “Here you go,” says the clerk, pulling a dank-smelling volume from a shelf.
 
-“Thank you,” says Galadriel. She waits for the clerk to leave before even glancing at the book’s spine. Heroique Soldieres of Aberythe’s Past. Promising!
+“Thank you,” says Galadriel. She waits for the clerk to leave before even glancing at the book’s spine. *Heroique Soldieres of Aberythe’s Past*. Promising!
 
 *TORPLETON, Greggorye. Knowne to friends as “Old Gregg.” Thys valiante soldiere fought for the Crowne of Aberythe under Her Majestye Resia II. During the Battle of Twelve Swordes, he led a party of humans against undead hordes at the Hillock Graves & vanquished the hideouse foes & lost but three of his owne soldieres. Afterward, the TORPLETONS pursued a quiette life of farminge to the west of the Elven City Ang’Svin.*
 
@@ -87,19 +88,27 @@ Hermione turns back to her pile of books. Ixquichpehua: History and Myth is the 
 *Part I: A Magical Empire*
 
 *The Worship of Animal Gods, p. 1*
+
 *Cursed Shrines, Enchanted Treasures, p. 56*
+
 *A Legacy of Eternal Torment, p. 94*
+
+
 
 *Part II: Modern Exploration*
 
 *A Short List of Failed Voyages, p. 125*
+
 *Known Traps, p. 151*
+
 *Vengeful Guardians, p. 233*
 
 She wonders if any of the other books might be a little more encouraging in their content. But their titles, if possible, sound worse:
 
 *Divine Electrocution: The Eel God of Ixquichpehua*
+
 *Buried Alive: Greed and the Search for Ixquichpehua’s Forbidden Treasures*
+
 *It’s Just Not Worth It: The Case for Leaving the Northern Ruins Alone*
 
 She decides to save those for later.
