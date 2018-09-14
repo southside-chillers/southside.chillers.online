@@ -106,7 +106,9 @@ Hermione turns back to her pile of books. Ixquichpehua: History and Myth is the 
 She wonders if any of the other books might be a little more encouraging in their content. But their titles, if possible, sound worse:
 
 *Divine Electrocution: The Eel God of Ixquichpehua*
+
 *Buried Alive: Greed and the Search for Ixquichpehua’s Forbidden Treasures*
+
 *It’s Just Not Worth It: The Case for Leaving the Northern Ruins Alone*
 
 She decides to save those for later.
