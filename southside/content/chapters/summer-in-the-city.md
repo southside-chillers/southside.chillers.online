@@ -23,7 +23,7 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 ---
 
-Galadriel has three items on her to-do list for her free time in Aberith:
+Galadriel has two items on her to-do list for her free time in Aberith:
 
 1. Look up any records on her father, a human named Jeff “Bubba” Torpleton
 
