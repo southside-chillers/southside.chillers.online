@@ -25,8 +25,9 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 Galadriel has three items on her to-do list for her free time in Aberith:
 
-Look up any records on her father, a human named Jeff “Bubba” Torpleton
-Find a short-term gig
+1. Look up any records on her father, a human named Jeff “Bubba” Torpleton
+
+2. Find a short-term gig
 
 The first item is infinitely more important than the second, and it’s why she hasn’t mentioned it to her friends even once. In the sweltering heat of the early afternoon, she walks to the Hall of Public Records on the southern waterfront. A clerk, wearing thick spectacles and an unflattering dress made of something like burlap, handles her request.
 
