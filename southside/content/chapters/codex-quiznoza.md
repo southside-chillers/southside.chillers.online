@@ -1,7 +1,7 @@
 ---
 title: "Codex Quiznoza"
 date: 2018-08-03T12:00:00-04:00
-description: "Grab the Old Bay--it's a dungeon-ous crab."
+description: "Grab the Old Bay—it's a dungeon-ous crab."
 chapter: 30
 ---
 
@@ -91,7 +91,7 @@ He casts Detect Magic. The figurines all emit the telltale golden glow of transm
 
 He misses catching it on the next flip, and the clay warrior shatters on the floor. 
 
-“Whoops,” he says. From the shards of clay, a full-size human warrior with a spear, wearing an animal skull on his head. He moves his mouth as if he’s speaking, but no one can hear a sound. 
+“Whoops,” he says. A full-size human warrior materializes, holding a spear and wearing an animal skull headdress. He moves his mouth as if he’s speaking, but no one can hear a sound. 
 
 The warrior stabs the air with his spear, making Tannin jump out of the way. 
 
