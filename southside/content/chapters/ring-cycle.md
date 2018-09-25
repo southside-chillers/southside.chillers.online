@@ -1,9 +1,9 @@
----
-title: "Ring Cycle"
-date: 2018-03-06T08:50:29-04:00
-description: "Acquiring jewelry to stave off apocalypse: a fantasy staple. But is this the real life, or is it just fantasy?"
-chapter: 18
----
+{
+    "chapter": 18,
+    "date": "2018-03-06T08:50:29-04:00",
+    "description": "Acquiring jewelry to stave off apocalypse: a fantasy staple. But is this the real life, or is it just fantasy?",
+    "title": "Ring Cycle"
+}
 
 The early morning sun streams through the windows of the inn above Fleck’s Tavern. The adventurers have had a long rest, and with it, plenty of time to consider the 75% negative opinion of Kord on the topic of entering the City of the Dead. 
 
@@ -13,7 +13,7 @@ They gather in the room shared by Hermione, Galadriel, and Buddy. Harlan has ord
 
 “Aw, shucks, ma’am,” says Fleck, glittering. He bows and leaves the room.
 
-Everyone digs in except for Hanamir, who sips his tea and looks somehow even more contemplative than usual.
+Everyone digs in except for [Hanamir](/characters/hanamir/), who sips his tea and looks somehow even more contemplative than usual.
 
 “It’s so nice to be back in a town with some elven population!” Hermione sighs. “A freshly toasted elf bagel with elf butter and elf jelly… what a delight, after nothing but orc rations!”
 

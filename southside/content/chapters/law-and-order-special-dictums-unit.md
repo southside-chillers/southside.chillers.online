@@ -1,9 +1,9 @@
----
-title: "Law and Order: Special Dictums Unit"
-date: 2018-06-22T12:00:00-04:00
-description: "In the High Council of Aberith, betrayals are considered especially heinous."
-chapter: 28
----
+{
+    "chapter": 28,
+    "date": "2018-06-22T12:00:00-04:00",
+    "description": "In the High Council of Aberith, betrayals are considered especially heinous.",
+    "title": "Law and Order: Special Dictums Unit"
+}
 
 Tannin, Hermione, and Harlan sit in the empty council chamber. Even whispering, their voices echo off the glossy marble.
 
@@ -15,7 +15,7 @@ Tannin, Hermione, and Harlan sit in the empty council chamber. Even whispering, 
 
 A goateed man holding a tall silver staff appears in the doorway.
 
-“Guests of the king, you may take your seats,” he says grandly, and bows with a flourish. From behind him, Hanamir and Galadriel appear, looking well-rested and eager to catch up. They slide into the row just behind Tannin, Hermione, and Harlan.
+“Guests of the king, you may take your seats,” he says grandly, and bows with a flourish. From behind him, [Hanamir](/characters/hanamir/) and Galadriel appear, looking well-rested and eager to catch up. They slide into the row just behind Tannin, Hermione, and Harlan.
 
 “How did it go with the Minister of the Sea?” whispers Hanamir.
 

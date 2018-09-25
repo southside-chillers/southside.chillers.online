@@ -1,15 +1,15 @@
----
-title: "Porcine Comity"
-date: 2017-10-23T12:01:31-04:00
-description: "Discoveries with unforeseen consequences, and a new friend?"
-chapter: 4
----
+{
+    "chapter": 4,
+    "date": "2017-10-23T12:01:31-04:00",
+    "description": "Discoveries with unforeseen consequences, and a new friend?",
+    "title": "Porcine Comity"
+}
 
 After their night's rest, each member of the party finds that their dreams have come true! They all feel _amazing_ — not only well-rested, but measurably more proficient at a variety of skills important to them.
 
 They decide to hit up the marketplace in town to do a little shopping, since they're in such a great mood. Tannin decides he needs a new portable ram. His old one, he feels, is unlucky, and he spies a particularly gorgeous one that he simply must have. He doesn't have the gold for it, but the seller makes him a deal: if Tannin will run a series of grueling errands for him, the ram is his. Tannin agrees. He gives the party the red glass from the temple and goes on his way.
 
-Harlan has a hankering for a good bargain. He strikes up a conversation with another shopkeeper and purchases a magic orb that, when wielded, allows him to cast a cantrip of poison spray. He also buys a set of one thousand ball-bearings, which he gifts to Hanamir, just 'cause he's feeling generous. He inspects a ring inscribed with a "B." It's a little too pricey, however, so he leaves it alone.
+Harlan has a hankering for a good bargain. He strikes up a conversation with another shopkeeper and purchases a magic orb that, when wielded, allows him to cast a cantrip of poison spray. He also buys a set of one thousand ball-bearings, which he gifts to [Hanamir](/characters/hanamir/), just 'cause he's feeling generous. He inspects a ring inscribed with a "B." It's a little too pricey, however, so he leaves it alone.
 
 Harlan, Hanamir, and Galadriel make their way back to Bryn's observatory to deliver the red glass. Bryn looks frazzled and sleep-deprived, but he's very excited to receive the glass. He says he'll get started right away on his machine, but it will take him 3 or 4 hours to complete it. 
 

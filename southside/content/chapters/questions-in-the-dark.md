@@ -1,9 +1,9 @@
----
-title: "Questions in the Dark"
-date: 2017-12-14T18:32:45-04:00
-description: "The Chillers stealthily ascend...into danger."
-chapter: 10
----
+{
+    "chapter": 10,
+    "date": "2017-12-14T18:32:45-04:00",
+    "description": "The Chillers stealthily ascend...into danger.",
+    "title": "Questions in the Dark"
+}
 
 **INT. LOLTH TOWER -- NIGHT**
 
@@ -11,7 +11,7 @@ The body of a wyrmling dragon lies dead on the stone floor, The remains of a dea
 
 **Orc**: When are you going to let me out of here?!
 
-**Hanamir**: What do you think? Should we rest, or talk to the orc?
+**[Hanamir](/characters/hanamir/)**: What do you think? Should we rest, or talk to the orc?
 
 **Harlan**: We should talk to the orc first and then deal with the priest upstairs.
 

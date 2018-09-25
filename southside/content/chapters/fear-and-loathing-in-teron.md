@@ -1,9 +1,9 @@
----
-title: "Fear and Loathing in Teron"
-date: 2018-04-09T12:00:00-04:00
-description: "A Savage journey to the heart of the Ivrindian dream."
-chapter: 21
----
+{
+    "chapter": 21,
+    "date": "2018-04-09T12:00:00-04:00",
+    "description": "A Savage journey to the heart of the Ivrindian dream.",
+    "title": "Fear and Loathing in Teron"
+}
 
 “So… how’d your meeting go?” asks Tannin. He blocks Khargol’s blood-spattered path through the anteroom.
 
@@ -25,7 +25,7 @@ chapter: 21
 
 “Not the king!” says Khargol, struggling against the web. “I don’t know what it was. Seriously? Come on!”
 
-“How many arms would you say this paladin had?” Hanamir asks without looking up as he begins picking the lock on his shackles. 
+“How many arms would you say this paladin had?” [Hanamir](/characters/hanamir/) asks without looking up as he begins picking the lock on his shackles. 
 
 “He only had one arm,” says Khargol. “How did you know?”
 

@@ -1,14 +1,14 @@
----
-title: "A Silken Kord"
-date: 2017-11-17T13:11:44-04:00
-description: "Divine wisdom, and entry to a dark tower."
-chapter: 7
----
+{
+    "chapter": 7,
+    "date": "2017-11-17T13:11:44-04:00",
+    "description": "Divine wisdom, and entry to a dark tower.",
+    "title": "A Silken Kord"
+}
 The giant spider blinks its uncountable eyes. Two swarms of tiny spiders flank it on either side, waiting for a signal to attack. Galadriel takes a step back. Will the gauntlet of Lolth prevent her from fighting? Or worse: will it cause her to turn against her friends? She feels an unnatural bond with the smaller spiders, but no such tenderness for the monstrous blue creature. This, at least, is a hopeful sign.
 
 Tannin and Harlan charge forward at the spider and batter its shimmering hide with axe and maul. Harlan dodges a retaliatory attack from the spider, and, as if embarrassed, it disappears into thin air. Alas! It appears the adventurers are in battle with a _phase spider_.
 
-Meanwhile, Hanamir is using his fists to smash as many small spiders as he can. He leaves one swarm badly depleted. Galadriel is still hesitant about joining the fray lest she become an unwilling ally of the spiders. She decides to help indirectly by casting Faerie Fire on the second swarm of spiders and endowing Hanamir with Bardic Inspiration as he continues crushing critters right and left.
+Meanwhile, [Hanamir](/characters/hanamir/) is using his fists to smash as many small spiders as he can. He leaves one swarm badly depleted. Galadriel is still hesitant about joining the fray lest she become an unwilling ally of the spiders. She decides to help indirectly by casting Faerie Fire on the second swarm of spiders and endowing Hanamir with Bardic Inspiration as he continues crushing critters right and left.
 
 Tannin develops a brutally effective attack against the swarms: the “axe blender.” Spider limbs fly in all directions from his spinning blade. Harlan reduces a number of spiders to a paste with his hammer. But in a flash of blue, the phase spider reappears and bites Harlan. He is poisoned to within an inch of death, and falls to the ground, unconscious.
 

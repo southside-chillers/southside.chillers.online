@@ -1,15 +1,15 @@
----
-title: "Walk the Swine"
-date: 2018-05-02T12:00:00-04:00
-description: "A man-at-arms disarmed, a gnome far from home, and a hog dialogue."
-chapter: 23
----
+{
+    "chapter": 23,
+    "date": "2018-05-02T12:00:00-04:00",
+    "description": "A man-at-arms disarmed, a gnome far from home, and a hog dialogue.",
+    "title": "Walk the Swine"
+}
 
 The adventurers hesitate. The speaking skeleton walks closer.
 
 “There’s no need to depart so hastily,” it continues. “Why not stay a little longer?”
 
-Tannin and Hanamir glance at each other and ready their weapons. But as they prepare to charge, a bolt of lightning connects with the ground beneath the group of skeletons, illuminating their bones for a fraction of a second, then exploding them. When the dust clears, only four skeletons remain standing.
+Tannin and [Hanamir](/characters/hanamir/) glance at each other and ready their weapons. But as they prepare to charge, a bolt of lightning connects with the ground beneath the group of skeletons, illuminating their bones for a fraction of a second, then exploding them. When the dust clears, only four skeletons remain standing.
 
 “Kord be praised!” comes Harlan’s voice from above, on the back of the giant bat. His lone hand, still crackling with electricity, is raised in blessing. (Galadriel makes a mental note that this tableau should be the cover art for the metal album she will one day compose about this very adventure.)
 

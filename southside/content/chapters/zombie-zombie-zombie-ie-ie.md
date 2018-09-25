@@ -1,9 +1,9 @@
----
-title: "Zombie! Zombie! Zombie!-ie!-ie!"
-date: 2018-04-27T12:00:00-04:00
-description: "What's in your head? Mind games abound in the City of the Dead."
-chapter: 22
----
+{
+    "chapter": 22,
+    "date": "2018-04-27T12:00:00-04:00",
+    "description": "What's in your head? Mind games abound in the City of the Dead.",
+    "title": "Zombie! Zombie! Zombie!-ie!-ie!"
+}
 
 During the night, Harlan has a dream.
 
@@ -15,7 +15,7 @@ He wakes up, heart pounding, to the eerie silence of the inn. He struggles to sh
 
 “Thanks, man,” whispers Tannin as they trade places. “He hasn’t come out yet.” Tannin glances down at the bear trap a little ruefully.
 
-Across the hall, Hanamir sleeps on his back, straight as a board, tightly tucked into his blankets. His face is perfectly neutral. You might not be able to tell by looking at him that he’s deep in a dream about his favorite place in the world, Drephis State.
+Across the hall, [Hanamir](/characters/hanamir/) sleeps on his back, straight as a board, tightly tucked into his blankets. His face is perfectly neutral. You might not be able to tell by looking at him that he’s deep in a dream about his favorite place in the world, Drephis State.
 
 He is finally home! And he has restored the missing library books—and then some. The library is now the pride of the school, and it’s all thanks to Hanamir’s dedication and diligence. The student body names a school holiday for him. After a long day of receiving thanks and praise from his colleagues, Hanamir retires to the library for his usual pre-bedtime book inventory check. Nothing brings him more satisfaction than seeing all his books in their proper place, neatly organized and cared for. But out of the corner of his eye, he spots a terrifying figure in blood red robes. It clutches a black book bearing a demonic seal. Upon detection, the creature makes eye contact with Hanamir for a split second. He wakes up, bolting upright out of bed.
 

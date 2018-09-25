@@ -1,9 +1,9 @@
----
-title: "Codex Quiznoza"
-date: 2018-08-03T12:00:00-04:00
-description: "Grab the Old Bay—it's a dungeon-ous crab."
-chapter: 30
----
+{
+    "chapter": 30,
+    "date": "2018-08-03T12:00:00-04:00",
+    "description": "Grab the Old Bay—it's a dungeon-ous crab.",
+    "title": "Codex Quiznoza"
+}
 
 The sky is marbled with clouds the color of smoke. Above the ship, a lone seagull grows tired of circling the mast. It lands on the deck near Magic and Hermione.
 
@@ -33,7 +33,7 @@ They watch as the expression on Magic’s face changes abruptly from fear to ecs
 
 “I see it!” she says, grabbing Hermione by the arm. “I can see the towers!”
 
-Harlan, Tannin, and Hanamir look up from their contentious game of Drephis Hold’em. The horizon ahead is indeed marked by several tall smudges, which they suppose must be the aforementioned towers. It’ll be awhile before it starts to look exciting, they realize, and turn back to their game.
+Harlan, Tannin, and [Hanamir](/characters/hanamir/) look up from their contentious game of Drephis Hold’em. The horizon ahead is indeed marked by several tall smudges, which they suppose must be the aforementioned towers. It’ll be awhile before it starts to look exciting, they realize, and turn back to their game.
 
 But Magic’s excitement soon turns from cute to creepy. The Amber Guardsmen who are crewing the ship watch her nervously.
 

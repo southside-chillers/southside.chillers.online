@@ -1,15 +1,15 @@
----
-title: "Neophytes, Big City"
-date: 2018-05-17T12:00:00-04:00
-description: "What's a mob to a king? What's a king to a god? What's a god to a non-believer?"
-chapter: 25
----
+{
+    "chapter": 25,
+    "date": "2018-05-17T12:00:00-04:00",
+    "description": "What's a mob to a king? What's a king to a god? What's a god to a non-believer?",
+    "title": "Neophytes, Big City"
+}
 
 The next day, the road to Aberith becomes gritty with sand. The adventurers can hear the sound of seagulls in the distance, but the ocean is still out of sight. They have reached the edge of a coastal farming town in the grassy lowlands. A few hulking, horned creatures can be seen grazing to the side of their path. 
 
 “I can’t tell if that barn up ahead is oversized, or if I’m just feeling insignificant,” says Harlan, squinting.
 
-“Oversized, I think,” says Hanamir. “For scale, I spy a certain blue-haired elf.”
+“Oversized, I think,” says [Hanamir](/characters/hanamir/). “For scale, I spy a certain blue-haired elf.”
 
 He’s right: emerging beside the barn, Hermione is pacing in a circle, scribbling notes in her logbook with characteristic intensity. When they are close enough to her to get her attention, she looks up and smiles.
 

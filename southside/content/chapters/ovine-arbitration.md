@@ -1,13 +1,13 @@
----
-title: "Ovine Arbitration"
-date: 2018-02-06T21:32:00-04:00
-description: "Sad tidings, and a ruminant client."
-chapter: 14
----
+{
+    "chapter": 14,
+    "date": "2018-02-06T21:32:00-04:00",
+    "description": "Sad tidings, and a ruminant client.",
+    "title": "Ovine Arbitration"
+}
 
 “Adventurers? Open up!” the voice of Frunk Thunderstruck can be heard through the door of their room. He knocks forcefully. “It’s an emergency!”
 
-Hanamir leaps to the doorway like an elegant-but-burly gazelle and opens it. 
+[Hanamir](/characters/hanamir/) leaps to the doorway like an elegant-but-burly gazelle and opens it. 
 
 “Mayor Frunk,” he says. “We just heard about Bryn.” His voice is solemn.
 
