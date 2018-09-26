@@ -1,9 +1,9 @@
----
-title: "The Tell-Tale Tiefling"
-date: 2018-05-25T13:00:00-04:00
-description: "What's a little murder between friends?"
-chapter: "26: Part II"
----
+{
+    "chapter": "26: Part II",
+    "date": "2018-05-25T13:00:00-04:00",
+    "description": "What's a little murder between friends?",
+    "title": "The Tell-Tale Tiefling"
+}
 
 The adventurers run toward the rising chorus of shrieks and bellows. At the center of the chaos is a tiefling, who seems to be growing—a pair of horns now seven feet, eight feet, nine feet in the air, and a pair of shoulders ripping through a too-small cloak.
 
@@ -15,7 +15,7 @@ The adventurers get close enough to catch a glimpse of the tiefling’s face, wh
 
 “She looks afraid,” says Hermione.
 
-“I don’t think she planned this,” says Hanamir. “She was trying to stay incognito.”
+“I don’t think she planned this,” says [Hanamir](/characters/hanamir/). “She was trying to stay incognito.”
 
 They reach the back of the crowd. Harlan casts Thaumaturgy.
 

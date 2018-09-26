@@ -1,9 +1,9 @@
----
-title: "Rockabout"
-date: 2018-05-07T12:00:00-04:00
-description: "Crikey! A petrifying foe, and two new mates from down Underdark who want no rules—just rights."
-chapter: 24
----
+{
+    "chapter": 24,
+    "date": "2018-05-07T12:00:00-04:00",
+    "description": "Crikey! A petrifying foe, and two new mates from down Underdark who want no rules—just rights.",
+    "title": "Rockabout"
+}
 
 As a young elf, Hermione suffered frequently from nightmares. It’s not that she was afraid of the *dark*, she would always explain. She was afraid of what might be *hiding* in the dark. It’s part of how she became interested in thaumazoology, in fact. 
 
@@ -25,7 +25,7 @@ The other adventurers awaken abruptly to the sound of Tannin’s voice reading i
 
 “Forgot,” shrugs Tannin. He drops the note on the ground. “Come on, guys, the sun’s almost done rising. Let’s go.”
 
-Hanamir, Redyl, and the Savage find this call-to-action persuasive. Harlan seems to be considering it. Galadriel dissents.
+[Hanamir](/characters/hanamir/), Redyl, and the Savage find this call-to-action persuasive. Harlan seems to be considering it. Galadriel dissents.
 
 After a few minutes, though, even she cannot remain asleep amidst the high-pitched shrieking noises produced by Harlan’s bat.
 

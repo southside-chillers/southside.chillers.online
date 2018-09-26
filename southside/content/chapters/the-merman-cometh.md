@@ -1,13 +1,13 @@
----
-title: "The Merman Cometh"
-date: 2018-03-23T08:25:38-04:00
-description: "Like its titular returning hero, this chapter is both violent and short."
-chapter: 19
----
+{
+    "chapter": 19,
+    "date": "2018-03-23T08:25:38-04:00",
+    "description": "Like its titular returning hero, this chapter is both violent and short.",
+    "title": "The Merman Cometh"
+}
 
 Harlan joins Hermione at the window. 
 
-“One of them is shouting orders,” he whispers to Hanamir and Galadriel, who are drawing their weapons. “Can’t understand him, but it looks like he’s telling them to fan out. I don’t think they know anyone’s in here.”
+“One of them is shouting orders,” he whispers to [Hanamir](/characters/hanamir/) and Galadriel, who are drawing their weapons. “Can’t understand him, but it looks like he’s telling them to fan out. I don’t think they know anyone’s in here.”
 
 “Care to take advantage of that?” says Hanamir.
 

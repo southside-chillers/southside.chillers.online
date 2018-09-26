@@ -1,15 +1,15 @@
----
-title: "The Annunciation of Chanto"
-date: 2017-10-21T10:13:34-04:00
-description: "A confrontation with sinister forces in a holy place."
-chapter: 3
----
+{
+    "chapter": 3,
+    "date": "2017-10-21T10:13:34-04:00",
+    "description": "A confrontation with sinister forces in a holy place.",
+    "title": "The Annunciation of Chanto"
+}
 
 We left our heroes on a terrifying cliffhanger. While Harlan and Tannin face a shower of arrows from above the temple, Galadriel has been taken hostage by four orc cultists and a vicious bugbear within. The temple attendants have been brutally murdered.
 
 Tannin, in a barbarian rage, breaks down the temple door with his portable ram. Battle commences, but it’s a weird one: there’s a lot of swinging at each other and missing. The two cultists in front come at Harlan and Tannin with scimitars and whiff the air. Tannin hits one with his battle axe and Harlan finishes the job with his orcish maul. 
 
-Out of nowhere, our most pond-resembling compatriot, Hanamir, emerges from his hiding place and frees Galadriel from the bugbear. He then strikes at the bugbear and misses; Galadriel, thrilled to be rescued, takes a swipe at the bugbear’s exposed thigh with her rapier and hits. The bugbear retaliates with a swing of his deadly morning star and deals considerable damage to both Hanamir and Galadriel. 
+Out of nowhere, our most pond-resembling compatriot, [Hanamir](/characters/hanamir/), emerges from his hiding place and frees Galadriel from the bugbear. He then strikes at the bugbear and misses; Galadriel, thrilled to be rescued, takes a swipe at the bugbear’s exposed thigh with her rapier and hits. The bugbear retaliates with a swing of his deadly morning star and deals considerable damage to both Hanamir and Galadriel. 
 
 Meanwhile, Tannin and Harlan battle the second and third cultists at the front of the temple. There’s more swinging and missing, and the fourth cultist rushes to the front to join the fray. Tannin succeeds in killing the second one with his battle axe. The third cultist mysteriously sacrifices himself while the fourth starts chanting and shrouds himself in flames—alas! A mage! 
 

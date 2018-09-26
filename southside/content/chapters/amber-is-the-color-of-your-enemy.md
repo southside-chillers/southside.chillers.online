@@ -1,11 +1,11 @@
----
-title: "Amber Is the Color of Your Enemy"
-date: 2018-06-04T12:00:00-04:00
-description: "A jailbreak, a scuffle, and two appeals to authority."
-chapter: 27
----
+{
+    "chapter": 27,
+    "date": "2018-06-04T12:00:00-04:00",
+    "description": "A jailbreak, a scuffle, and two appeals to authority.",
+    "title": "Amber Is the Color of Your Enemy"
+}
 
-Hanamir has always been quiet, and that fact never fails to surprise people. At first glance, all anyone sees is “half-orc”—and the reality of mixed orc parentage is typically met with either disgust or pity. Regardless, before he says a word, he’s assumed to be violent. Troubled. Aggressive.
+[Hanamir](/characters/hanamir/) has always been quiet, and that fact never fails to surprise people. At first glance, all anyone sees is “half-orc”—and the reality of mixed orc parentage is typically met with either disgust or pity. Regardless, before he says a word, he’s assumed to be violent. Troubled. Aggressive.
 
 He learned long ago that the best defense against this assumption is to be the very quietest one; he must carry himself with the lightest step and the gentlest demeanor. It helps set people at ease. Even the students and faculty at Drephis State, who are proud of their worldliness, need to be reassured that the half-orc librarian won’t rip their throats out if they return a book past its due date. And sometimes, Hanamir thinks, it’s easiest if they just don’t notice he’s there at all.
 

@@ -1,9 +1,9 @@
----
-title: "Summer in the City"
-date: 2018-07-01T12:00:00-04:00
-description: "It's a pity that the days can't be like the nights in the summer in the city."
-chapter: 29
----
+{
+    "chapter": 29,
+    "date": "2018-07-01T12:00:00-04:00",
+    "description": "It's a pity that the days can't be like the nights in the summer in the city.",
+    "title": "Summer in the City"
+}
 
 The Half-Full Flagon is quite empty during the day. Its only occupant is a man with an unkempt beard who sits slumped behind the bar, snoring softly. The bell on the door isn’t enough to rouse him when the adventurers come in, but this does not discourage Tannin.
 
@@ -17,7 +17,7 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 “We do have a few weeks, according to the king,” says Galadriel. “You know, for a port city, it takes them a long time to charter a ship.”
 
-“Unless it’s being done in the dead of night to make prisoners disappear,” notes Hanamir. 
+“Unless it’s being done in the dead of night to make prisoners disappear,” notes [Hanamir](/characters/hanamir/). 
 
 “No takers? Really?” says Tannin, as the bartender sets down his ale. He then chugs the entire pint in one go. To an outside observer, this might be impressive, but the adventurers watch him without comment. “Fine. Do what you want. I have plans of my own.”
 

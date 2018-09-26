@@ -1,9 +1,9 @@
----
-title: "Moonlight Sonata"
-date: 2018-01-30T21:19:46-04:00
-description: "A lunar interlude, and a hero's welcome...but peril never sleeps."
-chapter: 13
----
+{
+    "chapter": 13,
+    "date": "2018-01-30T21:19:46-04:00",
+    "description": "A lunar interlude, and a hero's welcome...but peril never sleeps.",
+    "title": "Moonlight Sonata"
+}
 
 “Welcome back,” whispers Galadriel. Buddy is now napping in her lap, and she strokes his head. “That was a dramatic finale to our quest, wasn’t it?” 
 
@@ -11,7 +11,7 @@ Buddy oinks a little in his sleep, and she looks down at him with pure adoration
 
 “I bet you’re wondering how dope this party is going to be,” says Galadriel. “Don’t worry. You’ll find out soon. We rejoin our heroes back at the top of the tower, looking at three mysterious curtains.”
 
-You see in the flashback window that Hanamir is perusing the Big Book of Planes that Gruumsh gave him. 
+You see in the flashback window that [Hanamir](/characters/hanamir/) is perusing the Big Book of Planes that Gruumsh gave him. 
 
 ---
 

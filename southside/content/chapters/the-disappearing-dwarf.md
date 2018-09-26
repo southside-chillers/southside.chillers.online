@@ -1,9 +1,9 @@
----
-title: "The Disappearing Dwarf"
-date: 2018-01-08T21:28:04-04:00
-description: "Our heroes once more become a triad."
-chapter: 11
----
+{
+    "chapter": 11,
+    "date": "2018-01-08T21:28:04-04:00",
+    "description": "Our heroes once more become a triad.",
+    "title": "The Disappearing Dwarf"
+}
 Galadriel is tuning her lute. She looks up.
 
 “Oh! Lolth’s legs!” 
@@ -22,7 +22,7 @@ She conjures a wavy flashback border before your eyes and begins to strum her lu
 
 ---
 
-The wavy flashback border expands, and within it you see Hanamir, Harlan, Tannin, and Galadriel in the dining hall, each inspecting their new treasures. Tannin puts on his sick new chunky gold chain necklace and brandishes his trident. Harlan stares sullenly at his burlap sack full of copper pieces. The smell of that exquisite pot roast is in the air.  
+The wavy flashback border expands, and within it you see [Hanamir](/characters/hanamir/), Harlan, Tannin, and Galadriel in the dining hall, each inspecting their new treasures. Tannin puts on his sick new chunky gold chain necklace and brandishes his trident. Harlan stares sullenly at his burlap sack full of copper pieces. The smell of that exquisite pot roast is in the air.  
 
 “Hello?” comes a voice from down the hall. 
 

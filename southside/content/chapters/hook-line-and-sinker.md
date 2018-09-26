@@ -1,13 +1,13 @@
----
-title: "Hook, Line and Sinker"
-date: 2017-12-07T19:21:41-04:00
-description: "A battle of wits...and wyrms."
-chapter: 9
----
+{
+    "chapter": 9,
+    "date": "2017-12-07T19:21:41-04:00",
+    "description": "A battle of wits...and wyrms.",
+    "title": "Hook, Line and Sinker"
+}
 
 Chaos reigns in the stone arena. The sound of the newly-amputee Savage’s struggle with the Death Slaad from within the fog does not inspire confidence. The Wyrmling lets out a furious roar as it hits the water. 
  
-“Hanamir!” the party cries in unison, dreading the horrible sound of dragon jaws ripping through armor like so much metal cotton candy. But all they hear, for now, is splashing.
+“[Hanamir](/characters/hanamir/)!” the party cries in unison, dreading the horrible sound of dragon jaws ripping through armor like so much metal cotton candy. But all they hear, for now, is splashing.
  
 Each non-submerged member of the party leaps into action in a different direction. Tannin rushes to the edge of the pit, unrolling his rope down to give Hanamir a lifeline. Galadriel, by unnatural instinct, scales the wall and perches on the ceiling. She casts a blindness spell on the Wyrmling to buy them some time to regroup. Harlan moves toward the fog cloud he summoned, but turns his magic against the dragon, hurling a Sacred Flame in its direction. 
  

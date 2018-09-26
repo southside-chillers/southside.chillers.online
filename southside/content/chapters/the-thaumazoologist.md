@@ -1,11 +1,11 @@
----
-title: "The Thaumazoologist"
-date: 2018-02-27T08:50:29-04:00
-description: "A new friend, and the party must decide whether to brave the City of the Dead."
-chapter: 17
----
+{
+    "chapter": 17,
+    "date": "2018-02-27T08:50:29-04:00",
+    "description": "A new friend, and the party must decide whether to brave the City of the Dead.",
+    "title": "The Thaumazoologist"
+}
 
-The adventurers huddle in the center of the empty orc temple. After Hanamir’s discovery of the hollowed-out copy of Anatomy of Bugbears, Second Edition, they need to discuss their next move.
+The adventurers huddle in the center of the empty orc temple. After [Hanamir](/characters/hanamir/)’s discovery of the hollowed-out copy of Anatomy of Bugbears, Second Edition, they need to discuss their next move.
 
 "We should see if we find anything else in the encampment nearby," says Hanamir. His face looks like the placid surface of the ocean above a deep-sea kraken fight. His fists are clenched; he’s almost daring the orc encampment to contain more defaced library books.
 

@@ -1,15 +1,15 @@
----
-title: "The Matriarch and the Handmaiden"
-date: 2018-01-22T21:44:07-04:00
-description: "A deal is struck...at what cost?"
-chapter: 12
----
+{
+    "chapter": 12,
+    "date": "2018-01-22T21:44:07-04:00",
+    "description": "A deal is struck...at what cost?",
+    "title": "The Matriarch and the Handmaiden"
+}
 
 “Welcome back,” says Galadriel. “It is now time for us to tell the tale of what happened in the final hours before the Moon Festival. The culmination of all that our humble questing party has worked for, thus far. The showdown that would become legendary amongst the gods.”
 
 ---
 
-She conjures a new flashback window. In it, you can see Hanamir, Harlan, and Galadriel standing in the Prayer Room, discussing their course of action. You see Hanamir take the pink pearl orb and approach the statue of the orc god, Gruumsh. He falls into a trance. Harlan and Galadriel stand in the center of the room and peer at him cautiously. After a few moments, Hanamir places the pink pearl orb in the statue, and it evaporates. He returns to his companions and presents a book.
+She conjures a new flashback window. In it, you can see [Hanamir](/characters/hanamir/), Harlan, and Galadriel standing in the Prayer Room, discussing their course of action. You see Hanamir take the pink pearl orb and approach the statue of the orc god, Gruumsh. He falls into a trance. Harlan and Galadriel stand in the center of the room and peer at him cautiously. After a few moments, Hanamir places the pink pearl orb in the statue, and it evaporates. He returns to his companions and presents a book.
 
 “Gruumsh gave me this,” he says, pleased as punch. 
 

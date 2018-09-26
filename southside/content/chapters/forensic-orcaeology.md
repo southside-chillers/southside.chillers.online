@@ -1,9 +1,9 @@
----
-title: "Forensic Orcaeology"
-date: 2018-02-23T08:25:38-04:00
-description: "Two cold cases get a bit warmer."
-chapter: 16
----
+{
+    "chapter": 16,
+    "date": "2018-02-23T08:25:38-04:00",
+    "description": "Two cold cases get a bit warmer.",
+    "title": "Forensic Orcaeology"
+}
 
 The next morning, the adventurers awaken in their beds at the inn to the sound of steady rain on the windows. Only a dull glow indicates that it’s time to get up, and Galadriel is still skeptical on that point when Harlan tries shaking her to consciousness.
 
@@ -13,7 +13,7 @@ The next morning, the adventurers awaken in their beds at the inn to the sound o
 
 "No, you won’t," says Harlan, shaking her again.
 
-On the other side of the room, Hanamir is whistling while he makes up his bed with a monk’s precision. Galadriel is only convinced to rise when Buddy nudges her with his li’l snout and offers some encouraging oinks. The party trudges toward the hill outside town in a chilly rain that makes each footfall heavy with mud.
+On the other side of the room, [Hanamir](/characters/hanamir/) is whistling while he makes up his bed with a monk’s precision. Galadriel is only convinced to rise when Buddy nudges her with his li’l snout and offers some encouraging oinks. The party trudges toward the hill outside town in a chilly rain that makes each footfall heavy with mud.
 
 Bryn’s observatory is no longer bustling with guards and investigators. Now, it is empty except for a small group of close associates gathered in the late scholar’s library. Fleck the bartender greets the adventurers as they enter and instructs them to set their horrendously dirty shoes by the door.
 
