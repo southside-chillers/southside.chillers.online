@@ -5,7 +5,7 @@
     "title": "The Merman Cometh"
 }
 
-Harlan joins Hermione at the window. 
+[Harlan](/characters/harlan/) joins Hermione at the window. 
 
 “One of them is shouting orders,” he whispers to [Hanamir](/characters/hanamir/) and Galadriel, who are drawing their weapons. “Can’t understand him, but it looks like he’s telling them to fan out. I don’t think they know anyone’s in here.”
 

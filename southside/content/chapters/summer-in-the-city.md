@@ -9,7 +9,7 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 “What do you think, guys? A round of ales?” He kicks the bar and its attendant sputters awake.
 
-“It’s not even noon yet,” says Harlan.
+“It’s not even noon yet,” says [Harlan](/characters/harlan/).
 
 “So?” Tannin scoffs. “A pint of your finest, if you would.” The bartender yawns and acquiesces.
 

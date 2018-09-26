@@ -11,7 +11,7 @@ Some guards from the nearby bridge checkpoint descend on the scene, spears point
 
 The adventurers get close enough to catch a glimpse of the tiefling’s face, which is contorted in panic. 
 
-“It’s Magic,” says Harlan. “That’s definitely her.” 
+“It’s Magic,” says [Harlan](/characters/harlan/). “That’s definitely her.” 
 
 “She looks afraid,” says Hermione.
 

@@ -5,7 +5,7 @@
     "title": "Slaad Meets World"
 }
 
-After describing his brief vision of a troglodyte, Harlan pockets the mysterious verdant orb, and the party continues on through the tower of Lolth.
+After describing his brief vision of a troglodyte, [Harlan](/characters/harlan/) pockets the mysterious verdant orb, and the party continues on through the tower of Lolth.
 
 [Hanamir](/characters/hanamir/) leads them down the next corridor. It is lined with five flaming torches and one unlit torch. A staircase at the end of the hallway is dripping with blood. Though Harlan and Galadriel inspect the torches and the staircase for any signs of magical tampering, they find nothing, and continue onward. What’s a little blood in a spider tower? C’mon!
 

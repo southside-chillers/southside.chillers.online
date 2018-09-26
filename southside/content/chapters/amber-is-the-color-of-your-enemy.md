@@ -13,7 +13,7 @@ In the past, he would make a game of re-shelving books without drawing the atten
 
 And ever since he began adventuring with this crew, that practice has served him well. 
 
-Today, Hanamir walks unnoticed into a heavily-armed compound patrolled day and night by trained guards, and it’s as easy as breathing. He sneaks past the cellblock where his friends are locked up, and none of them see him. *Good*, he thinks. He passes the store room, where he spots Harlan’s maul and Tannin’s trident, among other weapons, piled in a corner. There are racks of uniforms hanging on the back wall. *Good*, he thinks. 
+Today, Hanamir walks unnoticed into a heavily-armed compound patrolled day and night by trained guards, and it’s as easy as breathing. He sneaks past the cellblock where his friends are locked up, and none of them see him. *Good*, he thinks. He passes the store room, where he spots [Harlan](/characters/harlan/)’s maul and Tannin’s trident, among other weapons, piled in a corner. There are racks of uniforms hanging on the back wall. *Good*, he thinks. 
 
 Down another corridor, he hears voices. They’re discussing politics.
 

@@ -17,7 +17,7 @@ You see in the flashback window that [Hanamir](/characters/hanamir/) is perusing
 
 “I think the turquoise curtain is the one we want, team,” he says, chewing on his lip thoughtfully. 
 
-“Onward, then,” says Harlan. They pass through it one by one and the nature of reality does a few backflips. They land near the base of the hill outside of Eillin. They look up at the observatory and see that Bryn’s lights are on. The sun is setting, and an enormous full moon glows over the town.
+“Onward, then,” says [Harlan](/characters/harlan/). They pass through it one by one and the nature of reality does a few backflips. They land near the base of the hill outside of Eillin. They look up at the observatory and see that Bryn’s lights are on. The sun is setting, and an enormous full moon glows over the town.
 
 “Shall we check in with dear old Bryn?” says Hanamir.
 

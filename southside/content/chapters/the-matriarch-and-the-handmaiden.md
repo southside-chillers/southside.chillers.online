@@ -9,7 +9,7 @@
 
 ---
 
-She conjures a new flashback window. In it, you can see [Hanamir](/characters/hanamir/), Harlan, and Galadriel standing in the Prayer Room, discussing their course of action. You see Hanamir take the pink pearl orb and approach the statue of the orc god, Gruumsh. He falls into a trance. Harlan and Galadriel stand in the center of the room and peer at him cautiously. After a few moments, Hanamir places the pink pearl orb in the statue, and it evaporates. He returns to his companions and presents a book.
+She conjures a new flashback window. In it, you can see [Hanamir](/characters/hanamir/), [Harlan](/characters/harlan/), and Galadriel standing in the Prayer Room, discussing their course of action. You see Hanamir take the pink pearl orb and approach the statue of the orc god, Gruumsh. He falls into a trance. Harlan and Galadriel stand in the center of the room and peer at him cautiously. After a few moments, Hanamir places the pink pearl orb in the statue, and it evaporates. He returns to his companions and presents a book.
 
 “Gruumsh gave me this,” he says, pleased as punch. 
 

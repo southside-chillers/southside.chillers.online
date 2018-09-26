@@ -11,7 +11,7 @@
 
 “Mayor Frunk,” he says. “We just heard about Bryn.” His voice is solemn.
 
-“What happened?” asks Harlan.
+“What happened?” asks [Harlan](/characters/harlan/).
 
 “He’s dead! Murdered!” says Frunk, bustling past Hanamir into the room. “Adventurers… I cannot overstate the gravity of this situation.”
 

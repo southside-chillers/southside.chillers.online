@@ -7,7 +7,7 @@
 
 “Get the body!”
 
-One of the bat riders lands and drags Harlan by his feet toward the group of orcs. Blood trickles between the cobblestones. 
+One of the bat riders lands and drags [Harlan](/characters/harlan/) by his feet toward the group of orcs. Blood trickles between the cobblestones. 
 
 “Hands off!” shrieks Hermione, and it’s unclear if the pun is intended. She sends three Magic Missiles straight into the orc’s neck. He doubles over, letting go of Harlan. 
 

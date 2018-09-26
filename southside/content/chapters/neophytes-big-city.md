@@ -7,7 +7,7 @@
 
 The next day, the road to Aberith becomes gritty with sand. The adventurers can hear the sound of seagulls in the distance, but the ocean is still out of sight. They have reached the edge of a coastal farming town in the grassy lowlands. A few hulking, horned creatures can be seen grazing to the side of their path. 
 
-“I can’t tell if that barn up ahead is oversized, or if I’m just feeling insignificant,” says Harlan, squinting.
+“I can’t tell if that barn up ahead is oversized, or if I’m just feeling insignificant,” says [Harlan](/characters/harlan/), squinting.
 
 “Oversized, I think,” says [Hanamir](/characters/hanamir/). “For scale, I spy a certain blue-haired elf.”
 

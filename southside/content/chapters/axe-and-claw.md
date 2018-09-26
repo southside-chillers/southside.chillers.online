@@ -5,7 +5,7 @@
     "title": "Axe and Claw"
 }
 
-Harlan, [Hanamir](/characters/hanamir/), and Galadriel return to the pond in the burning woods. They are still reeling from their encounter in the spider cave, but after Galadriel performs a short Song of Rest, they feel a bit stronger. 
+[Harlan](/characters/harlan/), [Hanamir](/characters/hanamir/), and Galadriel return to the pond in the burning woods. They are still reeling from their encounter in the spider cave, but after Galadriel performs a short Song of Rest, they feel a bit stronger. 
 
 “Shall we explore this pond?” asks Harlan, peering at it. The water is dark, and he can’t see beneath the surface.
 

@@ -21,7 +21,7 @@ The Savage stares off into the distance.
 
 “Yeah,” says the Savage. There is a silence.
 
-“So... if we need to get in touch with you, how should we do that?” asks Harlan.
+“So... if we need to get in touch with you, how should we do that?” asks [Harlan](/characters/harlan/).
 
 “I don’t care,” says the Savage. 
 

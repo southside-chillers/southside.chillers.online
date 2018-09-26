@@ -5,7 +5,7 @@
     "title": "Law and Order: Special Dictums Unit"
 }
 
-Tannin, Hermione, and Harlan sit in the empty council chamber. Even whispering, their voices echo off the glossy marble.
+Tannin, Hermione, and [Harlan](/characters/harlan/) sit in the empty council chamber. Even whispering, their voices echo off the glossy marble.
 
 “Where’d the guy go?” asks Tannin. “The old guy?”
 

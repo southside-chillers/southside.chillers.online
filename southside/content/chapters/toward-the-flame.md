@@ -5,7 +5,7 @@
     "title": "Toward the Flame"
 }
 
-It's another beautiful day in the town of Eillin. Tannin is still on his personal side quest, but Harlan, [Hanamir](/characters/hanamir/), and Galadriel are eager to solve the problem of the burning forest, and they're running out of time before the Moon Festival. Their only choice is to press on.
+It's another beautiful day in the town of Eillin. Tannin is still on his personal side quest, but [Harlan](/characters/harlan/), [Hanamir](/characters/hanamir/), and Galadriel are eager to solve the problem of the burning forest, and they're running out of time before the Moon Festival. Their only choice is to press on.
 
 They return to Bryn's observatory for some information before they leave town. Galadriel hands him the enchanted gauntlet and asks if he knows anything about it. "Where did you get this?" Bryn asks, concerned. "The symbol of Lolth is most unwelcome in town." He reminds them that Lolth, the spider goddess, once had many followers in Eilistraee, but they were driven out. Galadriel asks him if he can detect any curses on the gauntlet. "It would be a curse to wear it here," he replies.
 
