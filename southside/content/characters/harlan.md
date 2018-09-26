@@ -1,6 +1,6 @@
 {
     "class": "Tempest Cleric",
-    "description": "A devout warpriest of Kord, Harlan Seaborne rides the lightning",
+    "description": "A devout warpriest of Kord, Harlan Stormborne rides the lightning",
     "title": "Harlan",
     "race": "Human"
 }
