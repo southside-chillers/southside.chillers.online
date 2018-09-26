@@ -7,7 +7,7 @@
 
 # Backstory
 
-When first introduce, Harlan alluded to a background on the high seas, as a crewmember on a ship of cutthroats; he explained his divine magic as a development of "simple rituals to ward off harsh weather".
+When first introduced, Harlan alluded to a background on the high seas, as a crewmember on a ship of cutthroats; he explained his divine magic as a development of "simple rituals to ward off harsh weather".
 
 The, truth, however, was different...
 
