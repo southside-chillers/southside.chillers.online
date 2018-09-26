@@ -13,7 +13,7 @@ The body of a wyrmling dragon lies dead on the stone floor, The remains of a dea
 
 **[Hanamir](/characters/hanamir/)**: What do you think? Should we rest, or talk to the orc?
 
-**Harlan**: We should talk to the orc first and then deal with the priest upstairs.
+**[Harlan](/characters/harlan/)**: We should talk to the orc first and then deal with the priest upstairs.
 
 **Tannin**: Let’s release the orc and tell him to go upstairs and kill the priest while we take a rest.
 

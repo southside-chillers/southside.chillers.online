@@ -21,7 +21,7 @@ The other adventurers awaken abruptly to the sound of Tannin’s voice reading i
 
 “My dear friends,” he announces. “Due to some distressing dreams I have decided to travel ahead on my own worry not though I will meet you at the gates of Aberith much love—” He squints. “Herm—Hermy… nine. Ohhh, is that the blue-haired chick?” He counts the other members of the party, who are grumbling incoherently. “Yeah, must be.”
 
-“We did introduce you,” says Harlan. “Days ago.”
+“We did introduce you,” says [Harlan](/characters/harlan/). “Days ago.”
 
 “Forgot,” shrugs Tannin. He drops the note on the ground. “Come on, guys, the sun’s almost done rising. Let’s go.”
 

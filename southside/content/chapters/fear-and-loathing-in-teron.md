@@ -21,7 +21,7 @@
 
 “I didn’t even get to meet the king. Please, let me out.”
 
-“So who was that skeleton who greeted us, then?” Harlan shouts down at them from his bat. 
+“So who was that skeleton who greeted us, then?” [Harlan](/characters/harlan/) shouts down at them from his bat. 
 
 “Not the king!” says Khargol, struggling against the web. “I don’t know what it was. Seriously? Come on!”
 

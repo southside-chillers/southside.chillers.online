@@ -33,7 +33,7 @@ They watch as the expression on Magic’s face changes abruptly from fear to ecs
 
 “I see it!” she says, grabbing Hermione by the arm. “I can see the towers!”
 
-Harlan, Tannin, and [Hanamir](/characters/hanamir/) look up from their contentious game of Drephis Hold’em. The horizon ahead is indeed marked by several tall smudges, which they suppose must be the aforementioned towers. It’ll be awhile before it starts to look exciting, they realize, and turn back to their game.
+[Harlan](/characters/harlan/), Tannin, and [Hanamir](/characters/hanamir/) look up from their contentious game of Drephis Hold’em. The horizon ahead is indeed marked by several tall smudges, which they suppose must be the aforementioned towers. It’ll be awhile before it starts to look exciting, they realize, and turn back to their game.
 
 But Magic’s excitement soon turns from cute to creepy. The Amber Guardsmen who are crewing the ship watch her nervously.
 

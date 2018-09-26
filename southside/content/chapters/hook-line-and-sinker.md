@@ -9,7 +9,7 @@ Chaos reigns in the stone arena. The sound of the newly-amputee Savage’s strug
  
 “[Hanamir](/characters/hanamir/)!” the party cries in unison, dreading the horrible sound of dragon jaws ripping through armor like so much metal cotton candy. But all they hear, for now, is splashing.
  
-Each non-submerged member of the party leaps into action in a different direction. Tannin rushes to the edge of the pit, unrolling his rope down to give Hanamir a lifeline. Galadriel, by unnatural instinct, scales the wall and perches on the ceiling. She casts a blindness spell on the Wyrmling to buy them some time to regroup. Harlan moves toward the fog cloud he summoned, but turns his magic against the dragon, hurling a Sacred Flame in its direction. 
+Each non-submerged member of the party leaps into action in a different direction. Tannin rushes to the edge of the pit, unrolling his rope down to give Hanamir a lifeline. Galadriel, by unnatural instinct, scales the wall and perches on the ceiling. She casts a blindness spell on the Wyrmling to buy them some time to regroup. [Harlan](/characters/harlan/) moves toward the fog cloud he summoned, but turns his magic against the dragon, hurling a Sacred Flame in its direction. 
  
 The Wyrmling is shocked and enraged. It unfurls its enormous wings and beats the air in powerful bursts, rising from the water to hover in mid-air. Steam surrounds its body like a shimmering veil. Still blind, it falls silent in an attempt to locate its adversaries. It hears Tannin say “Almost there!” as he pulls Hanamir up over the edge of the pit. And then it hears two identical voices, rising in volume and desperation.
  

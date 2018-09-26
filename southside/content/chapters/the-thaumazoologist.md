@@ -9,7 +9,7 @@ The adventurers huddle in the center of the empty orc temple. After [Hanamir](/c
 
 "We should see if we find anything else in the encampment nearby," says Hanamir. His face looks like the placid surface of the ocean above a deep-sea kraken fight. His fists are clenched; he’s almost daring the orc encampment to contain more defaced library books.
 
-"Agreed," says Harlan delicately. "But first, do we maybe want to search this place once more, in case we missed anything?"
+"Agreed," says [Harlan](/characters/harlan/) delicately. "But first, do we maybe want to search this place once more, in case we missed anything?"
 
 "Yes, let’s just do it for peace of mind," says Galadriel. She smiles tentatively at Hanamir, who gazes into the middle distance.
 

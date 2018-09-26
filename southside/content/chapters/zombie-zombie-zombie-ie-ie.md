@@ -5,7 +5,7 @@
     "title": "Zombie! Zombie! Zombie!-ie!-ie!"
 }
 
-During the night, Harlan has a dream.
+During the night, [Harlan](/characters/harlan/) has a dream.
 
 He is in the cave he once protected. He relishes the scents of the mineral stream and the petrichor in the air filling his lungs for the first time in so long. But it’s not just the comfort of being home; there’s something else he’s feeling… a new confidence, an expansiveness of self that feels exhilarating. A storm roils outside the cave. The percussive sound, the electrifying light—he can feel it all, and it’s coming from within him. 
 
