@@ -1,0 +1,29 @@
+.next-chapter-link {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.site-header {
+    overflow: visible;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.post-list {
+    padding: 0 16px;
+}
+
+.post-chapter-ordinal {
+    font-size: 2rem;
+}
+
+.post-stub-title {
+    font-size: 1.4rem;
+}
+
+.post-stub-description {
+    display: block;
+    margin-top: 8px;
+}

@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
+    {{ partial "intro.html" . }}
+
+    <h1 class="page-title">Tales of the Ancestral Chillers</h1>
+    <h2 class="site-header">Recent Chapters</h2>
+
+    <ol class="post-list">
+        {{ $pag := .Paginate (where .Data.Pages "Type" "chapters") }}
+        {{ range $pag.Pages }}
+        <li class="post-stub">
+            <a href="{{ .Permalink }}">
+                    <h3 class="post-chapter-ordinal">{{ .Params.chapter }}</h3>
+                    <h4 class="post-stub-title">{{ .Title }}</h4>
+                    <p class="post-stub-description">{{ .Description }}</p>
+            </a>
+        </li>
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+    {{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+        {{ if $pag.HasPrev }}
+        <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; Later Chapters</a>
+        {{ end }} {{ if $pag.HasNext }}
+        <a class="older-posts" href="{{ $pag.Next.URL }}">Earlier Chapters &rarr;</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

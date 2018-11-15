@@ -4,3 +4,5 @@ IFS=$'\n\t'
 
 cd "$( dirname "${BASH_SOURCE[0]}" )/../southside"
 hugo
+cd ../ancestral
+hugo
