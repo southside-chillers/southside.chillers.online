@@ -7,7 +7,7 @@
 
 The adrenaline rush of the ball game has the adventurers in a feisty mood, the trauma of the rolling boulder all but forgotten. They relive the moment in excited whispers as they tiptoe onward.
 
-“The gloves and the bag? And how we used them both?” Harlan marvels. “Brilliant. And that was all you, Hanamir.”
+“The gloves and the bag? And how we used them both?” [Harlan](/characters/harlan/) marvels. “Brilliant. And that was all you, [Hanamir](/characters/hanamir/).”
 
 “Ah, it was a team effort,” Hanamir says diplomatically, through an irrepressible smile. He scans the next room. “All right, what do we have here? Cat room? Looks like a cat room.”
 

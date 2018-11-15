@@ -25,7 +25,7 @@ Tannin translates this to his friends.
 
 “Some people say my *songs* are an actual treasure—”
 
-“Let’s see if they want that cask of wine in the Bag of Holding,” says Harlan. “They already have goblets. They’re probably wine conoisseurs.”
+“Let’s see if they want that cask of wine in the Bag of Holding,” says [Harlan](/characters/harlan/). “They already have goblets. They’re probably wine conoisseurs.”
 
 “No! That’s special,” says Tannin quickly. “Mirama gave that to me for good luck. She told me to only open it when we’re on our way back.”
 
@@ -55,7 +55,7 @@ The two figures each sip from their goblets and lie back down on their tombs.
 
 Then they are silent and still, their chests not even rising to breathe.
 
-“Well, team,” says Hanamir. “That went a lot better than I thought it would.”
+“Well, team,” says [Hanamir](/characters/hanamir/). “That went a lot better than I thought it would.”
 
 The adventurers return to the chamber that they refer to as the Beetle Room. There are three exits they have not yet tried. One of them is a doorless hallway, long and L-shaped. It slopes upward, prompting a stream of excited babbling from Magic.
 
