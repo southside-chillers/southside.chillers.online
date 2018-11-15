@@ -1,0 +1,12 @@
+baseURL = "https://ancestral.chillers.online/"
+languageCode = "en-us"
+title = "Ancestral Chillers"
+theme = "ghostwriter"
+
+[params]
+  description = " "
+  copyright = " "
+  shareFacebook = false
+  shareTwitter = false
+  shareGooglePlus = false
+  shareLinkedIn = false

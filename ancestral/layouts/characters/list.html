@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container">
+    {{ partial "intro.html" . }}
+
+    <ol class="post-list">
+        {{ $pag := .Paginate .Data.Pages }}
+        {{ range $index, $element := $pag.Pages }}
+            <li class="post-stub">
+                <a href="{{ .Permalink }}">
+                    <h4 class="post-stub-title">{{ .Title }}</h4>
+                    <p class="post-stub-description">{{ .Description }}</p>
+                </a>
+            </li>
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+    {{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+        {{ if $pag.HasPrev }}
+        <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; Previous Page</a>
+        {{ end }} {{ if $pag.HasNext }}
+        <a class="older-posts" href="{{ $pag.Next.URL }}">Next Page &rarr;</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
