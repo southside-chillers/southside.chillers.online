@@ -55,7 +55,7 @@ She drifts back to sleep waiting for his answer.
 
 ---
 
-On the other side of the cave-in, the mood is not great. Tannin is picking gravel out of his beard, while Hanamir pours a cup and a half of fine-grained dust out of one of his boots. Hermione, Magic, and Buddy were far enough away that they are physically untouched, but Magic rocks back and forth in a fetal position on the floor. Harlan stares at the rubble in surprise and a fair amount of horror.
+On the other side of the cave-in, the mood is not great. Tannin is picking gravel out of his beard, while [Hanamir](/characters/hanamir/) pours a cup and a half of fine-grained dust out of one of his boots. Hermione, Magic, and Buddy were far enough away that they are physically untouched, but Magic rocks back and forth in a fetal position on the floor. [Harlan](/characters/harlan/) stares at the rubble in surprise and a fair amount of horror.
 
 “What?!” he repeats, again and again. “But—but it was *lightning*, not thunder!”
 

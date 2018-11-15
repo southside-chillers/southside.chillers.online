@@ -7,13 +7,13 @@
 
 The corridor beyond the narid’s pool room is flooded. The water that sloshes against their legs and soaks into their boots is icy cold, and far too deep for Buddy to walk through comfortably, so he resumes his old post peeking out of Galadriel’s backpack. 
 
-The adventurers round a corner and the flooding abates somewhat. A short set of stairs leads out of the damp and up to a set of bronze doors. Hanamir approaches first.
+The adventurers round a corner and the flooding abates somewhat. A short set of stairs leads out of the damp and up to a set of bronze doors. [Hanamir](/characters/hanamir/) approaches first.
 
 “Looks unlocked,” he whispers. He presses an ear to the doors’ surface. “Nothing moving on the other side that I can hear.”
 
 The adventurers hesitate, then nod at him to proceed. Hanamir pushes the door open gently. It opens into a long, empty room—about a hundred feet of dusty stone floor lined by mosaic-laden walls. Galadriel puts Buddy down again, and he trots off to sniff the seam between the floor and the wall.  
 
-“These are incredible,” says Harlan, scanning the mosaics. “Such detail in the battle scene, and very little damage despite the obvious antiquity…”
+“These are incredible,” says [Harlan](/characters/harlan/), scanning the mosaics. “Such detail in the battle scene, and very little damage despite the obvious antiquity…”
 
 At the end of the room, another set of bronze doors leads to a crossroads of hallways. In the center of the crossroads are four statues: a bear, a coyote, a bison, and an eagle. Something shiny glints in the eagle’s mouth. Hanamir takes the ten-foot pole and carefully knocks it out. The statue’s mouth snaps onto the end of the pole.
 

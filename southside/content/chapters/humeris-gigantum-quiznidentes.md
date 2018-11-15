@@ -5,7 +5,7 @@
     "title": "Humeris Gigantum Quiznidentes"
 }
 
-Harlan finishes wrapping Tannin’s wrist stump with bandages.
+[Harlan](/characters/harlan/) finishes wrapping Tannin’s wrist stump with bandages.
 
 “There,” he says. “It’s really not so bad, I promise. And we already know where to go to get it fixed this time around!”
 
@@ -19,7 +19,7 @@ Tannin stares at the ground and makes a pitiful noise.
 
 “No!” says Tannin. He clutches the satchel to his chest with his one remaining hand. “No way! This bread is an awesome deal!” His voice rises in both volume and pitch. “It only sometimes eats a hand! The rest of the time it’s amazing!”
 
-“Well, I suppose it’s up to you,” says Hanamir. After a silence that reveals the extent of the adventurers’ lack of interest in arguing with Tannin, he changes the subject. “Shall we check out those dead bodies over there, or what?”
+“Well, I suppose it’s up to you,” says [Hanamir](/characters/hanamir/). After a silence that reveals the extent of the adventurers’ lack of interest in arguing with Tannin, he changes the subject. “Shall we check out those dead bodies over there, or what?”
 
 The skeletons definitely belong to a set of explorers. One of their bony hands still holds a detailed map of the temple, marked to indicate that they had rappelled up the side of the pyramid into this very room, where they were apparently crushed by falling debris. 
 
