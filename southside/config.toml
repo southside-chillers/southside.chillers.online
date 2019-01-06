@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "Southside Chillers"
 theme = "ghostwriter"
 
+[menu]
+  [[menu.main]]
+    identifier = "Ancestral"
+    name = "Ancestral"
+    url = "https://ancestral.chillers.online"
+    weight = 11
+
 [params]
   description = " "
   copyright = " "
