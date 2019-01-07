@@ -9,9 +9,9 @@
 
 One of the bat riders lands and drags [Harlan](/characters/harlan/) by his feet toward the group of orcs. Blood trickles between the cobblestones. 
 
-“Hands off!” shrieks Hermione, and it’s unclear if the pun is intended. She sends three Magic Missiles straight into the orc’s neck. He doubles over, letting go of Harlan. 
+“Hands off!” shrieks [Hermione](/characters/hermione/), and it’s unclear if the pun is intended. She sends three Magic Missiles straight into the orc’s neck. He doubles over, letting go of Harlan. 
 
-[Hanamir](/characters/hanamir/) and Tannin dart forward. They pull Harlan to the threshold of the house into which Galadriel had fled. Hermione joins them, and there is a moment of reprieve as she shuts the door behind her.
+[Hanamir](/characters/hanamir/) and [Tannin](/characters/tannin/) dart forward. They pull Harlan to the threshold of the house into which [Galadriel](/characters/galadriel/) had fled. Hermione joins them, and there is a moment of reprieve as she shuts the door behind her.
 
 Galadriel has crept up to a dark ceiling corner. She sounds like she might be hissing. With dawning disgust, Hermione realizes it’s just the continued noise of Galadriel’s skin sputtering and popping. After a minute or two, when the sound finally fades, Galadriel climbs down. The left half of her body is raw and dripping, like the sunken remains of a candle.
 

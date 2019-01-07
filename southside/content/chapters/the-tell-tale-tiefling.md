@@ -13,7 +13,7 @@ The adventurers get close enough to catch a glimpse of the tiefling’s face, wh
 
 “It’s Magic,” says [Harlan](/characters/harlan/). “That’s definitely her.” 
 
-“She looks afraid,” says Hermione.
+“She looks afraid,” says [Hermione](/characters/hermione/).
 
 “I don’t think she planned this,” says [Hanamir](/characters/hanamir/). “She was trying to stay incognito.”
 
@@ -21,13 +21,13 @@ They reach the back of the crowd. Harlan casts Thaumaturgy.
 
 “YOU!” he says, pointing at Magic. The mob ahead of him parts, physically jumping out of the way of his voice. “WE HAVE BUSINESS WITH YOU.”
 
-Magic turns toward Harlan and sees the group of adventurers. A flash of recognition and relief lights up her face. Harlan and Tannin march up through the divide in the crowd and make a big show of grabbing hold of her arms. The guards do not make any moves to intervene.
+Magic turns toward Harlan and sees the group of adventurers. A flash of recognition and relief lights up her face. Harlan and [Tannin](/characters/tannin/) march up through the divide in the crowd and make a big show of grabbing hold of her arms. The guards do not make any moves to intervene.
 
 “THIS TIEFLING IS WANTED FOR QUESTIONING, POTENTIALLY IN CONNECTION WITH A MURDER,” announces Harlan, mostly for the benefit of the guards, who squint at him from a few yards away. Turning off the Thaumaturgy, he whispers, “We’d been hoping to cross paths with you, Magic. We’re going to take you someplace where we can speak privately.”
 
 “Oh, good,” says Magic. “I wasn’t sure how to find you all. I was trying to cast Skywrite, and then…” She gestures at her still-expanding frame. Half of a lemon, mostly juiced, hits her in the eye. “Ow!”
 
-Galadriel glances at the guards. They seem willing to cede the problem to Harlan, but the crowd is still screaming obscenities and hurling objects at Magic. She furtively casts Warding Wind, and a sudden gale begins whipping around her, with Magic and the adventurers in the relatively calm center. The wind is loud enough to drown out the sound of the mob, and it pushes them back far enough to clear a space to move. She waves the adventurers to follow her, and they proceed down the street in the direction of an empty-looking shipyard.
+[Galadriel](/characters/galadriel/) glances at the guards. They seem willing to cede the problem to Harlan, but the crowd is still screaming obscenities and hurling objects at Magic. She furtively casts Warding Wind, and a sudden gale begins whipping around her, with Magic and the adventurers in the relatively calm center. The wind is loud enough to drown out the sound of the mob, and it pushes them back far enough to clear a space to move. She waves the adventurers to follow her, and they proceed down the street in the direction of an empty-looking shipyard.
 
 Hermione looks behind them and sees that the group of guards is following along, but at a distance. She points to a shabby old warehouse near the docks. They approach it, and it looks as though the guards are willing to wait outside and let them have a private conversation.
 

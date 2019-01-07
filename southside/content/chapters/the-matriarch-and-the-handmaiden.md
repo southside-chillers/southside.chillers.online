@@ -5,7 +5,7 @@
     "title": "The Matriarch and the Handmaiden"
 }
 
-“Welcome back,” says Galadriel. “It is now time for us to tell the tale of what happened in the final hours before the Moon Festival. The culmination of all that our humble questing party has worked for, thus far. The showdown that would become legendary amongst the gods.”
+“Welcome back,” says [Galadriel](/characters/galadriel/). “It is now time for us to tell the tale of what happened in the final hours before the Moon Festival. The culmination of all that our humble questing party has worked for, thus far. The showdown that would become legendary amongst the gods.”
 
 ---
 

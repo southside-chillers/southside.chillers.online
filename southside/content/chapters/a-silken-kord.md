@@ -4,9 +4,9 @@
     "description": "Divine wisdom, and entry to a dark tower.",
     "title": "A Silken Kord"
 }
-The giant spider blinks its uncountable eyes. Two swarms of tiny spiders flank it on either side, waiting for a signal to attack. Galadriel takes a step back. Will the gauntlet of Lolth prevent her from fighting? Or worse: will it cause her to turn against her friends? She feels an unnatural bond with the smaller spiders, but no such tenderness for the monstrous blue creature. This, at least, is a hopeful sign.
+The giant spider blinks its uncountable eyes. Two swarms of tiny spiders flank it on either side, waiting for a signal to attack. [Galadriel](/characters/galadriel/) takes a step back. Will the gauntlet of Lolth prevent her from fighting? Or worse: will it cause her to turn against her friends? She feels an unnatural bond with the smaller spiders, but no such tenderness for the monstrous blue creature. This, at least, is a hopeful sign.
 
-Tannin and [Harlan](/characters/harlan/) charge forward at the spider and batter its shimmering hide with axe and maul. Harlan dodges a retaliatory attack from the spider, and, as if embarrassed, it disappears into thin air. Alas! It appears the adventurers are in battle with a _phase spider_.
+[Tannin](/characters/tannin/) and [Harlan](/characters/harlan/) charge forward at the spider and batter its shimmering hide with axe and maul. Harlan dodges a retaliatory attack from the spider, and, as if embarrassed, it disappears into thin air. Alas! It appears the adventurers are in battle with a _phase spider_.
 
 Meanwhile, [Hanamir](/characters/hanamir/) is using his fists to smash as many small spiders as he can. He leaves one swarm badly depleted. Galadriel is still hesitant about joining the fray lest she become an unwilling ally of the spiders. She decides to help indirectly by casting Faerie Fire on the second swarm of spiders and endowing Hanamir with Bardic Inspiration as he continues crushing critters right and left.
 

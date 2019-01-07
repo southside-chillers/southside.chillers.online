@@ -5,7 +5,7 @@
     "title": "Law and Order: Special Dictums Unit"
 }
 
-Tannin, Hermione, and [Harlan](/characters/harlan/) sit in the empty council chamber. Even whispering, their voices echo off the glossy marble.
+[Tannin](/characters/tannin/), [Hermione](/characters/hermione/), and [Harlan](/characters/harlan/) sit in the empty council chamber. Even whispering, their voices echo off the glossy marble.
 
 “Where’d the guy go?” asks Tannin. “The old guy?”
 
@@ -15,7 +15,7 @@ Tannin, Hermione, and [Harlan](/characters/harlan/) sit in the empty council cha
 
 A goateed man holding a tall silver staff appears in the doorway.
 
-“Guests of the king, you may take your seats,” he says grandly, and bows with a flourish. From behind him, [Hanamir](/characters/hanamir/) and Galadriel appear, looking well-rested and eager to catch up. They slide into the row just behind Tannin, Hermione, and Harlan.
+“Guests of the king, you may take your seats,” he says grandly, and bows with a flourish. From behind him, [Hanamir](/characters/hanamir/) and [Galadriel](/characters/galadriel/) appear, looking well-rested and eager to catch up. They slide into the row just behind Tannin, Hermione, and Harlan.
 
 “How did it go with the Minister of the Sea?” whispers Hanamir.
 

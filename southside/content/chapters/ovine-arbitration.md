@@ -15,7 +15,7 @@
 
 “He’s dead! Murdered!” says Frunk, bustling past Hanamir into the room. “Adventurers… I cannot overstate the gravity of this situation.”
 
-“Who did it?” Galadriel sits up groggily. 
+“Who did it?” [Galadriel](/characters/galadriel/) sits up groggily. 
 
 “We don’t know, of course,” says Frunk. He snaps his fingers at her. “Wake up! This is serious!”
 

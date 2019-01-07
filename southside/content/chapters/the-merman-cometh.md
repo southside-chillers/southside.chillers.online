@@ -5,9 +5,9 @@
     "title": "The Merman Cometh"
 }
 
-[Harlan](/characters/harlan/) joins Hermione at the window. 
+[Harlan](/characters/harlan/) joins [Hermione](/characters/hermione/) at the window. 
 
-“One of them is shouting orders,” he whispers to [Hanamir](/characters/hanamir/) and Galadriel, who are drawing their weapons. “Can’t understand him, but it looks like he’s telling them to fan out. I don’t think they know anyone’s in here.”
+“One of them is shouting orders,” he whispers to [Hanamir](/characters/hanamir/) and [Galadriel](/characters/galadriel/), who are drawing their weapons. “Can’t understand him, but it looks like he’s telling them to fan out. I don’t think they know anyone’s in here.”
 
 “Care to take advantage of that?” says Hanamir.
 
@@ -19,7 +19,7 @@ There’s a brief moment of silence before another reality-shredding noise split
 
 But this second rip in spacetime erupts with oceanwater and belches out just one humanoid, too short to be an orc, wielding a golden trident. A couple of small fish fall out of the portal with him and flap tepidly against the ground.
 
-“Guys… I think it’s Tannin! You guys!!!” Harlan tries to keep his voice at a whisper just in case the orcs somehow weren’t able to tell where the Shatter spell came from. 
+“Guys… I think it’s [Tannin](/characters/tannin/)! You guys!!!” Harlan tries to keep his voice at a whisper just in case the orcs somehow weren’t able to tell where the Shatter spell came from. 
 
 “WHAT?!” yelps Galadriel, blowing any cover they might have had. She leaps over to peer out the window. Sure enough, it’s Tannin, but he’s got full-on *Castaway* hair now, with a few barnacles stuck in there for good measure. He stands on the street, shaking sand and pieces of seaweed off of his legs. “Why is he nautical-themed now?”
 

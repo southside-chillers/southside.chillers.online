@@ -5,7 +5,7 @@
     "title": "Summer in the City"
 }
 
-The Half-Full Flagon is quite empty during the day. Its only occupant is a man with an unkempt beard who sits slumped behind the bar, snoring softly. The bell on the door isn’t enough to rouse him when the adventurers come in, but this does not discourage Tannin.
+The Half-Full Flagon is quite empty during the day. Its only occupant is a man with an unkempt beard who sits slumped behind the bar, snoring softly. The bell on the door isn’t enough to rouse him when the adventurers come in, but this does not discourage [Tannin](/characters/tannin/).
 
 “What do you think, guys? A round of ales?” He kicks the bar and its attendant sputters awake.
 
@@ -13,9 +13,9 @@ The Half-Full Flagon is quite empty during the day. Its only occupant is a man w
 
 “So?” Tannin scoffs. “A pint of your finest, if you would.” The bartender yawns and acquiesces.
 
-“I’ll pass,” says Hermione, pursing her lips. “I have some research I’d like to do regarding the Northern Ruins, and I don’t want to waste any time. I just want to get to our rooms upstairs, grab a change of clothes, and then get back to the library.”
+“I’ll pass,” says [Hermione](/characters/hermione/), pursing her lips. “I have some research I’d like to do regarding the Northern Ruins, and I don’t want to waste any time. I just want to get to our rooms upstairs, grab a change of clothes, and then get back to the library.”
 
-“We do have a few weeks, according to the king,” says Galadriel. “You know, for a port city, it takes them a long time to charter a ship.”
+“We do have a few weeks, according to the king,” says [Galadriel](/characters/galadriel/). “You know, for a port city, it takes them a long time to charter a ship.”
 
 “Unless it’s being done in the dead of night to make prisoners disappear,” notes [Hanamir](/characters/hanamir/). 
 

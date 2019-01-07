@@ -15,13 +15,13 @@ He stands with his hands on his hips and takes in the surroundings as his compan
 
 “Definitely a cat room,” Harlan concurs, walking a slow circle around the room. He stops in front of a taxidermied wildcat in the center of the room. It has some stuffing poking out of its head. “Looks like somebody tore a chunk out of this guy’s ear.” 
 
-“Maybe he got in a fight with six-nippled shirtless dude over here,” says Tannin, staring up at a statue of a man holding a spear and wearing a panther’s head as a mask. The statue has a jagged scar running the length of his chest—which does, troublingly, have six nipples. He frowns, unable to avert his gaze. “You know, as a habitually shirtless person myself, I get it. I do. But if it were me, I’d keep that situation under wraps.”
+“Maybe he got in a fight with six-nippled shirtless dude over here,” says [Tannin](/characters/tannin/), staring up at a statue of a man holding a spear and wearing a panther’s head as a mask. The statue has a jagged scar running the length of his chest—which does, troublingly, have six nipples. He frowns, unable to avert his gaze. “You know, as a habitually shirtless person myself, I get it. I do. But if it were me, I’d keep that situation under wraps.”
 
 More stuffed cats are scattered around the room, frozen in sitting, pouncing, stalking, and begging poses. 
 
-“Before we do anything that might cause these creatures to wake up, let’s do a thorough trap check,” says Hermione.
+“Before we do anything that might cause these creatures to wake up, let’s do a thorough trap check,” says [Hermione](/characters/hermione/).
 
-Galadriel climbs up the side of one fur-decked wall and runs the perimeter along the ceiling. 
+[Galadriel](/characters/galadriel/) climbs up the side of one fur-decked wall and runs the perimeter along the ceiling. 
 
 “The tiger face wall might be something,” she says. “I can’t tell how to trigger it, though.” She creeps around to the stone calendar in the opposite wall. “There’s something behind here! Like a gate closure sort of thing? Maybe if we stuck the pole between here and the wall…”
 

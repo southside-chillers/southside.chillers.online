@@ -5,7 +5,7 @@
     "title": "The Annunciation of Chanto"
 }
 
-We left our heroes on a terrifying cliffhanger. While [Harlan](/characters/harlan/) and Tannin face a shower of arrows from above the temple, Galadriel has been taken hostage by four orc cultists and a vicious bugbear within. The temple attendants have been brutally murdered.
+We left our heroes on a terrifying cliffhanger. While [Harlan](/characters/harlan/) and [Tannin](/characters/tannin/) face a shower of arrows from above the temple, [Galadriel](/characters/galadriel/) has been taken hostage by four orc cultists and a vicious bugbear within. The temple attendants have been brutally murdered.
 
 Tannin, in a barbarian rage, breaks down the temple door with his portable ram. Battle commences, but it’s a weird one: there’s a lot of swinging at each other and missing. The two cultists in front come at Harlan and Tannin with scimitars and whiff the air. Tannin hits one with his battle axe and Harlan finishes the job with his orcish maul. 
 

@@ -7,7 +7,7 @@
 
 After describing his brief vision of a troglodyte, [Harlan](/characters/harlan/) pockets the mysterious verdant orb, and the party continues on through the tower of Lolth.
 
-[Hanamir](/characters/hanamir/) leads them down the next corridor. It is lined with five flaming torches and one unlit torch. A staircase at the end of the hallway is dripping with blood. Though Harlan and Galadriel inspect the torches and the staircase for any signs of magical tampering, they find nothing, and continue onward. What’s a little blood in a spider tower? C’mon!
+[Hanamir](/characters/hanamir/) leads them down the next corridor. It is lined with five flaming torches and one unlit torch. A staircase at the end of the hallway is dripping with blood. Though Harlan and [Galadriel](/characters/galadriel/) inspect the torches and the staircase for any signs of magical tampering, they find nothing, and continue onward. What’s a little blood in a spider tower? C’mon!
 
 They proceed up the stairs to another torchlit hallway, but this time, there’s a door at the end, and they can hear voices echoing behind it. It’s a calm discussion in what sounds like Common. Harlan opens the door—sneakily—and the party sees two goblins standing next to a treasure chest. 
 
@@ -21,7 +21,7 @@ Our heroes bicker amongst themselves about what to do for several minutes. Final
 
 “Ow!” says Dart Neck, and confers briefly with his friend in Goblin. Then he shrugs. Heavy Armor reaches for his axe.
 
-“Stop right there,” says Tannin.
+“Stop right there,” says [Tannin](/characters/tannin/).
 
 “Or what?” says Heavy Armor. 
 

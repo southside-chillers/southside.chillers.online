@@ -5,7 +5,7 @@
     "title": "Et in Horto Quiznis, Serpens Est"
 }
 
-Galadriel hides her face in her sleeve. Dust, heavy with airborne rocks, hits her like an ocean wave from the doorway and knocks her backward to the floor. The birds above her go silent.
+[Galadriel](/characters/galadriel/) hides her face in her sleeve. Dust, heavy with airborne rocks, hits her like an ocean wave from the doorway and knocks her backward to the floor. The birds above her go silent.
 
 “Oh, come on,” she groans to herself. She spits and blinks and sneezes, finding her way back to her feet. “Was it Call Lightning? I bet he cast Call Lightning.”
 
@@ -55,7 +55,7 @@ She drifts back to sleep waiting for his answer.
 
 ---
 
-On the other side of the cave-in, the mood is not great. Tannin is picking gravel out of his beard, while [Hanamir](/characters/hanamir/) pours a cup and a half of fine-grained dust out of one of his boots. Hermione, Magic, and Buddy were far enough away that they are physically untouched, but Magic rocks back and forth in a fetal position on the floor. [Harlan](/characters/harlan/) stares at the rubble in surprise and a fair amount of horror.
+On the other side of the cave-in, the mood is not great. [Tannin](/characters/tannin/) is picking gravel out of his beard, while [Hanamir](/characters/hanamir/) pours a cup and a half of fine-grained dust out of one of his boots. [Hermione](/characters/hermione/), Magic, and Buddy were far enough away that they are physically untouched, but Magic rocks back and forth in a fetal position on the floor. [Harlan](/characters/harlan/) stares at the rubble in surprise and a fair amount of horror.
 
 “What?!” he repeats, again and again. “But—but it was *lightning*, not thunder!”
 

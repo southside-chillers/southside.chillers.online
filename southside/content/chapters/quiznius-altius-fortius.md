@@ -5,7 +5,7 @@
     "title": "Quiznius, Altius, Fortius"
 }
 
-Tannin walks over to the pillow on the end of one of the raised tombs and gives it a little fluff. 
+[Tannin](/characters/tannin/) walks over to the pillow on the end of one of the raised tombs and gives it a little fluff. 
 
 “Go back to sleep now,” he says. “Sorry to wake you. We’re just passing through.”
 
@@ -19,7 +19,7 @@ The two figures confer with one another. Then the woman speaks.
 
 Tannin translates this to his friends. 
 
-“You know, some people say my songs are a gift,” says Galadriel.
+“You know, some people say my songs are a gift,” says [Galadriel](/characters/galadriel/).
 
 “I already offered that,” says Tannin. “I think they want actual treasure.”
 
@@ -67,7 +67,7 @@ But soon the hallway is blocked by a massive boulder.
 
 “Unshackle me,” pleads Magic. “And let me blast through it. Please!”
 
-“No matter how many times you ask, the answer is still going to be no,” says Hermione. “I’m not sure how else to communicate this to you.”
+“No matter how many times you ask, the answer is still going to be no,” says [Hermione](/characters/hermione/). “I’m not sure how else to communicate this to you.”
 
 Tannin is now peeking around the boulder through a sliver of empty space between its edge and the wall. 
 

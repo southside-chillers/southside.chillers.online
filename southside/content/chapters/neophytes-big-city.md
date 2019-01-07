@@ -11,11 +11,11 @@ The next day, the road to Aberith becomes gritty with sand. The adventurers can 
 
 “Oversized, I think,” says [Hanamir](/characters/hanamir/). “For scale, I spy a certain blue-haired elf.”
 
-He’s right: emerging beside the barn, Hermione is pacing in a circle, scribbling notes in her logbook with characteristic intensity. When they are close enough to her to get her attention, she looks up and smiles.
+He’s right: emerging beside the barn, [Hermione](/characters/hermione/) is pacing in a circle, scribbling notes in her logbook with characteristic intensity. When they are close enough to her to get her attention, she looks up and smiles.
 
 “I thought you all might catch up to me here,” she says. “I couldn’t help but stop and observe the aurochs.”
 
-Tannin drops the tattered bedroll at her feet. 
+[Tannin](/characters/tannin/) drops the tattered bedroll at her feet. 
 
 “Observe this!” he says proudly. 
 
@@ -41,7 +41,7 @@ Tannin re-packages the basilisk into the bedroll and tosses it over his shoulder
 
 “Probably a good instinct,” says Hanamir. 
 
-They continue on through the community and see the blue people attending to their morning farm chores. As they walk, a foreign thought appears in Galadriel’s mind.
+They continue on through the community and see the blue people attending to their morning farm chores. As they walk, a foreign thought appears in [Galadriel](/characters/galadriel/)’s mind.
 
 GALADRIEL, HEY.
 

@@ -5,7 +5,7 @@
     "title": "Careless Gibber"
 }
 
-Having made herself invisible, Galadriel spider-climbs up the wall of Noke’s living room and perches on the ceiling. [Hanamir](/characters/hanamir/) hides behind a set of barrels. Only [Harlan](/characters/harlan/) is out in the open, fixing his gaze on the Bed Dragon with equal measures of surprise and consternation. Noke has come down the stairs from his bedroom and now sits on the dragon’s back. 
+Having made herself invisible, [Galadriel](/characters/galadriel/) spider-climbs up the wall of Noke’s living room and perches on the ceiling. [Hanamir](/characters/hanamir/) hides behind a set of barrels. Only [Harlan](/characters/harlan/) is out in the open, fixing his gaze on the Bed Dragon with equal measures of surprise and consternation. Noke has come down the stairs from his bedroom and now sits on the dragon’s back. 
 
 "I’ll give you one more chance to turn over the sheep," says Noke. 
 
@@ -129,7 +129,7 @@ Galadriel lobs the vial of potion across the room at the mass of skin, hair, mou
 
 "Wow," she says. "I wonder where it went."
 
-"Wherever Tannin went, probably," muses Hanamir.
+"Wherever [Tannin](/characters/tannin/) went, probably," muses Hanamir.
 
 With all the Mouthers gone, the room is quiet. 
 

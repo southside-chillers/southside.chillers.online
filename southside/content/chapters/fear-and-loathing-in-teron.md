@@ -5,11 +5,11 @@
     "title": "Fear and Loathing in Teron"
 }
 
-“So… how’d your meeting go?” asks Tannin. He blocks Khargol’s blood-spattered path through the anteroom.
+“So… how’d your meeting go?” asks [Tannin](/characters/tannin/). He blocks Khargol’s blood-spattered path through the anteroom.
 
 “I said let’s go!” shouts Khargol, and his voice sounds tense and panicky. 
 
-“Sorry, not so fast,” says Hermione. She conjures a web that binds him to his position in the center of the anteroom.
+“Sorry, not so fast,” says [Hermione](/characters/hermione/). She conjures a web that binds him to his position in the center of the anteroom.
 
 “No!” says Khargol. “You have to cut me out of here. We need to go now if we want to survive!”
 
@@ -17,7 +17,7 @@
 
 “There’s a paladin who was waiting in there to kill me,” says Khargol. “It was a setup.”
 
-“What about the king?” asks Galadriel.
+“What about the king?” asks [Galadriel](/characters/galadriel/).
 
 “I didn’t even get to meet the king. Please, let me out.”
 

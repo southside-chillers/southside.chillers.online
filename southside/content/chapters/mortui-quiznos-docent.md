@@ -5,7 +5,7 @@
     "title": "Mortui Quiznos Docent"
 }
 
-The corridor beyond the narid’s pool room is flooded. The water that sloshes against their legs and soaks into their boots is icy cold, and far too deep for Buddy to walk through comfortably, so he resumes his old post peeking out of Galadriel’s backpack. 
+The corridor beyond the narid’s pool room is flooded. The water that sloshes against their legs and soaks into their boots is icy cold, and far too deep for Buddy to walk through comfortably, so he resumes his old post peeking out of [Galadriel](/characters/galadriel/)’s backpack. 
 
 The adventurers round a corner and the flooding abates somewhat. A short set of stairs leads out of the damp and up to a set of bronze doors. [Hanamir](/characters/hanamir/) approaches first.
 
@@ -31,7 +31,7 @@ The corridor to their right is narrow and dark except for a faint light several 
 
 The other corridor—much more civilized-looking—leads to an alcove with a pedestal at the end, and a silver coffer resting on top of it. Hanamir approaches it and, seeing that it is unlocked, pushes it open with the eight-foot pole. A copper figurine rests inside. It is in the shape of some kind of humanoid sea creature, almost like a narid. 
 
-Hermione picks it up and inspects it.
+[Hermione](/characters/hermione/) picks it up and inspects it.
 
 “It’s hollow,” she says. She gives it a shake, and they hear the sound of small particles shifting inside. “Filled with… beads? Or rocks? And it’s definitely giving off a magical aura.”
 
@@ -43,7 +43,7 @@ She turns it upside down.
 
 At once, the statue leaps out of her hand, spilling the remaining beads all over the floor. It zooms back and forth through the air, knocking against walls until finding its way down the hallway toward the cramped and dark corridor with the pulsating light. 
 
-“What was that?!” says Tannin, gripping his trident. He is tensed, like a puppy resisting the urge to chase a tennis ball. “Do we follow it?”
+“What was that?!” says [Tannin](/characters/tannin/), gripping his trident. He is tensed, like a puppy resisting the urge to chase a tennis ball. “Do we follow it?”
 
 “I think we have to, now,” says Hermione, with some exasperation.
 

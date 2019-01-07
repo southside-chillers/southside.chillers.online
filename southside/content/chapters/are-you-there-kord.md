@@ -5,13 +5,13 @@
     "title": "Are You There, Kord? It's Me, Harlan"
 }
 
-The adventurers make their way back over the bridge to meet up with Tannin and Redyl. The two are sitting on a bench and look to be deep in an animated conversation.
+The adventurers make their way back over the bridge to meet up with [Tannin](/characters/tannin/) and Redyl. The two are sitting on a bench and look to be deep in an animated conversation.
 
 “...and that’s how I learned to ride dolphins into battle. It’s all in the knees!” Tannin says. He and Redyl both laugh. “Oh, hi guys.”
 
 “How did your meeting go?” asks Redyl.
 
-“Great!” says Hermione. She shows off the library passes and checkpoint passes that King Slee signed for them all. “We can research how to defeat the Lich in the royal library, and we can pass through the city without having to pretend to be diplomats.”
+“Great!” says [Hermione](/characters/hermione/). She shows off the library passes and checkpoint passes that King Slee signed for them all. “We can research how to defeat the Lich in the royal library, and we can pass through the city without having to pretend to be diplomats.”
 
 The Savage stares off into the distance.
 
@@ -31,7 +31,7 @@ The Savage stares off into the distance.
 
 “Well,” says Redyl, after a moment, “I’m afraid I’ll be taking my leave of you all now, too. I have cousins here, in the Gillyheart neighborhood, whom I’d like to see. I—I can’t thank you enough for all you’ve done for me.” He chokes up a little.
 
-“Aw, Redyl,” says Galadriel. “Enjoy your family time! I’m sure we’ll meet again. We’ll be on the lookout for Rompit.”
+“Aw, Redyl,” says [Galadriel](/characters/galadriel/). “Enjoy your family time! I’m sure we’ll meet again. We’ll be on the lookout for Rompit.”
 
 Redyl bows deeply and gives them a tiny wave before disappearing into the crowded street. 
 

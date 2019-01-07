@@ -15,11 +15,11 @@ The body of a wyrmling dragon lies dead on the stone floor, The remains of a dea
 
 **[Harlan](/characters/harlan/)**: We should talk to the orc first and then deal with the priest upstairs.
 
-**Tannin**: Let’s release the orc and tell him to go upstairs and kill the priest while we take a rest.
+**[Tannin](/characters/tannin/)**: Let’s release the orc and tell him to go upstairs and kill the priest while we take a rest.
 
 the group ignores this idea.
 
-**Galadriel**: Orc first, then rest, then priest.
+**[Galadriel](/characters/galadriel/)**: Orc first, then rest, then priest.
 
 **Hanamir**: All right. Here goes. (in Orcish) How ya doin’, brother?
 

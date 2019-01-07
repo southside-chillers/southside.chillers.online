@@ -5,7 +5,7 @@
     "title": "Forensic Orcaeology"
 }
 
-The next morning, the adventurers awaken in their beds at the inn to the sound of steady rain on the windows. Only a dull glow indicates that it’s time to get up, and Galadriel is still skeptical on that point when [Harlan](/characters/harlan/) tries shaking her to consciousness.
+The next morning, the adventurers awaken in their beds at the inn to the sound of steady rain on the windows. Only a dull glow indicates that it’s time to get up, and [Galadriel](/characters/galadriel/) is still skeptical on that point when [Harlan](/characters/harlan/) tries shaking her to consciousness.
 
 "Come on," he says. "They’re reading Bryn’s will soon, and we don’t want to be late."
 
