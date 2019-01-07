@@ -5,9 +5,9 @@
     "title": "So Long, For Now"
 }
 
-Galadriel hoists herself up and lies flat on the floor, her chin pressed against the cool quartzite. For a few breaths, she rests there without moving. The walls are a mosaic of gemstones, and their multicolored haloes reflect on the silver-white stone beneath her. She closes her eyes, waiting for some kind of catch—a hidden assailant, one last guardian of the quiznos to take out anyone who makes it this far… but none appears.
+[Galadriel](/characters/galadriel/) hoists herself up and lies flat on the floor, her chin pressed against the cool quartzite. For a few breaths, she rests there without moving. The walls are a mosaic of gemstones, and their multicolored haloes reflect on the silver-white stone beneath her. She closes her eyes, waiting for some kind of catch—a hidden assailant, one last guardian of the quiznos to take out anyone who makes it this far… but none appears.
 
-“Do you see it?” comes Harlan’s voice from below.
+“Do you see it?” comes [Harlan](/characters/harlan/)’s voice from below.
 
 Warily, she lifts her head. The only features of the room other than the jewel-encrusted walls are a simple wooden ladder resting in a corner, leading up to a hatch in the ceiling, and a cracked wheel on a pedestal in the center of the room. A small dagger is embedded in the hub of the wheel. *Seek not the blade upon worlds divyde.* She knows what it is.
 
@@ -19,7 +19,7 @@ She rises to her knees and slides her backpack from her shoulder. She unrolls a 
 
 A flash of blue, just out of the range of her periphery, makes her breath catch. She turns and sees it: a phase spider, all caviar eyes and bulbous abdomen, its velvet blue legs folded like origami in the corner of the room. Her stomach hits the floor. In the next instant, the spider is gone.
 
-Hanamir is the first to emerge, hauling himself up the rope with athletic ease. 
+[Hanamir](/characters/hanamir/) is the first to emerge, hauling himself up the rope with athletic ease. 
 
 “You all right, Gals?” he asks, springing to his feet and looking around. “You look spooked.”
 
@@ -31,13 +31,13 @@ Harlan clambers up through the opening in the floor next.
 
 “All right, nobody touch anything yet,” he says. “We’ve been told how dangerous the quiznos is. Let’s try to use some caution.”
 
-Tannin pops through next. His eyes go wide at the sight of the dagger stuck in the wheel, and he stumbles as he rushes over to get a closer look.
+[Tannin](/characters/tannin/) pops through next. His eyes go wide at the sight of the dagger stuck in the wheel, and he stumbles as he rushes over to get a closer look.
 
 “Is that the thing?” he says. He reaches for it. “Can we use it?”
 
 “Just a second!” says Harlan. He swats Tannin’s hand away. “We’ll want to do some magic detection first—”
 
-“You could also help me get up there before you start splitting planes!” calls Hermione. Hanamir pulls the rope through the floor portal and lifts her into the room. “Thank you!”
+“You could also help me get up there before you start splitting planes!” calls [Hermione](/characters/hermione/). Hanamir pulls the rope through the floor portal and lifts her into the room. “Thank you!”
 
 “All right, I’m going to sense the dagger’s spiritual properties,” says Harlan. “Hermione, would you mind doing the same for its arcana?”
 

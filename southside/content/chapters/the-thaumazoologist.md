@@ -11,7 +11,7 @@ The adventurers huddle in the center of the empty orc temple. After [Hanamir](/c
 
 "Agreed," says [Harlan](/characters/harlan/) delicately. "But first, do we maybe want to search this place once more, in case we missed anything?"
 
-"Yes, let’s just do it for peace of mind," says Galadriel. She smiles tentatively at Hanamir, who gazes into the middle distance.
+"Yes, let’s just do it for peace of mind," says [Galadriel](/characters/galadriel/). She smiles tentatively at Hanamir, who gazes into the middle distance.
 
 They scour the temple top to bottom, and find shockingly few items of interest. There are zero religious texts devoted to Shargaas, no sacred implements, nothing in the way of sacrificial plunder, even. They just about call it a loss when, leaning on the altar, Harlan activates a well-hidden switch. The altar begins to swing sideways, and Harlan stands over a stone staircase leading down into a dark pit.
 
@@ -27,7 +27,7 @@ The stairs lead down to a small cellar. It’s at least 15 degrees cooler than t
 
 Galadriel’s ears perk up at the familiar voice, though she can’t quite place it. The elf woman’s soft blue hair is sectioned into disheveled plaits around her face. She squints up at the adventurers from the dirt floor, and Galadriel finally gets a good look at her. 
 
-"Hermione? Hermione Daydark?" Galadriel gasps. "It can’t be you! It’s been so long!"
+"[Hermione](/characters/hermione/)? Hermione Daydark?" Galadriel gasps. "It can’t be you! It’s been so long!"
 
 "Galadriel?" says the elf woman slowly. "Silmion and Luthien Moonwater’s grandkid, right?"
 

@@ -11,7 +11,7 @@ He is in the cave he once protected. He relishes the scents of the mineral strea
 
 As another crash of thunder reverberates through him, *from* him, Harlan understands: he is the most powerful being on the planet. He rules over the material plane. He is the slayer of Kord. 
 
-He wakes up, heart pounding, to the eerie silence of the inn. He struggles to shake off the feeling the dream left him with and go back to sleep, but finds it impossible. He decides to get out of bed and volunteer for the next shift. At least then Tannin can get some rest.
+He wakes up, heart pounding, to the eerie silence of the inn. He struggles to shake off the feeling the dream left him with and go back to sleep, but finds it impossible. He decides to get out of bed and volunteer for the next shift. At least then [Tannin](/characters/tannin/) can get some rest.
 
 “Thanks, man,” whispers Tannin as they trade places. “He hasn’t come out yet.” Tannin glances down at the bear trap a little ruefully.
 
@@ -21,7 +21,7 @@ He is finally home! And he has restored the missing library books—and then som
 
 Unnerved, Hanamir paces quietly around the room, careful not to wake the small, sleeping figure in the other bed. He figures now’s as good a time as any to go take his turn on watch. 
 
-Meanwhile, Hermione has finally managed to tune out Galadriel’s aggressive snoring and fall asleep. She, too, has a dream.
+Meanwhile, [Hermione](/characters/hermione/) has finally managed to tune out [Galadriel](/characters/galadriel/)’s aggressive snoring and fall asleep. She, too, has a dream.
 
 She is out in the wilderness, having just discovered some fascinating material for her book on magical creatures. She is certain that it’s shaping up to be another bestseller, perhaps her finest work yet. There are only a few more rare beasts that elude her, but if she can be patient and follow her instincts, the creatures she’s waiting for might just come to her….
 

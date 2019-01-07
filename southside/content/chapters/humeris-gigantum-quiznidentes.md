@@ -5,7 +5,7 @@
     "title": "Humeris Gigantum Quiznidentes"
 }
 
-[Harlan](/characters/harlan/) finishes wrapping Tannin’s wrist stump with bandages.
+[Harlan](/characters/harlan/) finishes wrapping [Tannin](/characters/tannin/)’s wrist stump with bandages.
 
 “There,” he says. “It’s really not so bad, I promise. And we already know where to go to get it fixed this time around!”
 
@@ -15,7 +15,7 @@ Tannin stares at the ground and makes a pitiful noise.
 
 “I guess so,” sniffs Tannin.
 
-“Can we agree to get rid of the satchel of bread? ” says Hermione, searching the group for consensus. “It’s claimed two hands now, and—”
+“Can we agree to get rid of the satchel of bread? ” says [Hermione](/characters/hermione/), searching the group for consensus. “It’s claimed two hands now, and—”
 
 “No!” says Tannin. He clutches the satchel to his chest with his one remaining hand. “No way! This bread is an awesome deal!” His voice rises in both volume and pitch. “It only sometimes eats a hand! The rest of the time it’s amazing!”
 
@@ -29,7 +29,7 @@ The skeletons definitely belong to a set of explorers. One of their bony hands s
 
 “Stairs?!” Magic whispers, eyes wide. “Yes, stairs! Let’s go—go to the stairs now—up and up, higher and higher—”
 
-“Maybe let’s just see what’s behind this other door we haven’t checked before we move on,” says Galadriel. “They didn’t mark it in any way. Hanamir, can you take a peek?”
+“Maybe let’s just see what’s behind this other door we haven’t checked before we move on,” says [Galadriel](/characters/galadriel/). “They didn’t mark it in any way. Hanamir, can you take a peek?”
 
 Hanamir approaches a heavy stone door in one corner of the jungle room. Its face is overgrown with vines, and they might not have noticed it without the map. He holds an ear to the crack for a moment, then pushes it open as quietly as he can.
 

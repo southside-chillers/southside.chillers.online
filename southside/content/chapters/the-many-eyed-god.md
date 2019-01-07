@@ -26,17 +26,17 @@ We now return to the Tale of the Southside Chillers, already in progress. At thi
 
 ---
 
-Galadriel peers at the Elvish inscription.
+[Galadriel](/characters/galadriel/) peers at the Elvish inscription.
 
 “Thronth?” she says, frowning.
 
-“I’m pretty sure it’s supposed to be ‘through,’” says Hermione.
+“I’m pretty sure it’s supposed to be ‘through,’” says [Hermione](/characters/hermione/).
 
-“All right, let’s think about this before we proceed,” says Harlan. “We’ve made it this far, against all odds. Can’t screw it up now.”
+“All right, let’s think about this before we proceed,” says [Harlan](/characters/harlan/). “We’ve made it this far, against all odds. Can’t screw it up now.”
 
-“I bet we can think through this logically,” says Hanamir. “Figure out a way to enter that works to our advantage.”
+“I bet we can think through this logically,” says [Hanamir](/characters/hanamir/). “Figure out a way to enter that works to our advantage.”
 
-“What is there to think through?” says Tannin, twirling his trident. “It’ll use our strengths against us. Phil said so. Let’s go!” 
+“What is there to think through?” says [Tannin](/characters/tannin/), twirling his trident. “It’ll use our strengths against us. Phil said so. Let’s go!” 
 
 “Okay, who’s the strongest, then? You, right?” says Harlan. “Or Hanamir?”
 

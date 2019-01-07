@@ -5,13 +5,13 @@
     "title": "Axe and Claw"
 }
 
-[Harlan](/characters/harlan/), [Hanamir](/characters/hanamir/), and Galadriel return to the pond in the burning woods. They are still reeling from their encounter in the spider cave, but after Galadriel performs a short Song of Rest, they feel a bit stronger. 
+[Harlan](/characters/harlan/), [Hanamir](/characters/hanamir/), and [Galadriel](/characters/galadriel/) return to the pond in the burning woods. They are still reeling from their encounter in the spider cave, but after Galadriel performs a short Song of Rest, they feel a bit stronger. 
 
 “Shall we explore this pond?” asks Harlan, peering at it. The water is dark, and he can’t see beneath the surface.
 
 Hanamir needs no encouragement and dives right in. He sees about ten skeletons lying in the pond's murky depths. “Dead tieflings down there, it looks like,” he reports back. 
 
-Just then, they hear a loud noise from the woods beside them. Before anyone can prepare for attack, someone crashes through the trees, wielding a battering ram and smoldering faintly. It’s Tannin! 
+Just then, they hear a loud noise from the woods beside them. Before anyone can prepare for attack, someone crashes through the trees, wielding a battering ram and smoldering faintly. It’s [Tannin](/characters/tannin/)! 
 
 The group welcomes their dwarven friend back and tells him the tale of their recent adventures. Tannin shows off the new ram he spent all that time earning, and then takes notice of the pig. “Who brought the snack?” he asks. 
 

@@ -13,7 +13,7 @@ In the past, he would make a game of re-shelving books without drawing the atten
 
 And ever since he began adventuring with this crew, that practice has served him well. 
 
-Today, Hanamir walks unnoticed into a heavily-armed compound patrolled day and night by trained guards, and it’s as easy as breathing. He sneaks past the cellblock where his friends are locked up, and none of them see him. *Good*, he thinks. He passes the store room, where he spots [Harlan](/characters/harlan/)’s maul and Tannin’s trident, among other weapons, piled in a corner. There are racks of uniforms hanging on the back wall. *Good*, he thinks. 
+Today, Hanamir walks unnoticed into a heavily-armed compound patrolled day and night by trained guards, and it’s as easy as breathing. He sneaks past the cellblock where his friends are locked up, and none of them see him. *Good*, he thinks. He passes the store room, where he spots [Harlan](/characters/harlan/)’s maul and [Tannin](/characters/tannin/)’s trident, among other weapons, piled in a corner. There are racks of uniforms hanging on the back wall. *Good*, he thinks. 
 
 Down another corridor, he hears voices. They’re discussing politics.
 
@@ -31,7 +31,7 @@ Down another corridor, he hears voices. They’re discussing politics.
 
 Hanamir tiptoes away, silent as a cloud. Prisoners transferred to a ship? *Not good at all*, he thinks. There’s nothing for it: it’s time for him to spring them out of jail. He slips back to the store room and snags four uniforms in measurements he hopes will be roughly appropriate for his variously-sized friends. They’re the plain variety, not the amber robes of the special force that appears to handle magic-related issues. But he’ll take what he can get.
 
-He materializes at the cellblock, and holds a finger to his lips before Tannin can voice his excitement to see him. He begins picking the locks, making quick work of them all. He tosses a uniform to each of them. Galadriel, Tannin, Hermione, and Harlan quickly don the robes and exit their cells, mimicking Hanamir’s stealth as closely as they can. 
+He materializes at the cellblock, and holds a finger to his lips before Tannin can voice his excitement to see him. He begins picking the locks, making quick work of them all. He tosses a uniform to each of them. [Galadriel](/characters/galadriel/), Tannin, [Hermione](/characters/hermione/), and Harlan quickly don the robes and exit their cells, mimicking Hanamir’s stealth as closely as they can. 
 
 Once they are out of the cellblock, they creep down the hallway to the room where the guards are still discussing the order to move the prisoners. 
 

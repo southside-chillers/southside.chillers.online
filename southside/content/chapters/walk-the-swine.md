@@ -9,9 +9,9 @@ The adventurers hesitate. The speaking skeleton walks closer.
 
 “There’s no need to depart so hastily,” it continues. “Why not stay a little longer?”
 
-Tannin and [Hanamir](/characters/hanamir/) glance at each other and ready their weapons. But as they prepare to charge, a bolt of lightning connects with the ground beneath the group of skeletons, illuminating their bones for a fraction of a second, then exploding them. When the dust clears, only four skeletons remain standing.
+[Tannin](/characters/tannin/) and [Hanamir](/characters/hanamir/) glance at each other and ready their weapons. But as they prepare to charge, a bolt of lightning connects with the ground beneath the group of skeletons, illuminating their bones for a fraction of a second, then exploding them. When the dust clears, only four skeletons remain standing.
 
-“Kord be praised!” comes [Harlan](/characters/harlan/)’s voice from above, on the back of the giant bat. His lone hand, still crackling with electricity, is raised in blessing. (Galadriel makes a mental note that this tableau should be the cover art for the metal album she will one day compose about this very adventure.)
+“Kord be praised!” comes [Harlan](/characters/harlan/)’s voice from above, on the back of the giant bat. His lone hand, still crackling with electricity, is raised in blessing. ([Galadriel](/characters/galadriel/) makes a mental note that this tableau should be the cover art for the metal album she will one day compose about this very adventure.)
 
 “I was merely inviting you to stay,” says the skeleton coolly. He and his compatriots step aside to let the adventurers pass.
 
@@ -19,7 +19,7 @@ They approach the forbidding black wall at the edge of the city. The four skelet
 
 “You guys can leave us alone now,” Tannin suggests. Their empty eye sockets stare back at him.
 
-“Let’s just go,” says Hermione. “Now, quickly, before they try to pull any more tricks.”
+“Let’s just go,” says [Hermione](/characters/hermione/). “Now, quickly, before they try to pull any more tricks.”
 
 “So we’re all right with them seeing how we leave?” says Hanamir. “And that we’re leaving with…” He points behind himself to his backpack, where Redyl is stowed away.
 

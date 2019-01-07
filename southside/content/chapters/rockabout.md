@@ -5,7 +5,7 @@
     "title": "Rockabout"
 }
 
-As a young elf, Hermione suffered frequently from nightmares. It’s not that she was afraid of the *dark*, she would always explain. She was afraid of what might be *hiding* in the dark. It’s part of how she became interested in thaumazoology, in fact. 
+As a young elf, [Hermione](/characters/hermione/) suffered frequently from nightmares. It’s not that she was afraid of the *dark*, she would always explain. She was afraid of what might be *hiding* in the dark. It’s part of how she became interested in thaumazoology, in fact. 
 
 “To study a creature is to tame it in your mind,” she would sometimes say when introducing herself at cocktail parties.  “If you know its needs, its weaknesses, its habitual behavior… you can outsmart it. You can protect yourself with knowledge.”
 
@@ -17,7 +17,7 @@ The boy dies this way countless times in Hermione’s head before she wakes up. 
 
 ---
 
-The other adventurers awaken abruptly to the sound of Tannin’s voice reading in a loud monotone.
+The other adventurers awaken abruptly to the sound of [Tannin](/characters/tannin/)’s voice reading in a loud monotone.
 
 “My dear friends,” he announces. “Due to some distressing dreams I have decided to travel ahead on my own worry not though I will meet you at the gates of Aberith much love—” He squints. “Herm—Hermy… nine. Ohhh, is that the blue-haired chick?” He counts the other members of the party, who are grumbling incoherently. “Yeah, must be.”
 
@@ -25,7 +25,7 @@ The other adventurers awaken abruptly to the sound of Tannin’s voice reading i
 
 “Forgot,” shrugs Tannin. He drops the note on the ground. “Come on, guys, the sun’s almost done rising. Let’s go.”
 
-[Hanamir](/characters/hanamir/), Redyl, and the Savage find this call-to-action persuasive. Harlan seems to be considering it. Galadriel dissents.
+[Hanamir](/characters/hanamir/), Redyl, and the Savage find this call-to-action persuasive. Harlan seems to be considering it. [Galadriel](/characters/galadriel/) dissents.
 
 After a few minutes, though, even she cannot remain asleep amidst the high-pitched shrieking noises produced by Harlan’s bat.
 
