@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "hermione",
         "galadriel",
@@ -22,7 +23,7 @@ The adventurers make their way back over the bridge to meet up with [Tannin](/ch
 
 “Great!” says [Hermione](/characters/hermione/). She shows off the library passes and checkpoint passes that King Slee signed for them all. “We can research how to defeat the Lich in the royal library, and we can pass through the city without having to pretend to be diplomats.”
 
-The Savage stares off into the distance.
+[The Savage](/characters/the-savage/) stares off into the distance.
 
 “I’m going to go talk to some people about forming a militia,” he says.
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "khargol",
         "hermione",
@@ -42,7 +43,7 @@
 
 Sure enough, the one-armed wonder himself emerges at the doorway of the throne room. But the adventurers notice that he looks older—by what looks like at least thirty years. 
 
-The Savage stares ahead at Khargol, brandishing his longsword (in one hand!!!), and looks dead set on finishing what he started.
+[The Savage](/characters/the-savage/) stares ahead at Khargol, brandishing his longsword (in one hand!!!), and looks dead set on finishing what he started.
 
 “Savage! It’s us! We’ve secured Khargol!” says Harlan. He lands his bat and ties it to a column.
 

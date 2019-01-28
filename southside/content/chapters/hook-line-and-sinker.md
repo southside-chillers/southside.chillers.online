@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "galadriel",
         "harlan",
@@ -20,7 +21,7 @@ Each non-submerged member of the party leaps into action in a different directio
  
 The Wyrmling is shocked and enraged. It unfurls its enormous wings and beats the air in powerful bursts, rising from the water to hover in mid-air. Steam surrounds its body like a shimmering veil. Still blind, it falls silent in an attempt to locate its adversaries. It hears Tannin say “Almost there!” as he pulls Hanamir up over the edge of the pit. And then it hears two identical voices, rising in volume and desperation.
  
-Two people stumble out of the fog cloud, locked in a very well-matched tussle. They both appear to be the Savage. 
+Two people stumble out of the fog cloud, locked in a very well-matched tussle. They both appear to be [the Savage](/characters/the-savage/). 
  
 “That’s the Slaad! I’m the real Savage! Kill it!” says the one on the left.
  

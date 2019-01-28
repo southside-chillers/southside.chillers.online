@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "galadriel",
         "harlan",
@@ -20,7 +21,7 @@ They ask him what to expect if they succeed in viewing the moon with the red gla
 
 The team lets him know that the orcs they've encountered have claimed responsibility via their god, Shargaas, for the threat to the moon. "Shargaas?!" Bryn exclaims, with a pointed look toward Hanamir. 
 
-"My only god is the written word," says Hanamir. "But there is an orc temple to Shargaas not far from here, according to the Savage."
+"My only god is the written word," says Hanamir. "But there is an orc temple to Shargaas not far from here, according to [the Savage](/characters/the-savage/)."
 
 "Oh! He's around? I'm surprised he hasn't made himself known," says Bryn, his tone changing. "The Savage is an old friend of the town. I haven't seen him since I was a boy, but he's a famous warrior. Utterly devoted to the pursuit of valor. He's saved us from more than one disaster in the past." Bryn considers this, and frowns. "I know not if his presence now be an omen of good or ill."
 

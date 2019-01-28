@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "hermione",
         "galadriel",
@@ -34,7 +35,7 @@ The other adventurers awaken abruptly to the sound of [Tannin](/characters/tanni
 
 “Forgot,” shrugs Tannin. He drops the note on the ground. “Come on, guys, the sun’s almost done rising. Let’s go.”
 
-[Hanamir](/characters/hanamir/), [Redyl](/characters/redyl/), and the Savage find this call-to-action persuasive. Harlan seems to be considering it. [Galadriel](/characters/galadriel/) dissents.
+[Hanamir](/characters/hanamir/), [Redyl](/characters/redyl/), and [the Savage](/characters/the-savage/) find this call-to-action persuasive. Harlan seems to be considering it. [Galadriel](/characters/galadriel/) dissents.
 
 After a few minutes, though, even she cannot remain asleep amidst the high-pitched shrieking noises produced by Harlan’s bat.
 

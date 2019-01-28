@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "hermione",
         "galadriel",
@@ -250,7 +251,7 @@ He reaches out with it, and Galadriel’s hand meets his. She takes the ring and
 
 “I have heard of the recent discord among the orcs. Some travelers passing through have seen orcs battling each other—there’s something that has divided them up amongst themselves,” says Fleck.
 
-“Have you seen the Savage?” says Galadriel.
+“Have you seen [the Savage](/characters/the-savage/)?” says Galadriel.
 
 “Not since the day of the Moon Festival,” says Fleck. “And only briefly. He hasn’t been back.”
 
