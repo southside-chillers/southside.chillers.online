@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "khargol",
         "hermione",
         "galadriel",
         "harlan",
@@ -79,7 +80,7 @@ Hermione looks on as Hanamir takes a roll of parchment and a pen out of his back
 
 *2. In a nearby temple to the orc god Shargaas, my companions and I found DSU’s own marked copy of* Anatomy of Bugbears, Second Edition. *It had been desecrated, its pages entirely hollowed out. Forgive me—I know this is painful to read about. It was quite devastating to see in person.* 
 
-*3. Khargol, a leader of Shargaas-aligned orcs, delivered a few oblique taunts regarding my quest to recover the Interlibrary Loan shipment. He called me a “delivery boy” and mentioned that I “didn’t even know what I was carrying.” This, and the hollowed-out copy of* AoB2E, *suggests to me that the books are being used for some unsavory purpose by the cult of Shargaas, perhaps as vessels to transport the magical tuning forks they have been using to plane-shift into the Sealed City.* 
+*3. [Khargol](/characters/khargol/), a leader of Shargaas-aligned orcs, delivered a few oblique taunts regarding my quest to recover the Interlibrary Loan shipment. He called me a “delivery boy” and mentioned that I “didn’t even know what I was carrying.” This, and the hollowed-out copy of* AoB2E, *suggests to me that the books are being used for some unsavory purpose by the cult of Shargaas, perhaps as vessels to transport the magical tuning forks they have been using to plane-shift into the Sealed City.* 
 
 *The trail has since gone cold, but I have not given up. These books are my responsibility. Accounting for them and seeking justice for their theft and/or destruction is my sacred duty.*
 

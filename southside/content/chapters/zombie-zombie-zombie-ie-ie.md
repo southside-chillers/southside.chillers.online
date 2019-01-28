@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "khargol",
         "hermione",
         "galadriel",
         "harlan",
@@ -120,7 +121,7 @@ Harlan remembers his dream and how good he felt being the slayer of Kord. He fee
 
 “Anyway, I told him what I suspect about the Savage, and asked him to get in my backpack so that I could transport him with us in secrecy. He agreed, and was an excellent sport about it,” says Hanamir.
 
-“Oh, it was plenty roomy for me,” says Redyl with a tiny chuckle. “And I was very glad to be out of the company of Khargol and his men.”
+“Oh, it was plenty roomy for me,” says Redyl with a tiny chuckle. “And I was very glad to be out of the company of [Khargol](/characters/khargol/) and his men.”
 
 “I also told him that whatever is going on with his kids, whether that threat was real or not, we will do what we can to help him,” says Hanamir.
 

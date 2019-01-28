@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "khargol",
         "hermione",
         "galadriel",
         "harlan",
@@ -336,7 +337,7 @@ Redyl laughs and looks down at Tannin.
 
 He pauses to take a breath, smiling wryly. 
 
-“Not sure if it was truly lucky, or unlucky, actually. But my spell worked, and we went through the Shadowfell to the City of the Dead. Khargol then came through the portal after us. I don’t know what became of the other orcs who didn’t come with us, or of the remaining tuning forks they had with them.”
+“Not sure if it was truly lucky, or unlucky, actually. But my spell worked, and we went through the Shadowfell to the City of the Dead. [Khargol](/characters/khargol/) then came through the portal after us. I don’t know what became of the other orcs who didn’t come with us, or of the remaining tuning forks they had with them.”
 
 The party walks in silence for awhile, turning this information over. The afternoon bleeds into evening, and the setting sun makes them all a little sluggish. Harlan whistles for his bat to carry him awhile. Under the pink sky, the terrain is flatter now, with no forests or rivers in sight, though a faint marshy smell is in the air.
 

@@ -3,6 +3,7 @@
         "hanamir",
         "galadriel",
         "harlan",
+        "cazna",
         "tannin"
     ],
     "appearances_weight": 100,
@@ -104,7 +105,7 @@ A somewhat bloodied orc emerges. He wears armor; he’s a warrior.
 
 **Hanamir**: It doesn’t matter.
 
-**Orc**: Well, you held up your end of the deal, I’ll hold up mine and be on my way...Good luck with Cazna. _(he leaves)_
+**Orc**: Well, you held up your end of the deal, I’ll hold up mine and be on my way...Good luck with [Cazna](/characters/cazna/). _(he leaves)_
 
 The group checks the orc’s cell. It smells pretty bad. Some rat bones...not too much else in there worthy of reporting. It seems he had been in there a week or two.
 

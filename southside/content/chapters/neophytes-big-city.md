@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "khargol",
         "hermione",
         "galadriel",
         "harlan",
@@ -358,7 +359,7 @@ The king looks amused, and the Minister of Trade chuckles.
 
 “I’m well aware of the Order of the Been, if that’s what you mean,” says Kandir.
 
-“Well, we just came from Eillin,” says Harlan. “Rather, the Eillin border, where we were able to speak briefly with Mayor Thunderstruck. We told him, and now must tell you, that the Lich is amassing power within the City of the Dead, and is allied with Khargol and his orcs with the goal of killing one or more gods, and of loosing his undead upon the continent.”
+“Well, we just came from Eillin,” says Harlan. “Rather, the Eillin border, where we were able to speak briefly with Mayor Thunderstruck. We told him, and now must tell you, that the Lich is amassing power within the City of the Dead, and is allied with [Khargol](/characters/khargol/) and his orcs with the goal of killing one or more gods, and of loosing his undead upon the continent.”
 
 Slee furrows his brow, but the trade minister speaks up first.
 

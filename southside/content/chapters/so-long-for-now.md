@@ -4,6 +4,7 @@
         "hermione",
         "galadriel",
         "harlan",
+        "cazna",
         "tannin"
     ],
     "appearances_weight": 390,
@@ -221,7 +222,7 @@ Magic circles around the room touching every gem in turn, waiting for one of the
 
 Before Galadriel can reply, a disembodied giggle makes the hair on Hanamir’s arms stand on end. He recognizes the laughter, cold as a moonless night.
 
-“Hello,” says Cazna. “It’s good to see you all again.”
+“Hello,” says [Cazna](/characters/cazna/). “It’s good to see you all again.”
 
 The late High Priestess of Lolth stands face-to-face with Galadriel. Her entire lower half has been replaced with a set of eight long, black legs. The adventurers stare at her, frozen in shock.
 

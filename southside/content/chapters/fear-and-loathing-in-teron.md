@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "khargol",
         "hermione",
         "galadriel",
         "harlan",
@@ -13,7 +14,7 @@
     "title": "Fear and Loathing in Teron"
 }
 
-“So… how’d your meeting go?” asks [Tannin](/characters/tannin/). He blocks Khargol’s blood-spattered path through the anteroom.
+“So… how’d your meeting go?” asks [Tannin](/characters/tannin/). He blocks [Khargol](/characters/khargol/)’s blood-spattered path through the anteroom.
 
 “I said let’s go!” shouts Khargol, and his voice sounds tense and panicky. 
 

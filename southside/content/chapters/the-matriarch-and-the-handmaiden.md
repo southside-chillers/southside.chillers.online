@@ -2,7 +2,8 @@
     "appearances": [
         "hanamir",
         "galadriel",
-        "harlan"
+        "harlan",
+        "cazna"
     ],
     "appearances_weight": 120,
     "chapter": 12,
@@ -25,7 +26,7 @@ She conjures a new flashback window. In it, you can see [Hanamir](/characters/ha
 
 “And books are your favorite! An unlikely gift from an orc god,” says Galadriel. 
 
-“Yes. He doesn’t quite understand, but he knows I am particular about my books,” says Hanamir. “I told him Shargaas is attacking the moon. He didn’t know, and he was displeased. I asked him what we can do to help. His advice was to kill the priestess, Cazna, and not to trust Tiamat.”
+“Yes. He doesn’t quite understand, but he knows I am particular about my books,” says Hanamir. “I told him Shargaas is attacking the moon. He didn’t know, and he was displeased. I asked him what we can do to help. His advice was to kill the priestess, [Cazna](/characters/cazna/), and not to trust Tiamat.”
 
 “The dragon god?” says Harlan. “That’s not one of our orbs.”
 

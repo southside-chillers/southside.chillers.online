@@ -4,6 +4,7 @@
         "hermione",
         "galadriel",
         "harlan",
+        "cazna",
         "tannin"
     ],
     "appearances_weight": 190,
@@ -79,7 +80,7 @@ The orc leader gives him a once-over.
 
 “Tell me more, brother,” says Hanamir.
 
-“Were you the ones who killed Cazna?” The orc leader’s lips stretch into what could be a smile or a grimace. 
+“Were you the ones who killed [Cazna](/characters/cazna/)?” The orc leader’s lips stretch into what could be a smile or a grimace. 
 
 “I’ve done a lot of things,” says Hanamir. The rest of the adventurers listen on, understanding nothing, though Hermione nods along with the conversation.
 
