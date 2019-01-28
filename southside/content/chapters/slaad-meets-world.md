@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "galadriel",
         "harlan",
@@ -68,7 +69,7 @@ In an odd, disorienting moment, Tannin, Hanamir, and Galadriel find themselves p
 
 The party continues up the stairs to a large cavernous room. There’s blood on the floor—some of it fresh, some of it old, some of it green. There are two large metal doors on opposite walls. The floor slopes upward in a staggered fashion, sort of like amphitheatre seating. At the end of the room, there’s another staircase up to the next floor. In one corner, there is a pile of rags and six levers in the wall, all different colors: white, black, gold, green, blue, and red. The gold one is pulled down.
 
-_CRASH!_ From another plane, a Death Slaad appears, roaring and bleeding from a freshly-chopped-off arm. There is someone riding on its back—it’s the Savage! And he’s impaled on a spike on the Slaad’s back! Tannin throws his spear at the Slaad, but misses and knocks the Savage to the ground instead. 
+_CRASH!_ From another plane, a Death Slaad appears, roaring and bleeding from a freshly-chopped-off arm. There is someone riding on its back—it’s [the Savage](/characters/the-savage/)! And he’s impaled on a spike on the Slaad’s back! Tannin throws his spear at the Slaad, but misses and knocks the Savage to the ground instead. 
 
 “Stand back!” shouts the Savage. Hanamir throws a dart, but it bounces off the Slaad’s hide.
 

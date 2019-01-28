@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "khargol",
         "galadriel",
@@ -215,7 +216,7 @@ The camera cuts to the interior of the tavern. Two young drow women stare at the
 
 Cut to Fleck behind the bar, coin eyes glittering in the light from the bonfire outside. 
 
-“I pretty much just serve drinks,” he says serenely. “But I did get to be part of the planning of it, yeah. And before he had to go, the Savage gave me this note to read at the celebration. I think he forgot that I… can’t anymore.” A pregnant pause. “He did say he was sorry he can’t be here for the festivities. He has business to attend to. It’s a shame, because everyone in town loves him.”
+“I pretty much just serve drinks,” he says serenely. “But I did get to be part of the planning of it, yeah. And before he had to go, [the Savage](/characters/the-savage/) gave me this note to read at the celebration. I think he forgot that I… can’t anymore.” A pregnant pause. “He did say he was sorry he can’t be here for the festivities. He has business to attend to. It’s a shame, because everyone in town loves him.”
 
 Galadriel, off camera, asks: “Any idea where he went?”
 

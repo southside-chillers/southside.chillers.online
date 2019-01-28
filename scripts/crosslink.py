@@ -50,16 +50,15 @@ class Transformer(object):
         if next_char.isalpha():
             return False
         for slug in self.unseen_slugs:
-            if substring.lower() == slug.lower():
+            if substring.lower().replace(' ', '-') == slug.lower():
                 return True
 
         return False
 
     def _matches_unseen_slug(self, candidate):
-
         for slug in self.unseen_slugs:
             can_len = len(candidate)
-            if candidate.lower() == slug[:can_len]:
+            if candidate.lower().replace(' ', '-') == slug[:can_len]:
                 return True
 
         return False
@@ -98,17 +97,18 @@ class Transformer(object):
 
         next_character = self._next_character()
 
-        if next_character.isspace():
-            self.beginning_of_name = None
-
-        elif self._scanning_for_name_beginning():
+        if self._scanning_for_name_beginning():
             if self._matches_unseen_slug(next_character):
                 self.beginning_of_name = self.character_index
 
         elif self._scanning_for_name_ending():
+            substring = self._get_current_substring()
+            if not self._matches_unseen_slug(substring):
+                self.beginning_of_name = None
+                return
+
             if self._at_name_ending():
-                substring = self._get_current_substring()
-                slug = self.unseen_slugs.pop(self.unseen_slugs.index(substring.lower()))
+                slug = self.unseen_slugs.pop(self.unseen_slugs.index(substring.lower().replace(' ', '-')))
                 link_string = "[{}](/characters/{}/)".format(substring, slug)
                 before = self.markdown[self.line_index][: self.beginning_of_name]
                 after = self.markdown[self.line_index][self.character_index + 1 :]

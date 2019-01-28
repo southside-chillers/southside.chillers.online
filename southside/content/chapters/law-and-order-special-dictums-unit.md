@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "hermione",
         "galadriel",
@@ -97,7 +98,7 @@ Galadriel explains: the ever-burning forest fire, the tiefling skeletons, the lo
 
 Hermione rises from her chair, looking nervous but determined to speak up.
 
-“Our other mutual friend, the Savage, was under the control of some dark and powerful magic recently,” she says, “so we know that right-thinking individuals can be swayed to perform acts of evil, through no fault of their own.”
+“Our other mutual friend, [the Savage](/characters/the-savage/), was under the control of some dark and powerful magic recently,” she says, “so we know that right-thinking individuals can be swayed to perform acts of evil, through no fault of their own.”
 
 This results in a surge of murmurs from the council, which echo and distort themselves until the adventurers can’t quite make out any of the specific words being said. After a short while, Minister Mirama holds up a hand for silence. 
 

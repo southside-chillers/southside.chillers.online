@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "galadriel",
         "harlan",
@@ -238,7 +239,7 @@ Frunk nods, then sighs.
 
 The adventurers are silent, their drinks untouched, waiting for him to continue.
 
-"So. We’re known as the Order of the Been," says Frunk. "King Slee and I are the only two surviving first order members. Uncle was the founder." He sips his ale. "Bryn was a second order member, along with the Savage, and Feld—you may have met him at the Moon Festival. H’Jun’s cousin."
+"So. We’re known as the Order of the Been," says Frunk. "King Slee and I are the only two surviving first order members. Uncle was the founder." He sips his ale. "Bryn was a second order member, along with [the Savage](/characters/the-savage/), and Feld—you may have met him at the Moon Festival. H’Jun’s cousin."
 
 "We actually met him in the Lolth priestesses’ tower," says Galadriel. "He was imprisoned there. But go on."
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "galadriel",
         "harlan",
@@ -20,7 +21,7 @@ They decide to hit up the marketplace in town to do a little shopping, since the
 
 Harlan, Hanamir, and [Galadriel](/characters/galadriel/) make their way back to Bryn's observatory to deliver the red glass. Bryn looks frazzled and sleep-deprived, but he's very excited to receive the glass. He says he'll get started right away on his machine, but it will take him 3 or 4 hours to complete it. 
 
-Our heroes decide to head back toward the well to try and catch up with the missing townsfolk. On the way out of town, they encounter a human traveler. He looks world-weary, about 60 years old, and wears armor that he has modified himself. He's called the Savage, and he says he's on his way into Eillin for the Moon Festival, having just passed through the Town of the Undead. Hanamir notices that he's wearing a ring inscribed with a "B," just like the one from the marketplace. He also looks about half as old, when Hanamir really takes a good look at him. The ring doesn't seem to be magical, but when the Savage notices Hanamir's gaze, he tries to cover up his hand. When the group presses him on it, and mentions that there's a matching ring in town, he is unnerved and hurries away.
+Our heroes decide to head back toward the well to try and catch up with the missing townsfolk. On the way out of town, they encounter a human traveler. He looks world-weary, about 60 years old, and wears armor that he has modified himself. He's called [the Savage](/characters/the-savage/), and he says he's on his way into Eillin for the Moon Festival, having just passed through the Town of the Undead. Hanamir notices that he's wearing a ring inscribed with a "B," just like the one from the marketplace. He also looks about half as old, when Hanamir really takes a good look at him. The ring doesn't seem to be magical, but when the Savage notices Hanamir's gaze, he tries to cover up his hand. When the group presses him on it, and mentions that there's a matching ring in town, he is unnerved and hurries away.
 
 The party moves onward and makes it to the well. Galadriel yells down, but there's no response. They decide to go in and check. It looks just how they left it, but there's a spear on the ground in the first chamber. They proceed down the stairs and find that the grate in the floor has been moved. They can't see anything down there, even with darkvision.
 

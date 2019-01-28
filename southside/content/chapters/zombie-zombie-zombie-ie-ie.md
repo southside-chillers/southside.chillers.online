@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "khargol",
         "hermione",
@@ -81,7 +82,7 @@ At this point, the night has given way to a dim pre-dawn haze. Hermione still st
 
 “Really? I had a creepy dream, too,” Hermione says. “I wonder if it’s something about this place.”
 
-“Wouldn’t be surprised,” says Galadriel. They sit together in silence, staring at the bear trap, then the Savage’s door, then the ceiling, wishing the sun would hurry up and rise already. 
+“Wouldn’t be surprised,” says Galadriel. They sit together in silence, staring at the bear trap, then [the Savage](/characters/the-savage/)’s door, then the ceiling, wishing the sun would hurry up and rise already. 
 
 “Want to go see if the boys are awake, too?” says Hermione.
 

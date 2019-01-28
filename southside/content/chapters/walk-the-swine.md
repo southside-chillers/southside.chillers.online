@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "the-savage",
         "hanamir",
         "khargol",
         "hermione",
@@ -37,7 +38,7 @@ They approach the forbidding black wall at the edge of the city. The four skelet
 
 Hanamir nods and sets his backpack down to let Redyl out. 
 
-“Who’s this?” the Savage grunts. 
+“Who’s this?” [the Savage](/characters/the-savage/) grunts. 
 
 “We’ll explain later,” says Hermione, dancing back and forth on her feet. “Please, let’s go. Who’s in the first group?”
 
