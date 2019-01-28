@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 320,
     "chapter": 32,
     "date": "2018-08-30T12:00:00-04:00",
     "description": "Thinking faster, climbing higher, cheating at sports.",

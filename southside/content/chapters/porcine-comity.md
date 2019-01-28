@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 40,
     "chapter": 4,
     "date": "2017-10-23T12:01:31-04:00",
     "description": "Discoveries with unforeseen consequences, and a new friend?",

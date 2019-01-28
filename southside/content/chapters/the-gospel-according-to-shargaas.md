@@ -1,4 +1,14 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "cazna",
+        "tannin"
+    ],
+    "appearances_weight": 200,
     "chapter": 20,
     "date": "2018-04-06T12:00:00-04:00",
     "description": "An unlikely alliance, a religious revolt, and a redemptive flight.",
@@ -49,7 +59,7 @@ Another Orcish voice begins reciting something that Hanamir guesses is a prayer 
 
 “Oh, we’d like to prevent the unspeakable horror in this city from escaping and terrorizing the world,” Hanamir explains.
 
-“I think you’re in over your head, half-orc,” says the orc leader, switching to Common. “We have business with the king of this city. We don’t want or care to fight you, really. We thought what you did to Cazna was hilarious.”
+“I think you’re in over your head, half-orc,” says the orc leader, switching to Common. “We have business with the king of this city. We don’t want or care to fight you, really. We thought what you did to [Cazna](/characters/cazna/) was hilarious.”
 
 “Well, first of all, it *was* hilarious, so thank you,” Galadriel interjects. “But what kind of business do you all have with the king in the City of the Dead?” 
 
@@ -103,7 +113,7 @@ After some haphazard wandering, the unlikely companions arrive at an ornate buil
 
 “Welcome to the palace,” says the skeleton. The adventurers are surprised that this one can speak after their experience with the skeletons in the tavern. Its jaw doesn’t move, making the voice that emanates from the skull that much creepier. “What brings you here?”
 
-“We are here for an audience with the king,” says the orc leader. “I am Khargol.”
+“We are here for an audience with the king,” says the orc leader. “I am [Khargol](/characters/khargol/).”
 
 “Hello, Khargol,” says the skeleton. “I am the king. I request kindly that you leave this city. We do not allow visitors.”
 

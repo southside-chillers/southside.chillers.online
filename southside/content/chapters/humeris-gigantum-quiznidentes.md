@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 350,
     "chapter": 35,
     "date": "2018-09-21T12:00:00-04:00",
     "description": "When standing on the shoulders of giants, be prepared for the fall.",

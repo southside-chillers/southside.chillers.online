@@ -131,8 +131,11 @@ class Transformer(object):
 
 
 def transform(input_markdown, slugs):
+    input_slugs = slugs.copy()
     t = Transformer(input=input_markdown, slugs=slugs)
-    return t.transform()
+    text = t.transform()
+    found_slugs = [s for s in input_slugs if s not in t.unseen_slugs]
+    return found_slugs, text
 
 
 def get_base_dir():
@@ -237,7 +240,17 @@ def ensure_cross_link(chapter_path, characters):
 
     character_slugs = [c["slug"] for c in characters]
 
-    new_markdown = transform(original_markdown, character_slugs)
+    found_slugs, new_markdown = transform(original_markdown, character_slugs)
+    front_matter['appearances'] = found_slugs
+    try:
+        front_matter['appearances_weight'] = int(front_matter['chapter']) * 10
+    except ValueError as err:
+        if front_matter['chapter'] == "26: Part I":
+            front_matter['appearances_weight'] = 260
+        elif front_matter['chapter'] == "26: Part II":
+            front_matter['appearances_weight'] = 265            
+        else:
+            raise err
 
     with open(chapter_path, "w") as outfile:
         json.dump(front_matter, outfile, sort_keys=True, indent=4, ensure_ascii=False)

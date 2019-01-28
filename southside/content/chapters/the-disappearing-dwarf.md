@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 110,
     "chapter": 11,
     "date": "2018-01-08T21:28:04-04:00",
     "description": "Our heroes once more become a triad.",

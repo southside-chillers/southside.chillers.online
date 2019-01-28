@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 30,
     "chapter": 3,
     "date": "2017-10-21T10:13:34-04:00",
     "description": "A confrontation with sinister forces in a holy place.",

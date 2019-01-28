@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 70,
     "chapter": 7,
     "date": "2017-11-17T13:11:44-04:00",
     "description": "Divine wisdom, and entry to a dark tower.",

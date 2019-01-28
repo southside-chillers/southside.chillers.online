@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 340,
     "chapter": 34,
     "date": "2018-09-14T12:00:00-04:00",
     "description": "There's trouble in paradise as the party is rent asunder.",

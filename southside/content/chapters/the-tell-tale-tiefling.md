@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 265,
     "chapter": "26: Part II",
     "date": "2018-05-25T13:00:00-04:00",
     "description": "What's a little murder between friends?",

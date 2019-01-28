@@ -1,4 +1,10 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 160,
     "chapter": 16,
     "date": "2018-02-23T08:25:38-04:00",
     "description": "Two cold cases get a bit warmer.",

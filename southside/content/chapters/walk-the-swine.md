@@ -1,4 +1,14 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 230,
     "chapter": 23,
     "date": "2018-05-02T12:00:00-04:00",
     "description": "A man-at-arms disarmed, a gnome far from home, and a hog dialogue.",
@@ -21,7 +31,7 @@ They approach the forbidding black wall at the edge of the city. The four skelet
 
 “Let’s just go,” says [Hermione](/characters/hermione/). “Now, quickly, before they try to pull any more tricks.”
 
-“So we’re all right with them seeing how we leave?” says Hanamir. “And that we’re leaving with…” He points behind himself to his backpack, where Redyl is stowed away.
+“So we’re all right with them seeing how we leave?” says Hanamir. “And that we’re leaving with…” He points behind himself to his backpack, where [Redyl](/characters/redyl/) is stowed away.
 
 “I think we’ve given the Lich enough contextual clues at this point for him to be aware that the rings are special,” says Galadriel. “And if he sees everything in the city, he’ll already have seen us talking to Redyl at the inn.”
 
@@ -327,7 +337,7 @@ Redyl laughs and looks down at Tannin.
 
 He pauses to take a breath, smiling wryly. 
 
-“Not sure if it was truly lucky, or unlucky, actually. But my spell worked, and we went through the Shadowfell to the City of the Dead. Khargol then came through the portal after us. I don’t know what became of the other orcs who didn’t come with us, or of the remaining tuning forks they had with them.”
+“Not sure if it was truly lucky, or unlucky, actually. But my spell worked, and we went through the Shadowfell to the City of the Dead. [Khargol](/characters/khargol/) then came through the portal after us. I don’t know what became of the other orcs who didn’t come with us, or of the remaining tuning forks they had with them.”
 
 The party walks in silence for awhile, turning this information over. The afternoon bleeds into evening, and the setting sun makes them all a little sluggish. Harlan whistles for his bat to carry him awhile. Under the pink sky, the terrain is flatter now, with no forests or rivers in sight, though a faint marshy smell is in the air.
 

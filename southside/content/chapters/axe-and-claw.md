@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 60,
     "chapter": 6,
     "date": "2017-11-06T12:23:08-04:00",
     "description": "The pack descends, and the peril deepens.",

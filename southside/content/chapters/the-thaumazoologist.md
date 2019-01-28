@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 170,
     "chapter": 17,
     "date": "2018-02-27T08:50:29-04:00",
     "description": "A new friend, and the party must decide whether to brave the City of the Dead.",

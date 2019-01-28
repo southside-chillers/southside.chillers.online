@@ -1,4 +1,6 @@
 {
+    "appearances": [],
+    "appearances_weight": 370,
     "chapter": 37,
     "date": "2018-10-05T12:00:00-04:00",
     "description": "Phil tells his tale.",

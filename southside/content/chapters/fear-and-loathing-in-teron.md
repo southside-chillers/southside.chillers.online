@@ -1,11 +1,20 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 210,
     "chapter": 21,
     "date": "2018-04-09T12:00:00-04:00",
     "description": "A Savage journey to the heart of the Ivrindian dream.",
     "title": "Fear and Loathing in Teron"
 }
 
-“So… how’d your meeting go?” asks [Tannin](/characters/tannin/). He blocks Khargol’s blood-spattered path through the anteroom.
+“So… how’d your meeting go?” asks [Tannin](/characters/tannin/). He blocks [Khargol](/characters/khargol/)’s blood-spattered path through the anteroom.
 
 “I said let’s go!” shouts Khargol, and his voice sounds tense and panicky. 
 

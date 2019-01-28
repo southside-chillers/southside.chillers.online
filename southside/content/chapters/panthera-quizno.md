@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 330,
     "chapter": 33,
     "date": "2018-09-07T12:00:00-04:00",
     "description": "The lion sleeps, but not for long...",

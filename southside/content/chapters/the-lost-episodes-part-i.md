@@ -1,4 +1,6 @@
 {
+    "appearances": [],
+    "appearances_weight": 360,
     "chapter": 36,
     "date": "2018-09-28T12:00:00-04:00",
     "description": "An intrepid researcher scores two helpful interviews.",

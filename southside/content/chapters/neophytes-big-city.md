@@ -1,4 +1,14 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 250,
     "chapter": 25,
     "date": "2018-05-17T12:00:00-04:00",
     "description": "What's a mob to a king? What's a king to a god? What's a god to a non-believer?",
@@ -193,7 +203,7 @@ They walk through a neighborhood marked on Elris’s map as Smalltree. Just as t
 
 But given its miniature scale, Smalltree does not occupy much area, and it soon gives way to a sprawling slum labeled on the map as the Kiln. The halflings are replaced by a population of goblins, half-orcs, strung-out humans, and some cloaked figures that may be hiding the tails and horns of tieflings. 
 
-The Savage, still holding Redyl in the baby bjorn on his chest, flares his nostrils with disgust as he passes a street vendor selling a variety of eyeballs. Mercifully, little old Redyl has fallen asleep with his gnome hat over much of his face. 
+The Savage, still holding [Redyl](/characters/redyl/) in the baby bjorn on his chest, flares his nostrils with disgust as he passes a street vendor selling a variety of eyeballs. Mercifully, little old Redyl has fallen asleep with his gnome hat over much of his face. 
 
 A few of the half-orcs nod at Hanamir as he passes. 
 
@@ -349,7 +359,7 @@ The king looks amused, and the Minister of Trade chuckles.
 
 “I’m well aware of the Order of the Been, if that’s what you mean,” says Kandir.
 
-“Well, we just came from Eillin,” says Harlan. “Rather, the Eillin border, where we were able to speak briefly with Mayor Thunderstruck. We told him, and now must tell you, that the Lich is amassing power within the City of the Dead, and is allied with Khargol and his orcs with the goal of killing one or more gods, and of loosing his undead upon the continent.”
+“Well, we just came from Eillin,” says Harlan. “Rather, the Eillin border, where we were able to speak briefly with Mayor Thunderstruck. We told him, and now must tell you, that the Lich is amassing power within the City of the Dead, and is allied with [Khargol](/characters/khargol/) and his orcs with the goal of killing one or more gods, and of loosing his undead upon the continent.”
 
 Slee furrows his brow, but the trade minister speaks up first.
 

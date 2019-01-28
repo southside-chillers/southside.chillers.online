@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 90,
     "chapter": 9,
     "date": "2017-12-07T19:21:41-04:00",
     "description": "A battle of wits...and wyrms.",

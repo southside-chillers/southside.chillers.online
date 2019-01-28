@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 270,
     "chapter": 27,
     "date": "2018-06-04T12:00:00-04:00",
     "description": "A jailbreak, a scuffle, and two appeals to authority.",

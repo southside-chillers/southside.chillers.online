@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "galadriel",
+        "harlan",
+        "cazna"
+    ],
+    "appearances_weight": 130,
     "chapter": 13,
     "date": "2018-01-30T21:19:46-04:00",
     "description": "A lunar interlude, and a hero's welcome...but peril never sleeps.",
@@ -29,7 +37,7 @@ When they reach the top of the hill, Bryn is already at the door to welcome them
 
 “It’s you guys!” he exclaims. “Come in, come in. We weren’t sure what happened. It was the strangest thing. The occlusion of the moon—it disappeared all of a sudden! And Eilistraee arrived in town for the festival!”
 
-“Yes, well, we tracked down the source of the problem. A rogue priestess of Lolth was responsible,” says Harlan. “Do you know the name Cazna?”
+“Yes, well, we tracked down the source of the problem. A rogue priestess of Lolth was responsible,” says Harlan. “Do you know the name [Cazna](/characters/cazna/)?”
 
 “Cazna, of course,” says Bryn. “She was the culprit? She fled the town years ago. We didn’t know she was alive! ”
 
@@ -155,7 +163,7 @@ The cameraman gets distracted by a very intoxicated human woman who has climbed 
 
 “Hey, speaking of being grateful,” says Frunk, lowering his voice. “I belong to an ancient order that is charged with protecting the town. After your success on this, we’d be interested in hiring you all on a permanent basis to help defend us against outside threats.”
 
-“We’d be open to that,” says Harlan. “Do you know anything of Regent Khargol? He seems like the most likely next threat. Apparently he and the followers of Shargaas were working in conjunction with Cazna and the Lolth followers to destroy Eilistraee.”
+“We’d be open to that,” says Harlan. “Do you know anything of Regent [Khargol](/characters/khargol/)? He seems like the most likely next threat. Apparently he and the followers of Shargaas were working in conjunction with Cazna and the Lolth followers to destroy Eilistraee.”
 
 “That surprises me. As orcs go, Khargol is pretty reasonable.” Frunk gives Hanamir an apologetic look. “He fights with honor, I mean. We have a tense relationship with the orcs of this region, and if they’re plotting against us, it might be time to break the unspoken truce.”
 

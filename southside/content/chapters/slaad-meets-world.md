@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 80,
     "chapter": 8,
     "date": "2017-11-30T15:54:52-04:00",
     "description": "In the tower of spiders, can a one-armed man be king?",

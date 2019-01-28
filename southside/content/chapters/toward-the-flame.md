@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 50,
     "chapter": 5,
     "date": "2017-11-01T12:14:03-04:00",
     "description": "An entry to hostile territory: the only way out is through.",

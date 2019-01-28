@@ -1,4 +1,14 @@
 {
+    "appearances": [
+        "hanamir",
+        "khargol",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 220,
     "chapter": 22,
     "date": "2018-04-27T12:00:00-04:00",
     "description": "What's in your head? Mind games abound in the City of the Dead.",
@@ -89,7 +99,7 @@ Harlan answers the door, looking mildly cranky.
 
 They follow the same knocking protocol at Hanamir’s door. He opens it a crack, sees it’s them, and lets them in. They all immediately notice the tiny, withered old man who is tucked neatly into the second bed, blinking up at them. 
 
-“This,” says Hanamir, “is Redyl.”
+“This,” says Hanamir, “is [Redyl](/characters/redyl/).”
 
 “How do you do,” says the elderly gnome. He looks like a white-bearded baby in a bed far too large for him.
 
@@ -111,7 +121,7 @@ Harlan remembers his dream and how good he felt being the slayer of Kord. He fee
 
 “Anyway, I told him what I suspect about the Savage, and asked him to get in my backpack so that I could transport him with us in secrecy. He agreed, and was an excellent sport about it,” says Hanamir.
 
-“Oh, it was plenty roomy for me,” says Redyl with a tiny chuckle. “And I was very glad to be out of the company of Khargol and his men.”
+“Oh, it was plenty roomy for me,” says Redyl with a tiny chuckle. “And I was very glad to be out of the company of [Khargol](/characters/khargol/) and his men.”
 
 “I also told him that whatever is going on with his kids, whether that threat was real or not, we will do what we can to help him,” says Hanamir.
 
