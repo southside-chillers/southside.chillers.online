@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "cazna",
@@ -227,7 +228,7 @@ Galadriel, looking around, determines that this drow is a powerful figure.
 
 **Drow**: What?
 
-**Galadriel**: (turns around to show buddy peeking out of her backpack, chewing on the drawstrings) This is Buddy. He had eaten the gauntlet, I don’t know where he got it. We made him throw up, and then I put it on.
+**Galadriel**: (turns around to show [buddy](/characters/buddy/) peeking out of her backpack, chewing on the drawstrings) This is Buddy. He had eaten the gauntlet, I don’t know where he got it. We made him throw up, and then I put it on.
 
 **Drow**: So that pig ate a priest of Lolth???
 

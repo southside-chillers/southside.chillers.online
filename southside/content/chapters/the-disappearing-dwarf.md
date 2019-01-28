@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -115,7 +116,7 @@ Harlan takes it, and places the jade orb in the mouth of the Troglodyte statue. 
 
 The flashback portal fades from sharp color to hazy desaturation, and Galadriel waves it away. 
 
-“A dangerous trade? Who can say?” she shrugs. “Join me after these messages for the next chapter of our adventure. Until then, I will be here, knitting a sweater for my adorable best friend, Buddy the Pig.”
+“A dangerous trade? Who can say?” she shrugs. “Join me after these messages for the next chapter of our adventure. Until then, I will be here, knitting a sweater for my adorable best friend, [Buddy](/characters/buddy/) the Pig.”
 
 At the sound of his name, Buddy waddles over to Galadriel from another room. She scoops him up and sets him in her lap, and he proceeds to lick her face.
 

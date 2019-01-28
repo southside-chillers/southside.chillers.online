@@ -3,6 +3,7 @@
         "the-savage",
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "redyl",
@@ -267,7 +268,7 @@ Hanamir raises his eyebrows but continues reading.
 
 “Hmmmm,” says Hermione. “Well, I’m going to ask for a book about tiefling society, so that I’m culturally sensitive when I meet her.”
 
-Galadriel scans through *Bahomet’s Children*. The good news, she learns right away, is that most metallic dragons are good; the evil ones tend to be chromatic. But what kind of metallic dragon is Buddy? He seemed to glow with a warm, yellowish light, but that might have been gold, or bronze, or copper…
+Galadriel scans through *Bahomet’s Children*. The good news, she learns right away, is that most metallic dragons are good; the evil ones tend to be chromatic. But what kind of metallic dragon is [Buddy](/characters/buddy/)? He seemed to glow with a warm, yellowish light, but that might have been gold, or bronze, or copper…
 
 She flips to the section about copper dragons. 
 

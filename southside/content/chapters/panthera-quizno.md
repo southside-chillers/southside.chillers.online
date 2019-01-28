@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -35,7 +36,7 @@ More stuffed cats are scattered around the room, frozen in sitting, pouncing, st
 
 Hanamir lifts up the eight-foot pole and passes it to her. 
 
-“Okay, careful,” says Hermione. “Let’s back up somewhere in case arrows shoot out of all the walls or something.” She ushers Magic and Buddy back behind the cover of the hallway they entered through. 
+“Okay, careful,” says Hermione. “Let’s back up somewhere in case arrows shoot out of all the walls or something.” She ushers Magic and [Buddy](/characters/buddy/) back behind the cover of the hallway they entered through. 
 
 Galadriel slides the pole behind the stone calendar and nudges a latch. The circular stone swings open like the door of a safe, revealing a narrow passageway behind it. Another table sits directly inside. On the table’s surface rests a small jade statue—of a cat, naturally—along with a knife. She squints into the darkness. It’s cramped, but they could fit inside if they wanted to. There’s another set of doors at the end of the passageway.
 

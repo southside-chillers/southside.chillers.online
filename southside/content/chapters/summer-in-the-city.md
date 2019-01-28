@@ -3,6 +3,7 @@
         "hanamir",
         "khargol",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -336,7 +337,7 @@ They reach Elris’s farm by mid-afternoon. Galadriel clings to Harlan’s arm a
 
 “I’m sure he’s fine,” says Harlan. “He’s had Zotz to keep him company. And I trust Elris has taken good care of him.”
 
-When Buddy appears in her line of sight, Galadriel dissolves into joyful tears, her heavy eyeliner streaking down her cheeks. She spends the next twenty minutes covering the little pig’s fuzzy head with kisses. Camazotz, on the other hand, is less willing to accept affection from Harlan. 
+When [Buddy](/characters/buddy/) appears in her line of sight, Galadriel dissolves into joyful tears, her heavy eyeliner streaking down her cheeks. She spends the next twenty minutes covering the little pig’s fuzzy head with kisses. Camazotz, on the other hand, is less willing to accept affection from Harlan. 
 
 “He’s a mighty fine bat, as I said,” drawls Elris. “But a wild one. I’ve had a bit of luck using some giant moths as rewards for him when he behaves.”
 

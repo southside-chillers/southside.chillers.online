@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -13,7 +14,7 @@
     "title": "Mortui Quiznos Docent"
 }
 
-The corridor beyond the narid’s pool room is flooded. The water that sloshes against their legs and soaks into their boots is icy cold, and far too deep for Buddy to walk through comfortably, so he resumes his old post peeking out of [Galadriel](/characters/galadriel/)’s backpack. 
+The corridor beyond the narid’s pool room is flooded. The water that sloshes against their legs and soaks into their boots is icy cold, and far too deep for [Buddy](/characters/buddy/) to walk through comfortably, so he resumes his old post peeking out of [Galadriel](/characters/galadriel/)’s backpack. 
 
 The adventurers round a corner and the flooding abates somewhat. A short set of stairs leads out of the damp and up to a set of bronze doors. [Hanamir](/characters/hanamir/) approaches first.
 

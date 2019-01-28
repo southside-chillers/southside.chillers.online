@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan"
     ],
@@ -19,7 +20,7 @@ The next morning, the adventurers awaken in their beds at the inn to the sound o
 
 "No, you won’t," says Harlan, shaking her again.
 
-On the other side of the room, [Hanamir](/characters/hanamir/) is whistling while he makes up his bed with a monk’s precision. Galadriel is only convinced to rise when Buddy nudges her with his li’l snout and offers some encouraging oinks. The party trudges toward the hill outside town in a chilly rain that makes each footfall heavy with mud.
+On the other side of the room, [Hanamir](/characters/hanamir/) is whistling while he makes up his bed with a monk’s precision. Galadriel is only convinced to rise when [Buddy](/characters/buddy/) nudges her with his li’l snout and offers some encouraging oinks. The party trudges toward the hill outside town in a chilly rain that makes each footfall heavy with mud.
 
 Bryn’s observatory is no longer bustling with guards and investigators. Now, it is empty except for a small group of close associates gathered in the late scholar’s library. Fleck the bartender greets the adventurers as they enter and instructs them to set their horrendously dirty shoes by the door.
 

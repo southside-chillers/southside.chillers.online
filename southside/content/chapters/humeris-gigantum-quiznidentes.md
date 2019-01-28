@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -147,7 +148,7 @@ Meanwhile, the panther has finally taken notice of one of the adventurers, and i
 
 HEY, GALADRIEL? I THINK THE PANTHER SEES ME.
 
-Galadriel looks down from the ceiling and sees the panther staring at Buddy from across the room, where he sits with Magic. The panther’s muscles are tensed, its ears flattened.
+Galadriel looks down from the ceiling and sees the panther staring at [Buddy](/characters/buddy/) from across the room, where he sits with Magic. The panther’s muscles are tensed, its ears flattened.
 
 *Oh no*, she thinks. *Do you think it knows what you are?*
 

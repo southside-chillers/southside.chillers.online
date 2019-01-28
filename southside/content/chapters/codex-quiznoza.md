@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -23,7 +24,7 @@ The sky is marbled with clouds the color of smoke. Above the ship, a lone seagul
 
 Hermione gives her a strained smile.
 
-[Galadriel](/characters/galadriel/) and Buddy, sitting nearby, catch this last exchange over the roar of the ocean.
+[Galadriel](/characters/galadriel/) and [Buddy](/characters/buddy/), sitting nearby, catch this last exchange over the roar of the ocean.
 
 *You know I had to tell them, right? Not just because I’m terrible with secrets, I mean. After all their suspicions, I owed them the truth.*
 

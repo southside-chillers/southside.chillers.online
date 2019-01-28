@@ -2,6 +2,7 @@
     "appearances": [
         "the-savage",
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -51,7 +52,7 @@ Tannin and the Wyrmling stare each other down in silence. It’s maybe the most 
  
 The barbarian moves first, landing a mighty blow against the Wyrmling with his battle axe. In retaliation, it takes a bite out of Tannin and comes back with a bloody mouthful of dwarf armor.
  
-Galadriel crawls along the ceiling to sit on the chandelier directly above the action. She reaches behind herself to rummage through her backpack, and gives Buddy the Pig a reassuring pat on the head before taking out her lute. She starts strumming a fast-paced, rhythmic tune, and the atmosphere in the battle chamber shifts noticeably. Magically, in fact. 
+Galadriel crawls along the ceiling to sit on the chandelier directly above the action. She reaches behind herself to rummage through her backpack, and gives [Buddy](/characters/buddy/) the Pig a reassuring pat on the head before taking out her lute. She starts strumming a fast-paced, rhythmic tune, and the atmosphere in the battle chamber shifts noticeably. Magically, in fact. 
  
 She addresses the Wyrmling and begins singing to it in Elvish. It’s a song so insulting, it’s nigh untranslatable. There simply aren’t profanities obscene enough to express in Common what Galadriel sings to this baby dragon—and if there were, you’d have to take a shower afterward to wash off the shame of what you just heard. Imagine the most humiliating and demeaning thing you could say to a juvenile fire dinosaur, right to its face. It’s shocking and, honestly, it’s a bit much. The Wyrmling suffers two points of psychic damage.
  

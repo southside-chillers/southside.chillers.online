@@ -2,6 +2,7 @@
     "appearances": [
         "the-savage",
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -83,7 +84,7 @@ Harlan translates.
 
 "We promise to try," says Harlan. "But we’ll need to compromise on the wand—and set your expectation for the fact that it just can’t be used anymore. It’s too dangerous."
 
-"If you want to see if it works, try it out on your pig friend here," says Shinebright, waving a hoof at Buddy. "Turn him back to what he really is, too."
+"If you want to see if it works, try it out on your pig friend here," says Shinebright, waving a hoof at [Buddy](/characters/buddy/). "Turn him back to what he really is, too."
 
 "You know, that’s an idea," Harlan says, giving Galadriel a look.
 

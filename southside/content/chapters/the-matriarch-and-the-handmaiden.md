@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "cazna"
@@ -50,7 +51,7 @@ Harlan takes the fire giant orb to its corresponding statue and returns with not
 
 “If we were to try and speak to Tiamat,” says Harlan, “how might we do that? Through the divot in the center of the room? And without an orb, what would we offer up to him?” 
 
-His eyes drift toward Galadriel’s backpack, where Buddy’s face can be seen peeking out of the top. The pig snorts contentedly. 
+His eyes drift toward Galadriel’s backpack, where [Buddy](/characters/buddy/)’s face can be seen peeking out of the top. The pig snorts contentedly. 
 
 “Watch it,” snaps Galadriel. “Don’t you have a god of your own you could ask for wisdom?”
 
