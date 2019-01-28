@@ -1,4 +1,13 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 250,
     "chapter": 25,
     "date": "2018-05-17T12:00:00-04:00",
     "description": "What's a mob to a king? What's a king to a god? What's a god to a non-believer?",
@@ -193,7 +202,7 @@ They walk through a neighborhood marked on Elris’s map as Smalltree. Just as t
 
 But given its miniature scale, Smalltree does not occupy much area, and it soon gives way to a sprawling slum labeled on the map as the Kiln. The halflings are replaced by a population of goblins, half-orcs, strung-out humans, and some cloaked figures that may be hiding the tails and horns of tieflings. 
 
-The Savage, still holding Redyl in the baby bjorn on his chest, flares his nostrils with disgust as he passes a street vendor selling a variety of eyeballs. Mercifully, little old Redyl has fallen asleep with his gnome hat over much of his face. 
+The Savage, still holding [Redyl](/characters/redyl/) in the baby bjorn on his chest, flares his nostrils with disgust as he passes a street vendor selling a variety of eyeballs. Mercifully, little old Redyl has fallen asleep with his gnome hat over much of his face. 
 
 A few of the half-orcs nod at Hanamir as he passes. 
 

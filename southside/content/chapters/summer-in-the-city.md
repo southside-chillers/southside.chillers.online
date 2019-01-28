@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 290,
     "chapter": 29,
     "date": "2018-07-01T12:00:00-04:00",
     "description": "It's a pity that the days can't be like the nights in the summer in the city.",

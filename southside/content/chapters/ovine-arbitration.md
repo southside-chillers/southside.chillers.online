@@ -1,4 +1,10 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 140,
     "chapter": 14,
     "date": "2018-02-06T21:32:00-04:00",
     "description": "Sad tidings, and a ruminant client.",

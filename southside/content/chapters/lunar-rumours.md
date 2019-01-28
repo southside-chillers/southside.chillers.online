@@ -1,4 +1,10 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 10,
     "chapter": 1,
     "date": "2017-09-21T17:44:34-04:00",
     "description": "Astrological trouble brews as our adventure begins.",

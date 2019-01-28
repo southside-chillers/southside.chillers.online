@@ -1,4 +1,13 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 220,
     "chapter": 22,
     "date": "2018-04-27T12:00:00-04:00",
     "description": "What's in your head? Mind games abound in the City of the Dead.",
@@ -89,7 +98,7 @@ Harlan answers the door, looking mildly cranky.
 
 They follow the same knocking protocol at Hanamir’s door. He opens it a crack, sees it’s them, and lets them in. They all immediately notice the tiny, withered old man who is tucked neatly into the second bed, blinking up at them. 
 
-“This,” says Hanamir, “is Redyl.”
+“This,” says Hanamir, “is [Redyl](/characters/redyl/).”
 
 “How do you do,” says the elderly gnome. He looks like a white-bearded baby in a bed far too large for him.
 

@@ -1,4 +1,10 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 130,
     "chapter": 13,
     "date": "2018-01-30T21:19:46-04:00",
     "description": "A lunar interlude, and a hero's welcome...but peril never sleeps.",

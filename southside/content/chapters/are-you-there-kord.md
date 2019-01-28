@@ -1,11 +1,20 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 260,
     "chapter": "26: Part I",
     "date": "2018-05-25T12:00:00-04:00",
     "description": "Sometimes even the toughest heroes need a hand.",
     "title": "Are You There, Kord? It's Me, Harlan"
 }
 
-The adventurers make their way back over the bridge to meet up with [Tannin](/characters/tannin/) and Redyl. The two are sitting on a bench and look to be deep in an animated conversation.
+The adventurers make their way back over the bridge to meet up with [Tannin](/characters/tannin/) and [Redyl](/characters/redyl/). The two are sitting on a bench and look to be deep in an animated conversation.
 
 “...and that’s how I learned to ride dolphins into battle. It’s all in the knees!” Tannin says. He and Redyl both laugh. “Oh, hi guys.”
 

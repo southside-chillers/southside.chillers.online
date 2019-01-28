@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 300,
     "chapter": 30,
     "date": "2018-08-03T12:00:00-04:00",
     "description": "Grab the Old Bay—it's a dungeon-ous crab.",

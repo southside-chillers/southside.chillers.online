@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 380,
     "chapter": 38,
     "date": "2018-10-12T12:00:00-04:00",
     "description": "With the quiznos in sight, the adventurers must keep their cool, lest things get… toasty.",

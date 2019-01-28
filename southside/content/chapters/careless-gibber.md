@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 150,
     "chapter": 15,
     "date": "2018-02-16T07:52:23-04:00",
     "description": "Aberrant blobs have got no rhythm.",

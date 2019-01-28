@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 200,
     "chapter": 20,
     "date": "2018-04-06T12:00:00-04:00",
     "description": "An unlikely alliance, a religious revolt, and a redemptive flight.",

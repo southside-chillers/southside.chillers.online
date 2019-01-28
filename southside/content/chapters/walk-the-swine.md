@@ -1,4 +1,13 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "redyl",
+        "tannin"
+    ],
+    "appearances_weight": 230,
     "chapter": 23,
     "date": "2018-05-02T12:00:00-04:00",
     "description": "A man-at-arms disarmed, a gnome far from home, and a hog dialogue.",
@@ -21,7 +30,7 @@ They approach the forbidding black wall at the edge of the city. The four skelet
 
 “Let’s just go,” says [Hermione](/characters/hermione/). “Now, quickly, before they try to pull any more tricks.”
 
-“So we’re all right with them seeing how we leave?” says Hanamir. “And that we’re leaving with…” He points behind himself to his backpack, where Redyl is stowed away.
+“So we’re all right with them seeing how we leave?” says Hanamir. “And that we’re leaving with…” He points behind himself to his backpack, where [Redyl](/characters/redyl/) is stowed away.
 
 “I think we’ve given the Lich enough contextual clues at this point for him to be aware that the rings are special,” says Galadriel. “And if he sees everything in the city, he’ll already have seen us talking to Redyl at the inn.”
 

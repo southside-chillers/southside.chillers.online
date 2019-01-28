@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 390,
     "chapter": 39,
     "date": "2018-10-19T12:00:00-04:00",
     "description": "An arc nears its conclusion, but will loose ends trip them up?",

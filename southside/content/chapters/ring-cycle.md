@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 180,
     "chapter": 18,
     "date": "2018-03-06T08:50:29-04:00",
     "description": "Acquiring jewelry to stave off apocalypse: a fantasy staple. But is this the real life, or is it just fantasy?",

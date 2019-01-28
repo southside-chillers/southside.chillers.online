@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 280,
     "chapter": 28,
     "date": "2018-06-22T12:00:00-04:00",
     "description": "In the High Council of Aberith, betrayals are considered especially heinous.",

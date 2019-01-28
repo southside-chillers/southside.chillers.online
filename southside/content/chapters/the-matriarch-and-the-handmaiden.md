@@ -1,4 +1,10 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan"
+    ],
+    "appearances_weight": 120,
     "chapter": 12,
     "date": "2018-01-22T21:44:07-04:00",
     "description": "A deal is struck...at what cost?",

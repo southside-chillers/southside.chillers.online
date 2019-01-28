@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 20,
     "chapter": 2,
     "date": "2017-10-02T09:29:36-04:00",
     "description": "Our heroes seek answers...and valuable non-crystalline amorphous solids.",

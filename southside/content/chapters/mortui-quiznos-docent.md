@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 310,
     "chapter": 31,
     "date": "2018-08-21T12:00:00-04:00",
     "description": "The dead teach the living, but they'll never graduate.",

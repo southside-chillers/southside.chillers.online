@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 210,
     "chapter": 21,
     "date": "2018-04-09T12:00:00-04:00",
     "description": "A Savage journey to the heart of the Ivrindian dream.",

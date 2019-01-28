@@ -1,4 +1,11 @@
 {
+    "appearances": [
+        "hanamir",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 100,
     "chapter": 10,
     "date": "2017-12-14T18:32:45-04:00",
     "description": "The Chillers stealthily ascend...into danger.",

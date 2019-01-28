@@ -4,6 +4,14 @@
     <article class="post-container">
         {{ partial "character-header.html" . }}
         {{ partial "page-content.html" . }}
+        <h2>Appearances</h2>
+        <ul>
+            {{ $appearances := index .Site.Taxonomies.appearances .File.BaseFileName }}
+            {{ range sort $appearances }}
+            <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Params.chapter }}. {{ .Page.Title }}</a></li>
+            {{ end }}
+        </ul>
+
     </article>
 </div>
 

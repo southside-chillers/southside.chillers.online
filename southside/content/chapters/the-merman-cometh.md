@@ -1,4 +1,12 @@
 {
+    "appearances": [
+        "hanamir",
+        "hermione",
+        "galadriel",
+        "harlan",
+        "tannin"
+    ],
+    "appearances_weight": 190,
     "chapter": 19,
     "date": "2018-03-23T08:25:38-04:00",
     "description": "Like its titular returning hero, this chapter is both violent and short.",
