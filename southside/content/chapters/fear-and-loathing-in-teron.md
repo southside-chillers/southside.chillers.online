@@ -4,6 +4,7 @@
         "hanamir",
         "khargol",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -221,7 +222,7 @@ Meanwhile, Hanamir slinks up onto the dais and circles the throne, brushing a ha
 
 “First, let’s put our rings together!” says Galadriel. Sighing, the Savage obliges, and the six of them hold up their rings so that they are touching. But instead of the mild electric feeling they experienced when they did this before, there is nothing. Galadriel is visibly disappointed.
 
-“Huh,” she says. “But hey, if we’re going to be on our way, I might as well let Buddy out for the walk back. I’m sure he’d like to stretch his legs. Or maybe see the view from that throne! How about it, sweetie?”
+“Huh,” she says. “But hey, if we’re going to be on our way, I might as well let [Buddy](/characters/buddy/) out for the walk back. I’m sure he’d like to stretch his legs. Or maybe see the view from that throne! How about it, sweetie?”
 
 Buddy’s round pink snout is already poking out of the top of her backpack, sniffing at the air. She lowers the bag to the ground and gently places Buddy on the sleek marble floor. He oinks a bit, but stays close to Galadriel’s legs.
 

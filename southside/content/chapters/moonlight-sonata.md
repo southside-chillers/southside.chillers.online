@@ -3,6 +3,7 @@
         "the-savage",
         "hanamir",
         "khargol",
+        "buddy",
         "galadriel",
         "harlan",
         "cazna"
@@ -14,7 +15,7 @@
     "title": "Moonlight Sonata"
 }
 
-“Welcome back,” whispers [Galadriel](/characters/galadriel/). Buddy is now napping in her lap, and she strokes his head. “That was a dramatic finale to our quest, wasn’t it?” 
+“Welcome back,” whispers [Galadriel](/characters/galadriel/). [Buddy](/characters/buddy/) is now napping in her lap, and she strokes his head. “That was a dramatic finale to our quest, wasn’t it?” 
 
 Buddy oinks a little in his sleep, and she looks down at him with pure adoration.
 

@@ -4,6 +4,7 @@
         "hanamir",
         "khargol",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "redyl",
@@ -58,7 +59,7 @@ GALADRIEL, HEY.
 
 Even though it’s no longer new or surprising, Galadriel still feels her heartbeat accelerate.
 
-*Buddy! What’s up?*
+*[Buddy](/characters/buddy/)! What’s up?*
 
 I DON’T THINK I SHOULD GO TO ABERITH. 
 

@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -27,7 +28,7 @@ The Voice of Kord praises Harlan’s valor in battle and offers him divine wisdo
 
 After a short, restorative rest, Hanamir decides to take the red glass goggles and climb the spider silk to the top of the tree. He sees that one source of the moon’s distress is very close, and the other is far to the east. (When he mentions this to the group, Harlan remembers from his clerical studies that there is some connection between Lolth and Shargaas, the orc god—could the eastern source be the Shargaas temple?) Hanamir also looks at the dragon crater, but there’s no sign of the dragon itself.
 
-The party decides to climb the spider silk and attempt an approach to the tower from above, per Kord’s recommendation. Tannin attaches the spider silk to his javelin and launches it at the tree next to the tower. Miraculously, this works. Galadriel secures Buddy the pig to herself with rope in a makeshift baby bjorn, and then they each zipline down the spider silk to the other tree, landing in the clearing next to the tower.
+The party decides to climb the spider silk and attempt an approach to the tower from above, per Kord’s recommendation. Tannin attaches the spider silk to his javelin and launches it at the tree next to the tower. Miraculously, this works. Galadriel secures [Buddy](/characters/buddy/) the pig to herself with rope in a makeshift baby bjorn, and then they each zipline down the spider silk to the other tree, landing in the clearing next to the tower.
 
 The tower is a stone octagon with a red hourglass embedded in its windowless walls. Galadriel senses that this tower intersects with other planes, and that Lolth followers from other planes come here to worship. It is, indeed, one of the sources of the moon’s occlusion. She knocks on the door, but there is no response.
 

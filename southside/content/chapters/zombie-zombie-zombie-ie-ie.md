@@ -4,6 +4,7 @@
         "hanamir",
         "khargol",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "redyl",
@@ -42,7 +43,7 @@ Before she can respond, the Nothic makes a strange motion (a nonverbal spell, pe
 
 She wakes up, feeling a mixture of fear and curiosity… and with that curiosity, some shame. She decides to take the next watch.
 
-As Hermione leaves the room, she sees Galadriel sleeping sprawled on her stomach with her face contorted in what looks like unspeakable pain. Buddy is nestled in the warmth of her armpit. She whimpers in between snores. 
+As Hermione leaves the room, she sees Galadriel sleeping sprawled on her stomach with her face contorted in what looks like unspeakable pain. [Buddy](/characters/buddy/) is nestled in the warmth of her armpit. She whimpers in between snores. 
 
 Galadriel dreams that she has found Magic, and by accident, too. She stumbled across a hidden cellar door while searching for a bathroom and discovered the elusive tiefling inside. Magic has her back turned and is leaning over a table. Flashes of light, accompanied by agonized screaming, periodically illuminate the cellar.
 

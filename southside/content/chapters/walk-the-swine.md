@@ -4,6 +4,7 @@
         "hanamir",
         "khargol",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "redyl",
@@ -342,7 +343,7 @@ He pauses to take a breath, smiling wryly.
 
 The party walks in silence for awhile, turning this information over. The afternoon bleeds into evening, and the setting sun makes them all a little sluggish. Harlan whistles for his bat to carry him awhile. Under the pink sky, the terrain is flatter now, with no forests or rivers in sight, though a faint marshy smell is in the air.
 
-Galadriel walks side-by-side with Buddy. She has noticed that since his admission that he’s not really a pig, he’s been more open about his preference to trot alongside her rather than peek out from the top of her backpack. Sometimes he still gets tired, what with his little legs, and he’ll go back in—but it makes Galadriel happy to see him in this new light. 
+Galadriel walks side-by-side with [Buddy](/characters/buddy/). She has noticed that since his admission that he’s not really a pig, he’s been more open about his preference to trot alongside her rather than peek out from the top of her backpack. Sometimes he still gets tired, what with his little legs, and he’ll go back in—but it makes Galadriel happy to see him in this new light. 
 
 *He’s growing up so fast,* she can’t help but think. *Sorry. I know you’re not a baby, if you’re listening.*
 

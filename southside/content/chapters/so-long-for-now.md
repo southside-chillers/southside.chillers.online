@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "cazna",
@@ -138,7 +139,7 @@ Hanamir leans against the door.
 
 “Hard to say how strong this door is,” he says. “Feels heavy. We’d have to chip away at it and then calibrate…”
 
-“Hold up, I’ll just ask Buddy!” says Galadriel. Telepathically, she asks him. *What do you think? Wanna break down the door from the other side and let us out?*
+“Hold up, I’ll just ask [Buddy](/characters/buddy/)!” says Galadriel. Telepathically, she asks him. *What do you think? Wanna break down the door from the other side and let us out?*
 
 HAHA, OKAY, SURE, says Buddy. YOU KNOW, IT’S FUNNY. NOW THAT I’M REALLY ABOUT TO TURN BACK INTO A DRAGON IN FRONT OF YOU ALL, I’M KIND OF NERVOUS.
 

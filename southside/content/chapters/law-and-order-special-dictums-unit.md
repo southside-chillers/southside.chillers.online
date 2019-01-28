@@ -270,7 +270,7 @@ Tannin chuckles.
 
 “Whoa! I didn’t know you spoke Dwarvish, my man,” he replies in his native tongue. “Anyway, I’m not planning on abandoning the Lich. I’m thinking we go get this item and then kill the Lich with it!”
 
-“Got it. Good idea, buddy,” says Hanamir. He switches back to Common. “Indeed, we would be grateful for the opportunity.”
+“Got it. Good idea, big guy,” says Hanamir. He switches back to Common. “Indeed, we would be grateful for the opportunity.”
 
 Hanamir gives Harlan a reassuring look.
 

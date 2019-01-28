@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -21,7 +22,7 @@ She peers back through the passageway, now a mess of fallen rock. There are no m
 
 “I hope they got out of the way, at least,” she says, with a sudden pang of fear, followed by the creep of guilt for her flippant initial reaction. An idea occurs to her.
 
-*Buddy? Can you still hear me? she thinks.*
+*[Buddy](/characters/buddy/)? Can you still hear me? she thinks.*
 
 She waits for an answer, but there is no sound except the gradual return of activity in the canopy above. She catches a glimpse of another ape in the greenery to her right. It watches her without making a move.
 

@@ -3,6 +3,7 @@
         "the-savage",
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan"
     ],
@@ -15,7 +16,7 @@
 
 The early morning sun streams through the windows of the inn above Fleck’s Tavern. The adventurers have had a long rest, and with it, plenty of time to consider the 75% negative opinion of Kord on the topic of entering the City of the Dead. 
 
-They gather in the room shared by [Hermione](/characters/hermione/), [Galadriel](/characters/galadriel/), and Buddy. [Harlan](/characters/harlan/) has ordered room service, which Fleck brings up on a heavy tray. 
+They gather in the room shared by [Hermione](/characters/hermione/), [Galadriel](/characters/galadriel/), and [Buddy](/characters/buddy/). [Harlan](/characters/harlan/) has ordered room service, which Fleck brings up on a heavy tray. 
 
 “Thank you, sir,” says Hermione. “I like your eyes.”
 

@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -116,7 +117,7 @@ In grumpy silence, the adventurers turn around and approach the last of their ha
 
 Hanamir leads the way, poking at each stair with the pole. But, as with the very first trap they triggered in the hallway leading to the crab god, they do not hear the click of the pressure plate deploying until the combined weight of Hanamir and Harlan sets it off.
 
-A massive stone sphere ejects from above them and crashes down the stairs. With the pole, Hanamir vaults over it. but it rolls directly onto Harlan and Galadriel, flattening them both. Tannin, Hermione, Magic, and Buddy are close enough to the bottom of the stairs to jump back into the Beetle Room and out of the way, just in time.
+A massive stone sphere ejects from above them and crashes down the stairs. With the pole, Hanamir vaults over it. but it rolls directly onto Harlan and Galadriel, flattening them both. Tannin, Hermione, Magic, and [Buddy](/characters/buddy/) are close enough to the bottom of the stairs to jump back into the Beetle Room and out of the way, just in time.
 
 “Oh dang,” Tannin says, running back up the stairs to see Harlan and Galadriel’s unconscious and unsettlingly pancakey bodies. “Who’s got healing potions?” He pats his flask. “Oh! I do.” He pours a little potion into both mouths, and some color returns to their faces. “Want some bread, my dude?” Tannin asks Harlan as his eyes flicker open.
 

@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -22,7 +23,7 @@ Just then, they hear a loud noise from the woods beside them. Before anyone can 
 
 The group welcomes their dwarven friend back and tells him the tale of their recent adventures. Tannin shows off the new ram he spent all that time earning, and then takes notice of the pig. “Who brought the snack?” he asks. 
 
-“RUDE,” says Galadriel. “He’s not a snack, he’s my precious little buddy. His name… is Buddy.”
+“RUDE,” says Galadriel. “He’s not a snack, he’s my precious little [buddy](/characters/buddy/). His name… is Buddy.”
 
 “Agree to disagree,” shrugs Tannin. 
 

@@ -3,6 +3,7 @@
         "the-savage",
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "redyl",
@@ -123,7 +124,7 @@ The other one is still frozen in place, a permanent stone statue of an enraged o
 
 The adventurers sit down for a short rest in the statue’s shadow, and one by one, they take up Hanamir’s chisel and make their marks on the base of the stone. During this idle time, the Savage rejoins them. He has attempted to diminish the cuteness of toting a gnome on his shoulders by fashioning a makeshift gnome-sized baby bjorn. Obviously, this backfires, and the effect is cuter than ever.
 
-Now bereft of a bedroll, Galadriel and Buddy lounge on some cushy moss.
+Now bereft of a bedroll, Galadriel and [Buddy](/characters/buddy/) lounge on some cushy moss.
 
 *Hey Buddy*, thinks Galadriel. 
 

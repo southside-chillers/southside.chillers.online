@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "buddy",
         "galadriel",
         "harlan"
     ],
@@ -33,7 +34,7 @@
 
 “No time! No time for that! I need you to help me solve the murder,” says Frunk, and he drags Hanamir out the door.
 
-“Mayor, sir! Wait!” says Harlan, scurrying after them. Galadriel and Buddy bring up the rear, thumping down a few stairs before switching to a more coordinated spider-climb along the wall. 
+“Mayor, sir! Wait!” says Harlan, scurrying after them. Galadriel and [Buddy](/characters/buddy/) bring up the rear, thumping down a few stairs before switching to a more coordinated spider-climb along the wall. 
 
 The town square is in chaos: decorations from the Moon Festival litter the ground and horses sip from puddles of beer between the cobblestones. But the most prominent disruption is a sheep, bleating incessantly and knocking over barrels of trash in an apparent bid for attention. It notices the pajama-clad adventurers exiting the inn and crashes headlong into Harlan, dropping a scroll at his feet.
 

@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "buddy",
         "galadriel",
         "harlan",
         "tannin"
@@ -62,7 +63,7 @@ We now return to the Tale of the Southside Chillers, already in progress. At thi
 
 The adventurers stack their ideas on top of one another until Galadriel holds up a hand.
 
-“Wait,” she says. “You’re not the strongest, Tannin. And neither is Hanamir. It’s Buddy. He’s the strongest.”
+“Wait,” she says. “You’re not the strongest, Tannin. And neither is Hanamir. It’s [Buddy](/characters/buddy/). He’s the strongest.”
 
 Their eyes turn in unison to the pig at Galadriel’s feet. He sniffs at the air and licks his snout, utterly adorable.
 
