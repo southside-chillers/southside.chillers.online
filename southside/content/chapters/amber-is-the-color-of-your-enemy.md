@@ -4,6 +4,8 @@
         "hermione",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 270,
@@ -105,7 +107,7 @@ Galadriel slings the Bag of Holding over one shoulder and looks anxiously back a
 
 Hanamir casts Pass Without Trace on the party, and suddenly, they all feel much quieter and quicker than usual. When they have escaped the Barracks and walked far enough that they feel safe speaking, they huddle.
 
-“We should go talk to Slee, right?” whispers Galadriel. “He needs to know about this secret order to ship us off.”
+“We should go talk to [Slee](/characters/slee/), right?” whispers Galadriel. “He needs to know about this secret order to ship us off.”
 
 “I don’t know how all five of us are going to make it to the king’s chambers at this time of night,” says Harlan. “Maybe we should split up.”
 
@@ -177,7 +179,7 @@ Nyanceth’s eyes go wide. His heavily-wrinkled face grows somehow even craggier
 
 “Nothing to worry about, my boy,” says Nyanceth. “I am not the warrior I once was, but I feel just fine. Now—you mentioned a murderer?”
 
-“Yes,” says Harlan. “Someone murdered a dear friend of ours, and a friend of the king. His name was Bryn Starloft. We are dedicated to finding out what happened.”
+“Yes,” says Harlan. “Someone murdered a dear friend of ours, and a friend of the king. His name was [Bryn](/characters/bryn/) Starloft. We are dedicated to finding out what happened.”
 
 “Bryn…” Nyanceth’s eyes glaze over. “Was he in the Royal Guard?” Harlan shakes his head, but Nyanceth is not paying much attention. “We ought to take this to Ultas. He’d know what to do. Unless your friend is in the sea!”
 

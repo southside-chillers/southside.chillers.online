@@ -3,8 +3,11 @@
         "the-savage",
         "hanamir",
         "buddy",
+        "frunk",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 150,
@@ -186,13 +189,13 @@ As they approach the outskirts of Eillin, they notice that guards are posted at 
 
 "You haven’t heard of us?" Galadriel says, miffed. "We’re local heroes."
 
-"The mayor can attest to this," says Hanamir. "As can King Slee of Aberith." He pauses and then shouts confidently, "Send for the king!"
+"The mayor can attest to this," says Hanamir. "As can King [Slee](/characters/slee/) of Aberith." He pauses and then shouts confidently, "Send for the king!"
 
-"Uh, that won’t be necessary," says the guard. "But fine, if Frunk can vouch for you, come in."
+"Uh, that won’t be necessary," says the guard. "But fine, if [Frunk](/characters/frunk/) can vouch for you, come in."
 
 The vibe in town is tense. Frunk meets them at the tavern, looking harried.
 
-"Where have you three been?" he snaps at them. "You left with that sheep and didn’t say anything for weeks. We’ve been on lockdown. Can’t find Bryn’s killer."
+"Where have you three been?" he snaps at them. "You left with that sheep and didn’t say anything for weeks. We’ve been on lockdown. Can’t find [Bryn](/characters/bryn/)’s killer."
 
 "We’re sorry," says Harlan. "We lost track of time. The sheep turned out to be Bryn’s friend, a wizard."
 

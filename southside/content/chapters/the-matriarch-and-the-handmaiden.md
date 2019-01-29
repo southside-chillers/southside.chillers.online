@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "buddy",
+        "frunk",
         "galadriel",
         "harlan",
         "cazna"
@@ -271,7 +272,7 @@ A star wipe introduces a new shot of the tavern interior. It is mostly empty, bu
 
 V.O. (Fleck): “Meet the regulars. Stop and say hi. I may not be able to see you, but I sure can serve you the finest ale in Eillin!”
 
-A diagonal wipe to a shot of a stock room full of kegs. Frunk Thunderstruck wanders into the shot, fiddling with his ring, then jumps out of the way when he notices the camera.
+A diagonal wipe to a shot of a stock room full of kegs. [Frunk](/characters/frunk/) Thunderstruck wanders into the shot, fiddling with his ring, then jumps out of the way when he notices the camera.
 
 V.O. (Fleck): “Fleck’s Tavern. Eillin’s hottest bar, restaurant, inn, and part-time club. Open 24 hours the weekend of the Moon Festival. Moon-themed drink specials and half off totchos all weekend.”
 

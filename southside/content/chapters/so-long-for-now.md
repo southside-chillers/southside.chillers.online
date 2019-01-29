@@ -5,6 +5,8 @@
         "buddy",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "cazna",
         "tannin"
     ],
@@ -93,7 +95,7 @@ More beasts, winged and demonic, appear in the sky from nowhere. The king twists
 
 “We could ask them to make a stop somewhere else before returning to the city,” says Hermione. Her eyes brighten. “And then we can be rid of her forever!”
 
-“So are we extending this lie to King Slee?” asks Harlan. “I think we should at least do him the courtesy of telling the truth.”
+“So are we extending this lie to King [Slee](/characters/slee/)?” asks Harlan. “I think we should at least do him the courtesy of telling the truth.”
 
 “It’ll be on a need-to-know basis,” says Galadriel. “But honestly, don’t you think the council would tear themselves apart if they knew we had it? Especially Kandir. I’d trust Slee, and probably no one else.”
 
@@ -357,7 +359,7 @@ She spits these last words with a venomous look at Buddy, who is digging content
 
 “Oh! Oh! You know who’d be perfect?” says Tannin. “That guy, that smart guy with the observatory!”
 
-“Bryn?” says Galadriel.
+“[Bryn](/characters/bryn/)?” says Galadriel.
 
 “Yeah! That guy,” says Tannin. It dawns on him. “Oh, wait, dang.”
 

@@ -5,6 +5,8 @@
         "hermione",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 280,
@@ -42,7 +44,7 @@ Kandir and Nyanceth walk slowly to their seats together, not stopping their whis
 
 An elegant woman appears in the doorway and gives a small smile to the room. Tannin thinks to himself, somewhat awestruck, that her cheekbones must be sharp enough to pierce heavy plate armor, or at least scale mail. She carries herself with the confidence unique to individuals of undeniable beauty.
 
-“All rise for His Majesty King Slee III of Aberith!”
+“All rise for His Majesty King [Slee](/characters/slee/) III of Aberith!”
 
 The ministers and the adventurers stand up as King Slee enters the courtroom and takes his seat at the center of the semicircular table. 
 
@@ -72,7 +74,7 @@ Overlapping voices from the rest of the council grow louder and louder. Hanamir 
 
 The adventurers share a glance. Galadriel stands.
 
-“I would like to clarify the circumstances of our arrest,” she begins. “The general heard reports that we were trying to prevent the Amber Guard from detaining the suspect. That is not entirely true. We spoke with the Amber Guard, and we acknowledged that the suspect was certainly responsible for the murder of Bryn Starloft.” 
+“I would like to clarify the circumstances of our arrest,” she begins. “The general heard reports that we were trying to prevent the Amber Guard from detaining the suspect. That is not entirely true. We spoke with the Amber Guard, and we acknowledged that the suspect was certainly responsible for the murder of [Bryn](/characters/bryn/) Starloft.” 
 
 She pauses to look at General Pouru, who is staring intently at her own clasped hands on the table.
 

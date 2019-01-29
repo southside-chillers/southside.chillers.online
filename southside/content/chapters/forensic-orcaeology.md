@@ -2,8 +2,10 @@
     "appearances": [
         "hanamir",
         "buddy",
+        "frunk",
         "galadriel",
-        "harlan"
+        "harlan",
+        "bryn"
     ],
     "appearances_weight": 160,
     "chapter": 16,
@@ -14,7 +16,7 @@
 
 The next morning, the adventurers awaken in their beds at the inn to the sound of steady rain on the windows. Only a dull glow indicates that it’s time to get up, and [Galadriel](/characters/galadriel/) is still skeptical on that point when [Harlan](/characters/harlan/) tries shaking her to consciousness.
 
-"Come on," he says. "They’re reading Bryn’s will soon, and we don’t want to be late."
+"Come on," he says. "They’re reading [Bryn](/characters/bryn/)’s will soon, and we don’t want to be late."
 
 "I’ll skip it," she says, pulling her blankets over her head.
 
@@ -40,7 +42,7 @@ Harlan adopts a dignified stance and walks to the front of the group gathered in
 
 They all bow their heads for a moment of silence. H’Jun hiccups.
 
-"Now, let’s see..." Harlan scans the parchment. "Bryn Starloft leaves his observatory to the town of Eillin, in the name of Mayor Frunk Thunderstruck. The mayor shall use his judgment on what to do with it—it may be made into a public space, or he may sell it to benefit the town in another way."
+"Now, let’s see..." Harlan scans the parchment. "Bryn Starloft leaves his observatory to the town of Eillin, in the name of Mayor [Frunk](/characters/frunk/) Thunderstruck. The mayor shall use his judgment on what to do with it—it may be made into a public space, or he may sell it to benefit the town in another way."
 
 Frunk nods, and lowers his eyes contemplatively. Harlan continues reading.
 
