@@ -3,12 +3,17 @@
         "magick",
         "the-savage",
         "hanamir",
+        "nyanceth",
         "kord",
         "hermione",
+        "deru",
+        "pouru",
         "galadriel",
         "harlan",
+        "mirama",
         "bryn",
         "slee",
+        "kandir",
         "tannin"
     ],
     "appearances_weight": 280,
@@ -22,7 +27,7 @@
 
 “Where’d the guy go?” asks Tannin. “The old guy?”
 
-“Nyanceth?” says Hermione. “He went to see Kandir. Said he’d meet us here.”
+“[Nyanceth](/characters/nyanceth/)?” says Hermione. “He went to see [Kandir](/characters/kandir/). Said he’d meet us here.”
 
 “Does that strike the rest of you as odd?” Harlan barely voices the words. “He seems to rely on Kandir for, well, everything.”
 
@@ -32,17 +37,17 @@ A goateed man holding a tall silver staff appears in the doorway.
 
 “How did it go with the Minister of the Sea?” whispers Hanamir.
 
-“Interestingly,” says Hermione. “Like Deru said, he’s very—”
+“Interestingly,” says Hermione. “Like [Deru](/characters/deru/) said, he’s very—”
 
 But she is interrupted by another announcement from the man with the staff. 
 
-“The Minister of War, General Nai Pouru,” he proclaims. The stern-faced woman enters the chamber without looking at the adventurers. She sits at the far left side of the raised, semicircular table at the front of the room.
+“The Minister of War, General Nai [Pouru](/characters/pouru/),” he proclaims. The stern-faced woman enters the chamber without looking at the adventurers. She sits at the far left side of the raised, semicircular table at the front of the room.
 
 “The Minister of Trade, Ultas Kandir, and the Minister of the Sea, Haelon Nyanceth.” 
 
 Kandir and Nyanceth walk slowly to their seats together, not stopping their whispered chat. Kandir has a steadying hand on Nyanceth’s stooped back.
 
-“The Minister of Justice, Kir Mirama.”
+“The Minister of Justice, Kir [Mirama](/characters/mirama/).”
 
 An elegant woman appears in the doorway and gives a small smile to the room. Tannin thinks to himself, somewhat awestruck, that her cheekbones must be sharp enough to pierce heavy plate armor, or at least scale mail. She carries herself with the confidence unique to individuals of undeniable beauty.
 

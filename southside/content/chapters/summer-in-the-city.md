@@ -2,14 +2,19 @@
     "appearances": [
         "magick",
         "hanamir",
+        "nyanceth",
         "kord",
         "khargol",
         "hermione",
         "buddy",
+        "deru",
+        "pouru",
         "galadriel",
         "harlan",
+        "mirama",
         "slee",
         "sanford",
+        "kandir",
         "tannin"
     ],
     "appearances_weight": 290,
@@ -129,7 +134,7 @@ She decides to save those for later.
 
 ---
 
-Harlan finds Deru Nyanceth in the temple garden filling a basket with herbs. She notices him and smiles widely.
+Harlan finds [Deru](/characters/deru/) [Nyanceth](/characters/nyanceth/) in the temple garden filling a basket with herbs. She notices him and smiles widely.
 
 “Under the Eye of the Storm!” she calls. “How’s that hand holding up?”
 
@@ -147,7 +152,7 @@ She leads him to a side door of the temple and starts preparing for priestess du
 
 “I know. I’ve tried too. Nothing,” says Deru. “But… it’s not natural. It can’t be. It happened so fast, and he’s not *that* old, and I just—” She turns away, her voice breaking. “I miss my dad.”
 
-“I’m sorry,” says Harlan. He stands there awkwardly while she collects herself, wiping her eyes. “I didn’t mean to upset you. I just wanted to ask about his relationship with Minister Kandir. It seemed to me that Kandir might have an undue influence over your father.”
+“I’m sorry,” says Harlan. He stands there awkwardly while she collects herself, wiping her eyes. “I didn’t mean to upset you. I just wanted to ask about his relationship with Minister [Kandir](/characters/kandir/). It seemed to me that Kandir might have an undue influence over your father.”
 
 Deru sighs again. “Can we talk about this later?”
 
@@ -181,7 +186,7 @@ Before Harlan can respond, the young man turns on his heel and flees the courtya
 
 Tannin hasn’t told his friends the details, but he does already have commitments for the next few weeks. It wasn’t something he’d planned to do—but after the trial, he had stayed back, waiting for the room to clear. He’d just wanted to introduce himself to the Minister of Justice and let her know what an impression she’d made on him.
 
-“Minister Mirama,” he had said. “The name’s Tannin McBitters. I’m a bit of a justice-seeker myself.”
+“Minister [Mirama](/characters/mirama/),” he had said. “The name’s Tannin McBitters. I’m a bit of a justice-seeker myself.”
 
 “Very nice to meet you, Mr. McBitters,” said Mirama. Her gaze, when turned toward him, was so powerful that Tannin felt affixed to the floor. “Tell me more about your quest for justice.”
 
@@ -271,7 +276,7 @@ It’s clear to Hermione, too, that Hanamir is radiantly happy to be back among 
 
 “I did not,” says Hanamir. “That’s more recent than I thought.”
 
-“I know,” says Hermione. “She was a real reformer, it sounds like. Had an advisor who was openly part of the Harpers. Like, the radical transparency group. And it turns out Nyanceth was a general, like Pouru, before he was the Minister of War. And—and—he wanted Deru to follow in his military footsteps instead of becoming a priestess. And there was never a Minister of the Sea originally, but the position was created for him, and some say it was a landing place for his retirement…”
+“I know,” says Hermione. “She was a real reformer, it sounds like. Had an advisor who was openly part of the Harpers. Like, the radical transparency group. And it turns out Nyanceth was a general, like [Pouru](/characters/pouru/), before he was the Minister of War. And—and—he wanted Deru to follow in his military footsteps instead of becoming a priestess. And there was never a Minister of the Sea originally, but the position was created for him, and some say it was a landing place for his retirement…”
 
 “Are there any more books you’d want to look at today?” asks Hanamir. “The librarian is initiating last call a little early. Wants to close up quickly tonight.”
 

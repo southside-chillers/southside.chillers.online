@@ -3,9 +3,11 @@
         "magick",
         "the-savage",
         "hanamir",
+        "nyanceth",
         "kord",
         "hermione",
         "buddy",
+        "deru",
         "galadriel",
         "harlan",
         "bryn",
@@ -64,7 +66,7 @@ They head back to one of the impressive towers they saw during their walk to the
 
 “Yes, my friends and I have just traveled up from Eillin,” says Harlan. “I’m glad to see that reverence for Kord is alive and well in the city.”
 
-“We are blessed, indeed,” says the woman. “Lovely to meet you. I’m Deru Nyanceth, priestess of this temple.”
+“We are blessed, indeed,” says the woman. “Lovely to meet you. I’m [Deru](/characters/deru/) [Nyanceth](/characters/nyanceth/), priestess of this temple.”
 
 “Harlan Stormborne. I came to pay my respects and admire this monument to He Whose Fists Are Thunder, which—by the way—is gorgeous,” says Harlan. “It has clearly flourished under your care. But I also have a request. Thanks be to Kord, we were recently able to defeat a tremendous foe, but in that process, I found myself… shorthanded.”
 

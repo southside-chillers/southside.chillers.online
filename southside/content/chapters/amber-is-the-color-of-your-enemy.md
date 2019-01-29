@@ -2,12 +2,16 @@
     "appearances": [
         "magick",
         "hanamir",
+        "nyanceth",
         "kord",
         "hermione",
+        "deru",
+        "pouru",
         "galadriel",
         "harlan",
         "bryn",
         "slee",
+        "kandir",
         "tannin"
     ],
     "appearances_weight": 270,
@@ -29,7 +33,7 @@ Today, Hanamir walks unnoticed into a heavily-armed compound patrolled day and n
 
 Down another corridor, he hears voices. They’re discussing politics.
 
-“All I’m saying is that it’s a shame about Nyanceth. He served the city admirably, and it stings to see him pushed aside.” There are murmurs of agreement and scoffs of disdain. “Aberith’s military was his life’s work. He’ll always be one of us. And I just don’t feel that way about Pouru yet.”
+“All I’m saying is that it’s a shame about [Nyanceth](/characters/nyanceth/). He served the city admirably, and it stings to see him pushed aside.” There are murmurs of agreement and scoffs of disdain. “Aberith’s military was his life’s work. He’ll always be one of us. And I just don’t feel that way about [Pouru](/characters/pouru/) yet.”
 
 “Hey, speaking of Pouru,” says another voice. “I just got orders that we’re supposed to transfer the prisoners to a ship.” 
 
@@ -123,7 +127,7 @@ Harlan turns to Hermione and Tannin.
 
 “Nyanceth,” says Hanamir. “And that reminds me. I heard some guards talking about him earlier. They were saying he’d been pushed aside from his post as Minister of War, and one of them wasn’t happy about it.”
 
-“Deru did say her father wasn’t what he used to be,” recalls Harlan. “Just old age, or something more sinister, I wonder?”
+“[Deru](/characters/deru/) did say her father wasn’t what he used to be,” recalls Harlan. “Just old age, or something more sinister, I wonder?”
 
 “Time to find out,” Tannin says. “Meet back at the library tomorrow morning?”
 
@@ -199,7 +203,7 @@ Hermione gives Harlan a significant look. They both notice it: he’s more lucid
 
 “Terrible, terrible,” says Nyanceth, snapping back to his previous distance. “Just what Ultas always rails against… the king loses too much power to the council.”
 
-“Do you truly believe in Minister Kandir? He seemed not to take our concerns seriously when we met him.”
+“Do you truly believe in Minister [Kandir](/characters/kandir/)? He seemed not to take our concerns seriously when we met him.”
 
 “He is a busy man,” says Nyanceth. “When he’s not working at his office, he’s working on those books of his, and perhaps he misunderstood you.” He scratches his head and yawns. “He trusts and respects me, and that’s why he’s helped me stay on the council this long.” He yawns again, even longer this time, looking just about ready to call it a night. “Nobody hates Pouru more than he does. And he’s right, he must be right, of course.”
 
