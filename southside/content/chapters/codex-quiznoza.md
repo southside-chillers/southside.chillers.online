@@ -1,10 +1,12 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
         "harlan",
+        "sanford",
         "tannin"
     ],
     "appearances_weight": 300,
@@ -132,7 +134,7 @@ Sure enough, the shepherd’s crook fits inside the notch and the white stone do
 
 “First room down,” says Hanamir. “All right, team. Let’s get in formation.”
 
-The adventurers follow him. The hallway gets darker and darker until everyone is using their darkvision except Harlan, who doesn’t have that. Instead, he lights up his Kord medallion, casting an eerie glow on the bamboo-carved walls. 
+The adventurers follow him. The hallway gets darker and darker until everyone is using their darkvision except Harlan, who doesn’t have that. Instead, he lights up his [Kord](/characters/kord/) medallion, casting an eerie glow on the bamboo-carved walls. 
 
 Hanamir taps along the floors with a ten-foot pole. But the force of the pole isn’t enough to trigger a trap that only clicks into place when he, Tannin, and Galadriel have all stepped onto the same piece of flag stone. At that moment, two logs swing out from within the bamboo walls, knocking Hanamir to his stomach on the cold, slightly damp floor. 
 
@@ -403,7 +405,7 @@ Still in the water, Tannin produces his net. “Coming right up!”
 
 He dives down to the floor of the pool and gathers everything into the net. He hauls it back out and deposits it all on the rocky beach.
 
-“Let’s see here,” says Harlan eagerly. He picks up a small golden figure of a reptile. “These six little guys look expensive! Same with the gold mask. We should see if Sanford and Son want them.” His smile fades. “If we make it out of here, anyway.”
+“Let’s see here,” says Harlan eagerly. He picks up a small golden figure of a reptile. “These six little guys look expensive! Same with the gold mask. We should see if [Sanford](/characters/sanford/) and Son want them.” His smile fades. “If we make it out of here, anyway.”
 
 Galadriel inspects a silver idol that matches the one she originally stole with her Mage Hand. It is, in fact, a bottle, filled with a pungent yellow liquid and a single, floating eyeball. Over her shoulder, Hermione gasps.
 

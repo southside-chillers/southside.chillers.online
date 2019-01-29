@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "buddy",
         "galadriel",
         "harlan",
@@ -72,7 +73,7 @@ She comes down, and the group decides to set up camp. Tannin is still grievously
 
 The others thank him and tuck him in, and he passes out instantly, clutching his enchanted battering ram. Galadriel strums a lullaby on her lute and curls up with Buddy the pig. Harlan conjures a fluffy cloud for a pillow. Hanamir wears the red glass goggles for some bedtime reading before nodding off. They all take a long, refreshing rest and wake up in the morning feeling stronger than ever.
 
-As the party began to wake from its slumber, Harlan gathers everyone up, and over breakfast reveals that he had not been entirely truthful about his past. He is most definitely a cleric of Kord, but he was not raised a pirate, as he had let slip before. Now that he has gotten to know his companions better, he feels he can tell his true story:
+As the party began to wake from its slumber, Harlan gathers everyone up, and over breakfast reveals that he had not been entirely truthful about his past. He is most definitely a cleric of [Kord](/characters/kord/), but he was not raised a pirate, as he had let slip before. Now that he has gotten to know his companions better, he feels he can tell his true story:
 
 ---
 

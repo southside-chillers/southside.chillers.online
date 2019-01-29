@@ -4,6 +4,7 @@
         "hanamir",
         "galadriel",
         "harlan",
+        "sanford",
         "tannin"
     ],
     "appearances_weight": 80,
@@ -43,7 +44,7 @@ The goblin approaches and shows them the inscription on the golden axe: it belon
 
 “Ohhhh, Abathor! Much respect for Abathor,” says Harlan, trying to whip up a rapport. “Sorry about that dart. Our friend isn’t quite himself. Now, who are you fine gentlemen? What brings you to this Lolth tower today?"
 
-“We’re adventurers,” says Dart Neck. He plucks the dart out of his gristly nape and regains some dignity. “We procure fine and interesting things and connect them to discerning buyers throughout the Forgotten Realms. Sanford & Son. I’m Sanford. He’s my son."
+“We’re adventurers,” says Dart Neck. He plucks the dart out of his gristly nape and regains some dignity. “We procure fine and interesting things and connect them to discerning buyers throughout the Forgotten Realms. [Sanford](/characters/sanford/) & Son. I’m Sanford. He’s my son."
 
 Harlan’s interest is piqued; the bargaining begins posthaste. The goblins’ inventory includes a set of playing cards, a robe, a blue hat, a clear orb, some shackles, various potions, a silver breastplate, and a ring. 
 

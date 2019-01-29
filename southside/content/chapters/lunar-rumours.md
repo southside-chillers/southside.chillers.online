@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
         "frunk",
         "galadriel",
         "harlan",
@@ -14,7 +15,7 @@
     "title": "Lunar Rumours"
 }
 
-🍻 Our story begins as all quests must: with a chance encounter between three strangers in a tavern. [Hanamir](/characters/hanamir/) (a half-orc monk), [Harlan](/characters/harlan/) (a human cleric of the storm god Kord), and [Galadriel](/characters/galadriel/) (a half-elf bard) are separately enjoying their beverages of choice in this tavern when the mayor of town, [Frunk](/characters/frunk/), begins drunkenly ranting about a man, [H'Jun](/characters/hjun/), who owes him an eel brain. Our heroes learn that the eel brain is a necessary component for an "invention" that the mayor was planning to build in preparation for the town's famous Moon Festival 🌙, in honor of the town's patron goddess. He also needs red glass for the invention, but the focus was definitely on this missing eel brain. The takeaway from our conversation was that H'Jun was entrusted to bring the eel brain to Mayor Frunk, but fell asleep on the job and was robbed.
+🍻 Our story begins as all quests must: with a chance encounter between three strangers in a tavern. [Hanamir](/characters/hanamir/) (a half-orc monk), [Harlan](/characters/harlan/) (a human cleric of the storm god [Kord](/characters/kord/)), and [Galadriel](/characters/galadriel/) (a half-elf bard) are separately enjoying their beverages of choice in this tavern when the mayor of town, [Frunk](/characters/frunk/), begins drunkenly ranting about a man, [H'Jun](/characters/hjun/), who owes him an eel brain. Our heroes learn that the eel brain is a necessary component for an "invention" that the mayor was planning to build in preparation for the town's famous Moon Festival 🌙, in honor of the town's patron goddess. He also needs red glass for the invention, but the focus was definitely on this missing eel brain. The takeaway from our conversation was that H'Jun was entrusted to bring the eel brain to Mayor Frunk, but fell asleep on the job and was robbed.
 
 Hanamir, Harlan, and Galadriel decide to visit the would-be co-creator of this invention, someone named [Bryn](/characters/bryn/) who lives on top of a hill near town. Bryn informs them that the invention was supposed to be something that would allow him to inspect the moon. He is very worried about his inability to inspect the moon--he won't divulge too many details to avoid causing panic, but he says he fears something is very wrong with the moon, which might prevent the Moon Festival from taking place, and worse, might devastate the entire town. (By the way, the forest right outside town is on fire? And has been on fire for a hundred years? But this seems to be unrelated? 🔥)
 

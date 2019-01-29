@@ -1,6 +1,8 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
+        "fleck",
         "hermione",
         "frunk",
         "galadriel",
@@ -63,11 +65,11 @@ Harlan smashes the lock. Galadriel offers a hand to Hermione, who steps out of t
 
 "Wow," she says, still blinking. "Thank you, all of you, so much. I’m Hermione. It’s very nice to meet you. What are your names?"
 
-"I am Harlan, cleric of Kord," says Harlan, bowing deeply.
+"I am Harlan, cleric of [Kord](/characters/kord/)," says Harlan, bowing deeply.
 
 "Hanamir," says Hanamir. 
 
-"I met them at Fleck’s Tavern in Eillin some weeks ago," explains Galadriel. "We have been traveling companions ever since."
+"I met them at [Fleck](/characters/fleck/)’s Tavern in Eillin some weeks ago," explains Galadriel. "We have been traveling companions ever since."
 
 "Wonderful," says Hermione. "You know, of all our classmates, I suppose it makes sense that I’d run into you out in the world, in such diverse company." 
 

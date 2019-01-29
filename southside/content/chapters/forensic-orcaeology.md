@@ -2,11 +2,14 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
+        "fleck",
         "buddy",
         "frunk",
         "galadriel",
         "harlan",
-        "bryn"
+        "bryn",
+        "shinebright"
     ],
     "appearances_weight": 160,
     "chapter": 16,
@@ -25,7 +28,7 @@ The next morning, the adventurers awaken in their beds at the inn to the sound o
 
 On the other side of the room, [Hanamir](/characters/hanamir/) is whistling while he makes up his bed with a monk’s precision. Galadriel is only convinced to rise when [Buddy](/characters/buddy/) nudges her with his li’l snout and offers some encouraging oinks. The party trudges toward the hill outside town in a chilly rain that makes each footfall heavy with mud.
 
-Bryn’s observatory is no longer bustling with guards and investigators. Now, it is empty except for a small group of close associates gathered in the late scholar’s library. Fleck the bartender greets the adventurers as they enter and instructs them to set their horrendously dirty shoes by the door.
+Bryn’s observatory is no longer bustling with guards and investigators. Now, it is empty except for a small group of close associates gathered in the late scholar’s library. [Fleck](/characters/fleck/) the bartender greets the adventurers as they enter and instructs them to set their horrendously dirty shoes by the door.
 
 "I’ve been named the executor of Bryn’s estate, apparently," he explains, looking a little flustered. "I guess he must have done that before the incident with the—well, you remember—the coins." 
 
@@ -51,7 +54,7 @@ Frunk nods, and lowers his eyes contemplatively. Harlan continues reading.
 
 "What?! No!" Galadriel gasps. Harlan gives her a stern look and reads on.
 
-"His scrolls, he leaves to his wizard friend, Finethur Shinebright." Harlan pauses and feigns pondering. "Have I met him? Not sure."
+"His scrolls, he leaves to his wizard friend, Finethur [Shinebright](/characters/shinebright/)." Harlan pauses and feigns pondering. "Have I met him? Not sure."
 
 "Yes, he was that sheep, from last time," says Hanamir, not getting it.
 
@@ -71,7 +74,7 @@ Galadriel disguises a giggle as a sneeze.
 
 Harlan takes a sip of something from his flask.
 
-"Ahem. Books on religion should be left with that up-and-coming cleric of Kord who has recently passed through town." He pauses, smiling. "He must be talking about me!"
+"Ahem. Books on religion should be left with that up-and-coming cleric of [Kord](/characters/kord/) who has recently passed through town." He pauses, smiling. "He must be talking about me!"
 
 "Yes, we’ve set those aside for you already," says Frunk.
 

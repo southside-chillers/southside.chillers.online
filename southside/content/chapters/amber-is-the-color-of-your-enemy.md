@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "hermione",
         "galadriel",
         "harlan",
@@ -134,7 +135,7 @@ Halon Nyanceth lives in a stately house not far from his daughter’s temple. A 
 
 “Halt,” says one of the guards as Harlan, Tannin, and Hermione make their approach. “What is your business at the Minister’s home at such an hour?”
 
-“I know this is unorthodox,” Harlan begins. He adjusts his Kord medallion so that the guards can see he’s a respectable man of faith. “We have just witnessed something truly disturbing that requires the Minister’s immediate attention.”
+“I know this is unorthodox,” Harlan begins. He adjusts his [Kord](/characters/kord/) medallion so that the guards can see he’s a respectable man of faith. “We have just witnessed something truly disturbing that requires the Minister’s immediate attention.”
 
 “Something... related to the sea? To Aberith’s coast?” asks the other guard.
 

@@ -3,6 +3,7 @@
         "magick",
         "the-savage",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -51,7 +52,7 @@ Redyl bows deeply and gives them a tiny wave before disappearing into the crowde
 
 “That guy is cool. I hope he finds his baby,” says Tannin. Nobody corrects him. He gives the bundled basilisk a shake. “Where to now? Back to the Kiln to sell this?”
 
-“I would like to stop by the Temple of Wind, just to see if there’s anything my fellow Kord followers can do about appendage loss,” says Harlan.
+“I would like to stop by the Temple of Wind, just to see if there’s anything my fellow [Kord](/characters/kord/) followers can do about appendage loss,” says Harlan.
 
 “Plan,” says Hanamir.
 

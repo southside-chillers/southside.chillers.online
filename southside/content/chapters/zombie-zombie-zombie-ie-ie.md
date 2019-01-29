@@ -3,6 +3,7 @@
         "magick",
         "the-savage",
         "hanamir",
+        "kord",
         "khargol",
         "hermione",
         "buddy",
@@ -23,7 +24,7 @@ During the night, [Harlan](/characters/harlan/) has a dream.
 
 He is in the cave he once protected. He relishes the scents of the mineral stream and the petrichor in the air filling his lungs for the first time in so long. But it’s not just the comfort of being home; there’s something else he’s feeling… a new confidence, an expansiveness of self that feels exhilarating. A storm roils outside the cave. The percussive sound, the electrifying light—he can feel it all, and it’s coming from within him. 
 
-As another crash of thunder reverberates through him, *from* him, Harlan understands: he is the most powerful being on the planet. He rules over the material plane. He is the slayer of Kord. 
+As another crash of thunder reverberates through him, *from* him, Harlan understands: he is the most powerful being on the planet. He rules over the material plane. He is the slayer of [Kord](/characters/kord/). 
 
 He wakes up, heart pounding, to the eerie silence of the inn. He struggles to shake off the feeling the dream left him with and go back to sleep, but finds it impossible. He decides to get out of bed and volunteer for the next shift. At least then [Tannin](/characters/tannin/) can get some rest.
 

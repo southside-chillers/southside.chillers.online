@@ -3,6 +3,7 @@
         "magick",
         "the-savage",
         "hanamir",
+        "kord",
         "hermione",
         "galadriel",
         "harlan",
@@ -283,7 +284,7 @@ Hanamir gives Harlan a reassuring look.
 
 He enunciates *appropriate consequences* with precision. His meaning is clear.
 
-“Yes,” says Harlan. “I vow it, in Kord’s name.”
+“Yes,” says Harlan. “I vow it, in [Kord](/characters/kord/)’s name.”
 
 
 

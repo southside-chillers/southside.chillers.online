@@ -3,6 +3,7 @@
         "hanamir",
         "galadriel",
         "harlan",
+        "eilistraee",
         "tannin"
     ],
     "appearances_weight": 30,
@@ -32,7 +33,7 @@ Tannin swiftly cuts down the mage with his battle axe. Harlan lights his holy sy
 
 Hanamir notices another cot around the corner covered in blood—some poor temple attendant perished there, it seems. Tannin checks the mage's body and recovers 20 gold pieces, which the party splits evenly. The mage also has a map of the area west of town, including the burning woods, with a spot marked in the woods. Tannin keeps the map.
 
-Galadriel perceives that there is another trap on the ground and advises the party to avoid it. The group inspects one last cot and the bookshelf next to it. The books are all about the goddess of the temple, Eilistraee, and contain information about her lineage. She is the daughter of a lawful good father (elf?) and of Lolth, the spider goddess. They read that the town, Eillin, once had many followers of Lolth, but they were driven out. Galadriel takes two of the most interesting-looking books with her.
+Galadriel perceives that there is another trap on the ground and advises the party to avoid it. The group inspects one last cot and the bookshelf next to it. The books are all about the goddess of the temple, [Eilistraee](/characters/eilistraee/), and contain information about her lineage. She is the daughter of a lawful good father (elf?) and of Lolth, the spider goddess. They read that the town, Eillin, once had many followers of Lolth, but they were driven out. Galadriel takes two of the most interesting-looking books with her.
 
 Tannin shoves the bookshelf aside and finds a ladder behind it. Before climbing the ladder, the group decides to inspect the corpses they've left behind. The bugbear only has a mace, of no interest to anyone. The cultists upstairs have several symbols of Shargaas, their orc god, which the party decides to take. Galadriel finds an enchanted shawm and adds it to her collection of instruments. 
 

@@ -1,14 +1,18 @@
 {
     "appearances": [
         "magick",
+        "feld",
         "the-savage",
         "hanamir",
+        "kord",
+        "fleck",
         "buddy",
         "frunk",
         "galadriel",
         "harlan",
         "bryn",
         "slee",
+        "shinebright",
         "tannin"
     ],
     "appearances_weight": 150,
@@ -56,7 +60,7 @@ One of the creature’s mouths spits some unfathomably disgusting fluid at Hanam
 
 "Move backward, Hanamir," Galadriel guides him from the ceiling. "It looks like when you get too close, the ground gets...squishy...and gross…" 
 
-"Any idea how to fight this thing?" Harlan yells at Shinebright, who has been cowering in the doorway the entire battle. 
+"Any idea how to fight this thing?" Harlan yells at [Shinebright](/characters/shinebright/), who has been cowering in the doorway the entire battle. 
 
 "It’s very slow!" baas Shinebright. "Very slow, very dumb, very easy to hit. Just don’t get close to it." He stares at the Gibbering Mouther in what looks like disappointment, but it’s hard to tell on a sheep’s face. "Oh, young Noke. What have you done?"
 
@@ -214,7 +218,7 @@ The vibe in town is tense. Frunk meets them at the tavern, looking harried.
 
 "No, and we wanted to ask you about that," says Harlan. "Do you know where we might find someone experienced at managing real estate? We did a bit of work refurbishing the place and are thinking of renting it out."
 
-"We could put a flyer up in the tavern, I suppose," says Frunk. "Or you could just ask H’Jun. He needs something else to do besides drink. He could be your guy." He gestures to the end of the bar, where H’Jun is loudly telling his dragon encounter story to Fleck.
+"We could put a flyer up in the tavern, I suppose," says Frunk. "Or you could just ask H’Jun. He needs something else to do besides drink. He could be your guy." He gestures to the end of the bar, where H’Jun is loudly telling his dragon encounter story to [Fleck](/characters/fleck/).
 
 "We’ll consider it!" says Harlan brightly. "Anyway, have you found out any more details about the murder?"
 
@@ -244,7 +248,7 @@ Frunk nods, then sighs.
 
 The adventurers are silent, their drinks untouched, waiting for him to continue.
 
-"So. We’re known as the Order of the Been," says Frunk. "King Slee and I are the only two surviving first order members. Uncle was the founder." He sips his ale. "Bryn was a second order member, along with [the Savage](/characters/the-savage/), and Feld—you may have met him at the Moon Festival. H’Jun’s cousin."
+"So. We’re known as the Order of the Been," says Frunk. "King Slee and I are the only two surviving first order members. Uncle was the founder." He sips his ale. "Bryn was a second order member, along with [the Savage](/characters/the-savage/), and [Feld](/characters/feld/)—you may have met him at the Moon Festival. H’Jun’s cousin."
 
 "We actually met him in the Lolth priestesses’ tower," says Galadriel. "He was imprisoned there. But go on."
 
@@ -332,7 +336,7 @@ Just as war can be just and unjust, fought for good or evil purpose, there are t
 * **Erythnul** represents destruction, envy, and slaughter
 * **Trithereon** represents liberty and retribution
 
-Likewise, the Tempest domain has a light and dark component.  Both **Kord** and **Gruumsh** lay claim to storms, and are closely aligned with their war-god counterparts.
+Likewise, the Tempest domain has a light and dark component.  Both [**Kord](/characters/kord/)** and **Gruumsh** lay claim to storms, and are closely aligned with their war-god counterparts.
 
 Unique among the domains of gods is the Knowledge domain in being represented by three gods.
 

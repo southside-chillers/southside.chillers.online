@@ -2,6 +2,7 @@
     "appearances": [
         "the-savage",
         "hanamir",
+        "kord",
         "khargol",
         "hermione",
         "buddy",
@@ -117,7 +118,7 @@ They approach a tall, pointy-eared, blue-skinned individual wearing a straw hat.
 
 “Business with the king?!” The farmer is shocked, but still speaks at a leisurely pace. “Who might y’all be, if you don’t mind my asking?”
 
-“Adventurers,” says Harlan. “I’m Harlan Stormborne, cleric of Kord, and these are my companions. We have an important message for King [Slee](/characters/slee/) from the mayor of Eillin.”
+“Adventurers,” says Harlan. “I’m Harlan Stormborne, cleric of [Kord](/characters/kord/), and these are my companions. We have an important message for King [Slee](/characters/slee/) from the mayor of Eillin.”
 
 “Well, you shouldn’t have an issue if you’re acquainted with such folk,” says Elris. “I can take care of the bat and the pig for five silver a day.”
 
