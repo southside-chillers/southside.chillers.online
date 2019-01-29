@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -123,7 +124,7 @@ Harlan watches his hand as the strange shimmering liquid begins spreading over h
 
 “Not even this statue?” says Hanamir, squatting near its base.
 
-“Nope, just a statue,” says Harlan. The liquid has swallowed his entire hand, but doesn’t appear to be doing any damage. “I am concerned about this. I regret everything. Oh, Kord. I can’t lose a hand again.”
+“Nope, just a statue,” says Harlan. The liquid has swallowed his entire hand, but doesn’t appear to be doing any damage. “I am concerned about this. I regret everything. Oh, [Kord](/characters/kord/). I can’t lose a hand again.”
 
 “I thought losing a hand was no big deal?” sneers Tannin.
 

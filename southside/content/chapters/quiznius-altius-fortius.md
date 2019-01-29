@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -103,7 +104,7 @@ The next hallway is a terrifying scene. Standing on ledges lining both walls are
 
 “Hey dead guys! Think fast!” Tannin shouts. He pops a bead off his fireball necklace and tosses it in the center of the cluster of undead. It explodes, reducing the zombies to dust and briefly setting Harlan’s eyebrows on fire. Tannin looks around at the group, beaming with pride.
 
-“Kord Almighty!” Harlan yelps, slapping himself in the face to snuff out the embers. 
+“[Kord](/characters/kord/) Almighty!” Harlan yelps, slapping himself in the face to snuff out the embers. 
 
 As he says this, the ceiling begins to shake again. A shower of rocks and debris knocks into each of them—there’s no dodging it. But the walls stay up. 
 

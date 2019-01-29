@@ -1,6 +1,7 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
         "buddy",
         "galadriel",
         "harlan",
@@ -22,7 +23,7 @@ Tannin develops a brutally effective attack against the swarms: the “axe blend
 
 Galadriel readies her crossbow and shoots the phase spider. The arrow hits, and the spider disappears again. Hanamir and Tannin wipe out one swarm of spiders entirely and use the axe blender technique to great effect on the other swarm. As Hanamir kills the last of the small spiders, the phase spider reappears and attempts to poison Tannin, who strikes a damaging blow with his axe. But Galadriel is ready. She shoots one more arrow at the massive spider and it collapses, dead, and then flickers out of existence.
 
-Harlan stirs and opens his eyes. He’s still woozy, but he’s able to heal himself enough to stand up and inspect the gate-like altar that sits in the clearing. Sure enough, it’s a monument to his beloved storm deity. “Praise Kord!” he cries. 
+Harlan stirs and opens his eyes. He’s still woozy, but he’s able to heal himself enough to stand up and inspect the gate-like altar that sits in the clearing. Sure enough, it’s a monument to his beloved storm deity. “Praise [Kord](/characters/kord/)!” he cries. 
 
 The Voice of Kord praises Harlan’s valor in battle and offers him divine wisdom. Harlan asks for something to help the party find its way. Kord reveals that the dragon nest is only accessible from the river of fire. In the opposite direction, the tower is marked with a red hourglass, and there is no way to reach it on foot—they must go “above or below” if they wish to venture there. 
 

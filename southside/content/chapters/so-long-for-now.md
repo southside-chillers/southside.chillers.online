@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -310,7 +311,7 @@ Galadriel grabs the corner of the “garment” gingerly and picks up the dance 
 
 The air outside is clean and surprisingly cool. She gulps it in by the lungful, marveling at how good it feels to no longer breathe dust and thousand-year-old catacomb air. She’s greeted by a shrieking hug from Hermione and an abundance of enthusiastic licks to her cheek from Buddy, who is held out to her by Hanamir. Harlan and Tannin throw up their arms and join the group hug, all of them laughing with incredulous relief.
 
-“We did it,” says Harlan. He pats his chest, where the quiznos lies concealed in its holster, and glances behind himself at Magick, who is busy kicking rocks down the stepped sides of the pyramid. “Praise Kord, we really pulled it off.”
+“We did it,” says Harlan. He pats his chest, where the quiznos lies concealed in its holster, and glances behind himself at Magick, who is busy kicking rocks down the stepped sides of the pyramid. “Praise [Kord](/characters/kord/), we really pulled it off.”
 
 “And would you look at that view?” says Hanamir, shading his eyes. “That’s quite a view, folks.”
 

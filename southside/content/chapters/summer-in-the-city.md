@@ -2,12 +2,14 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "khargol",
         "hermione",
         "buddy",
         "galadriel",
         "harlan",
         "slee",
+        "sanford",
         "tannin"
     ],
     "appearances_weight": 290,
@@ -131,7 +133,7 @@ Harlan finds Deru Nyanceth in the temple garden filling a basket with herbs. She
 
 “Under the Eye of the Storm!” she calls. “How’s that hand holding up?”
 
-“May we behold His Fury,” says Harlan. He waves his left hand at her. “No complaints so far.” He glances around. “Isn’t there a service soon? I didn’t mean to interrupt. I was hoping to spend some time in communion with Kord, and with other devotees, of course.”
+“May we behold His Fury,” says Harlan. He waves his left hand at her. “No complaints so far.” He glances around. “Isn’t there a service soon? I didn’t mean to interrupt. I was hoping to spend some time in communion with [Kord](/characters/kord/), and with other devotees, of course.”
 
 “Oh, yes,” says Deru, wiping her brow. “I’m cutting it close, aren’t I? Today’s service starts in a few minutes, so you’re right on time. I’ll come in with you now.”
 
@@ -433,7 +435,7 @@ The night before their ship to the Northern Ruins is scheduled to set sail, the 
 
 The other four clink their glasses against his.
 
-“To the awesome stuff we bought from Sanford and Son today,” adds Tannin, spinning his new Ring of Protection on his middle finger. “And to Kir Mirama for bankrolling it!”
+“To the awesome stuff we bought from [Sanford](/characters/sanford/) and Son today,” adds Tannin, spinning his new Ring of Protection on his middle finger. “And to Kir Mirama for bankrolling it!”
 
 “I still can’t believe you all went shopping without me,” mutters Galadriel.
 

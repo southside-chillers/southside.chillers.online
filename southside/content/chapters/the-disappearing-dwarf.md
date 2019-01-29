@@ -1,10 +1,13 @@
 {
     "appearances": [
         "magick",
+        "feld",
         "hanamir",
+        "fleck",
         "buddy",
         "galadriel",
         "harlan",
+        "sanford",
         "tannin"
     ],
     "appearances_weight": 110,
@@ -19,7 +22,7 @@
 
 You intuit that this is a new exclamation of surprise that she’s trying out. 
 
-“Didn’t see you there. Yes, please, come in. Pour yourself a tankard of Fleck’s finest Eillin ale.” 
+“Didn’t see you there. Yes, please, come in. Pour yourself a tankard of [Fleck](/characters/fleck/)’s finest Eillin ale.” 
 
 She takes a sip.
 
@@ -79,7 +82,7 @@ She drinks deeply, then gestures back at the original flashback window.
 
 “After that, we spoke to the three prisoners who had been locked away by the fiendish followers of Lolth.” 
 
-“We met Tallis, Feld, and Hillbloo. They seemed nice. We learned that Feld is the cousin of H’Jun, the drunkard from Eillin. He has a lot of heart, but he’s not a very good bard. We let them go on their way, and decided to search the tower for anything we’d missed.”
+“We met Tallis, [Feld](/characters/feld/), and Hillbloo. They seemed nice. We learned that Feld is the cousin of H’Jun, the drunkard from Eillin. He has a lot of heart, but he’s not a very good bard. We let them go on their way, and decided to search the tower for anything we’d missed.”
 
 ---
 
@@ -133,7 +136,7 @@ Commercial break. Two goblins in ill-fitting suits address the camera.
 
 “Good credit, bad credit, bad credit from another dimension, we don’t care. We will make you a deal that will leave you saying: ‘Look at this cool stuff I bought.’”
 
-“Just ask for Sanford & Son. Buyers and sellers of the most fascinating antiques, collectibles, and magical artifacts on the continent.”
+“Just ask for [Sanford](/characters/sanford/) & Son. Buyers and sellers of the most fascinating antiques, collectibles, and magical artifacts on the continent.”
 
 “Sanford & Son: If you need to find us, we’ll probably be somewhere.”
 

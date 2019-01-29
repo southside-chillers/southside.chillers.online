@@ -3,9 +3,11 @@
         "magick",
         "the-savage",
         "hanamir",
+        "fleck",
         "frunk",
         "galadriel",
         "harlan",
+        "eilistraee",
         "hjun",
         "bryn",
         "tannin"
@@ -19,7 +21,7 @@
 
 It's another beautiful day in the town of Eillin. [Tannin](/characters/tannin/) is still on his personal side quest, but [Harlan](/characters/harlan/), [Hanamir](/characters/hanamir/), and [Galadriel](/characters/galadriel/) are eager to solve the problem of the burning forest, and they're running out of time before the Moon Festival. Their only choice is to press on.
 
-They return to [Bryn](/characters/bryn/)'s observatory for some information before they leave town. Galadriel hands him the enchanted gauntlet and asks if he knows anything about it. "Where did you get this?" Bryn asks, concerned. "The symbol of Lolth is most unwelcome in town." He reminds them that Lolth, the spider goddess, once had many followers in Eilistraee, but they were driven out. Galadriel asks him if he can detect any curses on the gauntlet. "It would be a curse to wear it here," he replies.
+They return to [Bryn](/characters/bryn/)'s observatory for some information before they leave town. Galadriel hands him the enchanted gauntlet and asks if he knows anything about it. "Where did you get this?" Bryn asks, concerned. "The symbol of Lolth is most unwelcome in town." He reminds them that Lolth, the spider goddess, once had many followers in [Eilistraee](/characters/eilistraee/), but they were driven out. Galadriel asks him if he can detect any curses on the gauntlet. "It would be a curse to wear it here," he replies.
 
 They ask him what to expect if they succeed in viewing the moon with the red glass goggles. His theory, he says, is that the moon has been cut in two. If this is the case, it would be a sign that something deeply wrong has happened to Eilistraee, and the town would need to evacuate.
 
@@ -29,7 +31,7 @@ The team lets him know that the orcs they've encountered have claimed responsibi
 
 "Oh! He's around? I'm surprised he hasn't made himself known," says Bryn, his tone changing. "The Savage is an old friend of the town. I haven't seen him since I was a boy, but he's a famous warrior. Utterly devoted to the pursuit of valor. He's saved us from more than one disaster in the past." Bryn considers this, and frowns. "I know not if his presence now be an omen of good or ill."
 
-The party thanks Bryn for his insight and returns to the inn, in the hopes of running into Mayor [Frunk](/characters/frunk/). They suspect that the Mayor might be able to tell them more. Fleck the bartender greets them with a twinkle in his gold-coin eyes. Sure enough, among the surviving townsfolk, Mayor Frunk sits in his familiar spot at the bar.
+The party thanks Bryn for his insight and returns to the inn, in the hopes of running into Mayor [Frunk](/characters/frunk/). They suspect that the Mayor might be able to tell them more. [Fleck](/characters/fleck/) the bartender greets them with a twinkle in his gold-coin eyes. Sure enough, among the surviving townsfolk, Mayor Frunk sits in his familiar spot at the bar.
 
 "The Savage? Sure I know him. He just left the inn, in fact," says Frunk. "The man's an inspiration. He was born here, and though he travels far and wide, he always comes back when we need him. You won't believe this, but when he was just sixteen, he slew a dragon."
 

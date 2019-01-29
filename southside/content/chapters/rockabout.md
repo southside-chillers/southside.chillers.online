@@ -2,6 +2,7 @@
     "appearances": [
         "the-savage",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -212,7 +213,7 @@ When the drow are out of sight, Hanamir reappears. The adventurers discuss what 
 
 “Could be,” says Hanamir. “Or just your standard demagogue. Hard to say until we see him for ourselves.”
 
-“Nim really did not like my amulet of Kord,” yawns Harlan. “He kept glaring at it.”
+“Nim really did not like my amulet of [Kord](/characters/kord/),” yawns Harlan. “He kept glaring at it.”
 
 “He was not a fan of my gauntlet, either,” says Galadriel. “But I think he saw us more as poor suckers than as agents of evil.”
 

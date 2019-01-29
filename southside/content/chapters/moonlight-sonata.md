@@ -1,15 +1,20 @@
 {
     "appearances": [
         "magick",
+        "feld",
         "the-savage",
         "hanamir",
+        "kord",
         "khargol",
+        "fleck",
         "buddy",
         "frunk",
         "galadriel",
         "harlan",
+        "eilistraee",
         "bryn",
         "slee",
+        "sanford",
         "cazna"
     ],
     "appearances_weight": 130,
@@ -41,7 +46,7 @@ You see in the flashback window that [Hanamir](/characters/hanamir/) is perusing
 
 When they reach the top of the hill, Bryn is already at the door to welcome them in.
 
-“It’s you guys!” he exclaims. “Come in, come in. We weren’t sure what happened. It was the strangest thing. The occlusion of the moon—it disappeared all of a sudden! And Eilistraee arrived in town for the festival!”
+“It’s you guys!” he exclaims. “Come in, come in. We weren’t sure what happened. It was the strangest thing. The occlusion of the moon—it disappeared all of a sudden! And [Eilistraee](/characters/eilistraee/) arrived in town for the festival!”
 
 “Yes, well, we tracked down the source of the problem. A rogue priestess of Lolth was responsible,” says Harlan. “Do you know the name [Cazna](/characters/cazna/)?”
 
@@ -73,7 +78,7 @@ Hanamir takes it with a quick bow.
 
 “Science is all the fun I need,” says Bryn, appearing to mean it. 
 
-The adventurers leave this huge unbelievable nerd to his books and scamper on down the hill toward town. But before joining the festivities, they decide to seek out Sanford & Son to offload their remaining orbs.
+The adventurers leave this huge unbelievable nerd to his books and scamper on down the hill toward town. But before joining the festivities, they decide to seek out [Sanford](/characters/sanford/) & Son to offload their remaining orbs.
 
 “Why aren’t you guys partying in town?” Sanford asks after greeting them as warmly as goblins can do. 
 
@@ -139,7 +144,7 @@ The flashback window fades from view, and you’re back with Galadriel and Buddy
 
 “Now the fun part. The adventurers head to Eillin to enjoy their success and finally let go of all that questing stress at the Moon Festival. The libations are flowing freely among the townspeople, who are making merry around a great bonfire in the center of town. I present to you the highlights of the night, in the comedic mockumentary style of The Office.”
 
-You see a close-up window of [Frunk](/characters/frunk/) Thunderstruck, dwarf mayor of Eillin, addressing the camera directly. He’s sitting on a bench outside Fleck’s Tavern. The noise of celebrants can be heard all around him.
+You see a close-up window of [Frunk](/characters/frunk/) Thunderstruck, dwarf mayor of Eillin, addressing the camera directly. He’s sitting on a bench outside [Fleck](/characters/fleck/)’s Tavern. The noise of celebrants can be heard all around him.
 
 ---
 
@@ -191,7 +196,7 @@ Frunk moves away to talk with Slee, looking worried. H’Jun lumbers over to tal
 
 “You should tell them all about the dragon!” H’Jun seems to misunderstand.
 
-“Okay, bud.” Harlan pats him on the shoulder. “Hey, I think we met someone you know during our quest. Goes by the name of Feld?”
+“Okay, bud.” Harlan pats him on the shoulder. “Hey, I think we met someone you know during our quest. Goes by the name of [Feld](/characters/feld/)?”
 
 “Feld! You know Feld? Feld’s my cousin,” hiccups H’Jun. “He’s over there!” He swivels around to point at Feld and smacks an elderly half-elf in the face. 
 
@@ -289,7 +294,7 @@ Galadriel nods vigorously.
 
 “I reacted badly before. Forgive me. You are, of course, forgiven yourself. And although there is nothing I can do to lift the curse she’s put upon you, you should know that what she said about it being permanent is not true.” Eilistraee pauses. “She aims to sow despair. But if you were to obtain the blessing of a god of her stature or higher, they would be able to lift the curse.”
 
-“Kord?” asks Hanamir, glancing at Harlan.
+“[Kord](/characters/kord/)?” asks Hanamir, glancing at Harlan.
 
 “Kord perhaps. I don’t know for sure. One person I know could do it would be my father, Korellon, creator of the elves, who vastly outranks my mother. Unfortunately, I can’t help you with that.”
 

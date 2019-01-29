@@ -1,9 +1,11 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
         "buddy",
         "galadriel",
         "harlan",
+        "eilistraee",
         "cazna",
         "tannin"
     ],
@@ -284,7 +286,7 @@ Galadriel notices that the drow is fidgeting with something and staring at the g
 
 **Harlan**: She’s onto us.
 
-**Drow**: Cazna and the followers of Shargaas both needed Eilistraee out of the way.
+**Drow**: Cazna and the followers of Shargaas both needed [Eilistraee](/characters/eilistraee/) out of the way.
 
 **Galadriel**: Who’s Cazna?
 
@@ -342,7 +344,7 @@ They go back to the hallway and enter the next room with the open door. it’s s
 
 Down the hallway, there’s an archway leading to another room, and there are two more closed doors on the left. they check out the archway. it leads to a dining hall with two long wooden tables. at the end there’s a stone altar with three lit torches above it. other than that, it’s empty. Hanamir encourages Galadriel to check the altar for magic. she determines that the pot roast that they serve there is pretty magical. Hanamir eats some and it’s delicious. is it made of human? we don’t know.
 
-They move on to the next door, which is locked. Hanamir tries to pick the lock with his thieves’ tools. Harlan casts guidance of kord on him. Hanamir succeeds in picking the lock.
+They move on to the next door, which is locked. Hanamir tries to pick the lock with his thieves’ tools. Harlan casts guidance of [kord](/characters/kord/) on him. Hanamir succeeds in picking the lock.
 
 Inside the room, there are three people sleeping: two drow dressed in shabby clothes, and one non-drow elf. it’s hard to tell if they’re prisoners or there by choice. one drow is dressed in white, the other in a black robe. the non-drow elf is dressed in rags.
 

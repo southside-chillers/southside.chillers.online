@@ -1,14 +1,18 @@
 {
     "appearances": [
+        "feld",
         "the-savage",
         "hanamir",
+        "kord",
+        "fleck",
         "hermione",
         "buddy",
         "frunk",
         "galadriel",
         "harlan",
         "bryn",
-        "slee"
+        "slee",
+        "shinebright"
     ],
     "appearances_weight": 180,
     "chapter": 18,
@@ -17,7 +21,7 @@
     "title": "Ring Cycle"
 }
 
-The early morning sun streams through the windows of the inn above Fleck’s Tavern. The adventurers have had a long rest, and with it, plenty of time to consider the 75% negative opinion of Kord on the topic of entering the City of the Dead. 
+The early morning sun streams through the windows of the inn above [Fleck](/characters/fleck/)’s Tavern. The adventurers have had a long rest, and with it, plenty of time to consider the 75% negative opinion of [Kord](/characters/kord/) on the topic of entering the City of the Dead. 
 
 They gather in the room shared by [Hermione](/characters/hermione/), [Galadriel](/characters/galadriel/), and [Buddy](/characters/buddy/). [Harlan](/characters/harlan/) has ordered room service, which Fleck brings up on a heavy tray. 
 
@@ -281,7 +285,7 @@ H’Jun groans again.
 
 “Where is it?” says H’Jun.
 
-“You know Shinebright’s place, north of town?” says Hanamir.
+“You know [Shinebright](/characters/shinebright/)’s place, north of town?” says Hanamir.
 
 “He’s not living there anymore?” asks H’Jun.
 
@@ -339,7 +343,7 @@ Back in the town square, the adventurers start making their plans to leave Eilli
 
 “Me too,” says Hanamir.
 
-“One more here in town… that must be Feld,” says Galadriel.
+“One more here in town… that must be [Feld](/characters/feld/),” says Galadriel.
 
 “One in Aberith, for the king,” says Hermione.
 

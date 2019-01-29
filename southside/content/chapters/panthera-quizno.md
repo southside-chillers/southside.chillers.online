@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "kord",
         "hermione",
         "buddy",
         "galadriel",
@@ -83,7 +84,7 @@ When his hand comes out, they all gasp. He’s holding a bloody, throbbing human
 
 “No, no, no,” says Harlan. 
 
-“It could be a sacrifice,” says Hanamir. “Does Kord accept sacrifices as payment for divinations? Or general life advice?”
+“It could be a sacrifice,” says Hanamir. “Does [Kord](/characters/kord/) accept sacrifices as payment for divinations? Or general life advice?”
 
 “Kord has no need for that kind of morbid exchange,” Harlan shudders.
 

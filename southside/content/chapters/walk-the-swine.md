@@ -3,14 +3,17 @@
         "magick",
         "the-savage",
         "hanamir",
+        "kord",
         "khargol",
         "hermione",
         "buddy",
         "frunk",
         "galadriel",
         "harlan",
+        "eilistraee",
         "bryn",
         "slee",
+        "shinebright",
         "redyl",
         "tannin"
     ],
@@ -27,7 +30,7 @@ The adventurers hesitate. The speaking skeleton walks closer.
 
 [Tannin](/characters/tannin/) and [Hanamir](/characters/hanamir/) glance at each other and ready their weapons. But as they prepare to charge, a bolt of lightning connects with the ground beneath the group of skeletons, illuminating their bones for a fraction of a second, then exploding them. When the dust clears, only four skeletons remain standing.
 
-“Kord be praised!” comes [Harlan](/characters/harlan/)’s voice from above, on the back of the giant bat. His lone hand, still crackling with electricity, is raised in blessing. ([Galadriel](/characters/galadriel/) makes a mental note that this tableau should be the cover art for the metal album she will one day compose about this very adventure.)
+“[Kord](/characters/kord/) be praised!” comes [Harlan](/characters/harlan/)’s voice from above, on the back of the giant bat. His lone hand, still crackling with electricity, is raised in blessing. ([Galadriel](/characters/galadriel/) makes a mental note that this tableau should be the cover art for the metal album she will one day compose about this very adventure.)
 
 “I was merely inviting you to stay,” says the skeleton coolly. He and his compatriots step aside to let the adventurers pass.
 
@@ -223,7 +226,7 @@ Redyl nods and makes all the requisite noises to indicate interest, but seems di
 
 Harlan has opted to walk, at least for this portion of the journey, while his bat stays close in the sky. He gives Hanamir a nudge.
 
-“Hey, you think Shinebright had anything Redyl might find useful, until he can get new supplies?” he says.
+“Hey, you think [Shinebright](/characters/shinebright/) had anything Redyl might find useful, until he can get new supplies?” he says.
 
 “We could stop by our rental property, just in case, and take a look,” says Hanamir. “Check in with H’Jun, too.”
 
@@ -333,7 +336,7 @@ Redyl laughs and looks down at Tannin.
 
 “The first thing that struck me was how strange it was that they were meeting with drow,” says Redyl. “Orcs and drow—you don’t see them together much. But the drow were part of their scheme to kill Gruumsh, I think.”
 
-“That sounds right,” says Hanamir. “We defeated a faction of drow who were attempting to kill another god, Eilistraee, and they were in league with orcs.”
+“That sounds right,” says Hanamir. “We defeated a faction of drow who were attempting to kill another god, [Eilistraee](/characters/eilistraee/), and they were in league with orcs.”
 
 “Yes, I don’t think Gruumsh was the only target. It seemed much bigger than that. I saw creatures coming and going that I couldn’t even identify—tentacles on their faces and whatnot.” 
 

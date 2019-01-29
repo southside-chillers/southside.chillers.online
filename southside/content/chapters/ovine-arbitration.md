@@ -5,7 +5,8 @@
         "frunk",
         "galadriel",
         "harlan",
-        "bryn"
+        "bryn",
+        "shinebright"
     ],
     "appearances_weight": 140,
     "chapter": 14,
@@ -48,7 +49,7 @@ Harlan stumbles, then picks it up.
 
 “Yes,” Harlan says.
 
-“Thank goodness,” says the sheep. “My name is Finethur Shinebright, and I’m a wizard, and I am in dire need of your aid!”
+“Thank goodness,” says the sheep. “My name is Finethur [Shinebright](/characters/shinebright/), and I’m a wizard, and I am in dire need of your aid!”
 
 “Oh dear,” says Harlan, trying to stifle a giggle. He translates this information for his friends. “What caused your transformation?”
 

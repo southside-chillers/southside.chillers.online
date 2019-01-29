@@ -1,6 +1,8 @@
 {
     "appearances": [
         "hanamir",
+        "kord",
+        "fleck",
         "buddy",
         "frunk",
         "galadriel",
@@ -66,7 +68,7 @@ Harlan kneels and begins to pray. Hanamir and Galadriel aren’t sure if it’s 
 
 Thunder rattles the entire room. Galadriel and Hanamir share a nervous look.
 
-“I sense many trapped souls where you are,” says the Voice of Kord. “Souls of evil beings.”
+“I sense many trapped souls where you are,” says the Voice of [Kord](/characters/kord/). “Souls of evil beings.”
 
 “Yes, we found them encased in gemstone orbs, littered throughout this tower,” says Harlan.
 
@@ -266,7 +268,7 @@ The party exhales. They have no words for their disbelief. They are standing alo
 
 Commercial break. An aerial shot of the town of Eillin. Then the camera pans down main street to stop and focus on the famous tavern in the town square. A man with coins for eyes opens the door. The audio is muffled and polluted with background noise.
 
-“Welcome to Fleck’s! I’m Fleck, and the locals know Fleck’s is the best spot in town to get your pre-game on before the Moon Festival this weekend.” He waves an arm. “Follow me!”
+“Welcome to [Fleck](/characters/fleck/)’s! I’m Fleck, and the locals know Fleck’s is the best spot in town to get your pre-game on before the Moon Festival this weekend.” He waves an arm. “Follow me!”
 
 A star wipe introduces a new shot of the tavern interior. It is mostly empty, but H’Jun is passed out face down on the bar. Fleck is behind the bar cleaning tankards with a questionable-looking rag.
 

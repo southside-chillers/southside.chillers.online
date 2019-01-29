@@ -6,6 +6,8 @@
         "buddy",
         "galadriel",
         "harlan",
+        "eilistraee",
+        "sanford",
         "tannin"
     ],
     "appearances_weight": 90,
@@ -91,7 +93,7 @@ Hanamir finally speaks, his voice tight, as if pushing through an almost unbeara
  
 “I don’t know,” says the Savage. “All I know is, I killed eight priests. The two I didn’t kill dragged me here and thought they’d let the Aberration do their work for them. But of course, they didn’t know who I am.” He smirks. “So, the moon, huh? What’s going on?”
  
-“That’s what we’ve been trying to determine,” says Galadriel. She has taken Buddy the Pig out of her backpack and holds him on her lap, feeding him pieces of a granola bar that she accidentally smushed at the bottom of the bag. “It’s being attacked on two fronts—one here and one somewhere to the east. But here’s what I don’t get. Isn’t Lolth the mother of Eilistraee? The moon goddess? Why would Lolth’s followers be doing this to the daughter of their goddess?”
+“That’s what we’ve been trying to determine,” says Galadriel. She has taken Buddy the Pig out of her backpack and holds him on her lap, feeding him pieces of a granola bar that she accidentally smushed at the bottom of the bag. “It’s being attacked on two fronts—one here and one somewhere to the east. But here’s what I don’t get. Isn’t Lolth the mother of [Eilistraee](/characters/eilistraee/)? The moon goddess? Why would Lolth’s followers be doing this to the daughter of their goddess?”
  
 “Ah, but Lolth _hates_ her daughter,” says the Savage, as if this were common knowledge. “Anyway, I don’t think Lolth is a powerful enough deity to really do damage to the moon. If the Lolth priests are in league with someone else, though, it’s possible. Somewhere to the east, you said?"
  
@@ -187,7 +189,7 @@ He lets the news wash over them. There are murmurs of confusion and surprise.
  
 This quiets the party, but the Savage is unconvinced. He goes to the body of the Slaad and slices open its stomach.
  
-“I sold it to Sanford and Son,” says Harlan. “They just left here with it earlier today. See? Is that a sign of good faith?”
+“I sold it to [Sanford](/characters/sanford/) and Son,” says Harlan. “They just left here with it earlier today. See? Is that a sign of good faith?”
  
 “That’s nice,” says the Savage. “But it’s too late.” He rummages inside the Slaad’s guts until he finds what he’s looking for: his severed arm, still holding his sword. He waves it at them. “Bye.”
  
