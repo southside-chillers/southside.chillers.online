@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "khargol",
@@ -46,19 +47,19 @@ She wakes up, feeling a mixture of fear and curiosity… and with that curiosity
 
 As Hermione leaves the room, she sees Galadriel sleeping sprawled on her stomach with her face contorted in what looks like unspeakable pain. [Buddy](/characters/buddy/) is nestled in the warmth of her armpit. She whimpers in between snores. 
 
-Galadriel dreams that she has found Magic, and by accident, too. She stumbled across a hidden cellar door while searching for a bathroom and discovered the elusive tiefling inside. Magic has her back turned and is leaning over a table. Flashes of light, accompanied by agonized screaming, periodically illuminate the cellar.
+Galadriel dreams that she has found [Magick](/characters/magick/), and by accident, too. She stumbled across a hidden cellar door while searching for a bathroom and discovered the elusive tiefling inside. Magick has her back turned and is leaning over a table. Flashes of light, accompanied by agonized screaming, periodically illuminate the cellar.
 
 She can’t see what’s on the table, but her stomach drops to the floor with a horrible feeling that it’s someone she loves.
 
 “Please, no!” she cries. “Stop! Don’t hurt him!”
 
-An invisible force field holds her in place. She wants to run forward and tackle Magic, or shoot an arrow at her back, but she can’t move. All she can do is speak.
+An invisible force field holds her in place. She wants to run forward and tackle Magick, or shoot an arrow at her back, but she can’t move. All she can do is speak.
 
-“Magic, please,” she sobs as another round of screaming begins. “He’s good. I know he’s good.”
+“Magick, please,” she sobs as another round of screaming begins. “He’s good. I know he’s good.”
 
-A thought worms its way into her mind, its origin unclear. If she says a single word, she can put an end to this. She can kill Magic to save this person she loves. And she knows she has to do it. 
+A thought worms its way into her mind, its origin unclear. If she says a single word, she can put an end to this. She can kill Magick to save this person she loves. And she knows she has to do it. 
 
-She speaks the word. Magic turns around and stares at her, then freezes—and falls to the floor, dead. An overwhelming relief floods through Galadriel’s body. She rushes to the table to comfort the creature, still weeping, but knowing at last that it is safe. Everyone she loves is safe.
+She speaks the word. Magick turns around and stares at her, then freezes—and falls to the floor, dead. An overwhelming relief floods through Galadriel’s body. She rushes to the table to comfort the creature, still weeping, but knowing at last that it is safe. Everyone she loves is safe.
 
 Galadriel wakes, shivering and sweaty. Buddy licks her face a little, and she smiles. 
 
@@ -218,11 +219,11 @@ She gives him a cuddle and summarizes his concerns back to the adventurers. They
 
 “And we have to either take the Savage’s ring, or get him into a state where we can safely bring him out with us without also bringing along the Lich, or some sort of interplanar demon, or whatever is possessing him,” says Harlan.
 
-“You can use Dispel Magic, right?” asks Hanamir. Harlan nods. “We should try casting it on the Savage before he leaves his room, and then going to talk to him to see if it worked.”
+“You can use Dispel Magick, right?” asks Hanamir. Harlan nods. “We should try casting it on the Savage before he leaves his room, and then going to talk to him to see if it worked.”
 
 “Before we do that,” says Galadriel, “I want to take the chance, while we’re all sharing stuff, to ask Tannin where the hell he’s been.”
 
-“Oh yeah!” says Tannin. “Ha, I forgot I hadn’t already explained this. Well, that potion I drank was supposed to be a plane-shifting potion, but we know Magic is kind of terrible at potions, right? So I figured maybe it’d heal me or something, because I was cut up pretty bad in that Lolth tower,” he reminisces. “Anyway, it didn’t, and it didn’t take me back to her hut like she said, either.”
+“Oh yeah!” says Tannin. “Ha, I forgot I hadn’t already explained this. Well, that potion I drank was supposed to be a plane-shifting potion, but we know Magick is kind of terrible at potions, right? So I figured maybe it’d heal me or something, because I was cut up pretty bad in that Lolth tower,” he reminisces. “Anyway, it didn’t, and it didn’t take me back to her hut like she said, either.”
 
 “Did it take you to the ocean?” Hermione makes an educated guess.
 

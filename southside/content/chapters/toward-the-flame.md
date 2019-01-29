@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "frunk",
@@ -52,23 +53,23 @@ With the goggles, Hanamir senses that a wall of fire in their path is actually f
 
 They go left and investigate the hut. Hanamir tries to sneak through the door, but stumbles on his way in, surprising an elderly tiefling inside. The tiefling reaches for a trident. "Oops, pardon me," says Hanamir. 
 
-"How did you get in here?" says the tiefling. "I haven't seen anyone in ages! The fire's driven everyone away. I can't even get out. I'm so lonely! The name's Magic, by the way. I make potions. Healing potions, potions that'll make you impervious to magic, all kinds of potions. I'm even working on one that lets you plane shift at will, but so far all it does is bring me back to the center of my hut.  I have a lot of it, if you guys want some. You'll have to let me know how it affects each of you, being different types of creatures than little ol' me." They each accept a vial of the plane shifting potion, just in case it comes in handy later. "I can sell you some of the other potions, but I only take electrum. No interest in gold. Or I'll barter you for 'em. Do you have anything I could wear that might make me feel fancy? That would keep me from being bored for a good couple of days, I think."
+"How did you get in here?" says the tiefling. "I haven't seen anyone in ages! The fire's driven everyone away. I can't even get out. I'm so lonely! The name's [Magick](/characters/magick/), by the way. I make potions. Healing potions, potions that'll make you impervious to magic, all kinds of potions. I'm even working on one that lets you plane shift at will, but so far all it does is bring me back to the center of my hut.  I have a lot of it, if you guys want some. You'll have to let me know how it affects each of you, being different types of creatures than little ol' me." They each accept a vial of the plane shifting potion, just in case it comes in handy later. "I can sell you some of the other potions, but I only take electrum. No interest in gold. Or I'll barter you for 'em. Do you have anything I could wear that might make me feel fancy? That would keep me from being bored for a good couple of days, I think."
 
 The party inspects their inventory, but they don't have anything that would fit the bill for fanciness. 
 
 "I hear rope can be considered a fancy accessory in some cultures," Hanamir suggests. 
 
-"Oh... no thanks," says Magic, looking put out. 
+"Oh... no thanks," says Magick, looking put out. 
 
 "What if we show you the way out of the forest in exchange for three vials of your magic imperviousness potion?" Harlan asks, ever the bargain hunter.
 
-"Sounds good!" says Magic.
+"Sounds good!" says Magick.
 
 As they lead the tiefling out of the forest, past the fake fire, they try to glean more information about their surroundings.
 
 "Do you know who is in the tower?" asks Hanamir. 
 
-"No one, I suspect," says Magic. "Once the red dragon set this fire, it went back to sleep, I think. No one left in the forest now except for me and old Grizzleby. That's the dragon's name. It's a very common dragon name."
+"No one, I suspect," says Magick. "Once the red dragon set this fire, it went back to sleep, I think. No one left in the forest now except for me and old Grizzleby. That's the dragon's name. It's a very common dragon name."
 
 They bid the tiefling farewell and return down the left-side fork in the path, past the hut this time. They come to a rocky clearing that leads to a cave. There is a great heat emanating from the cave, and it looks unnaturally dark inside. Galadriel, using the gauntlet's blindsight, peers inside. "It looks great in here!" she says. "Lots of spider webs. Tons of them on all the walls. I am feeling really good about exploring in here."
 

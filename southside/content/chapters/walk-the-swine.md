@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "khargol",
@@ -86,7 +87,7 @@ The Savage gives him a curt nod.
 
 “Eillin? To check in with [Frunk](/characters/frunk/)?” Tannin floats.
 
-“Remember, we have a meeting with Magic in Aberith in four days,” says Harlan.
+“Remember, we have a meeting with [Magick](/characters/magick/) in Aberith in four days,” says Harlan.
 
 “Eillin is on the way,” says Galadriel, “and Frunk needs to know what we’ve learned.”
 
@@ -278,7 +279,7 @@ Redyl bows.
 
 “My gratitude to you all is unending,” he says.
 
-After a short rest in the tower, they decide it would be best to get a move on. They will need to travel at a quick pace in order to reach Aberith in time to meet up with Magic. The Savage trails several yards behind them all, brooding. Back atop Hanamir’s shoulders, Redyl is reassuring them that he didn’t have high hopes for another wizard’s supplies, anyway.
+After a short rest in the tower, they decide it would be best to get a move on. They will need to travel at a quick pace in order to reach Aberith in time to meet up with Magick. The Savage trails several yards behind them all, brooding. Back atop Hanamir’s shoulders, Redyl is reassuring them that he didn’t have high hopes for another wizard’s supplies, anyway.
 
 “I’d need my arcane focus,” he explains. “It was an amulet. It allowed me to channel my magical energy, and that’s how most of my magic was done.” He nods at Hermione. “You’re a wizard, you understand.”
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "galadriel",
@@ -267,7 +268,7 @@ King Slee glances back at the papers on his desk and clucks his tongue.
 
 Galadriel stands and passes him the order to transport the prisoners to the shipyard.
 
-“We found Bryn’s murderer. It was the individual we suspected, a tiefling named Magic,” she says. “We secured a confession from her, but we were arrested by the Amber Guard when we tried explaining her circumstances. She’s under the influence of some very powerful magic and is not in her right mind. The general then separated us from her and gave this order to have us removed.”
+“We found Bryn’s murderer. It was the individual we suspected, a tiefling named [Magick](/characters/magick/),” she says. “We secured a confession from her, but we were arrested by the Amber Guard when we tried explaining her circumstances. She’s under the influence of some very powerful magic and is not in her right mind. The general then separated us from her and gave this order to have us removed.”
 
 She feels as if she has set down a great burden when all of this is said. King Slee is frozen in shock.
 
@@ -299,7 +300,7 @@ King Slee shakes it off and clears his throat.
 
 “I will demand that the tiefling be brought before the full council tomorrow,” says Slee. “And I’ll arrange for you to stay in guest quarters here. First thing tomorrow we’ll discuss this with the full council present. I don’t think Pouru is so bold as to move the prisoner after this order goes out. She may backpedal her attempted treachery, but we’ll ensure she answers for that just the same.”
 
-“Thank you, your highness,” says Galadriel, bowing again. “We are so relieved to hear this, both for Magic’s sake and our own.”
+“Thank you, your highness,” says Galadriel, bowing again. “We are so relieved to hear this, both for Magick’s sake and our own.”
 
 “Kandir was right,” sighs the king, almost inaudibly. “The bickering on the council has gone too far.”
 
@@ -321,7 +322,7 @@ Galadriel grabs a packet of the BBQ fire beetles and starts funnelling them into
 
 “You know,” he says between effortful chews, “my backup plan was to smash the window, grab you and throw you onto the exterior wall, while I plummet three stories, relying on Slow Fall to avoid death. But your way was better.”
 
-“Ha!” says Galadriel, spewing some BBQ fire beetle onto the carpet. “Well, I’m not convinced we can trust Pouru to stay on the up-and-up regarding Magic tonight. If she’s gone in the morning, I’ll have a hard time forgiving myself.” She peers around a corner into what turns out to be a decked-out spa room. “But these accommodations are something special.”
+“Ha!” says Galadriel, spewing some BBQ fire beetle onto the carpet. “Well, I’m not convinced we can trust Pouru to stay on the up-and-up regarding Magick tonight. If she’s gone in the morning, I’ll have a hard time forgiving myself.” She peers around a corner into what turns out to be a decked-out spa room. “But these accommodations are something special.”
 
 Hanamir smiles, then gnaws off another piece of jerky. 
 

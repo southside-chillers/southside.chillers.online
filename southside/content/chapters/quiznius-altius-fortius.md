@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -66,7 +67,7 @@ Then they are silent and still, their chests not even rising to breathe.
 
 “Well, team,” says [Hanamir](/characters/hanamir/). “That went a lot better than I thought it would.”
 
-The adventurers return to the chamber that they refer to as the Beetle Room. There are three exits they have not yet tried. One of them is a doorless hallway, long and L-shaped. It slopes upward, prompting a stream of excited babbling from Magic.
+The adventurers return to the chamber that they refer to as the Beetle Room. There are three exits they have not yet tried. One of them is a doorless hallway, long and L-shaped. It slopes upward, prompting a stream of excited babbling from [Magick](/characters/magick/).
 
 “It’ll be up higher, I’m sure of it!” she says. “The higher we go, the stronger it feels. I need you to unshackle me so that I can grab it when I see it—I know I’ll recognize it, not even by sight, but by the feeling in my *heart*—”
 
@@ -74,7 +75,7 @@ But soon the hallway is blocked by a massive boulder.
 
 “Looks like sandstone,” says Tannin, patting it. “Doesn’t match the materials the rest of the tomb is built from.” 
 
-“Unshackle me,” pleads Magic. “And let me blast through it. Please!”
+“Unshackle me,” pleads Magick. “And let me blast through it. Please!”
 
 “No matter how many times you ask, the answer is still going to be no,” says [Hermione](/characters/hermione/). “I’m not sure how else to communicate this to you.”
 
@@ -88,11 +89,11 @@ Tannin pushes a shoulder against it and heaves.
 
 “Nope,” he says.
 
-“Let’s check one of the other hallways,” says Hanamir, ignoring loud protests from Magic.
+“Let’s check one of the other hallways,” says Hanamir, ignoring loud protests from Magick.
 
 The next hallway is a terrifying scene. Standing on ledges lining both walls are twelve withered corpses, unnaturally upright, six to a side. They obscure some glyphs carved into the walls behind them.
 
-“Uhhhhhh,” says Hermione, hanging back and clutching Magic’s arm. “Do we even want to bother?”
+“Uhhhhhh,” says Hermione, hanging back and clutching Magick’s arm. “Do we even want to bother?”
 
 “This does look like the other end of one of the hallways we saw earlier,” says Harlan. “It might only lead us back to where we’ve already been.”
 
@@ -113,11 +114,11 @@ As he says this, the ceiling begins to shake again. A shower of rocks and debris
 
 In grumpy silence, the adventurers turn around and approach the last of their hallway options, which takes the form of a series of short staircases. The stairs, incidentally, lead up.
 
-“Yes!” Magic breathes. “Up we go.”
+“Yes!” Magick breathes. “Up we go.”
 
 Hanamir leads the way, poking at each stair with the pole. But, as with the very first trap they triggered in the hallway leading to the crab god, they do not hear the click of the pressure plate deploying until the combined weight of Hanamir and Harlan sets it off.
 
-A massive stone sphere ejects from above them and crashes down the stairs. With the pole, Hanamir vaults over it. but it rolls directly onto Harlan and Galadriel, flattening them both. Tannin, Hermione, Magic, and [Buddy](/characters/buddy/) are close enough to the bottom of the stairs to jump back into the Beetle Room and out of the way, just in time.
+A massive stone sphere ejects from above them and crashes down the stairs. With the pole, Hanamir vaults over it. but it rolls directly onto Harlan and Galadriel, flattening them both. Tannin, Hermione, Magick, and [Buddy](/characters/buddy/) are close enough to the bottom of the stairs to jump back into the Beetle Room and out of the way, just in time.
 
 “Oh dang,” Tannin says, running back up the stairs to see Harlan and Galadriel’s unconscious and unsettlingly pancakey bodies. “Who’s got healing potions?” He pats his flask. “Oh! I do.” He pours a little potion into both mouths, and some color returns to their faces. “Want some bread, my dude?” Tannin asks Harlan as his eyes flicker open.
 
@@ -171,7 +172,7 @@ Galadriel swats him on the arm.
 
 “Oh, I don’t know, what’s an ancient game going to do to us?” Hanamir chuckles, waltzing down the hallway. He’s already halfway toward the hatch. The others scramble after him. 
 
-“Come on, really?” sighs Hermione. The prospect of keeping Magic calm during a sporting event feels overwhelmingly unattractive.
+“Come on, really?” sighs Hermione. The prospect of keeping Magick calm during a sporting event feels overwhelmingly unattractive.
 
 “Really!” says Hanamir. He pops open the hatch door and gazes down into the pit. “Some treasure down there, folks. Some dead people too. But mostly treasure.” He smiles a sassy open-mouthed smile at Galadriel. “Can I get some Mage Hand help here?”
 
@@ -183,7 +184,7 @@ A heavy black ball rises from the opening in the floor and then drops at their f
 
 “I guess we’re doing this,” says Harlan with resignation. He reaches down and picks up the ball. 
 
-Immediately, the ball zooms through the air down to the other side of the hallway, bounces off the wall, and rebounds back toward them. Magic crouches down and covers her ears, making an anxious noise that increases in volume with every second that passes.
+Immediately, the ball zooms through the air down to the other side of the hallway, bounces off the wall, and rebounds back toward them. Magick crouches down and covers her ears, making an anxious noise that increases in volume with every second that passes.
 
 “Missile snare! Harlan! The gloves! Put them on!” Hanamir urges as the ball smacks their side of the wall, close to the indentation. The adventurers all have a sinking feeling about what might happen if the ball is allowed to score a point. Harlan whips out the Gloves of Missile Snare. The ball is already rebounding back toward them when he succeeds in getting one onto his right hand. He holds it up, just as the ball whistles past his head, and the glove snaps his fingers around the projectile with unnatural speed.
 

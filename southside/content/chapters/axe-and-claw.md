@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "buddy",
         "galadriel",
@@ -27,7 +28,7 @@ The group welcomes their dwarven friend back and tells him the tale of their rec
 
 “Agree to disagree,” shrugs Tannin. 
 
-Together, they decide to return to Magic’s hut and look around. Under a loose floorboard, they find a blade inscribed with some Draconic script. Galadriel, using Comprehend Languages, interprets that the blade belonged to a tiefling warrior named Valonius, and that he fought with it in many battles. The blade does not seem to be endowed with any magical properties.
+Together, they decide to return to [Magick](/characters/magick/)’s hut and look around. Under a loose floorboard, they find a blade inscribed with some Draconic script. Galadriel, using Comprehend Languages, interprets that the blade belonged to a tiefling warrior named Valonius, and that he fought with it in many battles. The blade does not seem to be endowed with any magical properties.
 
 “Ooh, let’s take this with us,” says Harlan. “It’s not like the tiefling’s coming back for it.” But Hanamir feels strongly that they shouldn’t take it. The group argues and eventually decides to just leave it. “Fine,” mumbles Harlan.
 
@@ -99,6 +100,6 @@ Galadriel senses that the villagers tried to protect themselves with a fire repe
 
 Harlan is eager to move on and check out the flaming river to the west. They go, and find that the river is not naturally on fire: it is like a magical vein of lava, carving out a slight path to the south. Galadriel again senses something arcane; she understands that the river is the source of the entire forest fire. The river runs north to south, and so the origin of the flames must be to the north. In fact...the incline to the north is a red dragon’s lair. The dragon has constructed a false volcano as its nest!
 
-Hanamir decides to at least check the path leading south, but it only goes back to the spider cave and Magic’s hut. So the group ventures north, past the roots of the giant tree to the rocky clearing. At first, all they see is a gate in the clearing, standing alone like an altar.
+Hanamir decides to at least check the path leading south, but it only goes back to the spider cave and Magick’s hut. So the group ventures north, past the roots of the giant tree to the rocky clearing. At first, all they see is a gate in the clearing, standing alone like an altar.
 
 But when they notice the little spiders emerging from underneath the rocks ahead, it is already too late. A massive spider, larger than any they’ve encountered thus far, appears behind them. It rubs its pincers together, and the smaller spiders shriek with excitement. It is time to feed…

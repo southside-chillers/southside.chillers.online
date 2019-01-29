@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "buddy",
         "frunk",
@@ -110,7 +111,7 @@ Sure enough, there is a book for every letter, except for ‘V’... and ‘D’
 
 "Do we know anyone who might want to steal a book about dragons?" says Harlan.
 
-"Yes," says Hanamir. "Remember the tiefling, Magic? The tiefling whose village, home, and family were burned to a crisp by a dragon?"
+"Yes," says Hanamir. "Remember the tiefling, [Magick](/characters/magick/)? The tiefling whose village, home, and family were burned to a crisp by a dragon?"
 
 They each look at each other, stunned at how much sense this makes, and how quickly it came together.
 
@@ -120,7 +121,7 @@ The adventurers head back to town and stop by the market, which is crowded despi
 
 Hanamir fills in Harlan and Galadriel about the tracks he saw outside Bryn’s observatory.
 
-"I was following some tracks north away from Bryn’s when you sent that bird to come and find me, Harlan," he explains. "I came as soon as I could, and we fought Guz and his goons, and we continued on to Shinebright’s tower. But I think those tracks might be our best lead if we want to find Magic—or whoever it was that killed Bryn."
+"I was following some tracks north away from Bryn’s when you sent that bird to come and find me, Harlan," he explains. "I came as soon as I could, and we fought Guz and his goons, and we continued on to Shinebright’s tower. But I think those tracks might be our best lead if we want to find Magick—or whoever it was that killed Bryn."
 
 "Yes, that sounds promising," says Harlan. "Is there anything we need to pick up here before we head that way?" He takes a brief look at a stall displaying some very cool hats. "I don’t think I need anything, but I would like to exchange my copper for some silver..."
 
@@ -208,11 +209,11 @@ The groundhog picks up the granola and pops back in the hole with a *voooop* sou
 
 "Or the mountains," says Hanamir.
 
-"Guys? I have the strong sense that we’re being watched," says Galadriel. "I think Magic might be able to see us from the other side of the portal."
+"Guys? I have the strong sense that we’re being watched," says Galadriel. "I think Magick might be able to see us from the other side of the portal."
 
 "Should we try and leave a message for her?" says Harlan.
 
-"I think we can probably just talk to her," says Hanamir. He turns toward the stone circle. "Magic, we understand your motivations and we’re sympathetic. We, too, seek justice for the wrongfully murdered tieflings of your village. We’d love to work with you, if you’re interested. Please show yourself."
+"I think we can probably just talk to her," says Hanamir. He turns toward the stone circle. "Magick, we understand your motivations and we’re sympathetic. We, too, seek justice for the wrongfully murdered tieflings of your village. We’d love to work with you, if you’re interested. Please show yourself."
 
 There seems to be no response, until Harlan points upward.
 

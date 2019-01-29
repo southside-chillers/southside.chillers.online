@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -36,7 +37,7 @@ The skeletons definitely belong to a set of explorers. One of their bony hands s
 
 “And it looks like we’re on the first of three above-ground tiers,” says Hanamir. He cranes his neck and scans the room. “That door over there looks like it corresponds with this one on the map, with stairs leading up to the second tier.”
 
-“Stairs?!” Magic whispers, eyes wide. “Yes, stairs! Let’s go—go to the stairs now—up and up, higher and higher—”
+“Stairs?!” [Magick](/characters/magick/) whispers, eyes wide. “Yes, stairs! Let’s go—go to the stairs now—up and up, higher and higher—”
 
 “Maybe let’s just see what’s behind this other door we haven’t checked before we move on,” says [Galadriel](/characters/galadriel/). “They didn’t mark it in any way. Hanamir, can you take a peek?”
 
@@ -50,7 +51,7 @@ Hanamir shuts the door.
 
 “Excellent,” says Harlan. “If no one objects, let’s try going back to the cat room and looking at the door we missed in there. These explorers have it marked on their map, but it’s unclear if they meant to seek it out or avoid it.”
 
-“I object!” says Magic. “We need to go up the stairs! And I feel like my condition is much better now, and I could be very valuable—very helpful to you all if you’d only unshackle me—”
+“I object!” says Magick. “We need to go up the stairs! And I feel like my condition is much better now, and I could be very valuable—very helpful to you all if you’d only unshackle me—”
 
 “Sorry, but still no,” says Hermione. “Let’s go.”
 
@@ -148,7 +149,7 @@ Meanwhile, the panther has finally taken notice of one of the adventurers, and i
 
 HEY, GALADRIEL? I THINK THE PANTHER SEES ME.
 
-Galadriel looks down from the ceiling and sees the panther staring at [Buddy](/characters/buddy/) from across the room, where he sits with Magic. The panther’s muscles are tensed, its ears flattened.
+Galadriel looks down from the ceiling and sees the panther staring at [Buddy](/characters/buddy/) from across the room, where he sits with Magick. The panther’s muscles are tensed, its ears flattened.
 
 *Oh no*, she thinks. *Do you think it knows what you are?*
 
@@ -176,7 +177,7 @@ As she does, the rope begins to ascend.
 
 “Whoa!” she yelps, disappearing through the hole. 
 
-Hanamir makes an elegant hop up to the middle of the rapidly-vanishing rope. In what looks like another impulsive decision, Harlan grabs on to the end of the rope before it slips out of reach. They pass through the ceiling one by one, leaving Tannin and Hermione downstairs with Magic, Buddy, and the panther.
+Hanamir makes an elegant hop up to the middle of the rapidly-vanishing rope. In what looks like another impulsive decision, Harlan grabs on to the end of the rope before it slips out of reach. They pass through the ceiling one by one, leaving Tannin and Hermione downstairs with Magick, Buddy, and the panther.
 
 The room upstairs is cavernous, and it somehow manages to smell even worse than the chamber below. Piles of bones and more human skins litter the floor. A huge shape emerges from the darkness. Its hands, the size of carriage wheels, toss the grappling hook and rope down through the hole in the floor. 
 
@@ -240,13 +241,13 @@ He casts the spell, and the silvery liquid slides off his arm like water into a 
 
 Galadriel looks around.
 
-“Guys? Where did Buddy go? And Magic?” 
+“Guys? Where did Buddy go? And Magick?” 
 
 “And what about that panther?” says Hermione.
 
-“Over in that corner, by the corridor,” says Hanamir. “Magic, are you all right?”
+“Over in that corner, by the corridor,” says Hanamir. “Magick, are you all right?”
 
-Magic’s eyes are shut and she is muttering something under her breath. She hits her head against the wall again and again. Next to her, Buddy sits quietly.
+Magick’s eyes are shut and she is muttering something under her breath. She hits her head against the wall again and again. Next to her, Buddy sits quietly.
 
 *What happened down here? Where’s the panther?* Galadriel thinks.
 
@@ -256,7 +257,7 @@ IT… I HAD TO TAKE CARE OF IT.
 
 YEAH.
 
-*Magic knows you’re a dragon?!*
+*Magick knows you’re a dragon?!*
 
 YEAH.
 

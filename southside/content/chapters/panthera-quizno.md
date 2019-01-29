@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -36,7 +37,7 @@ More stuffed cats are scattered around the room, frozen in sitting, pouncing, st
 
 Hanamir lifts up the eight-foot pole and passes it to her. 
 
-“Okay, careful,” says Hermione. “Let’s back up somewhere in case arrows shoot out of all the walls or something.” She ushers Magic and [Buddy](/characters/buddy/) back behind the cover of the hallway they entered through. 
+“Okay, careful,” says Hermione. “Let’s back up somewhere in case arrows shoot out of all the walls or something.” She ushers [Magick](/characters/magick/) and [Buddy](/characters/buddy/) back behind the cover of the hallway they entered through. 
 
 Galadriel slides the pole behind the stone calendar and nudges a latch. The circular stone swings open like the door of a safe, revealing a narrow passageway behind it. Another table sits directly inside. On the table’s surface rests a small jade statue—of a cat, naturally—along with a knife. She squints into the darkness. It’s cramped, but they could fit inside if they wanted to. There’s another set of doors at the end of the passageway.
 
@@ -106,9 +107,9 @@ WHOA. YOU SURE ABOUT THAT ONE, GALADRIEL? Buddy’s voice says in her head.
 
 “Aha, I knew it,” says Hanamir. The slain panther crumbles to dust at Tannin’s feet. “This must have been the reason behind his scar.”
 
-Meanwhile, Hermione is struggling to keep Magic from headbutting one of the sets of double doors in her eagerness to move on. 
+Meanwhile, Hermione is struggling to keep Magick from headbutting one of the sets of double doors in her eagerness to move on. 
 
-“Release me release me release me release me—” Magic repeats under her breath in between thwarted lunges at the doors. “Foolish elf! We are so close—my mission nears its end—”
+“Release me release me release me release me—” Magick repeats under her breath in between thwarted lunges at the doors. “Foolish elf! We are so close—my mission nears its end—”
 
 “Hope you all are having fun over there,” Hermione says loudly, glaring at the other adventurers. 
 
@@ -120,7 +121,7 @@ Meanwhile, Hermione is struggling to keep Magic from headbutting one of the sets
 
 “Yes,” says Hanamir. He prods the left eyehole with the eight-foot pole and stands back. With a low rumble, the entire stone carving slides into the adjacent wall, revealing a wide corridor with glowing magenta walls.
 
-“Ooh,” says Galadriel. She hops out of the sacrifice passageway and joins the rest of them. Magic even stops berating Hermione for a second and they all peer down into the hallway with very cool lighting.
+“Ooh,” says Galadriel. She hops out of the sacrifice passageway and joins the rest of them. Magick even stops berating Hermione for a second and they all peer down into the hallway with very cool lighting.
 
 “Shall we?” says Hanamir. 
 
@@ -197,7 +198,7 @@ Back on the other side of the pit, the adventurers huddle for a brainstorm.
 
 “That is not going to work,” says Hermione. 
 
-“Unshackle me! I will vaporize the plants!” suggests Magic. 
+“Unshackle me! I will vaporize the plants!” suggests Magick. 
 
 “Also no,” says Hermione.
 
@@ -213,7 +214,7 @@ Back on the other side of the pit, the adventurers huddle for a brainstorm.
 
 “I suppose it isn’t,” says Hanamir. “Am I the only one worried?”
 
-Tannin shrugs. Buddy blinks up at him. Hermione is quieting another Magic tantrum and cannot be reached for comment. 
+Tannin shrugs. Buddy blinks up at him. Hermione is quieting another Magick tantrum and cannot be reached for comment. 
 
 “I’m gonna do it,” says Harlan. He raises a hand, electricity crackling and sparking in his palm. With a gesture like a chef artfully seasoning a dish, he sends a bolt of lightning down to the center of the pit. Several of the spidery-branched shrubs burst into flames, spitting their projectile thorns out uselessly into the walls. 
 
