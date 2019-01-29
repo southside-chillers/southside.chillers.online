@@ -1,5 +1,7 @@
 {
-    "appearances": [],
+    "appearances": [
+        "phil"
+    ],
     "appearances_weight": 370,
     "chapter": 37,
     "date": "2018-10-05T12:00:00-04:00",
@@ -34,7 +36,7 @@ Yes.
 
 **Did I say that right?**
 
-You can call me Phil.
+You can call me [Phil](/characters/phil/).
 
 **Great. Um, for those at home who may not know you, would you mind—**
 

@@ -2,6 +2,7 @@
     "appearances": [
         "magick",
         "hanamir",
+        "phil",
         "hermione",
         "buddy",
         "galadriel",
@@ -46,7 +47,7 @@ We now return to the Tale of the Southside Chillers, already in progress. At thi
 
 “I bet we can think through this logically,” says [Hanamir](/characters/hanamir/). “Figure out a way to enter that works to our advantage.”
 
-“What is there to think through?” says [Tannin](/characters/tannin/), twirling his trident. “It’ll use our strengths against us. Phil said so. Let’s go!” 
+“What is there to think through?” says [Tannin](/characters/tannin/), twirling his trident. “It’ll use our strengths against us. [Phil](/characters/phil/) said so. Let’s go!” 
 
 “Okay, who’s the strongest, then? You, right?” says Harlan. “Or Hanamir?”
 

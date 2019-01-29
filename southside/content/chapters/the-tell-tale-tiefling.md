@@ -4,6 +4,7 @@
         "hanamir",
         "hermione",
         "frunk",
+        "pouru",
         "galadriel",
         "harlan",
         "bryn",
@@ -399,7 +400,7 @@ Harlan complies. The guards escort him and Magick to an interrogation room and c
 
 The Amber Guard boss does not speak to Harlan, but sits down across from him. After a few minutes, the lesser guards bring in another person of seemingly high rank. She is a short, stout woman in dark military garb.
 
-“I am General Pouru,” she states, addressing Harlan. “I am Aberith’s Minister of War. I understand you have information regarding the disappearances that have been plaguing the city.”
+“I am General [Pouru](/characters/pouru/),” she states, addressing Harlan. “I am Aberith’s Minister of War. I understand you have information regarding the disappearances that have been plaguing the city.”
 
 “Oh, actually, no,” says Harlan. He is more nervous in front of these officials than he thought he would be. “Um, this is about a murder—a scholar named Bryn Starloft was killed in Eillin not long ago, and this tiefling here, by the name of Magick, has confessed that she is responsible. But I don’t have any information on the disappearances.”
 

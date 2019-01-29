@@ -11,6 +11,7 @@
         "bryn",
         "slee",
         "redyl",
+        "kandir",
         "tannin"
     ],
     "appearances_weight": 250,
@@ -354,7 +355,7 @@ He leads them from the reception chamber to a smaller room, a parlor, where a sh
 
 “I hope you all will excuse me,” says Slee, as if he somehow should have known they’d drop by unannounced. “One of my ministers is here, meeting with me. I feel anything you might need to share with me can be shared with him as well.”
 
-“Hello,” says the man with the pipe. “I am Ultas Kandir, the Minister of Trade.”
+“Hello,” says the man with the pipe. “I am Ultas [Kandir](/characters/kandir/), the Minister of Trade.”
 
 The adventurers are suddenly tongue-tied. 
 

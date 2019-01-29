@@ -7,6 +7,7 @@
         "buddy",
         "galadriel",
         "harlan",
+        "mirama",
         "tannin"
     ],
     "appearances_weight": 320,
@@ -38,7 +39,7 @@ Tannin translates this to his friends.
 
 “Let’s see if they want that cask of wine in the Bag of Holding,” says [Harlan](/characters/harlan/). “They already have goblets. They’re probably wine conoisseurs.”
 
-“No! That’s special,” says Tannin quickly. “Mirama gave that to me for good luck. She told me to only open it when we’re on our way back.”
+“No! That’s special,” says Tannin quickly. “[Mirama](/characters/mirama/) gave that to me for good luck. She told me to only open it when we’re on our way back.”
 
 “Fine,” says Harlan. “Maybe we give them the turquoise we just found, then?”
 

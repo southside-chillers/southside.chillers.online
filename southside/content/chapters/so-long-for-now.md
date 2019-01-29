@@ -7,8 +7,10 @@
         "buddy",
         "galadriel",
         "harlan",
+        "mirama",
         "bryn",
         "slee",
+        "kandir",
         "cazna",
         "tannin"
     ],
@@ -99,9 +101,9 @@ More beasts, winged and demonic, appear in the sky from nowhere. The king twists
 
 “So are we extending this lie to King [Slee](/characters/slee/)?” asks Harlan. “I think we should at least do him the courtesy of telling the truth.”
 
-“It’ll be on a need-to-know basis,” says Galadriel. “But honestly, don’t you think the council would tear themselves apart if they knew we had it? Especially Kandir. I’d trust Slee, and probably no one else.”
+“It’ll be on a need-to-know basis,” says Galadriel. “But honestly, don’t you think the council would tear themselves apart if they knew we had it? Especially [Kandir](/characters/kandir/). I’d trust Slee, and probably no one else.”
 
-“What about Mirama?” says Tannin.
+“What about [Mirama](/characters/mirama/)?” says Tannin.
 
 “Not her either,” says Galadriel. 
 
