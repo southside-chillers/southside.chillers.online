@@ -3,6 +3,7 @@
 import sys
 import os
 import json
+import string
 
 
 class FormatError(Exception):
@@ -50,15 +51,16 @@ class Transformer(object):
         if next_char.isalpha():
             return False
         for slug in self.unseen_slugs:
-            if substring.lower().replace(' ', '-') == slug.lower():
+            if slugify(substring) == slug.lower():
                 return True
 
         return False
 
     def _matches_unseen_slug(self, candidate):
+        can_slug = slugify(candidate)
         for slug in self.unseen_slugs:
-            can_len = len(candidate)
-            if candidate.lower().replace(' ', '-') == slug[:can_len]:
+            can_len = len(can_slug)
+            if can_slug == slug[:can_len]:
                 return True
 
         return False
@@ -108,7 +110,9 @@ class Transformer(object):
                 return
 
             if self._at_name_ending():
-                slug = self.unseen_slugs.pop(self.unseen_slugs.index(substring.lower().replace(' ', '-')))
+                slug = self.unseen_slugs.pop(
+                    self.unseen_slugs.index(slugify(substring))
+                )
                 link_string = "[{}](/characters/{}/)".format(substring, slug)
                 before = self.markdown[self.line_index][: self.beginning_of_name]
                 after = self.markdown[self.line_index][self.character_index + 1 :]
@@ -163,8 +167,10 @@ def find_json_boundaries(content):
     return beginning_of_json, end_of_json
 
 
-def slugify(title):
-    return title.replace(" ", "-").lower()
+def slugify(input):
+    exclude = set(string.punctuation)
+    cleaned = "".join(ch for ch in input if ch not in exclude)
+    return cleaned.replace(" ", "-").lower()
 
 
 def extract_character_data(char_dir):
@@ -241,14 +247,14 @@ def ensure_cross_link(chapter_path, characters):
     character_slugs = [c["slug"] for c in characters]
 
     found_slugs, new_markdown = transform(original_markdown, character_slugs)
-    front_matter['appearances'] = found_slugs
+    front_matter["appearances"] = found_slugs
     try:
-        front_matter['appearances_weight'] = int(front_matter['chapter']) * 10
+        front_matter["appearances_weight"] = int(front_matter["chapter"]) * 10
     except ValueError as err:
-        if front_matter['chapter'] == "26: Part I":
-            front_matter['appearances_weight'] = 260
-        elif front_matter['chapter'] == "26: Part II":
-            front_matter['appearances_weight'] = 265            
+        if front_matter["chapter"] == "26: Part I":
+            front_matter["appearances_weight"] = 260
+        elif front_matter["chapter"] == "26: Part II":
+            front_matter["appearances_weight"] = 265
         else:
             raise err
 

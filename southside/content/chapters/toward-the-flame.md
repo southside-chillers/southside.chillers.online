@@ -5,6 +5,7 @@
         "frunk",
         "galadriel",
         "harlan",
+        "hjun",
         "bryn",
         "tannin"
     ],
@@ -43,7 +44,7 @@ Frunk doesn't know why, but he feels comfortable sharing, though he usually woul
 
 "Um, they might have," says Frunk. "But uh, sorry, the King is coming into town for the Moon Festival and I really need to go prepare for that. Get... supplies. King stuff. Stuff that kings like."
 
-Hanamir stealthily watches where Frunk goes when he leaves. It appears he's headed to the house of H'Jun—his friend who was robbed of the eel brain during the first chapter of this quest.
+Hanamir stealthily watches where Frunk goes when he leaves. It appears he's headed to the house of [H'Jun](/characters/hjun/)—his friend who was robbed of the eel brain during the first chapter of this quest.
 
 Our heroes strike out for the burning forest. Hanamir wears the red glass goggles, leading the pack. Galadriel puts on the gauntlet of Lolth, hoping that the blindsight and climbing ability will come in handy. Harlan can't see through the smoke, but he hangs back with Galadriel. 
 
