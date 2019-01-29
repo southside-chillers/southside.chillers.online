@@ -2,8 +2,10 @@
     "appearances": [
         "hanamir",
         "buddy",
+        "frunk",
         "galadriel",
-        "harlan"
+        "harlan",
+        "bryn"
     ],
     "appearances_weight": 140,
     "chapter": 14,
@@ -12,11 +14,11 @@
     "title": "Ovine Arbitration"
 }
 
-“Adventurers? Open up!” the voice of Frunk Thunderstruck can be heard through the door of their room. He knocks forcefully. “It’s an emergency!”
+“Adventurers? Open up!” the voice of [Frunk](/characters/frunk/) Thunderstruck can be heard through the door of their room. He knocks forcefully. “It’s an emergency!”
 
 [Hanamir](/characters/hanamir/) leaps to the doorway like an elegant-but-burly gazelle and opens it. 
 
-“Mayor Frunk,” he says. “We just heard about Bryn.” His voice is solemn.
+“Mayor Frunk,” he says. “We just heard about [Bryn](/characters/bryn/).” His voice is solemn.
 
 “What happened?” asks [Harlan](/characters/harlan/).
 

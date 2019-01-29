@@ -7,6 +7,8 @@
         "buddy",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "redyl",
         "tannin"
     ],
@@ -115,7 +117,7 @@ They approach a tall, pointy-eared, blue-skinned individual wearing a straw hat.
 
 “Business with the king?!” The farmer is shocked, but still speaks at a leisurely pace. “Who might y’all be, if you don’t mind my asking?”
 
-“Adventurers,” says Harlan. “I’m Harlan Stormborne, cleric of Kord, and these are my companions. We have an important message for King Slee from the mayor of Eillin.”
+“Adventurers,” says Harlan. “I’m Harlan Stormborne, cleric of Kord, and these are my companions. We have an important message for King [Slee](/characters/slee/) from the mayor of Eillin.”
 
 “Well, you shouldn’t have an issue if you’re acquainted with such folk,” says Elris. “I can take care of the bat and the pig for five silver a day.”
 
@@ -387,7 +389,7 @@ Slee furrows his brow, but the trade minister speaks up first.
 
 “We beg for your assistance, with knowledge or other resources, in addressing this threat,” says Galadriel. 
 
-“I don’t have much knowledge,” says King Slee. “Bryn and Uncle sealed the city. For that, we are all grateful. There haven’t been any undead sightings since then. If what you say is true, I would expect to have heard of *something*, rumors, at least, of their reappearance…”
+“I don’t have much knowledge,” says King Slee. “[Bryn](/characters/bryn/) and Uncle sealed the city. For that, we are all grateful. There haven’t been any undead sightings since then. If what you say is true, I would expect to have heard of *something*, rumors, at least, of their reappearance…”
 
 “The undead have not ventured outside the city yet, as far as we know,” says Hermione. “But we have seen the orcs inside, entering via coercion of magic users who can plane-shift them through the Shadowfell.”
 

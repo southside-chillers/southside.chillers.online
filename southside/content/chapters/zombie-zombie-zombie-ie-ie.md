@@ -5,6 +5,7 @@
         "khargol",
         "hermione",
         "buddy",
+        "frunk",
         "galadriel",
         "harlan",
         "redyl",
@@ -307,7 +308,7 @@ The Savage stares at him murderously.
 
 “Well, good,” says the Savage. “That was the only thing. Why did I give it to you?” He looks at the mer-dwarf up and down, struggling to understand his own ensorcelled judgment. 
 
-“Frunk told us the significance of the rings back in Eillin,” says Hermione, showing off her own. “We probably shouldn’t talk about it here.”
+“[Frunk](/characters/frunk/) told us the significance of the rings back in Eillin,” says Hermione, showing off her own. “We probably shouldn’t talk about it here.”
 
 “That is correct,” says the Savage. “We can assume anything we say or do here is being observed by the Lich. You’re a smart one. Who are you?”
 

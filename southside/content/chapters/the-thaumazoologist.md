@@ -2,6 +2,7 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "frunk",
         "galadriel",
         "harlan"
     ],
@@ -206,7 +207,7 @@ He walks closer and chucks a rock against the wall. (He’s got a great arm.) It
 
 "Not really," says Hanamir. "But I can’t see through it either, and you can."
 
-Harlan raises a hand to show the ring of the Been that Frunk gave him before they left. 
+Harlan raises a hand to show the ring of the Been that [Frunk](/characters/frunk/) gave him before they left. 
 
 "I wonder what happens if I take this off." He passes it to Hanamir and approaches the wall again. He returns, nodding. "Yes. It’s the ring."
 

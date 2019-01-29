@@ -2,8 +2,10 @@
     "appearances": [
         "the-savage",
         "hanamir",
+        "frunk",
         "galadriel",
         "harlan",
+        "bryn",
         "tannin"
     ],
     "appearances_weight": 40,
@@ -19,7 +21,7 @@ They decide to hit up the marketplace in town to do a little shopping, since the
 
 [Harlan](/characters/harlan/) has a hankering for a good bargain. He strikes up a conversation with another shopkeeper and purchases a magic orb that, when wielded, allows him to cast a cantrip of poison spray. He also buys a set of one thousand ball-bearings, which he gifts to [Hanamir](/characters/hanamir/), just 'cause he's feeling generous. He inspects a ring inscribed with a "B." It's a little too pricey, however, so he leaves it alone.
 
-Harlan, Hanamir, and [Galadriel](/characters/galadriel/) make their way back to Bryn's observatory to deliver the red glass. Bryn looks frazzled and sleep-deprived, but he's very excited to receive the glass. He says he'll get started right away on his machine, but it will take him 3 or 4 hours to complete it. 
+Harlan, Hanamir, and [Galadriel](/characters/galadriel/) make their way back to [Bryn](/characters/bryn/)'s observatory to deliver the red glass. Bryn looks frazzled and sleep-deprived, but he's very excited to receive the glass. He says he'll get started right away on his machine, but it will take him 3 or 4 hours to complete it. 
 
 Our heroes decide to head back toward the well to try and catch up with the missing townsfolk. On the way out of town, they encounter a human traveler. He looks world-weary, about 60 years old, and wears armor that he has modified himself. He's called [the Savage](/characters/the-savage/), and he says he's on his way into Eillin for the Moon Festival, having just passed through the Town of the Undead. Hanamir notices that he's wearing a ring inscribed with a "B," just like the one from the marketplace. He also looks about half as old, when Hanamir really takes a good look at him. The ring doesn't seem to be magical, but when the Savage notices Hanamir's gaze, he tries to cover up his hand. When the group presses him on it, and mentions that there's a matching ring in town, he is unnerved and hurries away.
 
@@ -41,4 +43,4 @@ Undecided on their next move, the party returns to the marketplace. Harlan asks 
 
 The party heads to 1122 Boogie Woogie Avenue. While Galadriel asks the man of the house what he knows about Uncle, Hanamir sneaks around the side and breaks into the cellar. He sees casks of ale, old farming tools, and some books about the town. On the bookshelf, he notices "TANNIN WAS HERE!" carved into the wood. He chuckles, knowing that despite having separate adventures today, somehow his friend's penchant for bookshelf destruction led him to the same place. He decides not to steal anything, and sneaks back out. 
 
-Galadriel learns that 1122 Boogie Woogie Avenue was a frequent meeting place for Uncle and his group of friends, including Mayor Frunk, and that after his death, the group would sometimes come back to the house to honor Uncle's memory. Hanamir, hearing this, reconsiders. He sneaks back into the basement and steals the most informative book. He comes back around front, looking eager to leave, and the group bids the man farewell. They decide to take another rest before deciding what their next move should be.
+Galadriel learns that 1122 Boogie Woogie Avenue was a frequent meeting place for Uncle and his group of friends, including Mayor [Frunk](/characters/frunk/), and that after his death, the group would sometimes come back to the house to honor Uncle's memory. Hanamir, hearing this, reconsiders. He sneaks back into the basement and steals the most informative book. He comes back around front, looking eager to leave, and the group bids the man farewell. They decide to take another rest before deciding what their next move should be.

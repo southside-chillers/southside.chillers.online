@@ -5,8 +5,11 @@
         "khargol",
         "hermione",
         "buddy",
+        "frunk",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "redyl",
         "tannin"
     ],
@@ -81,7 +84,7 @@ The Savage gives him a curt nod.
 
 “Until then,” says Hermione. “Where should we go next?”
 
-“Eillin? To check in with Frunk?” Tannin floats.
+“Eillin? To check in with [Frunk](/characters/frunk/)?” Tannin floats.
 
 “Remember, we have a meeting with Magic in Aberith in four days,” says Harlan.
 
@@ -171,7 +174,7 @@ He sneers this last part. Galadriel makes a huffy, insulted noise.
 
 “You know, you could be a bit more appreciative!” Galadriel snaps. He ignores her.
 
-“We have a lead on who might be responsible for Bryn’s murder,” Harlan says to the Savage. “Would you be interested in helping us track her down in Aberith?”
+“We have a lead on who might be responsible for [Bryn](/characters/bryn/)’s murder,” Harlan says to the Savage. “Would you be interested in helping us track her down in Aberith?”
 
 “To neutralize the threat to Eillin, yes, I would,” says the Savage, making it clear that he would not be interested in doing it just to continue hanging out with them. “It is my duty.”
 
@@ -305,7 +308,7 @@ After a short rest in the tower, they decide it would be best to get a move on. 
 
 Hermione turns the amulet over in her hands, thinking.
 
-“We should show this to King Slee, and see what he makes of it,” she says. 
+“We should show this to King [Slee](/characters/slee/), and see what he makes of it,” she says. 
 
 “I think it’s bad news,” murmurs Hanamir. “If Teron is indeed the City of the Dead…”
 

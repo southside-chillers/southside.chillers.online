@@ -6,6 +6,8 @@
         "buddy",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "redyl",
         "tannin"
     ],
@@ -22,7 +24,7 @@ The adventurers make their way back over the bridge to meet up with [Tannin](/ch
 
 “How did your meeting go?” asks Redyl.
 
-“Great!” says [Hermione](/characters/hermione/). She shows off the library passes and checkpoint passes that King Slee signed for them all. “We can research how to defeat the Lich in the royal library, and we can pass through the city without having to pretend to be diplomats.”
+“Great!” says [Hermione](/characters/hermione/). She shows off the library passes and checkpoint passes that King [Slee](/characters/slee/) signed for them all. “We can research how to defeat the Lich in the royal library, and we can pass through the city without having to pretend to be diplomats.”
 
 [The Savage](/characters/the-savage/) stares off into the distance.
 
@@ -262,7 +264,7 @@ The librarian returns with a tome entitled *Bahomet’s Children*. Galadriel tri
 
 “Huh? Why?”
 
-“Well, we know Magic stole a book about dragons from Bryn,” says Galadriel, thinking quickly. “A dragon destroyed her home. Maybe I can learn something relevant to that before our meeting.”
+“Well, we know Magic stole a book about dragons from [Bryn](/characters/bryn/),” says Galadriel, thinking quickly. “A dragon destroyed her home. Maybe I can learn something relevant to that before our meeting.”
 
 Hanamir raises his eyebrows but continues reading.
 

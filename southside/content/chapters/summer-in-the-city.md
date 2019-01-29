@@ -6,6 +6,7 @@
         "buddy",
         "galadriel",
         "harlan",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 290,
@@ -263,7 +264,7 @@ It turns out the answer to both questions is a resounding “yes.” Hanamir beg
 
 It’s clear to Hermione, too, that Hanamir is radiantly happy to be back among the stacks. He procures books for her, as many as her heart desires, and the librarian is glad to let the two of them pursue their research at will. Once Hermione has read the Ixquichpehua material cover-to-cover, she moves on to biographical texts on the king, his family, and the councilmembers. 
 
-“Hey,” says Hermione, without removing her nose from a book on Aberith’s recent history, as Hanamir sits down next to her for a brief break from re-shelving. “Did you know it was Slee’s mother, Queen Gillia VII, who started the council in the first place?”
+“Hey,” says Hermione, without removing her nose from a book on Aberith’s recent history, as Hanamir sits down next to her for a brief break from re-shelving. “Did you know it was [Slee](/characters/slee/)’s mother, Queen Gillia VII, who started the council in the first place?”
 
 “I did not,” says Hanamir. “That’s more recent than I thought.”
 

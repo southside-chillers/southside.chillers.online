@@ -4,8 +4,11 @@
         "hanamir",
         "khargol",
         "buddy",
+        "frunk",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "cazna"
     ],
     "appearances_weight": 130,
@@ -27,7 +30,7 @@ You see in the flashback window that [Hanamir](/characters/hanamir/) is perusing
 
 “I think the turquoise curtain is the one we want, team,” he says, chewing on his lip thoughtfully. 
 
-“Onward, then,” says [Harlan](/characters/harlan/). They pass through it one by one and the nature of reality does a few backflips. They land near the base of the hill outside of Eillin. They look up at the observatory and see that Bryn’s lights are on. The sun is setting, and an enormous full moon glows over the town.
+“Onward, then,” says [Harlan](/characters/harlan/). They pass through it one by one and the nature of reality does a few backflips. They land near the base of the hill outside of Eillin. They look up at the observatory and see that [Bryn](/characters/bryn/)’s lights are on. The sun is setting, and an enormous full moon glows over the town.
 
 “Shall we check in with dear old Bryn?” says Hanamir.
 
@@ -135,13 +138,13 @@ The flashback window fades from view, and you’re back with Galadriel and Buddy
 
 “Now the fun part. The adventurers head to Eillin to enjoy their success and finally let go of all that questing stress at the Moon Festival. The libations are flowing freely among the townspeople, who are making merry around a great bonfire in the center of town. I present to you the highlights of the night, in the comedic mockumentary style of The Office.”
 
-You see a close-up window of Frunk Thunderstruck, dwarf mayor of Eillin, addressing the camera directly. He’s sitting on a bench outside Fleck’s Tavern. The noise of celebrants can be heard all around him.
+You see a close-up window of [Frunk](/characters/frunk/) Thunderstruck, dwarf mayor of Eillin, addressing the camera directly. He’s sitting on a bench outside Fleck’s Tavern. The noise of celebrants can be heard all around him.
 
 ---
 
 “I was excited for tonight because… well, to be quite honest, this has been the most stressful couple of weeks in my life. Trying to put together this festival with this whole moon crisis going on, and not even being able to tell people about it…” Frunk rolls his eyes. “Just, let me say, I’m glad it’s over. And I’m glad I ran into those random people that day and convinced them to check out the situation with the red glass—hey, speaking of which, that’s them!” He points past the camera. “Hey! Adventurers!” He waves them over. Hanamir, Harlan, and Galadriel shuffle into the frame. Frunk tugs on the sleeve of a man standing nearby.
 
-“Slee! These are the ones I was telling you about,” says Frunk.
+“[Slee](/characters/slee/)! These are the ones I was telling you about,” says Frunk.
 
 The man, a human of about sixty years old, turns to face the party. He has a salt-and-pepper beard and a vibe of total gravitas.
 

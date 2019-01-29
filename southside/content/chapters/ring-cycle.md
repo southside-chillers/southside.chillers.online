@@ -4,8 +4,11 @@
         "hanamir",
         "hermione",
         "buddy",
+        "frunk",
         "galadriel",
-        "harlan"
+        "harlan",
+        "bryn",
+        "slee"
     ],
     "appearances_weight": 180,
     "chapter": 18,
@@ -104,9 +107,9 @@ Hermione puts the gemstone back in her bag, seeming unsatisfied.
 
 ---
 
-The adventurers head over to the residence of Mayor Frunk, a stately-looking place on the corner of Boogie Woogie Avenue and Market Street. Hanamir uses the heavy door knocker just once, and Frunk appears.
+The adventurers head over to the residence of Mayor [Frunk](/characters/frunk/), a stately-looking place on the corner of Boogie Woogie Avenue and Market Street. Hanamir uses the heavy door knocker just once, and Frunk appears.
 
-“Greetings,” he says. “I’d been meaning to seek you all out now that you’re back in town.” He waves them inside, and they have a seat in his parlor. It was obviously once an elegant room, but looks like it has been neglected of late. “I thought you should know that King Slee is sending more of his guards. We’re putting Eillin on total lockdown in the next few hours.”
+“Greetings,” he says. “I’d been meaning to seek you all out now that you’re back in town.” He waves them inside, and they have a seat in his parlor. It was obviously once an elegant room, but looks like it has been neglected of late. “I thought you should know that King [Slee](/characters/slee/) is sending more of his guards. We’re putting Eillin on total lockdown in the next few hours.”
 
 “So there hasn’t been any progress?” asks Hanamir.
 
@@ -140,7 +143,7 @@ The adventurers head over to the residence of Mayor Frunk, a stately-looking pla
 
 “What kind of magic is guarding the city?” asks Hermione.
 
-“I’m afraid that’s a question for Bryn, who can no longer answer it,” says Frunk. “Sealing the city was his doing.” He pauses, frowning. “What interests you in the city?”
+“I’m afraid that’s a question for [Bryn](/characters/bryn/), who can no longer answer it,” says Frunk. “Sealing the city was his doing.” He pauses, frowning. “What interests you in the city?”
 
 “I believe the orcs have succeeded in entering it, and that they are in possession of some stolen library books,” says Hanamir.
 

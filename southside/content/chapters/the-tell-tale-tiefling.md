@@ -2,8 +2,11 @@
     "appearances": [
         "hanamir",
         "hermione",
+        "frunk",
         "galadriel",
         "harlan",
+        "bryn",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 265,
@@ -55,7 +58,7 @@ She looks with uncertainty at Hermione, who is sneezing multiple times in succes
 
 “Hi,” says Magic.
 
-“Listen, Magic, as glad as we are to see you, we weren’t kidding around about the whole murder thing,” says Harlan. “We need you to convince us you had nothing to do with the murder of our friend, Bryn Starloft.”
+“Listen, Magic, as glad as we are to see you, we weren’t kidding around about the whole murder thing,” says Harlan. “We need you to convince us you had nothing to do with the murder of our friend, [Bryn](/characters/bryn/) Starloft.”
 
 “Oh, I don’t know anything about that,” says Magic, instantly and obviously uncomfortable. “I wanted to talk to you about something else. You all were kind when I met you, and I was hoping I could recruit you to help me on my quest.” Her eyes widen, taking on a slightly manic quality. “I have a mission now that’s so much more important than anything else. When you all freed me from my misery in those woods, I found my purpose. And because it was you, there must be some connection between us. It’s—it’s *fated* that you help me on my quest. We were brought together for a reason.”
 
@@ -261,7 +264,7 @@ The adventurers look at each other, hoping one of them will have a clear idea on
 
 “Do we entrust her to the justice system of Aberith now?” whispers Harlan.
 
-“Maybe we try to take her to Frunk instead?” says Hanamir.
+“Maybe we try to take her to [Frunk](/characters/frunk/) instead?” says Hanamir.
 
 “She’s mentally unstable,” says Galadriel. “They’ll probably spend five minutes with her and then execute her.” She glances around the warehouse. Nothing but old, unidentifiable debris to work with. “Damn. I’ll just—we need to buy some more time.” She tries out a new spell, this one known in her songbook as Leomund’s Tiny Hut. 
 
@@ -283,7 +286,7 @@ The adventurers look at each other, nodding.
 
 She squares her shoulders and walks out of the hut to approach the barred warehouse door. 
 
-“Officers,” she begins, “we know you heard some alarming things just now. We have secured a confession from the tiefling to the murder of Bryn Starloft, a renowned scholar and friend of King Slee.”
+“Officers,” she begins, “we know you heard some alarming things just now. We have secured a confession from the tiefling to the murder of Bryn Starloft, a renowned scholar and friend of King [Slee](/characters/slee/).”
 
 “We know who Starloft was,” says the voice of a guard. “We’re here to take the tiefling.”
 
