@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -48,7 +49,7 @@ She turns it upside down.
 
  “Elvish! It’s inscribed with a name—Ilnidra—though that doesn’t mean anything to me.” She glances at Galadriel, who shakes her head.
 
-“Can I hold it?” Galadriel asks. Hermione passes the figurine over. Magic looks on with transparent envy. “I wonder what the beads inside are for. What happens if I take one out?” She pops open a hinge at a seam in the bottom of the statue, and picks out a bean-shaped bead the color of a hazy sunset. 
+“Can I hold it?” Galadriel asks. Hermione passes the figurine over. [Magick](/characters/magick/) looks on with transparent envy. “I wonder what the beads inside are for. What happens if I take one out?” She pops open a hinge at a seam in the bottom of the statue, and picks out a bean-shaped bead the color of a hazy sunset. 
 
 At once, the statue leaps out of her hand, spilling the remaining beads all over the floor. It zooms back and forth through the air, knocking against walls until finding its way down the hallway toward the cramped and dark corridor with the pulsating light. 
 
@@ -72,11 +73,11 @@ Galadriel leads them back toward the narrow passageway with the glowing light. I
 
 Galadriel walks ahead toward the light. It dances in the air, then moves backward as she moves forward. It leads them down the hallway until it disappears around a corner. There, the corridor widens, and the adventurers see a pit in the floor. Beyond the pit is a wedge-shaped block that lies in the way of the entire space, floor to ceiling, ahead. The light bobs away and disappears behind the wedge.
 
-“Skeletons in the pit,” says Magic, unprompted. She is taller than the rest of them, and is peering down into the empty space ahead. “Two skeletons. Humanoids. Ten feet down.”
+“Skeletons in the pit,” says Magick, unprompted. She is taller than the rest of them, and is peering down into the empty space ahead. “Two skeletons. Humanoids. Ten feet down.”
 
 “Great,” sighs Hermione. “I think maybe we stop here and turn back.”
 
-“Unshackle me?” says Magic. “For helping?”
+“Unshackle me?” says Magick. “For helping?”
 
 “No,” says Hermione.
 
@@ -98,7 +99,7 @@ Galadriel leans her weight on the block.
 
 “Here goes,” says Galadriel. She slips into the gap, followed by Hanamir.
 
-“You three stay back for now,” says Harlan, holding up a hand. He and Tannin cross to the other side of the room, leaving Hermione, Magic, and Buddy huddled together by the corner turn. Hermione looks less than pleased.
+“You three stay back for now,” says Harlan, holding up a hand. He and Tannin cross to the other side of the room, leaving Hermione, Magick, and Buddy huddled together by the corner turn. Hermione looks less than pleased.
 
 Beyond the wedge, Galadriel and Hanamir see the floating light. It no longer keeps its distance, and it flickers as if laughing. It swoops through Hanamir. He feels his indigestion clear up, but no other adverse effects. Instead, he makes a quick hit with his short sword and feels it connect with something corporeal, a thickness in the air for a second, but then misses it with his unarmed attack. Galadriel’s rapier slices right through the air with no contact.
 
@@ -136,7 +137,7 @@ The light wavers in the air, then emits a softer, warmer glow.
 
 The light bobs as if bowing, and then zooms back through the wedge, presumably to resume its original post. 
 
-The adventurers signal to Hermione that it’s safe to proceed. She leads Magic and Buddy past the pit and the wedge, and the group ventures onward. 
+The adventurers signal to Hermione that it’s safe to proceed. She leads Magick and Buddy past the pit and the wedge, and the group ventures onward. 
 
 The next passageway has an abundance of traps, both hidden and already-deployed. Hanamir triggers several of them with the eight-foot pole, while Galadriel scours the walls for any hidden switches. There are several more stone pressure plates in the ground, but the group is better at noticing these now, and sidesteps them easily. There is a dusty, sandy material trickling from significant cracks in the ceiling. It sits in piles on the floor. 
 
@@ -152,7 +153,7 @@ The next room is filled with foul, bitter-smelling air and has a few piles of ru
 
 “Are we sure they’re just bugs?” says Galadriel. “Hermione, can you identify them?”
 
-But Hermione is busy dealing with Magic, who has put a beetle in her mouth and refuses to spit it out, and disregards the question.
+But Hermione is busy dealing with Magick, who has put a beetle in her mouth and refuses to spit it out, and disregards the question.
 
 Harlan borrows the eight-foot pole and pokes at the nest of beetles. A few of them object to this and sink their pincers into his toe. But they do seem to be simple bugs, and they’re demolished within a few minutes of the adventurers tap dancing around the room. A few stragglers disappear into the cracks in the walls, and they are left alone to dig through the rubble.
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "khargol",
@@ -116,7 +117,7 @@ Sanford takes the proffered vial and sniffs it, frowning deeply. “Where’d yo
 
 “A tiefling gave it to you?” Sanford looks surprised.
 
-“Yes, her name was Magic. Making potions was her whole deal,” says Galadriel.
+“Yes, her name was [Magick](/characters/magick/). Making potions was her whole deal,” says Galadriel.
 
 “Well, their names are aspirational…” says Sanford. “This potion is dangerous. Your friend drank this? How much of him plane-shifted?”
 

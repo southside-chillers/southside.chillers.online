@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "hermione",
@@ -202,7 +203,7 @@ The morning is not kind to Galadriel.
 
 After a considerable amount of wheedling, Galadriel is persuaded to face the day, but she looks as if she’s been hit by a battering ram.
 
-“All right,” says Hermione. “Who wants to come to the library with me? We’ll figure out what the basilisk corpse could be used for, and if it’d be more valuable to sell it as-is or in pieces… and then, I’d like to do some reading about tieflings before our meeting with Magic.”
+“All right,” says Hermione. “Who wants to come to the library with me? We’ll figure out what the basilisk corpse could be used for, and if it’d be more valuable to sell it as-is or in pieces… and then, I’d like to do some reading about tieflings before our meeting with [Magick](/characters/magick/).”
 
 Hanamir raises his hand. Galadriel grunts.
 
@@ -264,7 +265,7 @@ The librarian returns with a tome entitled *Bahomet’s Children*. Galadriel tri
 
 “Huh? Why?”
 
-“Well, we know Magic stole a book about dragons from [Bryn](/characters/bryn/),” says Galadriel, thinking quickly. “A dragon destroyed her home. Maybe I can learn something relevant to that before our meeting.”
+“Well, we know Magick stole a book about dragons from [Bryn](/characters/bryn/),” says Galadriel, thinking quickly. “A dragon destroyed her home. Maybe I can learn something relevant to that before our meeting.”
 
 Hanamir raises his eyebrows but continues reading.
 
@@ -282,7 +283,7 @@ She reads on.
 
 *Razor-sharp talons and teeth… gargantuan wingspan… cone of poisonous gas... breath of acid...*
 
-Her stomach does a swan dive to the floor. Is it possible that Buddy could have been the one to destroy Magic’s home and kill all her people? 
+Her stomach does a swan dive to the floor. Is it possible that Buddy could have been the one to destroy Magick’s home and kill all her people? 
 
 Yes, certainly, that is possible.
 
@@ -438,7 +439,7 @@ Galadriel bites her lip.
 
 “Oh, sure, Galadriel, that makes me feel sooOOOooo much better!” says Harlan. The librarian shushes him again. “How are you so sure we haven’t been wandering around with a mature chromatic dragon? He saw us kill the Wyrmling! Is he okay with that? He could be biding his time, waiting for the perfect moment to roast us in vengeance—”
 
-“No, no, I saw him. He’s definitely metallic, not chromatic,” says Galadriel. “I’m just worried that he may have been, um, the dragon who destroyed Magic’s village.”
+“No, no, I saw him. He’s definitely metallic, not chromatic,” says Galadriel. “I’m just worried that he may have been, um, the dragon who destroyed Magick’s village.”
 
 “You saw him? How big was he?” asks Hanamir.
 

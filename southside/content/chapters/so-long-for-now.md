@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -91,7 +92,7 @@ More beasts, winged and demonic, appear in the sky from nowhere. The king twists
 
 “You think they won’t search us?” says Harlan. “You’ll just lie, and they’ll be like ‘oh, okay, bummer, thanks for checking’...?”
 
-“The other reason we maybe shouldn’t get on their ship is Magic,” says Hanamir. “We did promise to keep her away from Aberith.”
+“The other reason we maybe shouldn’t get on their ship is [Magick](/characters/magick/),” says Hanamir. “We did promise to keep her away from Aberith.”
 
 “We could ask them to make a stop somewhere else before returning to the city,” says Hermione. Her eyes brighten. “And then we can be rid of her forever!”
 
@@ -129,7 +130,7 @@ His eyes dart around the room.
 
 “What now?” asks Tannin. He glances at the ladder in the corner of the room. “Peace out?”
 
-“As irritating as she is, even I’m not callous enough to leave Magic behind,” says Harlan. “We should go collect her from the octopus closet.”
+“As irritating as she is, even I’m not callous enough to leave Magick behind,” says Harlan. “We should go collect her from the octopus closet.”
 
 “First, let’s help ourselves to some treasure, shall we?” says Hanamir. He smiles and twirls his crowbar like a baton.
 
@@ -197,13 +198,13 @@ They proceed down the wrecked hallway toward the mirror room and its adjoining o
 
 “How mad do you think she’s gonna be?” whispers Tannin. “I’d bet my remaining hand she’s gonna try to kill you right away, bro.”
 
-“Guess we’re about to find out,” says Harlan. “And stop gambling with your appendages.” He sighs deeply, then strides into the cramped room with the oversized statue feature. Magic is right where they left her, shackled to one of the stone octopus’s tentacles. “Hi, Magic. We’re back.”
+“Guess we’re about to find out,” says Harlan. “And stop gambling with your appendages.” He sighs deeply, then strides into the cramped room with the oversized statue feature. Magick is right where they left her, shackled to one of the stone octopus’s tentacles. “Hi, Magick. We’re back.”
 
 “Did you find it?!” she says breathlessly. 
 
-“It was already gone,” says Galadriel. “Someone else had gotten there first. I’m sorry, Magic.”
+“It was already gone,” says Galadriel. “Someone else had gotten there first. I’m sorry, Magick.”
 
-“What?!” Magic’s face falls. “You’re kidding. No, you—you must’ve—you just didn’t look in the right place! It has to be here!”
+“What?!” Magick’s face falls. “You’re kidding. No, you—you must’ve—you just didn’t look in the right place! It has to be here!”
 
 Harlan unshackles her from the statue and helps her to her feet. 
 
@@ -219,7 +220,7 @@ Galadriel has the uncanny feeling of being watched as she reenters the room. The
 
 “Kind of a bad feeling,” says Galadriel. She can’t tell if she’s the only one who can hear a faint laughter… a familiar laughter, too… is it just a trick of their voices echoing off the chamber’s walls?
 
-Magic circles around the room touching every gem in turn, waiting for one of them to be a secret compartment containing the quiznos, while Harlan and Hermione hover next to her like the anxious parents of a toddler. Meanwhile, Tannin grips the rickety wooden wheel on a pedestal in the center of the room, pretending to be a ship’s captain.
+Magick circles around the room touching every gem in turn, waiting for one of them to be a secret compartment containing the quiznos, while Harlan and Hermione hover next to her like the anxious parents of a toddler. Meanwhile, Tannin grips the rickety wooden wheel on a pedestal in the center of the room, pretending to be a ship’s captain.
 
 “What kind of bad feeling?” says Hanamir, alert. “A spidery feeling?”
 
@@ -253,7 +254,7 @@ Galadriel begins emptying her pockets onto the floor as if seeking something urg
 
 “I don’t have that,” says Galadriel. “I desperately want to obey your Command, though. Can you pick something else?” She holds up a tiny sweater she knit for Buddy. It has ducks on it. “This?” 
 
-Behind Cazna, she sees Harlan climbing up the ladder to the hatch in the ceiling. He pulls Magic after himself by the hand. Hermione and Tannin wait below. Hanamir, she notices, is in a meditative pose similar to the one that initiated the Stunning Strike against the giant snake in their last battle.
+Behind Cazna, she sees Harlan climbing up the ladder to the hatch in the ceiling. He pulls Magick after himself by the hand. Hermione and Tannin wait below. Hanamir, she notices, is in a meditative pose similar to the one that initiated the Stunning Strike against the giant snake in their last battle.
 
 “Is this situation funny to you?” asks Cazna, throwing the proffered pig sweater to the floor. 
 
@@ -309,7 +310,7 @@ Galadriel grabs the corner of the “garment” gingerly and picks up the dance 
 
 The air outside is clean and surprisingly cool. She gulps it in by the lungful, marveling at how good it feels to no longer breathe dust and thousand-year-old catacomb air. She’s greeted by a shrieking hug from Hermione and an abundance of enthusiastic licks to her cheek from Buddy, who is held out to her by Hanamir. Harlan and Tannin throw up their arms and join the group hug, all of them laughing with incredulous relief.
 
-“We did it,” says Harlan. He pats his chest, where the quiznos lies concealed in its holster, and glances behind himself at Magic, who is busy kicking rocks down the stepped sides of the pyramid. “Praise Kord, we really pulled it off.”
+“We did it,” says Harlan. He pats his chest, where the quiznos lies concealed in its holster, and glances behind himself at Magick, who is busy kicking rocks down the stepped sides of the pyramid. “Praise Kord, we really pulled it off.”
 
 “And would you look at that view?” says Hanamir, shading his eyes. “That’s quite a view, folks.”
 
@@ -329,9 +330,9 @@ As they approach the shoreline, Hermione’s updates regarding the ship become m
 
 “Of course, of course. I just, you know, as the only full-blooded elf here, I take my responsibility regarding long-distance sight *very* seriously,” she reminds them. “I just want the entire group to stay informed.”
 
-“Thank you,” says Harlan. “So, Magic, have you thought at all about where you’d like the ship to drop you off? You remember that you’re not allowed to go back to Aberith, right?”
+“Thank you,” says Harlan. “So, Magick, have you thought at all about where you’d like the ship to drop you off? You remember that you’re not allowed to go back to Aberith, right?”
 
-“Yes,” says Magic. “I’m not an *idiot*, even though you insist on treating me like one.”
+“Yes,” says Magick. “I’m not an *idiot*, even though you insist on treating me like one.”
 
 Her opinion of the adventurers has soured dramatically since her painstaking search of the treasure room did not yield the quiznos. She has taken to muttering offensive things under her breath and feigning innocence when someone asks her to repeat herself.
 
@@ -345,7 +346,7 @@ She spits these last words with a venomous look at Buddy, who is digging content
 
 “Really?” Hermione raises her eyebrows. “Don’t you think she’s going to do something, um, no offense, but something *evil* as soon as we let her out of our sight?”
 
-“Annoyingelfdorksayswhat,” mumbles Magic.
+“Annoyingelfdorksayswhat,” mumbles Magick.
 
 “What?” says Hermione.
 
@@ -363,13 +364,13 @@ She spits these last words with a venomous look at Buddy, who is digging content
 
 “Yeah! That guy,” says Tannin. It dawns on him. “Oh, wait, dang.”
 
-“Magic, are you sure you can fend for yourself if you’re alone here?” says Harlan.
+“Magick, are you sure you can fend for yourself if you’re alone here?” says Harlan.
 
-“I did it for years, in the burning forest, before you all showed up,” says Magic. 
+“I did it for years, in the burning forest, before you all showed up,” says Magick. 
 
-“That’s a good point,” says Harlan. He thinks for a moment. “All right, Magic. We’ll leave you here if that’s what you want. But we’ll check in on you every once in awhile to see how you’re doing.”
+“That’s a good point,” says Harlan. He thinks for a moment. “All right, Magick. We’ll leave you here if that’s what you want. But we’ll check in on you every once in awhile to see how you’re doing.”
 
-“Do it or don’t, see if I care,” says Magic. 
+“Do it or don’t, see if I care,” says Magick. 
 
 “And you understand that if you attempt to return to Aberith, you will undoubtedly be executed?”
 
@@ -397,7 +398,7 @@ They hike up the gangplank to the ship (“Only a brigantine, as I said!” chir
 
 “To victory!” says Galadriel, her glass outstretched. Her arm still stings beneath the gauntlet, but the wine dulls the sensation.
 
-From the ship’s hull, they wave down at Magic while sipping their wine, which is indeed quite excellent. Magic makes a sarcastic wave back and then stomps off into the jungle. 
+From the ship’s hull, they wave down at Magick while sipping their wine, which is indeed quite excellent. Magick makes a sarcastic wave back and then stomps off into the jungle. 
 
 “Remember,” calls Harlan, as she disappears from view, “this isn’t goodbye forever!”
 

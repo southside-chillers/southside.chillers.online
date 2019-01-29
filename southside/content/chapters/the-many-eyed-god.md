@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -69,17 +70,17 @@ Their eyes turn in unison to the pig at Galadriel’s feet. He sniffs at the air
 
 “Okay,” says Hermione. “So we don’t bring him in.”
 
-“And what about Magic? She’s powerful too, and unpredictable even when she’s not possessed,” says Harlan. “Maybe we don’t bring her in either.”
+“And what about [Magick](/characters/magick/)? She’s powerful too, and unpredictable even when she’s not possessed,” says Harlan. “Maybe we don’t bring her in either.”
 
 They glance at each other in silence for a moment, waiting for objections to be raised, but there are none.
 
-“So, is that the plan, then? We leave Buddy and Magic outside?” says Harlan. “Should someone… stay behind and keep an eye on Magic?”
+“So, is that the plan, then? We leave Buddy and Magick outside?” says Harlan. “Should someone… stay behind and keep an eye on Magick?”
 
 All of them look at Hermione.
 
-“No!” she sputters. “Come on, guys! I’ve been saddled with Magic duty this entire time!”
+“No!” she sputters. “Come on, guys! I’ve been saddled with Magick duty this entire time!”
 
-“No, no, you’re right, Hermione,” says Galadriel. “And we need you in there with us if we’re going to get out of here alive. Let’s find a place we can leave Magic that’s safe.”
+“No, no, you’re right, Hermione,” says Galadriel. “And we need you in there with us if we’re going to get out of here alive. Let’s find a place we can leave Magick that’s safe.”
 
 “Maybe the octopus closet?” says Hanamir.
 
@@ -89,13 +90,13 @@ All of them look at Hermione.
 
 “Buddy can watch her,” says Hermione. “She’s already scared of him.”
 
-She nods at Magic, who is hunched against the wall behind her, wide-eyed, shivering, and pale. 
+She nods at Magick, who is hunched against the wall behind her, wide-eyed, shivering, and pale. 
 
 “Yeah, this little dude can handle her,” says Tannin. “Worst-case scenario, he just blasts her with dragon breath, right?”
 
 Galadriel kneels down to Buddy’s eye level.
 
-*Are you going to be all right if we leave you alone with Magic again?*
+*Are you going to be all right if we leave you alone with Magick again?*
 
 Buddy oinks noncommittally.
 
@@ -103,11 +104,11 @@ I DON’T LOOK FORWARD TO IT. BUT I THINK YOU’RE RIGHT THAT I’D GET POSSESSE
 
 “He says okay,” says Galadriel.
 
-They lead Magic back through the mirror room to the octopus closet and transfer one of her shackles to the octopus statue itself.
+They lead Magick back through the mirror room to the octopus closet and transfer one of her shackles to the octopus statue itself.
 
 “Don’t leave me!” she whimpers, articulating a complete thought for the first time since the incident in the oni room. “Please!”
 
-“I’m sorry, Magic,” says Harlan. He tugs at the shackles. “We have to. We can’t take the risk that the spirit will possess you.”
+“I’m sorry, Magick,” says Harlan. He tugs at the shackles. “We have to. We can’t take the risk that the spirit will possess you.”
 
 “No! Don’t—don’t—chain me up like an animal!”
 
@@ -115,23 +116,23 @@ Harlan sighs with a mixture of guilt and resolve.
 
 “What choice do we have?” he asks.
 
-“You could let me fight for once!” rasps Magic. “Let me help!”
+“You could let me fight for once!” rasps Magick. “Let me help!”
 
 “I’m sorry. I really am. But this foe we’re about to face might be able to possess you and use your considerable powers against us. And we just can’t take that gamble.”
 
-Magic goes silent, sulking furiously.
+Magick goes silent, sulking furiously.
 
 “We will come back for you,” says Harlan. “I promise. We are not leaving you here forever.”
 
 He tries to make eye contact with her, but she stares at the ground.
 
-“You’ll regret this,” says Magic.
+“You’ll regret this,” says Magick.
 
 “Why’s that?”
 
 She turns away and doesn’t respond.
 
-“Okay. See you soon, Magic.”
+“Okay. See you soon, Magick.”
 
 As the adventurers leave the octopus closet, Harlan looks back one more time at the tiefling chained to the statue, her shoulders shaking with noiseless sobs. His throat tightens. He turns away.
 
@@ -223,7 +224,7 @@ Galadriel dusts herself off and readies an arrow.
 
 “I am *so* glad we didn’t bring Buddy in here,” she says, wide-eyed.
 
-“Yes! And Magic too!” says Harlan, finally slicing through Tannin’s bonds. “Good job, everyone.”
+“Yes! And Magick too!” says Harlan, finally slicing through Tannin’s bonds. “Good job, everyone.”
 
 “At Drephis State, we’d have earned an A in History for our interpretation of a primary source back there,” notes Hanamir. “Or perhaps in Comparative Poetry.”
 

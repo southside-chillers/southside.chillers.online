@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "hermione",
@@ -94,7 +95,7 @@ Slee purses his lips. He seems to be considering her words carefully.
 
 “Please explain why you feel that the suspect is not in control of her actions,” he says.
 
-Galadriel explains: the ever-burning forest fire, the tiefling skeletons, the lone hut spared from the flames. The knowledge that Grizzleby, the red dragon, had killed everyone Magic had ever known and loved. The erratic bursts of magic that resulted whenever they’d tried confronting her about stealing the dragon book from Bryn, and subsequently killing him...
+Galadriel explains: the ever-burning forest fire, the tiefling skeletons, the lone hut spared from the flames. The knowledge that Grizzleby, the red dragon, had killed everyone [Magick](/characters/magick/) had ever known and loved. The erratic bursts of magic that resulted whenever they’d tried confronting her about stealing the dragon book from Bryn, and subsequently killing him...
 
 “The trauma of the loss of her people, combined with whatever magical force has possessed her now, leads us to believe that she may not be entirely responsible for what happened to Bryn,” concludes Galadriel. “She may be the unwitting tool of some more sinister actor.”
 
@@ -186,27 +187,27 @@ They think about this in silence for a minute. Harlan shudders, then turns to Ta
 
 “Not just that. She’s *amazing*!” Tannin repeats, shaking his head in apparent disbelief.
 
-The chamber door swings open again, and the king and his ministers file back to their seats at the high semicircular table. After them, several amber-robed guards enter, forming a human blockade around a figure who must be Magic. The guard at the back of the group is holding a glowing sphere in the palm of one hand. They stop to deposit Magic in a chair at the center of the room, then walk back to stand at attention against the wall.
+The chamber door swings open again, and the king and his ministers file back to their seats at the high semicircular table. After them, several amber-robed guards enter, forming a human blockade around a figure who must be Magick. The guard at the back of the group is holding a glowing sphere in the palm of one hand. They stop to deposit Magick in a chair at the center of the room, then walk back to stand at attention against the wall.
 
-The sight of Magic nearly makes the adventurers gasp out loud. She looks emaciated and weak. She can barely hold her head up. Galadriel stands.
+The sight of Magick nearly makes the adventurers gasp out loud. She looks emaciated and weak. She can barely hold her head up. Galadriel stands.
 
 “I would like to make the king and council aware that her condition has deteriorated rapidly within the last twenty-four hours,” she says. “She looked healthy and strong the last time we saw her.” She glares at the guards. “What have you done to her? What is that thing he’s holding?”
 
-“That is a precautionary item, an Orb of Antimagic,” explains Slee. “I assure you, it is not harmful. It only prevents the use of magic in its vicinity.” He looks down at Magic with some amount of pity. “Please, identify yourself for the council.”
+“That is a precautionary item, an Orb of Antimagic,” explains Slee. “I assure you, it is not harmful. It only prevents the use of magic in its vicinity.” He looks down at Magick with some amount of pity. “Please, identify yourself for the council.”
 
-Magic mumbles something.
+Magick mumbles something.
 
 “You’ll have to speak up, I’m afraid,” says Slee.
 
-“My name is Magic,” Magic slurs.
+“My name is Magick,” Magick slurs.
 
-“Thank you, Magic. Is it true that you have confessed to the murder of Bryn Starloft?” Minister Mirama asks.
+“Thank you, Magick. Is it true that you have confessed to the murder of Bryn Starloft?” Minister Mirama asks.
 
-“Yes,” says Magic.
+“Yes,” says Magick.
 
 “Can you describe for us what happened on the night he was killed?” Mirama asks.
 
-Magic heaves her head up with effort.
+Magick heaves her head up with effort.
 
 “My only goal is to bring peace to the world…” she sighs. “I thought that I had found a way to do that, but now I think that there is no longer a way.” She swallows drily. “If the death of your friend means that I can no longer live, so be it.”
 
@@ -214,17 +215,17 @@ Magic heaves her head up with effort.
 
 “Please,” says Mirama.
 
-“Magic, what happened to you since we last saw you? What has made you ill?”
+“Magick, what happened to you since we last saw you? What has made you ill?”
 
-Magic lolls her head in the direction of the adventurers, but speaks to the floor.
+Magick lolls her head in the direction of the adventurers, but speaks to the floor.
 
 “Once you let them get me… it all fell apart,” she says.
 
-“We did all we could,” says Harlan. “Magic, I shackled myself to you to try and get you the best treatment possible.”
+“We did all we could,” says Harlan. “Magick, I shackled myself to you to try and get you the best treatment possible.”
 
-Magic doesn’t respond. She slumps further into her chair.
+Magick doesn’t respond. She slumps further into her chair.
 
-“Magic... do you need magic to survive?” asks Galadriel.
+“Magick... do you need magic to survive?” asks Galadriel.
 
 At this, the tiefling displays a flicker of her previous vitality.
 
@@ -234,17 +235,17 @@ At this, the tiefling displays a flicker of her previous vitality.
 
 From beside her, Hermione shakes her head.
 
-“I require magic to live,” says Magic.
+“I require magic to live,” says Magick.
 
 King Slee clears his throat.
 
 “This way that you felt you could bring peace,” he says. “Why was it necessary to murder Bryn to accomplish it?”
 
-Magic takes a long inhale, as if summoning all of her energy.
+Magick takes a long inhale, as if summoning all of her energy.
 
 “I did not mean to kill the scholar. I am sorry. His book helped me to understand… to rid this world of evil we must first rid this world of those who commit evil…” She closes her eyes. “There is an item I seek. A powerful relic of the ancient world. With it I would erase them, dragonkind, from existence.”
 
-Kandir perks up noticeably. He peers closer at Magic as she continues.
+Kandir perks up noticeably. He peers closer at Magick as she continues.
 
 “All the texts point me to the ancient island, the place it was last seen… and I sought these people, these friends to help me so that we could bring peace together, but they were angry at me, and I… now I have no more faith in my destiny. Or in the possibility of peace.”
 
@@ -254,7 +255,7 @@ Kandir perks up noticeably. He peers closer at Magic as she continues.
 
 “The suspect cannot be trusted with it, of course, but if she has already done the necessary research, why not use it?” says Kandir.
 
-“I don’t presume to speak for Magic, but I imagine if you would like her help, you’re going to have to commit to treating her a touch more humanely,” says Harlan. 
+“I don’t presume to speak for Magick, but I imagine if you would like her help, you’re going to have to commit to treating her a touch more humanely,” says Harlan. 
 
 “I think we can do that, if she is willing to cooperate,” says Slee.
 
@@ -276,7 +277,7 @@ Tannin chuckles.
 
 Hanamir gives Harlan a reassuring look.
 
-“At the very least, Your Majesty, we can guarantee that Magic will be out of your city and will never return,” says Harlan. “You can trust us to accompany her on this quest, and she will cause you no more trouble.”
+“At the very least, Your Majesty, we can guarantee that Magick will be out of your city and will never return,” says Harlan. “You can trust us to accompany her on this quest, and she will cause you no more trouble.”
 
 “That is my concern at the idea of letting the tiefling go,” says King Slee. He fixes an intense stare on Harlan. “But I trust this party. Will you vow, in the name of your god, that you will keep this tiefling out of the city of Aberith, and deliver the appropriate consequences should she attempt to return?”
 

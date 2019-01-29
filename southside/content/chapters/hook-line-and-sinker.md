@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "buddy",
@@ -178,7 +179,7 @@ He lets the news wash over them. There are murmurs of confusion and surprise.
  
 “Which we didn’t use,” says Tannin, who seems the least fazed by this revelation.
  
-“Yeah, but we _might_,” says Harlan. “I did it for us, and I don’t regret it! Magic is never coming back.”
+“Yeah, but we _might_,” says Harlan. “I did it for us, and I don’t regret it! [Magick](/characters/magick/) is never coming back.”
  
 “Congratulations, you played yourself,” hisses the Savage through his teeth. “And you tried to play the Savage. And that just don’t fly."
  

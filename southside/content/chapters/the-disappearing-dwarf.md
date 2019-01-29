@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "buddy",
         "galadriel",
@@ -68,7 +69,7 @@ She gazes at the floor, maybe feeling a little guilty.
 
 Galadriel plays a minor chord on the lute.
 
-“But when we finished fleecing this jabroni, we saw that Tannin had disappeared. There was an empty vial of Magic’s plane-shifting potion lying on the floor where he had been.”
+“But when we finished fleecing this jabroni, we saw that Tannin had disappeared. There was an empty vial of [Magick](/characters/magick/)’s plane-shifting potion lying on the floor where he had been.”
 
 She raises her tankard of Fleck’s Eillin ale in a toast. 
 

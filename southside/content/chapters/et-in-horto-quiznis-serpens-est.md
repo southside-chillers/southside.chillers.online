@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "hermione",
         "buddy",
@@ -46,13 +47,13 @@ And she isn’t wrong. She drifts off to a swift but uneasy slumber.
 
 In her dreams, she’s somewhere she’s been before. It’s the temple, and it’s not, but it’s just like this, and she’s full of dread… 
 
-Of course! It’s the room where she walked in on Magic, in another dream, not long ago… when Magic was hurting someone, someone she loved… 
+Of course! It’s the room where she walked in on [Magick](/characters/magick/), in another dream, not long ago… when Magick was hurting someone, someone she loved… 
 
-Heart pounding, she steps forward, and she can finally see the object of the torture, and it’s exactly what she feared. A copper dragon—*Buddy*!—is restrained by some malevolent spell, his life slipping away—she pleads with Magic for mercy, but the tiefling doesn’t even glance in her direction, so focused on her brutal task—
+Heart pounding, she steps forward, and she can finally see the object of the torture, and it’s exactly what she feared. A copper dragon—*Buddy*!—is restrained by some malevolent spell, his life slipping away—she pleads with Magick for mercy, but the tiefling doesn’t even glance in her direction, so focused on her brutal task—
 
 *This is a dream,* some part of her conscious mind interrupts. *You’re dreaming.*
 
-What happens next? In the original dream, she stepped forward and uttered a word that stopped Magic and ended her life instantly… but what was the word? She scans her memories frantically. What was the word that saved Buddy? 
+What happens next? In the original dream, she stepped forward and uttered a word that stopped Magick and ended her life instantly… but what was the word? She scans her memories frantically. What was the word that saved Buddy? 
 
 *Only the Lich knows the word,* she realizes. *The word was his offer.* 
 
@@ -64,7 +65,7 @@ She drifts back to sleep waiting for his answer.
 
 ---
 
-On the other side of the cave-in, the mood is not great. [Tannin](/characters/tannin/) is picking gravel out of his beard, while [Hanamir](/characters/hanamir/) pours a cup and a half of fine-grained dust out of one of his boots. [Hermione](/characters/hermione/), Magic, and Buddy were far enough away that they are physically untouched, but Magic rocks back and forth in a fetal position on the floor. [Harlan](/characters/harlan/) stares at the rubble in surprise and a fair amount of horror.
+On the other side of the cave-in, the mood is not great. [Tannin](/characters/tannin/) is picking gravel out of his beard, while [Hanamir](/characters/hanamir/) pours a cup and a half of fine-grained dust out of one of his boots. [Hermione](/characters/hermione/), Magick, and Buddy were far enough away that they are physically untouched, but Magick rocks back and forth in a fetal position on the floor. [Harlan](/characters/harlan/) stares at the rubble in surprise and a fair amount of horror.
 
 “What?!” he repeats, again and again. “But—but it was *lightning*, not thunder!”
 
@@ -108,7 +109,7 @@ The tree grunts in frustration as its next swipe at Tannin is, again, a few seco
 
 “It is pretty slow,” Hanamir calls to Harlan. “I think all of us can probably speed through here.”
 
-“Are you sure?” says Harlan. “Even Magic? She’s still freaking out back there.”
+“Are you sure?” says Harlan. “Even Magick? She’s still freaking out back there.”
 
 “I think now is the time for speed,” says Hanamir. “If our goal is to reunite with Galadriel as soon as we can. At least, that is my goal.”
 
@@ -160,7 +161,7 @@ Hanamir says nothing, but gives Harlan a nod that indicates all is forgiven. Tan
 
 Tannin does seem intrigued by this idea. He takes the wand, “just for now.”
 
-Harlan goes back to the hallway to tell Hermione, Magic, and Buddy that it’s safe for them to come through the room now. 
+Harlan goes back to the hallway to tell Hermione, Magick, and Buddy that it’s safe for them to come through the room now. 
 
 “Any sign of Galadriel?” asks Hermione. 
 

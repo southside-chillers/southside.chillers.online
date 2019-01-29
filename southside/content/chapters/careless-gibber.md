@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "the-savage",
         "hanamir",
         "buddy",
@@ -129,7 +130,7 @@ She points it at Shinebright and, squinting and turning away, gives it a wave. F
 
 They turn toward the door. What’s left of Shinebright gurgles something that sounds like "hey waaaait…" and it seems to give Galadriel an idea.
 
-"Hey," she says, pulling out her vial of Magic’s plane-shifting potion, "what if we plane-shifted this guy?"
+"Hey," she says, pulling out her vial of [Magick](/characters/magick/)’s plane-shifting potion, "what if we plane-shifted this guy?"
 
 "You’d have to throw it," says Hanamir. "Trust me, you do not want to get close to that thing."
 

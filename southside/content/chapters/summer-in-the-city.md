@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "magick",
         "hanamir",
         "khargol",
         "hermione",
@@ -64,7 +65,7 @@ They walk together across the entire city, making cordial conversation at an ext
 
 “So, you are planning on researching the Northern Ruins?” asks Hanamir. 
 
-“Yes,” says Hermione. “I have a baseline familiarity, but I am hoping to learn enough to help us navigate the ruins in pursuit of Magic’s dragon-slaying relic.”
+“Yes,” says Hermione. “I have a baseline familiarity, but I am hoping to learn enough to help us navigate the ruins in pursuit of [Magick](/characters/magick/)’s dragon-slaying relic.”
 
 “Very good,” says Hanamir. “Do keep me apprised of what you learn. I have a small chore to attend to first, but then I’d like to do some research myself.”
 
@@ -386,7 +387,7 @@ I CAN READ YOUR THOUGHTS EVEN WHEN THEY AREN’T DIRECTED AT ME.
 
 I’M SORRY. IT’S HOW I KNEW I COULD TRUST YOU IN THE FIRST PLACE.
 
-*So you know about the legendary thing, the… quiznos? And about Magic wanting to use it to wipe out dragonkind?*
+*So you know about the legendary thing, the… quiznos? And about Magick wanting to use it to wipe out dragonkind?*
 
 I PICKED UP THE GIST OF IT. AND YOU WANT TO KNOW IF I’LL COME WITH YOU?
 
@@ -440,13 +441,13 @@ The other four clink their glasses against his.
 
 “I could *tickle* you and you would *die*.”
 
-“Now, now, you two,” says Hermione. “We should talk about our plan for when we reach the ruins. Should one of us be on Magic duty? We don’t want her to run around unattended, right?”
+“Now, now, you two,” says Hermione. “We should talk about our plan for when we reach the ruins. Should one of us be on Magick duty? We don’t want her to run around unattended, right?”
 
 “We’ll use the Dimensional Shackles,” says Hanamir. No one mentions his bruised and busted lip, out of politeness (but he’d probably explain that a teenage half-orc monk trainee got a lucky hit, if asked).
 
 “Yes, but I’d like her to have a bit more supervision, you know, moment to moment,” says Hermione. The group is silent and avoids eye contact. “Really?! Come on.”
 
-“Sounds like you’re saying you want to supervise Magic,” says Tannin.
+“Sounds like you’re saying you want to supervise Magick,” says Tannin.
 
 “Fine!” says Hermione. “If I have to be the adult here, I’ll do it. But don’t make the mistake of thinking you don’t owe me one.”
 
