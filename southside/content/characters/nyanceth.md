@@ -1,8 +1,8 @@
 {
-    "class": "Unknown",
-    "description": "very little is known about Nyanceth",
+    "class": "Minister",
+    "description": "",
     "title": "Nyanceth",
-    "race": "Unknown"
+    "race": "Human"
 }
 
-Haelon Nyanceth is an enigmatic figure. Their backstory and motivations, so far, can only be guessed at.
+Haelon Nyanceth serves as Abireth's Minister of the Navy.
