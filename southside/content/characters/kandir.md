@@ -5,4 +5,4 @@
     "race": "Human"
 }
 
-Ultas Kandir is Abireth's Minister of Trade.
+Ultas Kandir is Aberith's Minister of Trade.

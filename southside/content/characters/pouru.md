@@ -5,4 +5,4 @@
     "race": "Human"
 }
 
-General Nai Pouru was Abireth's Minister of War.
+General Nai Pouru was Aberith's Minister of War.

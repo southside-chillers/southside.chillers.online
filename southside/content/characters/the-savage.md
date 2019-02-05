@@ -1,6 +1,6 @@
 {
     "class": "Paladin",
-    "description": "A local hero of Abireth and confidant of King Slee",
+    "description": "A local hero of Aberith and confidant of King Slee",
     "title": "The Savage",
     "race": "Human (?)"
 }
