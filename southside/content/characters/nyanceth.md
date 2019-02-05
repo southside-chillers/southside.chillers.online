@@ -5,4 +5,4 @@
     "race": "Human"
 }
 
-Haelon Nyanceth serves as Abireth's Minister of the Navy.
+Haelon Nyanceth serves as Aberith's Minister of the Navy.

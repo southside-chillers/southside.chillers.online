@@ -5,4 +5,4 @@
     "race": "Human"
 }
 
-King Slee is the unquestioned ruler of Abireth in 843.
+King Slee is the unquestioned ruler of Aberith in 843.
