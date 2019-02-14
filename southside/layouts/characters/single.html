@@ -6,7 +6,7 @@
         {{ partial "page-content.html" . }}
         <h2>Appearances</h2>
         <ul>
-            {{ $appearances := index .Site.Taxonomies.appearances .File.BaseFileName }}
+            {{ $appearances := index .Site.Taxonomies.appearances (index (split .URL "/") 2) }}
             {{ range sort $appearances }}
             <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Params.chapter }}. {{ .Page.Title }}</a></li>
             {{ end }}

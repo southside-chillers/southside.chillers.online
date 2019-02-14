@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container">
+    <header class="post-header">
+    <h1>Hanamir's Case Files</h1>
+
+    </header>
+    <p>
+    <a href="{{ ref . "/characters/hanamir.md" }}">Hanamir</a> is conducting an investigation on crimes affecting the property of the Drephis State University
+    Inter-Library-Loan system (DSU ILL), including
+    </p>
+
+    <ol>
+    <li>the theft of books from Hanamir's shipment on or about 843-09-10</li>
+    <li>any matters that arose or may arise directly from the investigation; and</li>
+    <li>any other matters that may pertain to the security and integrity of DSU</li>
+    </ol>
+
+    <ol class="post-list">
+        {{ $pag := .Paginate .Data.Pages.ByDate }}
+        {{ range $index, $element := $pag.Pages }}
+            <li class="post-stub">
+                <a href="{{ .Permalink }}">
+                    <h3 class="post-chapter-ordinal">CF. {{ .Params.timestamp }}</h3>
+                    <p class="post-stub-description">{{ .Params.location }}</p>
+                </a>
+            </li>
+        {{ end }}
+    </ol>
+
+    <div class="post-navigation">
+    {{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+    <nav class="pagination" role="navigation">
+        <span class="page-number">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+        {{ if $pag.HasPrev }}
+        <a class="newer-posts" href="{{ $pag.Prev.URL }}">&larr; Earlier Chapters</a>
+        {{ end }} {{ if $pag.HasNext }}
+        <a class="older-posts" href="{{ $pag.Next.URL }}">Later Chapters &rarr;</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
