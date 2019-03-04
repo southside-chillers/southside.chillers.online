@@ -5,6 +5,12 @@
     "race": "Half-Orc"
 }
 
+# Case Files
+
+Hanamir is conducting an [investigation on crimes affecting the property of the Drephis State University
+Inter-Library-Loan system (DSU ILL)](/hanamir-case-files).
+
+
 # Backstory
 
 An orphaned half-orc, Hanamir was adopted in childhood by a small regional monastic college, part of the Drephis State University system.
