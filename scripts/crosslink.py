@@ -195,9 +195,9 @@ def extract_character_data(char_dir):
     return characters
 
 
-def get_chapter_paths(chap_dir):
+def get_content_paths(content_dir):
     paths = []
-    for root, dirs, files in os.walk(chap_dir):
+    for root, dirs, files in os.walk(content_dir):
         for filename in files:
             if filename == "_index.md":
                 continue
@@ -248,15 +248,20 @@ def ensure_cross_link(chapter_path, characters):
 
     found_slugs, new_markdown = transform(original_markdown, character_slugs)
     front_matter["appearances"] = found_slugs
-    try:
-        front_matter["appearances_weight"] = int(front_matter["chapter"]) * 10
-    except ValueError as err:
-        if front_matter["chapter"] == "26: Part I":
-            front_matter["appearances_weight"] = 260
-        elif front_matter["chapter"] == "26: Part II":
-            front_matter["appearances_weight"] = 265
-        else:
-            raise err
+    if front_matter.get("chapter"):
+        try:
+            front_matter["appearances_weight"] = int(front_matter["chapter"]) * 10
+        except ValueError as err:
+            if front_matter["chapter"] == "26: Part I":
+                front_matter["appearances_weight"] = 260
+            elif front_matter["chapter"] == "26: Part II":
+                front_matter["appearances_weight"] = 265
+            else:
+                raise err
+    elif front_matter.get("timestamp"):
+        front_matter["appearances_weight"] = int(
+            front_matter["timestamp"].replace("-", "")
+        )
 
     with open(chapter_path, "w") as outfile:
         json.dump(front_matter, outfile, sort_keys=True, indent=4, ensure_ascii=False)
@@ -269,11 +274,13 @@ def main():
     char_dir = os.path.join(base_dir, "southside/content/characters")
     characters = extract_character_data(char_dir)
 
-    chap_dir = os.path.join(base_dir, "southside/content/chapters")
-    chapters = get_chapter_paths(chap_dir)
-
-    for chapter in chapters:
-        ensure_cross_link(chapter, characters)
+    for content_type in ["chapters", "hanamir-case-files"]:
+        content_dir = os.path.join(
+            base_dir, "southside/content/{}".format(content_type)
+        )
+        content_paths = get_content_paths(content_dir)
+        for content in content_paths:
+            ensure_cross_link(content, characters)
 
 
 if __name__ == "__main__":
