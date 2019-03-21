@@ -4,9 +4,10 @@
     <article class="post-container">
     <hr />
     <header class="post-header">
-        {{ if .PrevInSection }}
-        <a href="{{ .PrevInSection.Permalink }}">Previous File: {{ .PrevInSection.Title }}</a>
-        <hr />
+        {{ if .NextInSection }}
+        <div class="next-chapter-link">
+            <a href="{{ .NextInSection.Permalink }}">Previous File: {{ .NextInSection.Title }}</a>
+        </div>
         {{ end }}
         <h2>Case File {{ .Params.timestamp }}</h2>
         <p class="post-description">{{ .Params.location }}</p>
@@ -15,10 +16,11 @@
     </article>
 </div>
 
-{{ if .NextInSection }}
+{{ if .PrevInSection }}
 <div class="next-chapter-link">
-    <a href="{{ .NextInSection.Permalink }}">Next Chapter: {{ .NextInSection.Title }}</a>
+<a href="{{ .PrevInSection.Permalink }}">Next File: {{ .PrevInSection.Title }}</a>
 </div>
+<hr />
 {{ end }}
 
 {{ partial "footer.html" . }}
