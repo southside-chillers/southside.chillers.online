@@ -1,16 +1,18 @@
 {
     "appearances": [
-        "magick",
-        "hanamir",
-        "hermione",
         "buddy",
+        "cazna",
+        "deru",
         "galadriel",
+        "hanamir",
         "harlan",
+        "hermione",
+        "kandir",
+        "magick",
         "mirama",
+        "nyanceth",
         "pouru",
         "slee",
-        "kandir",
-        "cazna",
         "tannin"
     ],
     "appearances_weight": 400,
@@ -23,11 +25,11 @@
 
 “Is this everyone?” 
 
-“Yes,” lies Harlan. The original plan was to be upfront about leaving Magick behind in the Ruins, but these guardsmen seem totally uninformed as to the situation vis-á-vis the tiefling, so he figures, why bring it up?
+“Yes,” lies [Harlan](/characters/harlan/). The original plan was to be upfront about leaving [Magick](/characters/magick/) behind in the Ruins, but these guardsmen seem totally uninformed as to the situation vis-á-vis the tiefling, so he figures, why bring it up?
 
 There’s enough wine in the cask for the adventurers to share it with two low-ranking members of the Amber Guard. The more sociable of the two is a young man with distinctively round, pink cheeks who introduces himself as Dunwell.
 
-“And this is my best friend, Dunokay,” he smiles, nodding in thanks as Hermione pours them both some wine. Dunokay has the shadow of a mustache struggling to make itself known on his upper lip.
+“And this is my best friend, Dunokay,” he smiles, nodding in thanks as [Hermione](/characters/hermione/) pours them both some wine. Dunokay has the shadow of a mustache struggling to make itself known on his upper lip.
 
 “Very nice to meet you both,” says Hermione. “I saw you won the jackpot earlier, when we were boarding.”
 
@@ -37,13 +39,13 @@ There’s enough wine in the cask for the adventurers to share it with two low-r
 
 Dunokay takes a deep breath through his teeth with a roll of his eyes, as if to say “whoa nelly!” Dunwell laughs and shakes his head.
 
-“A lot,” says Dunwell. “Two council seats about to be vacant, now that old Nyanceth’s on bedrest. They say he doesn’t have much longer. But the big question right now is who’s going to succeed Pouru, and, well, you’re talking to two big fans of Jao Vedit, for obvious reasons.”
+“A lot,” says Dunwell. “Two council seats about to be vacant, now that old [Nyanceth](/characters/nyanceth/)’s on bedrest. They say he doesn’t have much longer. But the big question right now is who’s going to succeed [Pouru](/characters/pouru/), and, well, you’re talking to two big fans of Jao Vedit, for obvious reasons.”
 
-“Jao Vedit?” asks Hanamir.
+“Jao Vedit?” asks [Hanamir](/characters/hanamir/).
 
-“Head of the Amber Guard,” says Dunwell. “But Slee might end up going with someone from another branch of the military. Tough to say. In any case, the general’s execution is coming right up, so we’ll know soon.”
+“Head of the Amber Guard,” says Dunwell. “But [Slee](/characters/slee/) might end up going with someone from another branch of the military. Tough to say. In any case, the general’s execution is coming right up, so we’ll know soon.”
 
-“Oh!” says Galadriel. “We were there for her trial, but not her sentencing. That’s…” she trails off. 
+“Oh!” says [Galadriel](/characters/galadriel/). “We were there for her trial, but not her sentencing. That’s…” she trails off. 
 
 “Good,” says Hermione, finishing the thought. She looks around at them all incredulously, as if shocked by their reluctance to agree. “She imprisoned me! I mean, us! Without cause!”
 
@@ -67,7 +69,7 @@ There’s a silence during which almost everyone takes a sip of wine.
 
 “Yeah,” scoffs Dunwell. “That’s their prophet, I suppose. He’s the one teaching all this nonsense.”
 
-“Have you ever seen him?” asks Tannin. 
+“Have you ever seen him?” asks [Tannin](/characters/tannin/). 
 
 “Ha,” says Dunwell, “no, I don’t go to that part of town. These days, we’re too busy slapping fines on low-level magic users to flex our powers where they’d be useful. The Amber Guard is home to Aberith’s finest practitioners of the arcane, and they have us on babysitting duty. What a joke.”
 
@@ -81,7 +83,7 @@ He pats Tannin on the shoulder. Tannin stares at his wrist stump and sighs.
 
 ---
 
-At Aberith’s port, Buddy stops short before following Galadriel into the city.
+At Aberith’s port, [Buddy](/characters/buddy/) stops short before following Galadriel into the city.
 
 GALADRIEL? HEY. I CAN’T GO IN THERE.
 
@@ -115,7 +117,7 @@ Harlan waves at them as he walks off in the opposite direction to the rest of th
 
 ---
 
-Indeed, when the adventurers walk into the council chambers, they are greeted by applause and a standing ovation from Slee, Mirama, Kandir, and an amber-robed man who must be Jao Vedit. 
+Indeed, when the adventurers walk into the council chambers, they are greeted by applause and a standing ovation from Slee, [Mirama](/characters/mirama/), [Kandir](/characters/kandir/), and an amber-robed man who must be Jao Vedit. 
 
 “Welcome back!” says Slee, looking relieved and delighted. “We’re so glad to see you. Was the mission a success?”
 
@@ -153,7 +155,7 @@ The ministers of Justice and Trade file silently out of the room.
 
 “Actually—” Galadriel begins, but then stops short. 
 
-Something odd is happening to her vision. A veil seems placed over her right eye, crackling as if with static electricity. Her left eye is unaffected. And simultaneously, her gauntlet sends a sharp pinprick of pain up her right arm. She is reminded, discomfitingly, of her unresolved encounter with Cazna in the apex of the pyramid. 
+Something odd is happening to her vision. A veil seems placed over her right eye, crackling as if with static electricity. Her left eye is unaffected. And simultaneously, her gauntlet sends a sharp pinprick of pain up her right arm. She is reminded, discomfitingly, of her unresolved encounter with [Cazna](/characters/cazna/) in the apex of the pyramid. 
 
 “Excuse me,” she continues, unsteadily. “I’m not feeling well. I need to be excused.” She gives Hanamir a significant look while flexing and unflexing her gauntleted hand. “I think you can take it from here.”
 
@@ -355,6 +357,6 @@ Galadriel sees her only chance. She sprints across the lawn toward Kandir’s ho
 
 As if prompted by the party’s full five-way split, something unusual happens: the night sky burns red for a full three seconds. 
 
-Each adventurer—from Harlan at Elris’s farm to Hermione in the Kiln to Tannin at Deru’s temple to Hanamir floating downriver to Galadriel alone in Kandir’s house—watches as a massive fireball swallows the sky over southeastern Aberith.
+Each adventurer—from Harlan at Elris’s farm to Hermione in the Kiln to Tannin at [Deru](/characters/deru/)’s temple to Hanamir floating downriver to Galadriel alone in Kandir’s house—watches as a massive fireball swallows the sky over southeastern Aberith.
 
 
