@@ -1,17 +1,16 @@
 {
     "appearances": [
-        "chunk",
-        "elris",
-        "galadriel",
         "hanamir",
-        "harlan",
         "hermione",
-        "kandir",
+        "galadriel",
+        "harlan",
         "mirama",
-        "tannin",
-        "zotz"
+        "slee",
+        "chunk",
+        "kandir",
+        "tannin"
     ],
-    "appearances_weight": 400,
+    "appearances_weight": 410,
     "chapter": 41,
     "date": "2019-02-01T12:00:00-04:00",
     "description": "When disaster strikes Aberith, the fractured party follows multiple leads.",
@@ -49,7 +48,7 @@ He indicates the younger firbolg beside him.
 
 “I’d be happy to have an apprentice, not to mention an expert in bat care,” says Harlan. He turns to the boy, craning his neck a bit to look up at him. “What’s your name, then?”
 
-“Well, my name is Elris Vasquin the Third,” says the young giant, in a voice almost as soft as the featherweed pasture beneath him, “but everybody calls me Chunk.” He chuckles, but doesn’t explain. “I mostly tend to the plants and look after the creatures here on the farm.”
+“Well, my name is Elris Vasquin the Third,” says the young giant, in a voice almost as soft as the featherweed pasture beneath him, “but everybody calls me [Chunk](/characters/chunk/).” He chuckles, but doesn’t explain. “I mostly tend to the plants and look after the creatures here on the farm.”
 
 “And he’s mighty strong,” adds Elris. “Could be a helpful squire, or something like that.”
 
@@ -67,13 +66,13 @@ Out of the corner of his eye, he spots a floating object behind him—another pe
 
 “Oh! Hey!” calls Tannin, spitting out a mouthful of river water. “What are you doing here?”
 
-“I got caught by the Amber Guard trying to sneak into Kandir’s house,” says Hanamir. He takes a few wide strokes, already struggling to keep up with the mer-dwarf.
+“I got caught by the Amber Guard trying to sneak into [Kandir](/characters/kandir/)’s house,” says Hanamir. He takes a few wide strokes, already struggling to keep up with the mer-dwarf.
 
 “HA!” says Tannin. He punches the water, and Hanamir is hit with a bracingly cold splash. “Bust any heads?!”
 
 “Not yet, I’m afraid,” says Hanamir. He shakes it off. “How’s your day going?”
 
-“Well, I got my hand back!” Tannin waves a leftie, proudly. “But it was more expensive than Harlan’s was. I don’t think the priest chick likes my sense of humor.” He shrugs, mid-stroke. “So I was going to see if Mirama was up and maybe could spare some gold to cover the extra, but then that huge explosion happened!” Tannin mimes it with his hands, splashing another wave of river water at Hanamir’s face for dramatic effect. “Did you see that?”
+“Well, I got my hand back!” Tannin waves a leftie, proudly. “But it was more expensive than Harlan’s was. I don’t think the priest chick likes my sense of humor.” He shrugs, mid-stroke. “So I was going to see if [Mirama](/characters/mirama/) was up and maybe could spare some gold to cover the extra, but then that huge explosion happened!” Tannin mimes it with his hands, splashing another wave of river water at Hanamir’s face for dramatic effect. “Did you see that?”
 
 “I did,” says Hanamir, now actively seeking a point on the shoreline from which to pull himself out.
 
@@ -133,7 +132,7 @@ Chunk’s height gives him a better vantage point to keep track of Zotz flying t
 
 “Appreciate it, kid, but I think we’ve already got ‘em,” says Tannin, pointing down the street to where Harlan has landed Zotz and is blocking the three suspects’ progress.
 
-“Halt!” says Harlan. “In the name of King Slee, you are under arrest!”
+“Halt!” says Harlan. “In the name of King [Slee](/characters/slee/), you are under arrest!”
 
 His bravado is unable to persuade the suspects to surrender, however, and they turn back, only to discover that Tannin has flown into a barbarian rage. He knocks one of them cold onto the street in one punch. 
 

@@ -57,6 +57,9 @@ class Transformer(object):
         return False
 
     def _matches_unseen_slug(self, candidate):
+        if candidate[0].islower():
+            # names are always uppercased
+            return False
         can_slug = slugify(candidate)
         for slug in self.unseen_slugs:
             can_len = len(can_slug)
