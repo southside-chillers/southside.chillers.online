@@ -1,19 +1,18 @@
 {
     "appearances": [
-        "chunk",
-        "elris",
-        "galadriel",
         "hanamir",
-        "harlan",
+        "kord",
         "hermione",
-        "kandir",
-        "mirama",
         "pouru",
-        "tannin",
-        "tord",
-        "zotz"
+        "galadriel",
+        "harlan",
+        "mirama",
+        "shinebright",
+        "chunk",
+        "kandir",
+        "tannin"
     ],
-    "appearances_weight": 400,
+    "appearances_weight": 420,
     "chapter": 42,
     "date": "2019-02-15T12:00:00-04:00",
     "description": "A man in rags, a frightened finch, a dice parlor proprietor, and a disgraced general all must answer questions tonight.",
@@ -21,11 +20,11 @@
 }
 
 
-Tannin searches the bodies of the two suspects lying on the pavement. He doesn’t find much. 
+[Tannin](/characters/tannin/) searches the bodies of the two suspects lying on the pavement. He doesn’t find much. 
 
 “These guys have maybe six copper pieces between them,” he reports. “Nothing in their pockets. Actually, these might not even be pockets. Just holes.”
 
-Chunk is clearly uncomfortable as the third suspect struggles against his grip, but his hog-wrasslin’ skills prove effective at restraining the individual. Harlan pulls his mask off and sees that he’s a human man, perhaps in his late twenties, who looks terrified that he will soon meet the same fate as his two compatriots.
+[Chunk](/characters/chunk/) is clearly uncomfortable as the third suspect struggles against his grip, but his hog-wrasslin’ skills prove effective at restraining the individual. [Harlan](/characters/harlan/) pulls his mask off and sees that he’s a human man, perhaps in his late twenties, who looks terrified that he will soon meet the same fate as his two compatriots.
 
 “Where were you going in such a hurry?” Harlan asks. 
 
@@ -75,11 +74,11 @@ The streets become emptier and quieter as they approach the Kiln.
 
 ---
 
-Hermione sits in her room at the Half-Full Flagon. Her eyes scan the page of the book she’s reading—*Fifty-Five Things You Wish You Knew About Battling the Undead*, by one of her all-time favorite authors, Brunhilde Snapdragon—but she finds herself reading the same sentence over and over. She can’t stop thinking about the explosion and the unnatural ruin it left behind. 
+[Hermione](/characters/hermione/) sits in her room at the Half-Full Flagon. Her eyes scan the page of the book she’s reading—*Fifty-Five Things You Wish You Knew About Battling the Undead*, by one of her all-time favorite authors, Brunhilde Snapdragon—but she finds herself reading the same sentence over and over. She can’t stop thinking about the explosion and the unnatural ruin it left behind. 
 
-“Hello,” comes a voice from behind her chair, nearly causing her to fall out of it. Hanamir has appeared in the room without so much as a creaking floorboard to betray his entrance.
+“Hello,” comes a voice from behind her chair, nearly causing her to fall out of it. [Hanamir](/characters/hanamir/) has appeared in the room without so much as a creaking floorboard to betray his entrance.
 
-“Oh, it’s just you,” she murmurs, hand over her heart. “How was Kandir’s house? And where’s Galadriel?”
+“Oh, it’s just you,” she murmurs, hand over her heart. “How was [Kandir](/characters/kandir/)’s house? And where’s [Galadriel](/characters/galadriel/)?”
 
 “She’s right behind me,” says Hanamir. “We had to escape some Amber Guardsmen, and since I have the quiznos, I used some of my extra skills to make a swifter exit.”
 
@@ -246,7 +245,7 @@ Patiently, Harlan and Tannin walk Hermione, Hanamir, and Galadriel through their
 
 Hanamir explains the situation to Tannin, Harlan, and Tord (who displays a marked lack of interest). The party then takes a moment to consider their collective situation in silence.
 
-“How much time do we have before Pouru’s execution?” Hermione wonders out loud.
+“How much time do we have before [Pouru](/characters/pouru/)’s execution?” Hermione wonders out loud.
 
 “Not much, I bet,” says Harlan. “Executions are usually at dawn, right?”
 
@@ -282,7 +281,7 @@ Tord shakes his head, back to being unhelpfully tight-lipped.
 
 “Our rates are competitive and negotiable,” says Tannin. “Our property manager, H’Jun, can give you the details—”
 
-“Okay, hold up, before we hire a janitor for Shinebright’s tower, do you all want to take a rest?” says Harlan.
+“Okay, hold up, before we hire a janitor for [Shinebright](/characters/shinebright/)’s tower, do you all want to take a rest?” says Harlan.
 
 “I don’t think we have time,” says Hermione, “if we’re planning on talking to Pouru before she’s done for.”
 
@@ -306,7 +305,7 @@ The adventurers huddle, standing at a distance from the bridge.
 
 “You’ve had a couple of those tonight,” Hanamir says apprehensively.
 
-“No, but this one is *really* good,” says Galadriel. She pulls the hood of her cloak over her face and mumbles something under her breath, and when she emerges, she is wearing the rather stunning face of the Minister of Justice, Kir Mirama.
+“No, but this one is *really* good,” says Galadriel. She pulls the hood of her cloak over her face and mumbles something under her breath, and when she emerges, she is wearing the rather stunning face of the Minister of Justice, Kir [Mirama](/characters/mirama/).
 
 “First the bird, and now this?” says Hanamir, uncharacteristically peeved. “Galadriel, don’t forget, there are anti-magic obelisks uptown.” 
 
@@ -348,7 +347,7 @@ Harlan makes the Sign of the Lightning.
 
 Pouru nods and sinks back to the floor.
 
-“Not a follower of Kord myself,” she whispers, “but go ahead.”
+“Not a follower of [Kord](/characters/kord/) myself,” she whispers, “but go ahead.”
 
 Instead of delivering a final blessing, however, Harlan casts Remove Curse. A shadow lifts from Pouru’s hunched form, as if Harlan has dusted off a layer of ash from her skin, and it dissolves in the air above her. She turns back to him, clear-eyed and fully awake, breathing deeply.
 
