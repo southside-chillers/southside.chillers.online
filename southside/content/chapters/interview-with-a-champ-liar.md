@@ -1,36 +1,37 @@
 {
     "appearances": [
-        "chunk",
-        "deru",
-        "galadriel",
         "hanamir",
-        "harlan",
         "hermione",
-        "kandir",
-        "mirama",
+        "deru",
         "pouru",
+        "galadriel",
+        "harlan",
+        "mirama",
+        "chunk",
+        "kandir",
+        "cazna",
         "tannin"
     ],
-    "appearances_weight": 400,
+    "appearances_weight": 430,
     "chapter": 43,
     "date": "2019-02-20T12:00:00-04:00",
     "description": "The adventurers take one last meeting with the doomed General Pouru.",
     "title": "Interview with a Champ Liar"
 }
 
-“Welcome back, General,” says Hanamir. “We know there’s not much time. Is there anything you can tell us now that you couldn’t before? Something that might exonerate you, or shed light on the true nature of your crimes?”
+“Welcome back, General,” says [Hanamir](/characters/hanamir/). “We know there’s not much time. Is there anything you can tell us now that you couldn’t before? Something that might exonerate you, or shed light on the true nature of your crimes?”
 
-“I don’t think you’ll be able to save me,” says Pouru wryly, “but I’ll tell you anything you want to know.”
+“I don’t think you’ll be able to save me,” says [Pouru](/characters/pouru/) wryly, “but I’ll tell you anything you want to know.”
 
-“First of all, who did this to you?” asks Harlan.
+“First of all, who did this to you?” asks [Harlan](/characters/harlan/).
 
 “It all started when I fell in with the AML,” says Pouru. “The Anti-Magic League, if you’re not familiar. I know you’re from out of town.”
 
-“We know of them,” says Hermione. “They were the ones who pressured the council for the ban on magical items, right?”
+“We know of them,” says [Hermione](/characters/hermione/). “They were the ones who pressured the council for the ban on magical items, right?”
 
 “Yes,” says Pouru. “And I agreed with them.” She exhales in a short almost-laugh. “Still do. Even if one of them used magic to control me.”
 
-“Do you know who it was?” asks Galadriel.
+“Do you know who it was?” asks [Galadriel](/characters/galadriel/).
 
 “I didn’t witness the spell being cast, but I have a guess,” says Pouru. “Looking back, it feels as though after my first meeting with Number Six, my actions were not my own.”
 
@@ -38,11 +39,11 @@ The adventurers wait, in silence, for her to continue.
 
 “He was only ever called Number Six. He wore blue and red face paint and a long, flowing robe. The getup looked ceremonial, almost, but I never asked what it was for. He would visit me at my home late at night to give me instructions.”
 
-“Hold up, face paint?” says Tannin. “Like… a clown?”
+“Hold up, face paint?” says [Tannin](/characters/tannin/). “Like… a clown?”
 
 “Or a court jester of some kind, yes,” says Pouru.
 
-“Okay, we’ve seen a clown,” says Harlan. “He walked into the Outcast to meet Tord after the explosion, and immediately walked out, looked spooked, and Chunk followed him to the Upstanding Gentleman—”
+“Okay, we’ve seen a clown,” says Harlan. “He walked into the Outcast to meet Tord after the explosion, and immediately walked out, looked spooked, and [Chunk](/characters/chunk/) followed him to the Upstanding Gentleman—”
 
 “Explosion?” interrupts Pouru. 
 
@@ -106,7 +107,7 @@ Her voice grows quiet.
 
 “Perhaps.”
 
-“Do you think Kandir knew you were involved with the AML?” Galadriel asks. “We saw his—I mean, we know he was looking into the group.”
+“Do you think [Kandir](/characters/kandir/) knew you were involved with the AML?” Galadriel asks. “We saw his—I mean, we know he was looking into the group.”
 
 “If he was aware of my involvement, he never made it known,” says Pouru.
 
@@ -146,7 +147,7 @@ The adventurers wait. Pouru’s mouth hangs open in confusion.
 
 “I never had any personal involvement,” says Pouru.
 
-“But you got the payoffs?” says Harlan. “And Kandir? Mirama?”
+“But you got the payoffs?” says Harlan. “And Kandir? [Mirama](/characters/mirama/)?”
 
 “No, it’s a little bit below our paygrade,” says Pouru. “A customs guard might take a payoff. Are we aware of it? Yes. But at the same time, does this larger network sometimes provide useful information to the crown? Yes. Sometimes we’re tipped off to something important, because sometimes those accommodating customs officials hear when something is coming into town that is of interest. It’s not the highest concern of the council.”
 
@@ -198,7 +199,7 @@ Out of earshot from the row of prison cells, the adventurers stand in the hallwa
 
 “We can use magic in here,” says Harlan. “The obelisks don’t seem to have an effect. I’d like to try using Remove Curse again, this time on Galadriel’s eyes.”
 
-“Ugh, yes please,” says Galadriel. “I keep imagining all the ways Cazna is going to use everything she’s seeing against us.”
+“Ugh, yes please,” says Galadriel. “I keep imagining all the ways [Cazna](/characters/cazna/) is going to use everything she’s seeing against us.”
 
 They duck into a small alcove with some cleaning supplies stacked in the corner. Harlan closes his eyes and raises a hand, which begins to emit a faint silver light. He reaches over to lay his hand on Galadriel’s shoulder, and she shrugs it off.
 
@@ -238,7 +239,7 @@ And then, in another instant, the spiders are gone. He gasps.
 
 “Uh, Harlan?” says Tannin. “You okay?”
 
-“No,” he says. “I think we’re going to need to talk to Deru about this.”
+“No,” he says. “I think we’re going to need to talk to [Deru](/characters/deru/) about this.”
 
 
 
