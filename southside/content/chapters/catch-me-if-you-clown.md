@@ -1,39 +1,40 @@
 {
     "appearances": [
-        "hanamir",
-        "hermione",
-        "deru",
-        "pouru",
-        "galadriel",
-        "harlan",
-        "chunk",
         "cazna",
+        "chunk",
+        "deru",
+        "galadriel",
+        "hanamir",
+        "harlan",
+        "hermione",
+        "kord",
+        "pouru",
         "tannin"
     ],
-    "appearances_weight": 430,
+    "appearances_weight": 440,
     "chapter": 44,
     "date": "2019-03-27T12:00:00-04:00",
     "description": "How hard is it to track down a clown? Pretty hard, it turns out.",
     "title": "Catch Me If You Clown"
 }
 
-“You guys!” Galadriel squeals. “Look at the waffle bars!”
+“You guys!” [Galadriel](/characters/galadriel/) squeals. “Look at the waffle bars!”
 
 The adventurers have spent the past evening at the Prismatic Inn, an upscale urban resort in Aberith’s Silver Hill neighborhood. It is now an hour after sunrise, and the party’s vibe is decidedly weird.
 
-“‘Waffle Good,’” reads Hanamir, “and ‘Waffle Evil.’” He smiles softly. “That’s very clever.”
+“‘Waffle Good,’” reads [Hanamir](/characters/hanamir/), “and ‘Waffle Evil.’” He smiles softly. “That’s very clever.”
 
-“I don’t *get* it,” Tannin nearly roars. He had had to be bribed into getting into bed the night before with the (factual) promise that he’d be stronger and better-equipped to hunt clowns after getting some sleep. His attitude upon awakening is one of (energized) bitter resentment.
+“I don’t *get* it,” [Tannin](/characters/tannin/) nearly roars. He had had to be bribed into getting into bed the night before with the (factual) promise that he’d be stronger and better-equipped to hunt clowns after getting some sleep. His attitude upon awakening is one of (energized) bitter resentment.
 
-“Oh, it’s a pun,” says Chunk, helpfully. “Like, ‘Lawful Good’ and ‘Lawful Evil’? The way we describe people’s general moral alignment based on their motives and methods of achieving their goals.” He guffaws. “Now, what I wanna know is, where’s ‘Waffle Neutral’ in all this? Am I right, y’all?”
+“Oh, it’s a pun,” says [Chunk](/characters/chunk/), helpfully. “Like, ‘Lawful Good’ and ‘Lawful Evil’? The way we describe people’s general moral alignment based on their motives and methods of achieving their goals.” He guffaws. “Now, what I wanna know is, where’s ‘Waffle Neutral’ in all this? Am I right, y’all?”
 
-Harlan and Hermione have both swiftly assembled plates of pastry and fruit from the continental breakfast buffet and are eating in silence. They stare wordlessly at Galadriel, who has made a big show of rejecting the lawfulness of both waffle stations and has heaped toppings from Evil and Good on an ambitiously-sized stack of carbohydrates. She grins over at them, but they refuse to acknowledge her antics.
+[Harlan](/characters/harlan/) and [Hermione](/characters/hermione/) have both swiftly assembled plates of pastry and fruit from the continental breakfast buffet and are eating in silence. They stare wordlessly at Galadriel, who has made a big show of rejecting the lawfulness of both waffle stations and has heaped toppings from Evil and Good on an ambitiously-sized stack of carbohydrates. She grins over at them, but they refuse to acknowledge her antics.
 
 “Come on! Lighten up a bit, will you?” she trills.
 
 The call to levity falls flat, however, as the somber sound of distant bells rings out. A few well-dressed humans sipping coffee in the corner put down their cups and begin murmuring and shaking their heads.
 
-“That’ll be it, then,” one says. “That’s Pouru executed.”
+“That’ll be it, then,” one says. “That’s [Pouru](/characters/pouru/) executed.”
 
 “I’ll never believe she was a traitor,” says another. “Something about it all just doesn’t add up.”
 
@@ -41,11 +42,11 @@ The call to levity falls flat, however, as the somber sound of distant bells rin
 
 Still grumbling, Tannin stacks a pile of breakfast meats on his plate and finds a spot away from the others to devour it. Chunk wanders up and down the buffet, murmuring something to himself about how “Waffle Neutral” is probably just a waffle with no toppings on it. Hanamir procures a cup of tea and sits down next to Hermione and Harlan.
 
-“So, you all will head to the Temple of Kord to get advice on the, um, *ursed-cay ard-bay* situation,” Hermione whispers, “and I’ll go to the library to do some research. Meet back at the Half-Full Flagon when we’re done. Plan?” 
+“So, you all will head to the Temple of [Kord](/characters/kord/) to get advice on the, um, *ursed-cay ard-bay* situation,” Hermione whispers, “and I’ll go to the library to do some research. Meet back at the Half-Full Flagon when we’re done. Plan?” 
 
 “Plan,” says Hanamir.
 
-When the adventurers cross the threshold of the Temple of Kord, Deru looks up from her altar and greets them with a wan smile. 
+When the adventurers cross the threshold of the Temple of Kord, [Deru](/characters/deru/) looks up from her altar and greets them with a wan smile. 
 
 “Ah,” she says, and nods at Tannin. “You’re back. Problem with that new hand of yours? A backwards thumb, maybe? That does happen sometimes.”
 
@@ -67,7 +68,7 @@ Tannin flexes his fingers and inspects them one by one.
 
 “Of course,” says Deru, and she ushers him from the nave to a candlelit corner. Their voices diminish to whispers. 
 
-Out of respect, the other adventurers attempt to keep their eyes downcast, with varying levels of success. Galadriel can’t help but peer at the two clerics from the corner of her eye. Are they talking about her? Seems nearly certain that they are. Are they suspicious of her motives? Probably. How dare they—it was the gauntlet! It wasn’t her fault! She doesn’t want Cazna spying on them any more than they do. And Cazna has it out for *her* most of all!
+Out of respect, the other adventurers attempt to keep their eyes downcast, with varying levels of success. Galadriel can’t help but peer at the two clerics from the corner of her eye. Are they talking about her? Seems nearly certain that they are. Are they suspicious of her motives? Probably. How dare they—it was the gauntlet! It wasn’t her fault! She doesn’t want [Cazna](/characters/cazna/) spying on them any more than they do. And Cazna has it out for *her* most of all!
 
 And, in the back of her mind, there’s another thought, and it’s about the gauntlet, and her spider-climbing abilities, and what might happen if Harlan does succeed in removing Lolth’s curse….
 

@@ -1,11 +1,11 @@
 {
     "appearances": [
-        "hanamir",
-        "kord",
-        "hermione",
         "buddy",
         "galadriel",
+        "hanamir",
         "harlan",
+        "hermione",
+        "kord",
         "sanford",
         "tannin"
     ],

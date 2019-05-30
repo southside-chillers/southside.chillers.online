@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "hanamir",
-        "kord",
+        "bryn",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
         "hjun",
-        "bryn"
+        "kord"
     ],
     "appearances_weight": 10,
     "chapter": 1,

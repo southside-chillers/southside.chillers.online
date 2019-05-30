@@ -1,14 +1,14 @@
 {
     "appearances": [
-        "magick",
-        "hanamir",
-        "kord",
-        "fleck",
+        "bryn",
         "buddy",
+        "fleck",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
+        "kord",
+        "magick",
         "shinebright"
     ],
     "appearances_weight": 160,

@@ -1,19 +1,19 @@
 {
     "appearances": [
-        "magick",
-        "feld",
-        "the-savage",
-        "hanamir",
-        "kord",
-        "fleck",
+        "bryn",
         "buddy",
+        "feld",
+        "fleck",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
-        "slee",
+        "kord",
+        "magick",
         "shinebright",
-        "tannin"
+        "slee",
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 150,
     "chapter": 15,

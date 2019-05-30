@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "hanamir",
-        "kord",
         "buddy",
-        "galadriel",
-        "harlan",
-        "eilistraee",
         "cazna",
+        "eilistraee",
+        "galadriel",
+        "hanamir",
+        "harlan",
+        "kord",
         "tannin"
     ],
     "appearances_weight": 100,

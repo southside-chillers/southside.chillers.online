@@ -1,13 +1,13 @@
 {
     "appearances": [
-        "hanamir",
-        "kord",
-        "fleck",
         "buddy",
+        "cazna",
+        "fleck",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "cazna"
+        "kord"
     ],
     "appearances_weight": 120,
     "chapter": 12,

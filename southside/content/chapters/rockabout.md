@@ -1,14 +1,14 @@
 {
     "appearances": [
-        "the-savage",
-        "hanamir",
-        "kord",
-        "hermione",
         "buddy",
         "galadriel",
+        "hanamir",
         "harlan",
+        "hermione",
+        "kord",
         "redyl",
-        "tannin"
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 240,
     "chapter": 24,

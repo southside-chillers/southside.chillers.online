@@ -1,16 +1,16 @@
 {
     "appearances": [
-        "magick",
-        "the-savage",
-        "hanamir",
+        "bryn",
+        "eilistraee",
         "fleck",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "eilistraee",
         "hjun",
-        "bryn",
-        "tannin"
+        "magick",
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 50,
     "chapter": 5,

@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "the-savage",
-        "hanamir",
+        "bryn",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
-        "tannin"
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 40,
     "chapter": 4,

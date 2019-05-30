@@ -1,11 +1,11 @@
 {
     "appearances": [
-        "the-savage",
-        "hanamir",
         "galadriel",
+        "hanamir",
         "harlan",
         "sanford",
-        "tannin"
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 80,
     "chapter": 8,

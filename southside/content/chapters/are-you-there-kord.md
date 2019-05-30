@@ -1,19 +1,19 @@
 {
     "appearances": [
-        "magick",
-        "the-savage",
-        "hanamir",
-        "nyanceth",
-        "kord",
-        "hermione",
+        "bryn",
         "buddy",
         "deru",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
-        "slee",
+        "hermione",
+        "kord",
+        "magick",
+        "nyanceth",
         "redyl",
-        "tannin"
+        "slee",
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 260,
     "chapter": "26: Part I",

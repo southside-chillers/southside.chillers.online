@@ -1,13 +1,13 @@
 {
     "appearances": [
-        "magick",
-        "hanamir",
-        "hermione",
-        "frunk",
-        "pouru",
-        "galadriel",
-        "harlan",
         "bryn",
+        "frunk",
+        "galadriel",
+        "hanamir",
+        "harlan",
+        "hermione",
+        "magick",
+        "pouru",
         "slee",
         "tannin"
     ],
