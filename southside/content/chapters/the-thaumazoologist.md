@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "hanamir",
-        "kord",
         "fleck",
-        "hermione",
         "frunk",
         "galadriel",
-        "harlan"
+        "hanamir",
+        "harlan",
+        "hermione",
+        "kord"
     ],
     "appearances_weight": 170,
     "chapter": 17,

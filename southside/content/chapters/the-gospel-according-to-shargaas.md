@@ -1,11 +1,11 @@
 {
     "appearances": [
-        "hanamir",
-        "khargol",
-        "hermione",
-        "galadriel",
-        "harlan",
         "cazna",
+        "galadriel",
+        "hanamir",
+        "harlan",
+        "hermione",
+        "khargol",
         "tannin"
     ],
     "appearances_weight": 200,

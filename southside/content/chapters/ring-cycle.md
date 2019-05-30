@@ -1,18 +1,18 @@
 {
     "appearances": [
-        "feld",
-        "the-savage",
-        "hanamir",
-        "kord",
-        "fleck",
-        "hermione",
+        "bryn",
         "buddy",
+        "feld",
+        "fleck",
         "frunk",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
+        "hermione",
+        "kord",
+        "shinebright",
         "slee",
-        "shinebright"
+        "the-savage"
     ],
     "appearances_weight": 180,
     "chapter": 18,

@@ -1,13 +1,13 @@
 {
     "appearances": [
-        "hanamir",
-        "hermione",
+        "chunk",
         "galadriel",
+        "hanamir",
         "harlan",
+        "hermione",
+        "kandir",
         "mirama",
         "slee",
-        "chunk",
-        "kandir",
         "tannin"
     ],
     "appearances_weight": 410,

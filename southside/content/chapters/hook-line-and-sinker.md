@@ -1,14 +1,14 @@
 {
     "appearances": [
-        "magick",
-        "the-savage",
-        "hanamir",
         "buddy",
-        "galadriel",
-        "harlan",
         "eilistraee",
+        "galadriel",
+        "hanamir",
+        "harlan",
+        "magick",
         "sanford",
-        "tannin"
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 90,
     "chapter": 9,

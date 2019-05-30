@@ -1,18 +1,18 @@
 {
     "appearances": [
-        "the-savage",
-        "hanamir",
-        "kord",
-        "khargol",
-        "hermione",
+        "bryn",
         "buddy",
         "galadriel",
+        "hanamir",
         "harlan",
-        "bryn",
-        "slee",
-        "redyl",
+        "hermione",
         "kandir",
-        "tannin"
+        "khargol",
+        "kord",
+        "redyl",
+        "slee",
+        "tannin",
+        "the-savage"
     ],
     "appearances_weight": 250,
     "chapter": 25,

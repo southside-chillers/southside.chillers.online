@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "magick",
-        "hanamir",
-        "phil",
-        "hermione",
         "buddy",
         "galadriel",
+        "hanamir",
         "harlan",
+        "hermione",
+        "magick",
+        "phil",
         "tannin"
     ],
     "appearances_weight": 380,

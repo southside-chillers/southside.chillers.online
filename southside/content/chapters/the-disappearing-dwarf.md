@@ -1,12 +1,12 @@
 {
     "appearances": [
-        "magick",
-        "feld",
-        "hanamir",
-        "fleck",
         "buddy",
+        "feld",
+        "fleck",
         "galadriel",
+        "hanamir",
         "harlan",
+        "magick",
         "sanford",
         "tannin"
     ],
