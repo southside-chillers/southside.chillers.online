@@ -221,7 +221,7 @@ Hanamir, Tannin, Galadriel, and Chunk leave the laundry room and huddle outside,
 
 “Something went wrong, and we were only able to recover your body,” Harlan begins. “We’re trying to put this all back together. What happened?”
 
-“Those people who were tracking us found us, and the stupid Amber Guard blew himself up,” rasps the clown. “I was running down the stairs of the safehouse. That’s all I remember.”
+“Those people who were tracking us found us, and the stupid Amber Guard blew himself up,” rasps the clown. “I was running down the stairs of the safe house. That’s all I remember.”
 
 “Some bad news. Goldpeak’s gone dark. What do we do?”
 
