@@ -206,7 +206,7 @@ Hanamir takes a moment to translate this, his brow furrowed.
 
 “I really think ‘wandered away’ is the best translation for what he said, but I can’t tell if he’s being literal or just poetic,” he whispers.
 
-“Either way, the city was cursed, and now it’s gone? So, maybe it’s the city from that book about the three-sided coin?” hisses Harlan. “Though I thought the book said it was a whole *kingdom*…”
+“Either way, the city was cursed, and now it’s gone? So, maybe it’s the city from that book about the three-sided coin?” hisses Harlan. “Though I thought the book said it was a whole *kingdom* …”
 
 Galadriel is transfixed on the dramatic scene between the two dwarves. If she had a bag of popcorn, she’d be shoveling it in her mouth by the handful.
 
