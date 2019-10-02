@@ -80,6 +80,7 @@ Tannin awakens the others as the sun nears (but has not yet begun) its rising. G
 But Hanamir is already dressed and returning his things into his backpack, pleased to get a head start on the morning’s walking.
 
 “If we leave now, we’ll reach the foothills even sooner than expected,” he notes. “What was the dream about, Tannin?”
+
 “I… can’t remember,” he says, staring ahead at the ground.
 
 “Ooh, we’ve got Pensive Tannin today,” says Harlan. He turns to Chunk. “Sometimes he gets like this when he’s had a deep thought.”
