@@ -6,6 +6,7 @@
         "galadriel",
         "hanamir",
         "harlan",
+        "khargol",
         "kord",
         "tannin"
     ],
@@ -85,7 +86,7 @@ Hanamir feels a cold dread settling on his brow and creeping down the sides of h
 
 He clenches and unclenches his fists.
 
-*I was careless with the library books. I failed to protect them. The tuning forks, after all, were inside them, and whatever grim machinations were set in motion when Khargol's goons used them to enter the City of the Dead... all the terrible things that have befallen Ivrend since then... must ultimately be the result of my failure.*
+*I was careless with the library books. I failed to protect them. The tuning forks, after all, were inside them, and whatever grim machinations were set in motion when [Khargol](/characters/khargol/)'s goons used them to enter the City of the Dead... all the terrible things that have befallen Ivrend since then... must ultimately be the result of my failure.*
 
 He hears a soft rustling of cloaks and feels a clammy breath against the back of his neck. 
 
