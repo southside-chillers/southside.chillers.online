@@ -1,6 +1,10 @@
 {
     "appearances": [
-        "hanamir"
+        "chunk",
+        "hanamir",
+        "harlan",
+        "galadriel",
+        "tannin"
     ],
     "appearances_weight": 610,
     "chapter": 61,
