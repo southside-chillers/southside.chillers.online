@@ -4,7 +4,8 @@
         "galadriel",
         "hanamir",
         "harlan",
-        "tannin"
+        "tannin",
+        "thelatha"
     ],
     "appearances_weight": 620,
     "chapter": 62,
@@ -65,7 +66,7 @@ Kolme is not convinced, but at least he’s not going to storm out and rally the
 
 Hanamir surveys the dwarf population. It is large—a really large city with skyscrapers, so much bigger than Aberith or anything else we’ve seen. But a hundred dwarves vs two femorians turned out to be really, really hard. So he’s not thinking their odds would be good if all-out war broke out.
 
-Thelatha is glad to have the king back. The loss of the other prisoners weighs heavily on the survivors but not really on everyone else; they had already been assumed dead long ago. She is disturbed by the idea of going to war with the titans.
+[Thelatha](/characters/thelatha/) is glad to have the king back. The loss of the other prisoners weighs heavily on the survivors but not really on everyone else; they had already been assumed dead long ago. She is disturbed by the idea of going to war with the titans.
 
 Hanamir asks if she has seen any clowns; she replies that she hasn't. He suggests that they move the city (flip the coin) instead of going to war with the titans.
 

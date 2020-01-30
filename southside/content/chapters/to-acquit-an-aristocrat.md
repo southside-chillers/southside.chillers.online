@@ -2,10 +2,14 @@
     "appearances": [
         "chunk",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "kandir",
+        "macgumbo",
         "mirama",
+        "odo",
+        "slurpt",
         "tannin"
     ],
     "appearances_weight": 660,
@@ -17,7 +21,7 @@
 
 # The heist
 
-Per [Mirama](/characters/mirama/)’s request, we are going to infiltrate Goldpeak’s mansion. We're looking for info that might exonerate him, or at least shed more light on his financial dealings that make him public enemy number one. 
+Per [Mirama](/characters/mirama/)’s request, we are going to infiltrate [Goldpeak](/characters/goldpeak/)’s mansion. We're looking for info that might exonerate him, or at least shed more light on his financial dealings that make him public enemy number one. 
 
 There are a handful of guards posted around the grounds, making sure no one messes with the crime scene. We’re familiar enough with this outside area; in [Chapter 48](/chapters/partys-over/), we exited the gala through the garden behind the ballroom. In front, there’s a fountain and a path to the main entrance. The house is three stories tall. We really only know the layout of the first floor—it has a ballroom, a kitchen, and another room we didn’t see.
 
@@ -46,7 +50,7 @@ The others go straight to the ballroom and have no issues getting in. The ballro
 There is nothing on the desk, so they check the drawers and find:
 
 - a few financial documents describing the sale of several artifacts. It's not clear what they are, but seems like some kind of rare art. 
-- But importantly... the sale is to Mr. Odo! This suggests Goldpeak may have been offloading some dangerous or illegal items.
+- But importantly... the sale is to Mr. [Odo](/characters/odo/)! This suggests Goldpeak may have been offloading some dangerous or illegal items.
 - The sum of money is large: tens of thousands of gold. Compared to Goldpeak's wealth, that's not much, but to anyone else, it's a lot.
 - There are several transactions, all of which took place in the last six months. Some were before and some were after the gala.
 - Hanamir takes notes on these documents, but leaves the originals. 
@@ -137,7 +141,7 @@ We bring these items to Mirama.
 
 Hanamir shows her the sketch of the Amber Guardsman.
 
-**Mirama:** Oh yes, I recognize him. This person is in the Amber Guard, and I sometimes see him in attendance at chamber meetings. His name is… Kelas MacGumbo. 
+**Mirama:** Oh yes, I recognize him. This person is in the Amber Guard, and I sometimes see him in attendance at chamber meetings. His name is… Kelas [MacGumbo](/characters/macgumbo/). 
 
 **Hanamir:** What’s he like?
 
@@ -173,7 +177,7 @@ On the paper is an address deep in the Kiln. The implication is that this is whe
 
 # Black Unicorn again
 
-We make our way to the Kiln. The plan is not to go directly to the address on the paper, but to go back to the Black Unicorn first and ask Slurpt for his take.
+We make our way to the Kiln. The plan is not to go directly to the address on the paper, but to go back to the Black Unicorn first and ask [Slurpt](/characters/slurpt/) for his take.
 
 **Hanamir:** What do we know about transmuter stones? Can we sell it to Odo for a favor? How rare are they?
 

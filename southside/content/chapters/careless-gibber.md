@@ -8,6 +8,7 @@
         "galadriel",
         "hanamir",
         "harlan",
+        "istus",
         "kord",
         "magick",
         "shinebright",
@@ -337,12 +338,12 @@ Just as war can be just and unjust, fought for good or evil purpose, there are t
 * **Erythnul** represents destruction, envy, and slaughter
 * **Trithereon** represents liberty and retribution
 
-Likewise, the Tempest domain has a light and dark component.  Both [**Kord](/characters/kord/)** and **Gruumsh** lay claim to storms, and are closely aligned with their war-god counterparts.
+Likewise, the Tempest domain has a light and dark component.  Both **[Kord](/characters/kord/)** and **Gruumsh** lay claim to storms, and are closely aligned with their war-god counterparts.
 
 Unique among the domains of gods is the Knowledge domain in being represented by three gods.
 
 * **Boccob**, the god of magic whose gift has allowed magic to flourish.
-* **Istus**, is the goddess of fate and destiny, her knowledge is neutral, she is only concerned with the fate of the cosmos, not petty squabbles between good and evil.
+* **[Istus](/characters/istus/)**, is the goddess of fate and destiny, her knowledge is neutral, she is only concerned with the fate of the cosmos, not petty squabbles between good and evil.
 * *-page missing-*
 
 And finally the Nature domain. **Obad-Hai** is the god of Nature and **Beory** is thought of by her druidic followers as the avatar of the planet itself.  Their unwillingness to take a side has earned them the ire of their fellow gods.

@@ -5,6 +5,7 @@
         "chunk",
         "eilistraee",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "hermione",
@@ -140,7 +141,7 @@ The echo of Lolth’s laughter bounces off the inside of Galadriel’s skull. Ac
 
 ---
 
-It’s raining when she arrives back in Aberith a second time, and she opts to walk through the substantial puddles toward the Half-Full Flagon instead of Goldpeak’s estate. The gala looked like it was nearing its end, from the glimpse she caught of the scene before being zapped back to Gehenna, so she figures she might as well get into pajamas and wait for the other adventurers in comfort.
+It’s raining when she arrives back in Aberith a second time, and she opts to walk through the substantial puddles toward the Half-Full Flagon instead of [Goldpeak](/characters/goldpeak/)’s estate. The gala looked like it was nearing its end, from the glimpse she caught of the scene before being zapped back to Gehenna, so she figures she might as well get into pajamas and wait for the other adventurers in comfort.
 
 “You made it!” says [Tannin](/characters/tannin/), upon crashing through the door not twenty minutes later. 
 

@@ -2,6 +2,7 @@
     "appearances": [
         "chunk",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "kord",
@@ -57,7 +58,7 @@ He is cut off by a blur from the shadows. As if materializing from nothing, [Han
 
 ---
 
-Back in the ballroom, [Harlan](/characters/harlan/) has pulled Goldpeak aside.
+Back in the ballroom, [Harlan](/characters/harlan/) has pulled [Goldpeak](/characters/goldpeak/) aside.
 
 “Yes?” says Goldpeak, looking faintly exasperated. “I saw the half-elf go off with one of the clowns. Am I released from involvement now?”
 

@@ -2,13 +2,16 @@
     "appearances": [
         "chunk",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "kandir",
         "pouru",
         "redyl",
         "shinebright",
-        "tannin"
+        "slurpt",
+        "tannin",
+        "tord"
     ],
     "appearances_weight": 470,
     "chapter": 47,
@@ -18,7 +21,7 @@
 }
 
 
-It’ll take a week, Goldpeak says, to plan the gala. 
+It’ll take a week, [Goldpeak](/characters/goldpeak/) says, to plan the gala. 
 
 “Can it be carnival-themed?” [Galadriel](/characters/galadriel/) asks breathlessly. “Otherwise, don’t you think the clowns might show up… you know… not dressed as clowns?”
 
@@ -60,7 +63,7 @@ The other adventurers spend their week pursuing various interests around the cit
 
 Galadriel returns for a one-off gig at the Black Unicorn and asks around for helpful information about the art trade in Aberith. 
 
-“Art?” snorts Slurpt Gearix, goblin proprietor at the Unicorn. “Didn’t take you for a fancy lady, Ms. Moonwater.”
+“Art?” snorts [Slurpt](/characters/slurpt/) Gearix, goblin proprietor at the Unicorn. “Didn’t take you for a fancy lady, Ms. Moonwater.”
 
 “It’s a new interest of mine,” Galadriel says, with a sassy shrug. “Anyway, if I were a wealthy art collector, what names might I know?”
 
@@ -68,7 +71,7 @@ Galadriel returns for a one-off gig at the Black Unicorn and asks around for hel
 
 “Perfect, thank you,” says Galadriel. 
 
-Harlan decides now is the time to set Tord up with a job and a home, if he’s amenable to it. 
+Harlan decides now is the time to set [Tord](/characters/tord/) up with a job and a home, if he’s amenable to it. 
 
 “But it’s not in Aberith,” he explains to the former drifter. “Is that all right? It’s out in the country a ways. You’d be helping our friend maintain a lovely estate called [Shinebright](/characters/shinebright/) Tower—chores around the grounds, housework, caring for the sheep. We’d pay you, and you can live there.”
 

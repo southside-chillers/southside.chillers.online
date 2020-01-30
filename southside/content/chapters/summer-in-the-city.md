@@ -12,9 +12,11 @@
         "magick",
         "mirama",
         "nyanceth",
+        "odo",
         "pouru",
         "sanford",
         "slee",
+        "slurpt",
         "tannin"
     ],
     "appearances_weight": 290,
@@ -212,7 +214,7 @@ The hulking shape of a barge looms ahead. Tannin dives deep and swims toward it.
 
 ---
 
-“A full week of performances down, and the crowd’s taken quite a shine to you, Ms. Moonwater,” says Slurpt Gearix, the goblin owner and proprietor of the Black Unicorn, as Galadriel exits stage right down the rickety staircase to the dressing rooms. “How’s it feel?”
+“A full week of performances down, and the crowd’s taken quite a shine to you, Ms. Moonwater,” says [Slurpt](/characters/slurpt/) Gearix, the goblin owner and proprietor of the Black Unicorn, as Galadriel exits stage right down the rickety staircase to the dressing rooms. “How’s it feel?”
 
 “Can’t complain!” Galadriel says with a shrug, wiping the sweat off her forehead with her sleeve. It hasn’t been her best work—she gets a little lazy when she senses the audience is more interested in their drinks than in her—but it’s fun enough, and a week has already flown by.
 
@@ -224,7 +226,7 @@ Galadriel raises an eyebrow. He continues.
 
 In the days that follow, Galadriel arranges several sales: a Sphere of Annihilation to a short wizard in heavy black robes; a set of Iron Bands of Bilarro to a Kenku named Squawker, whom she recognizes as the potential basilisk buyer; and, most concerningly, a Mirror of Life Trapping to a sweaty, shifty-eyed member of the Amber Guard.
 
-The regulars begin to greet her by name, and she wonders if she ought to have used a pseudonym when she started here—it seems to be common practice among the denizens of the Black Unicorn. She hears quite a bit of chatter about the Messenger and his anti-establishment teachings, but learns nothing more about where one might find him. She also learns about “Mr. Odo,” a name usually whispered with trepidation. It sounds to Galadriel like he may be a mob boss, or some other figure of authority in the criminal underground. Either way, he is purported to be brutal when disappointed with his minions.
+The regulars begin to greet her by name, and she wonders if she ought to have used a pseudonym when she started here—it seems to be common practice among the denizens of the Black Unicorn. She hears quite a bit of chatter about the Messenger and his anti-establishment teachings, but learns nothing more about where one might find him. She also learns about “Mr. [Odo](/characters/odo/),” a name usually whispered with trepidation. It sounds to Galadriel like he may be a mob boss, or some other figure of authority in the criminal underground. Either way, he is purported to be brutal when disappointed with his minions.
 
 Galadriel pockets more gold during her first week of moving magical contraband than she has made in whole months of other gigs.
 

@@ -1,11 +1,15 @@
 {
     "appearances": [
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "kandir",
+        "kenoba",
         "kord",
         "mirama",
+        "odo",
+        "oreheart",
         "tannin"
     ],
     "appearances_weight": 670,
@@ -15,7 +19,7 @@
     "title": "A Fright to Behold"
 }
 
-Odo emerges from his mirror-lined hallway, still laughing at us. He takes awhile inspecting us with his many eyes; we feel unsettled and strange under his gaze. Finally, he addresses us.
+[Odo](/characters/odo/) emerges from his mirror-lined hallway, still laughing at us. He takes awhile inspecting us with his many eyes; we feel unsettled and strange under his gaze. Finally, he addresses us.
 
 **Odo:** Who speaks for you?
 
@@ -29,7 +33,7 @@ Odo laughs to himself.
 
 **Odo:** You have something that I want? What could that be?
 
-**Harlan:** You did of course hear of Easton Goldpeak’s fall from grace. We have reason to believe there's more to that story, and we think it would be mutually beneficial if the true perpetrators of the crimes being pinned on him were brought to justice. Besides, Goldpeak was the major trafficker in magical items in this city, so obviously, if he can be brought down, no one is safe…
+**Harlan:** You did of course hear of Easton [Goldpeak](/characters/goldpeak/)’s fall from grace. We have reason to believe there's more to that story, and we think it would be mutually beneficial if the true perpetrators of the crimes being pinned on him were brought to justice. Besides, Goldpeak was the major trafficker in magical items in this city, so obviously, if he can be brought down, no one is safe…
 
 This gets a rise out of Odo. There’s a murmur in the room, like a widespread 'oh no he didn’t!'
 
@@ -51,7 +55,7 @@ He turns back to Odo.
 
 **Harlan:** Perhaps we should retire to more private environs to discuss the terms of a trade. 
 
-Odo gestures to two individuals: a dwarven woman, Oreheart, and a drow male, Kenoba. They lead the way into another room. He gestures with his tentacles for us to follow them. We sit down around a table.
+Odo gestures to two individuals: a dwarven woman, [Oreheart](/characters/oreheart/), and a drow male, [Kenoba](/characters/kenoba/). They lead the way into another room. He gestures with his tentacles for us to follow them. We sit down around a table.
 
 **Harlan:** We are convinced Goldpeak is not the mastermind behind the explosion in the Flats. We won’t insult your intelligence; we know you know that too.
 

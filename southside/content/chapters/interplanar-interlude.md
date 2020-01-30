@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "borgrear",
         "buddy",
         "chunk",
         "galadriel",
@@ -83,7 +84,7 @@ He hands Chunk a simple metal ring, engraved with an equilaterial triangle, as d
 
 “Nice,” says Chunk.
 
-“Why can’t Borgrear do that?” Hanamir murmurs. “He’s a guardian, and he longs to return to the city.”
+“Why can’t [Borgrear](/characters/borgrear/) do that?” Hanamir murmurs. “He’s a guardian, and he longs to return to the city.”
 
 “We could ask him,” says Chunk. “I just turned into a planar shuttle bus.”
 

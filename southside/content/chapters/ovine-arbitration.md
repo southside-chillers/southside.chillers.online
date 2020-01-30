@@ -6,7 +6,8 @@
         "galadriel",
         "hanamir",
         "harlan",
-        "shinebright"
+        "shinebright",
+        "the-messenger"
     ],
     "appearances_weight": 140,
     "chapter": 14,
@@ -227,7 +228,7 @@ Harlan translates.
 
 Shinebright repeats his story faithfully, but sounds guiltier this time. He knows he was a bad teacher.
 
-“All right,” says Harlan, sighing. “So we head to the tower next. What of Guz and his wolves?” The messenger bird has returned and is sitting on Harlan’s shoulder, demanding breadcrumbs. Harlan rummages in the Eternal Hunger satchel and procures a few bread nubbins. The bird eats them and its plumage grows fuller and shinier instantly. It trills happily and flies away.
+“All right,” says Harlan, sighing. “So we head to the tower next. What of Guz and his wolves?” [The messenger](/characters/the-messenger/) bird has returned and is sitting on Harlan’s shoulder, demanding breadcrumbs. Harlan rummages in the Eternal Hunger satchel and procures a few bread nubbins. The bird eats them and its plumage grows fuller and shinier instantly. It trills happily and flies away.
 
 “I guess let’s find out what the wolves really are,” says Galadriel. She takes the collars off the wolves, expecting them to shift back to their original un-polymorphed forms, but nothing happens. She puts one collar around Buddy’s neck and fashions him a little name tag, though, and it’s cute.
 

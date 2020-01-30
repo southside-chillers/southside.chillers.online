@@ -19,7 +19,7 @@ The titans (a.k.a. femorians) lead the party into the mountain with the rabbit c
 
 **Titan king:** Little giant… littler friends… where did you get this fortune?
 
-[**Chunk](/characters/chunk/):** We bring this as an offering of peace. We can give you more of this.
+**[Chunk](/characters/chunk/):** We bring this as an offering of peace. We can give you more of this.
 
 **Titan king:** Why should I not chain you up with the other dwarves?
 
