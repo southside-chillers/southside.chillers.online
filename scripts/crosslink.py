@@ -95,10 +95,8 @@ class Transformer(object):
 
             if "characters/" in link_string:
                 slug = link_string.split("characters/")[1].split("/")[0]
-                try:
+                if slug in self.unseen_slugs:
                     self.unseen_slugs.pop(self.unseen_slugs.index(slug))
-                except ValueError:
-                    pass
 
             self.character_index = self.character_index + len(link_string)
             return
