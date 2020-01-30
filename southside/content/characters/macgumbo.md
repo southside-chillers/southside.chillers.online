@@ -1,8 +1,8 @@
 {
     "class": "Amber Guardsman",
     "description": "",
-    "title": "Macgumbo",
+    "title": "MacGumbo",
     "race": "Human"
 }
 
-Kelas Macgumbo works for the Amber Guard, and seems to be up to no good.
+Kelas MacGumbo works for the Amber Guard, and seems to be up to no good.
