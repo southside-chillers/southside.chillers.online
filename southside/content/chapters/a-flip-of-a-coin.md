@@ -1,9 +1,9 @@
 {
     "appearances": [
         "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
         "tannin"
     ],
     "appearances_weight": 620,
@@ -15,13 +15,13 @@
 
 # Giving the scouts the slip
 
-Tannin and Galadriel, back with the two titan scouts at the river, decide that now is the time to break free. Galadriel casts Suggestion on them. 
+[Tannin](/characters/tannin/) and [Galadriel](/characters/galadriel/), back with the two titan scouts at the river, decide that now is the time to break free. Galadriel casts Suggestion on them. 
 
 **Galadriel:** If you guys can go rip up some trees over in that grove, it’d help us get more tiberium for you.
 
 - This is complete bullshit.
 
-They had been impressed by Tannin’s feat of bravery, so they’re extra-willing to comply. While they are occupied, we arrange evidence of a scuffle at the edge of the riverbank to suggest that we were eaten by the kraken. Once we are out of sight, we catch up with Hanamir. He envelops us in Pass Without Trace, and we're in the clear. 
+They had been impressed by Tannin’s feat of bravery, so they’re extra-willing to comply. While they are occupied, we arrange evidence of a scuffle at the edge of the riverbank to suggest that we were eaten by the kraken. Once we are out of sight, we catch up with [Hanamir](/characters/hanamir/). He envelops us in Pass Without Trace, and we're in the clear. 
 
 Upon returning to the place they left us, the titans see the forged evidence of the kraken conflict. They shrug, and henceforth totally stop caring about us. 
 
@@ -32,7 +32,7 @@ Upon returning to the place they left us, the titans see the forged evidence of 
 
 # Back in the city
 
-After digging out from the tunnel, Chunk and Harlan and the survivors of the battle are out in the middle of nowhere. The surviving dwarves include three guardians. One of these reveals himself to be the king! Together, they teleport back to the Wandering City.
+After digging out from the tunnel, [Chunk](/characters/chunk/) and [Harlan](/characters/harlan/) and the survivors of the battle are out in the middle of nowhere. The surviving dwarves include three guardians. One of these reveals himself to be the king! Together, they teleport back to the Wandering City.
 
 The party is soon reunited, as Galadriel, Tannin, and Hanamir make their way back to the city. 
 

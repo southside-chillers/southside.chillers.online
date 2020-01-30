@@ -1,9 +1,9 @@
 {
     "appearances": [
-        "hanamir",
-        "galadriel",
-        "harlan",
         "chunk",
+        "galadriel",
+        "hanamir",
+        "harlan",
         "tannin"
     ],
     "appearances_weight": 590,

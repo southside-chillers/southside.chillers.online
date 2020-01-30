@@ -95,7 +95,8 @@ class Transformer(object):
 
             if "characters/" in link_string:
                 slug = link_string.split("characters/")[1].split("/")[0]
-                self.unseen_slugs.pop(self.unseen_slugs.index(slug))
+                if slug in self.unseen_slugs:
+                    self.unseen_slugs.pop(self.unseen_slugs.index(slug))
 
             self.character_index = self.character_index + len(link_string)
             return
@@ -250,7 +251,7 @@ def ensure_cross_link(chapter_path, characters):
     character_slugs = [c["slug"] for c in characters]
 
     found_slugs, new_markdown = transform(original_markdown, character_slugs)
-    front_matter["appearances"] = found_slugs
+    front_matter["appearances"] = sorted(found_slugs)
     if front_matter.get("chapter"):
         try:
             front_matter["appearances_weight"] = int(front_matter["chapter"]) * 10

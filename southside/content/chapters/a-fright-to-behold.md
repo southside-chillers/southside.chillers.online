@@ -1,9 +1,11 @@
 {
     "appearances": [
-        "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "kandir",
+        "kord",
+        "mirama",
         "tannin"
     ],
     "appearances_weight": 670,
@@ -17,9 +19,9 @@ Odo emerges from his mirror-lined hallway, still laughing at us. He takes awhile
 
 **Odo:** Who speaks for you?
 
-After some mild deliberation/bickering, we pick Harlan. Odo fixes his full, unnerving gaze at him.
+After some mild deliberation/bickering, we pick [Harlan](/characters/harlan/). Odo fixes his full, unnerving gaze at him.
 
-**Odo:** I see. A former cleric of Kord. But what are you now? 
+**Odo:** I see. A former cleric of [Kord](/characters/kord/). But what are you now? 
 
 **Harlan:** I serve a new god. But my change of religion is obviously not why I’m here. We each have something the other wants: we, as adventurers, have access to information and treasure from across the land. You, a well-connected member of the establishment here, have information and goods that we need. We are here to propose a trade, nothing more. We don’t want to disturb anyone's business. But we do have some important things to obtain.
 
@@ -37,7 +39,7 @@ Odo floats uncomfortably close to Harlan. Harlan stares right back into his larg
 
 **Harlan:** Oh, we went to see him. He was one of our first stops. But his stature in this city has changed, as we all know. I wouldn’t call you a second choice, no, of course not, but...
 
-Galadriel pulls on his sleeve and hisses in his ear.
+[Galadriel](/characters/galadriel/) pulls on his sleeve and hisses in his ear.
 
 **Galadriel:** What are you doing???
 
@@ -61,7 +63,7 @@ An unseen force shakes the table.
 
 **Odo:** I’ll let you know if you’ll leave.
 
-Harl gives a meaningful glance to his companions. Tannin sizes up Oreheart and Kenoba. 
+Harl gives a meaningful glance to his companions. [Tannin](/characters/tannin/) sizes up Oreheart and Kenoba. 
 
 - Oreheart is looking hardy, but rather old for a dwarf. She has standard armor and an axe at her waist.
 - Kenoba is a tall, slender drow. He has no visible weapons and wears a kimono-style robe. 
@@ -72,7 +74,7 @@ Harl gives a meaningful glance to his companions. Tannin sizes up Oreheart and K
 
 **Harlan:** I will defer to my quartermaster… 
 
-He looks meaningfully at Hanamir, who perks up.
+He looks meaningfully at [Hanamir](/characters/hanamir/), who perks up.
 
 **Hanamir:** We can offer you a transmuter stone and an enchanted longsword of cold.
 
@@ -159,11 +161,11 @@ He turns to Tannin suddenly.
 
 **Odo:** I don’t think the AML is as big a threat to me as the council.
 
-**Galadriel:** I don’t think the council has a problem with you at all. Mirama has told us this—she considers the black market trade beneath her paygrade.
+**Galadriel:** I don’t think the council has a problem with you at all. [Mirama](/characters/mirama/) has told us this—she considers the black market trade beneath her paygrade.
 
 **Odo:** Mirama is a practitioner of justice, and I don’t feel an urgent need to replace her. She’s fine. Now the Minister of Trade, on the other hand…
 
-**Galadriel:** We have reason to believe Kandir and the AML might actually be the same thing. Or the AML and he are working in clsoe contact. So those enemies actually might be the same one.
+**Galadriel:** We have reason to believe [Kandir](/characters/kandir/) and the AML might actually be the same thing. Or the AML and he are working in clsoe contact. So those enemies actually might be the same one.
 
 **Odo:** Then kill Kandir.
 
