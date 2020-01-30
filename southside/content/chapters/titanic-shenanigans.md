@@ -4,7 +4,8 @@
         "galadriel",
         "hanamir",
         "harlan",
-        "tannin"
+        "tannin",
+        "thelatha"
     ],
     "appearances_weight": 600,
     "chapter": 60,
@@ -27,11 +28,11 @@ We talk about our strategy: do we create an illusion to manipulate the giants be
 
 After [Chunk](/characters/chunk/) translates this, the party discusses:
 
-[**Galadriel**](/characters/galadriel/): Uh oh. What if the king turned into a meanlock, driven mad by fear? Did we just kill the king?
+**[Galadriel**](/characters/galadriel/): Uh oh. What if the king turned into a meanlock, driven mad by fear? Did we just kill the king?
 
-[**Harlan**](/characters/harlan/): Let’s not capoeira to conclusions.
+**[Harlan**](/characters/harlan/): Let’s not capoeira to conclusions.
 
-[**Tannin**](/characters/tannin/): What do we wanna know about the titans? Fears, motivations?
+**[Tannin**](/characters/tannin/): What do we wanna know about the titans? Fears, motivations?
 
 **Galadriel:** I wonder how they’ll react if they think the kraken is near?
 
@@ -153,7 +154,7 @@ At the quarry, we see lots of tiberium. 20-30% of the crystals glow a bluish col
 
 # Palace plans
 
-We return to the palace to find Thelatha, and Chunk gives her the udpate. She is disappointed we didn't find the king. But we do tell her about Chunk being taken prisoner and leading toward their home, and their unusual reaction to the outcropping of tiberium. 
+We return to the palace to find [Thelatha](/characters/thelatha/), and Chunk gives her the udpate. She is disappointed we didn't find the king. But we do tell her about Chunk being taken prisoner and leading toward their home, and their unusual reaction to the outcropping of tiberium. 
 
 - We advise removing it from the city (or maybe using it to bargain for the king’s freedom if they have him…) 
 

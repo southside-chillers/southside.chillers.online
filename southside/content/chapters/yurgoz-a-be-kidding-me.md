@@ -5,6 +5,7 @@
         "chunk",
         "eilistraee",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "tannin"
@@ -214,7 +215,7 @@ The boys, upon unshackling the fox man and watching him disappear into a swirlin
 
 “Yeah, I’ll be pissed if we gave away the Bread of Eternal Hunger for nothing,” says Tannin. He pounds his recently-regenerated fist into his other palm.
 
-“Why don’t we head back to the gala?” says Hanamir. “We should thank Goldpeak for holding up his end of the bargain.”
+“Why don’t we head back to the gala?” says Hanamir. “We should thank [Goldpeak](/characters/goldpeak/) for holding up his end of the bargain.”
 
 They trudge back across the meadow toward Goldpeak’s lesser mansion. The fog cloud Harlan conjured by the door from the garden to the ballroom is mostly dissipated, but a chilly humidity still rests over the area. As they approach, they can hear Goldpeak yelling indistinctly from inside the ballroom.
 

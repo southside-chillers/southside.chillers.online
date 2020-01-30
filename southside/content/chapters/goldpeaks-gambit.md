@@ -2,13 +2,15 @@
     "appearances": [
         "chunk",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
         "hermione",
         "mirama",
         "pouru",
         "slee",
-        "tannin"
+        "tannin",
+        "tord"
     ],
     "appearances_weight": 460,
     "chapter": 46,
@@ -111,7 +113,7 @@ In the morning, they gather in Mirama’s kitchen over cups of coffee to discuss
 
 “Am I in it?” asks Chunk.
 
-“No,” says Hermione. “Anyway… I’m going to go back to the Half-Full Flagon and gather my things. I hope that weirdo Tord hasn’t gotten into my elven mead.”
+“No,” says Hermione. “Anyway… I’m going to go back to the Half-Full Flagon and gather my things. I hope that weirdo [Tord](/characters/tord/) hasn’t gotten into my elven mead.”
 
 And with that, as suddenly as she’d joined the party, Hermione was gone.
 
@@ -123,7 +125,7 @@ They clamber downstairs into the basement. Galadriel dons her eyepatch again, ju
 
 “Yeah, answer the lady, or else,” says Tannin. He’s using his gruff voice, but he’s a little too eager. “Remember me?”
 
-“Yes, and I suppose it’s no use lying to you all,” says the man. “My name is Easton Goldpeak.”
+“Yes, and I suppose it’s no use lying to you all,” says the man. “My name is Easton [Goldpeak](/characters/goldpeak/).”
 
 “Oh,” says Tannin, sharing a surprised glance with Galadriel. “I didn’t think you’d tell us.”
 

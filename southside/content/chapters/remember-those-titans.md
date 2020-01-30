@@ -4,7 +4,8 @@
         "galadriel",
         "hanamir",
         "harlan",
-        "tannin"
+        "tannin",
+        "thelatha"
     ],
     "appearances_weight": 590,
     "chapter": 59,
@@ -15,13 +16,13 @@
 
 # Plan pitches
 
-The party joins [Chunk](/characters/chunk/) in the guardians' quarters after his conversation with Thelatha. 
+The party joins [Chunk](/characters/chunk/) in the guardians' quarters after his conversation with [Thelatha](/characters/thelatha/). 
 
 [Hanamir](/characters/hanamir/) pitches an idea: “So we wrap [Tannin](/characters/tannin/) in a robe and present him to the people. 'The king has returned!'”
 
 - Will this be believable? What did the king look like?
 
-[**Galadriel**](/characters/galadriel/): We say, "The king’s back! He went on a really long walk… in the ocean. He came back with a trident… and… he’s younger?"
+**[Galadriel**](/characters/galadriel/): We say, "The king’s back! He went on a really long walk… in the ocean. He came back with a trident… and… he’s younger?"
 
 **Chunk:** "We have disguises! We could make it work."
 

@@ -1,12 +1,14 @@
 {
     "appearances": [
+        "borgrear",
         "buddy",
         "chunk",
         "galadriel",
         "hanamir",
         "harlan",
         "slee",
-        "tannin"
+        "tannin",
+        "thelatha"
     ],
     "appearances_weight": 580,
     "chapter": 58,
@@ -25,7 +27,7 @@ In the morning, [Buddy](/characters/buddy/) is gone. [Galadriel](/characters/gal
 
 Chunk shrugs. A night of sleep has helped everyone—no one looks quite as close to their eternal reward as they did last night—but Chunk’s understanding of his new lifetime duty still seems fuzzy.
 
-“You ready to go, Borgrear?” says [Tannin](/characters/tannin/).
+“You ready to go, [Borgrear](/characters/borgrear/)?” says [Tannin](/characters/tannin/).
 
 “I still don’t understand,” says Borgrear. “How? How are you able to take us to the city?”
 
@@ -147,7 +149,7 @@ Chunk relies on the intuitive power of his guardian ring to lead them through th
 
 A lone dwarf woman with braided hair and well-tailored robes appears in the open arched doorway. 
 
-“Hail and well met,” she says. Her voice is sober and low-pitched. “I am Thelatha. I manage the palace.”
+“Hail and well met,” she says. Her voice is sober and low-pitched. “I am [Thelatha](/characters/thelatha/). I manage the palace.”
 
 “Hail and well met,” Hanamir repeats, offering a modest bow. “We are visitors to your beautiful city, Thelatha, and we come with an urgent message for—” He stops himself. “For whoever’s in charge.”
 

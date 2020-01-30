@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "borgrear",
         "buddy",
         "cazna",
         "chunk",
@@ -164,7 +165,7 @@ The figures, in eerie unison, each disappear and reappear behind their original 
 
 Galadriel shoots an arrow at Tannin's monster and hits it in the neck. Its form seems to flicker for a moment, and then becomes slightly translucent. Tannin sees this but finds no comfort. In fact, he realizes that his own life is probably meaningless. He accepts this thought as soon as it enters his mind.
 
-*I'm going to end up like old Borgrear*, Tannin thinks. *Living without a tribe, out in the wilderness. He'll die alone, and so will I. I'll be the last McBitters... the last Snowmantle. Without a clan, what does any of this mean? Who am I doing this for?*
+*I'm going to end up like old [Borgrear](/characters/borgrear/)*, Tannin thinks. *Living without a tribe, out in the wilderness. He'll die alone, and so will I. I'll be the last McBitters... the last Snowmantle. Without a clan, what does any of this mean? Who am I doing this for?*
 
 He sighs deeply, shrugs his shoulders, and decides he might as well hit some goon in the face anyway. He's good at that: compartmentalizing his anguish when there's a bad guy to be fought and a battle to be won. He stabs Hanamir's monster square in the gut with his trident.
 

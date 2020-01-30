@@ -9,7 +9,8 @@
         "hermione",
         "kord",
         "pouru",
-        "tannin"
+        "tannin",
+        "tord"
     ],
     "appearances_weight": 440,
     "chapter": 44,
@@ -104,7 +105,7 @@ It’s hard to say who among the party, seated together near the bar, reacts fir
 
 The clown—sporting green and white face paint, rather than the red and blue of Pouru’s contact, Number Six—is flanked by two hulking individuals who appear to be his bodyguards, along with several average-sized human men. They sit down at a table close to a corner, within earshot of where Hanamir stands, watching and listening.
 
-“Hey,” Harlan whispers to Tord, who has taken to tagging along with Harlan on their nights out. “Do you recognize any of those guys? The ones who just came in, with that clown?”
+“Hey,” Harlan whispers to [Tord](/characters/tord/), who has taken to tagging along with Harlan on their nights out. “Do you recognize any of those guys? The ones who just came in, with that clown?”
 
 Tord cranes his neck to look at them. It’s not subtle.
 

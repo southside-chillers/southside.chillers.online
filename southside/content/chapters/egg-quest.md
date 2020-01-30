@@ -7,7 +7,11 @@
         "galadriel",
         "hanamir",
         "harlan",
-        "tannin"
+        "nim",
+        "nizana",
+        "odo",
+        "tannin",
+        "the-messenger"
     ],
     "appearances_weight": 680,
     "chapter": 68,
@@ -20,17 +24,17 @@
 
 We are given a map and directions to a cave, said to be the site of a manticore den. It’s back in the direction of Eillin, south of Aberith.
 
-We discuss whether or not stealing manticore eggs is technically poaching, and whether Odo is operating a manticore fighting ring, or what. We decide that's none of our business.
+We discuss whether or not stealing manticore eggs is technically poaching, and whether [Odo](/characters/odo/) is operating a manticore fighting ring, or what. We decide that's none of our business.
 
 ---
 
-# Nim and Nizana
+# [Nim](/characters/nim/) and [Nizana](/characters/nizana/)
 
 On the road, we run into two people we recognize. They are Nim and Nizana, a drow father and son who speak heavily Undercommon-accented Common. Last time we ran into them, they told us about the Messenger. They’re again heading to Aberith. They recognize us.
 
 **Nim:** G’day mates. Didn’t think we’d see you all again. 
 
-[**Tannin](/characters/tannin/):** Crikey! Good to see you both. You’ve never met this bloke, have you?
+**[Tannin](/characters/tannin/):** Crikey! Good to see you both. You’ve never met this bloke, have you?
 
 He gestures toward [Chunk](/characters/chunk/), whom they indeed have not met. They take a step back.
 
@@ -44,17 +48,17 @@ He gestures toward [Chunk](/characters/chunk/), whom they indeed have not met. T
 
 **Nim:** Clowns?
 
-[**Galadriel](/characters/galadriel/):** Yes, with face paint on, and robes.
+**[Galadriel](/characters/galadriel/):** Yes, with face paint on, and robes.
 
 **Nim:** We’ve just been out here spreading the word, no clowns.
 
-[**Harlan](/characters/harlan/):** The word of the Messenger?
+**[Harlan](/characters/harlan/):** The word of the Messenger?
 
 **Nim:** Yes, that’s roight.
 
 **Harlan:** And what is the good word?
 
-**Nim:** Well, it’s just that the gods, they’ve tried to trick us. The Messenger is aware of the truth of their deceit. We’re just out here trying to get people to wake up to that.
+**Nim:** Well, it’s just that the gods, they’ve tried to trick us. [The Messenger](/characters/the-messenger/) is aware of the truth of their deceit. We’re just out here trying to get people to wake up to that.
 
 **Tannin:** Have you spread the word in that cave? That’s where we’re heading now. Maybe there’s a settlement or something.
 

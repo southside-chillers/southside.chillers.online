@@ -6,7 +6,8 @@
         "harlan",
         "hermione",
         "mirama",
-        "tannin"
+        "tannin",
+        "tord"
     ],
     "appearances_weight": 450,
     "chapter": 45,
@@ -147,7 +148,7 @@ But in this moment? Tannin’s gonna dance with the clown that brung him.
 
 “RRRAAAAAAAAAARGHHHH!!!” he bellows, and launches his trident with all of his might at the green clown. It impales him. Before the clown can even look up in shock, he is flat on the floor, looking pretty decisively deceased. 
 
-“Nice,” says Tannin. He walks over to check his work (and retrieve his trident). It’s true: the green-and-white clown, the one who was set to deliver payment to Tord after the explosion in the Flats, and who appeared with a posse at the Black Unicorn just tonight, has shuffled *hard* off this mortal coil.
+“Nice,” says Tannin. He walks over to check his work (and retrieve his trident). It’s true: the green-and-white clown, the one who was set to deliver payment to [Tord](/characters/tord/) after the explosion in the Flats, and who appeared with a posse at the Black Unicorn just tonight, has shuffled *hard* off this mortal coil.
 
 “Cool,” Tannin reiterates. 
 

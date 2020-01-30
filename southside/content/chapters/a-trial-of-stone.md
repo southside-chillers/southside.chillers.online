@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "borgrear",
         "chunk",
         "galadriel",
         "hanamir",
@@ -15,7 +16,7 @@
 
 “We’ll use the doors, all right,” [Tannin](/characters/tannin/) says. “And we’ll walk in the field, too, if we want to.”
 
-“Yes, yes,” says Borgrear. “Suit yourself, young McBitters.”
+“Yes, yes,” says [Borgrear](/characters/borgrear/). “Suit yourself, young McBitters.”
 
 Tannin stalks purposefully over to a door and wrenches it open. A broom falls and hits him in the face.
 

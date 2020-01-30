@@ -1,11 +1,19 @@
 {
     "appearances": [
+        "brisco",
         "buddy",
+        "chris",
         "chunk",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
+        "kaz",
+        "left-eye",
         "mirama",
+        "odo",
+        "old-toby",
+        "oreheart",
         "tannin"
     ],
     "appearances_weight": 690,
@@ -37,7 +45,7 @@ Harlan checks the scroll to see if any new words showed up after their fight, bu
 
 Hanamir goes back into the cave to look for treasure. The manticore den is mostly bones; there are some humanoid bones among the detritus. Next to them, there's a bag containing 300 gold! Nice. There are also large pieces of manticore and wyvern we could harvest. Hanamir thinks some of this might sell. Chunk advises that the heads will probably be the most valuable for use in folk remedies. Harlan also cuts off a claw from the wyvern he killed as a keepsake (dark!). 
 
-Tannin holds the eggs tenderly in his arms as the party makes its way back toward Aberith. He takes an affinity to the one with the arrhythmia, and names it "Tannindor the manticore." He wants to come back and free it from Odo someday. 
+Tannin holds the eggs tenderly in his arms as the party makes its way back toward Aberith. He takes an affinity to the one with the arrhythmia, and names it "Tannindor the manticore." He wants to come back and free it from [Odo](/characters/odo/) someday. 
 
 “We’ll have a lot fun together someday, you and me,” he whispers to it. 
 
@@ -47,7 +55,7 @@ This affection is contagious, apparently. We discuss keeping Tannindor and only 
 
 # An attempted swindle
 
-We're used to the routine at Odo's HQ this time. A cadre of ne'er-do-wells ushers us in, makes us wait, and get in our faces a little bit before we're greeted by Magnella Oreheart, the female dwarf we met last time. She takes us to a private room.
+We're used to the routine at Odo's HQ this time. A cadre of ne'er-do-wells ushers us in, makes us wait, and get in our faces a little bit before we're greeted by Magnella [Oreheart](/characters/oreheart/), the female dwarf we met last time. She takes us to a private room.
 
 **Oreheart:** I take it you have the eggs?
 
@@ -77,7 +85,7 @@ He sits down and leans back in the chair, crossing his arms. Catching the vibe, 
 
 She tosses a small bag of gold onto the table.
 
-**Harlan:** I’m assuming this isn’t the agreed-upon information about Goldpeak?
+**Harlan:** I’m assuming this isn’t the agreed-upon information about [Goldpeak](/characters/goldpeak/)?
 
 **Oreheart:** No, this is a tip. From me.
 
@@ -163,7 +171,7 @@ Tannin collects the bribe and the advance. Odo chuckles to himself.
 
 **Tannin:** So what are we dealing with here?
 
-**Odo:** His name is Kaz.
+**Odo:** His name is [Kaz](/characters/kaz/).
 
 He pauses, maybe for dramatic effect.
 
@@ -189,7 +197,7 @@ Before sleep, Galadriel scans the air psychically for [Buddy](/characters/buddy/
 
 In the morning, Chunk has an epiphany: he remembers that one of the symbols on the Messenger scroll means “children”!!!! It’s like a memory, like maybe he saw the symbol somewhere somehow and had just forgotten about it temporarily. We theorize that this symbol came to him because he is now a parent to Tannindor. 
 
-Hanamir goes to the half-orc monastery and gives Left Eye 100 gold to keep the place running, which will go a long way. There's no news from them right now, though. Things in the city have settled down after it was clear there'd be no more attacks. The public genuinely accepts that Goldpeak is the culprit. There are conspiracy theorists, but broadly this seems like it makes sense to people. Nothing has been heard so far from the sending stone, either.
+Hanamir goes to the half-orc monastery and gives [Left Eye](/characters/left-eye/) 100 gold to keep the place running, which will go a long way. There's no news from them right now, though. Things in the city have settled down after it was clear there'd be no more attacks. The public genuinely accepts that Goldpeak is the culprit. There are conspiracy theorists, but broadly this seems like it makes sense to people. Nothing has been heard so far from the sending stone, either.
 
 ---
 
@@ -221,7 +229,7 @@ Galadriel glances at Hanamir and Chunk.
 
 **Galadriel:** Who are your men?
 
-**Mirama:** Brisco... and... Chris.
+**Mirama:** [Brisco](/characters/brisco/)... and... [Chris](/characters/chris/).
 
 **Galadriel:** Okay.
 
@@ -233,7 +241,7 @@ Galadriel glances at Hanamir and Chunk.
 
 **Harlan:** Who would know everyone in the neighborhood? Who’s the biggest gossip?
 
-**Mirama:** Well, there’s Old Toby. He's always there drinking at the Prismatic Inn.
+**Mirama:** Well, there’s [Old Toby](/characters/old-toby/). He's always there drinking at the Prismatic Inn.
 
 **Galadriel:** Oh yeah, that place! We stayed there after the Sky Arrow attack.
 

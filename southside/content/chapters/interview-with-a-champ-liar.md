@@ -9,8 +9,11 @@
         "hermione",
         "kandir",
         "mirama",
+        "odo",
         "pouru",
-        "tannin"
+        "tannin",
+        "the-messenger",
+        "tord"
     ],
     "appearances_weight": 430,
     "chapter": 43,
@@ -43,7 +46,7 @@ The adventurers wait, in silence, for her to continue.
 
 “Or a court jester of some kind, yes,” says Pouru.
 
-“Okay, we’ve seen a clown,” says Harlan. “He walked into the Outcast to meet Tord after the explosion, and immediately walked out, looked spooked, and [Chunk](/characters/chunk/) followed him to the Upstanding Gentleman—”
+“Okay, we’ve seen a clown,” says Harlan. “He walked into the Outcast to meet [Tord](/characters/tord/) after the explosion, and immediately walked out, looked spooked, and [Chunk](/characters/chunk/) followed him to the Upstanding Gentleman—”
 
 “Explosion?” interrupts Pouru. 
 
@@ -79,7 +82,7 @@ She casts some glances around her cell, filthy and unkempt.
 
 “Does the AML have a connection to a person known as the Messenger, who preaches against the gods?” asks Hermione. “His message has an anti-magic bent to it, if I remember correctly.”
 
-“None that I know of,” says Pouru. “The Messenger and his followers are very secretive, but the AML is a recognized political group within the city. They post fliers for their meetings. I’m sure you’ve seen them. They’re all over the… the Flats…”
+“None that I know of,” says Pouru. “[The Messenger](/characters/the-messenger/) and his followers are very secretive, but the AML is a recognized political group within the city. They post fliers for their meetings. I’m sure you’ve seen them. They’re all over the… the Flats…”
 
 Her voice grows quiet.
 
@@ -135,7 +138,7 @@ The adventurers wait. Pouru’s mouth hangs open in confusion.
 
 “Don’t worry about it,” says Galadriel.
 
-“Ah, speaking of payoffs,” says Hanamir, “what do you know of Mr. Odo?”
+“Ah, speaking of payoffs,” says Hanamir, “what do you know of Mr. [Odo](/characters/odo/)?”
 
 “Oh,” says Pouru. “Yes, Odo is well-known to the authorities. Relatively low-level. He operates a substantial amount of the smuggling into the city. We tend to look the other way.”
 

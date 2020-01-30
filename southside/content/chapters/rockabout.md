@@ -6,8 +6,11 @@
         "harlan",
         "hermione",
         "kord",
+        "nim",
+        "nizana",
         "redyl",
         "tannin",
+        "the-messenger",
         "the-savage"
     ],
     "appearances_weight": 240,
@@ -171,7 +174,7 @@ The drow continue in heavily Undercommon-accented Common.
 
 “To Aberith,” says Galadriel. “A first visit for us all.”
 
-“Ah, yis! Ebberith. We just came from thet way. Now hidded off on a bit of a walkabout, up to the mountains. Oi’m Nim, by the way. And this is my son, Nizana.”
+“Ah, yis! Ebberith. We just came from thet way. Now hidded off on a bit of a walkabout, up to the mountains. Oi’m [Nim](/characters/nim/), by the way. And this is my son, [Nizana](/characters/nizana/).”
 
 “Wonderful to meet you both,” says Harlan. “You know, we couldn’t help but overhear that your son might have gotten up to a bit of trouble with the gods…?”
 
@@ -199,7 +202,7 @@ Nim glances at her gauntlet.
 
 “They call him the Missinger, and he’ll sit you straight all roight, mate,” says Nim. He nudges Nizana again. “Think—wot if when he was a baby, I gave him a loaded crossbow and walked away? Oi’d be a tirrible parent. That’s wot the gods’ve done! Gave us all this meggic, then left us to kill each other with it!”
 
-“The Messenger, all right, thank you,” says Galadriel. “We’ll look out for him when we get to the city.”
+“[The Messenger](/characters/the-messenger/), all right, thank you,” says Galadriel. “We’ll look out for him when we get to the city.”
 
 “If you esk around, you’ll foind him,” says Nim. “Safe trevels, then!”
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "borgrear",
         "cazna",
         "chunk",
         "galadriel",
@@ -97,7 +98,7 @@ Tannin points ahead to a wooden sign inscribed with Dwarvish letters.
 
 Tannin says nothing, but Hanamir, who took three years of Dwarvish at Drephis State, translates.
 
-“It says, ‘Estate of Borgrear Snowmantle,’” he says. “Who’s that? Do you know him, Tannin?”
+“It says, ‘Estate of [Borgrear](/characters/borgrear/) Snowmantle,’” he says. “Who’s that? Do you know him, Tannin?”
 
 “Maybe,” says Tannin.
 

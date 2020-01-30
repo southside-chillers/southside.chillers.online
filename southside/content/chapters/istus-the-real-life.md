@@ -4,14 +4,19 @@
         "chunk",
         "deru",
         "galadriel",
+        "goldpeak",
         "hanamir",
         "harlan",
+        "istus",
         "kandir",
         "kord",
+        "left-eye",
         "mirama",
         "nyanceth",
+        "odo",
         "pouru",
         "slee",
+        "slurpt",
         "tannin"
     ],
     "appearances_weight": 650,
@@ -49,15 +54,15 @@ In a few minutes, Vedit arrives. (Jao Vedit is the head of the Amber Guard, and 
 
 **Vedit:** I cannot comment on the ongoing investigation. We’re being especially cautious.  We can let you into the city, but we can’t get you an audience with the king right now.
 
-[**Harlan](/characters/harlan/):** Understood. Would it be possible for us to speak with others on the council? Mr. Kandir or Ms. [Mirama](/characters/mirama/)?
+**[Harlan](/characters/harlan/):** Understood. Would it be possible for us to speak with others on the council? Mr. Kandir or Ms. [Mirama](/characters/mirama/)?
 
 **Vedit:** Potentially. Mr. Kandir is quite busy with the investigation at the moment, but Ms. Mirama might be able to speak to you.
 
-[**Tannin](/characters/tannin/):** That’s good enough for me. Let’s go.
+**[Tannin](/characters/tannin/):** That’s good enough for me. Let’s go.
 
 **Galadriel:** Yes, thank you very much.
 
-[**Chunk](/characters/chunk/):** The city is on lockdown… does that mean martial law? 
+**[Chunk](/characters/chunk/):** The city is on lockdown… does that mean martial law? 
 
 - No, it's not that strict, but comings and goings are monitored.
 - There's no fighting in the streets or rioting or anything.
@@ -65,7 +70,7 @@ In a few minutes, Vedit arrives. (Jao Vedit is the head of the Amber Guard, and 
 
 Tannin gets up next to Vedit as he leads us through the gates of the city.
 
-**Tannin:** So, is it Goldpeak?
+**Tannin:** So, is it [Goldpeak](/characters/goldpeak/)?
 
 Jao grabs him, wide-eyed.
 
@@ -89,7 +94,7 @@ We assure him we won't, and that we're happy to talk whenever he's ready to loop
 
 **Galadriel:** Well, he was *going* to be involved with the clowns, but he backed out from financing their mission for the three-sided coin. He could've been playing us, but my instinct says he's innocent.
 
-[**Hanamir](/characters/hanamir/):** Yes. He's their fall guy, because he backed out of the deal.
+**[Hanamir](/characters/hanamir/):** Yes. He's their fall guy, because he backed out of the deal.
 
 **Harlan:** Sounds like we need to investigate.
 
@@ -101,7 +106,7 @@ We assure him we won't, and that we're happy to talk whenever he's ready to loop
 
 Upon entering the city, we first go to the bait and tackle shop in the Kiln underneath which is the secret half-orc monastery Hanamir founded. It's yet more evidence of a longer time shift than expected: the monastery is thriving. It's operating as a sort of spy network of half-orc youths with newfound martial arts training; it's a real fight club.
 
-Hanamir finds his lieutenant, a one-eyed fisherwoman named Left Eye (her right eye was stabbed out in a fishing accident), and asks her for an update.
+Hanamir finds his lieutenant, a one-eyed fisherwoman named [Left Eye](/characters/left-eye/) (her right eye was stabbed out in a fishing accident), and asks her for an update.
 
 **Left Eye:** As you know, things were tense in the city for a long time after the explosion. The dam broke two weeks ago when there was a big spectacle made of arresting Goldpeak. The army surrounded his manor. For such a dangerous man, he seemed fairly caught off guard by it all. Everyone was hoping for a big showdown, but he was dragged out of his house in manacles. The Amber Guard put a protective shield around him so he couldn’t cast any spells—they're assuming he's a powerful mage. He's charged with using magic to destroy the Flats, as well as of facilitating a plot to overthrow King Slee.
 
@@ -121,7 +126,7 @@ Left Eye nods.
 
 ---
 
-# ...or Istus Just Fantasy?
+# ...or [Istus](/characters/istus/) Just Fantasy?
 
 We then go in search of a temple of Istus. There’s a small Istus temple on the northern side of the city. It's the nice part of town, but this temple is a modest place given that it serves one of the higher deities in the pantheon. It’s filled with books—Hanamir loves it—and it’s more like a fancy library than to a typical temple. Harlan finds it peculiar, since he’s used to the lavish cathedrals of [Kord](/characters/kord/).
 
@@ -254,7 +259,7 @@ She suddenly looks nervous. Galadriel winks at her.
 
 # Black Unicorn
 
-We go to the Black Unicorn to talk to its proprietor, a goblin named Slurpt Gearix. He says that the crackdown on magical goods is strong as ever, and one person aggrieved by this is Mr. Odo, the underground crime boss. Odo resents that Goldpeak is getting the credit for the city's major black market crimes. That's not to say that he envies Goldpeak's position right now, but he does want to be the most feared man in Aberith, and this situation has catapulted a new person into the role of Biggest Bad.
+We go to the Black Unicorn to talk to its proprietor, a goblin named [Slurpt](/characters/slurpt/) Gearix. He says that the crackdown on magical goods is strong as ever, and one person aggrieved by this is Mr. [Odo](/characters/odo/), the underground crime boss. Odo resents that Goldpeak is getting the credit for the city's major black market crimes. That's not to say that he envies Goldpeak's position right now, but he does want to be the most feared man in Aberith, and this situation has catapulted a new person into the role of Biggest Bad.
 
 **Galadriel:** Have you seen any more Amber Guardsmen down here?
 

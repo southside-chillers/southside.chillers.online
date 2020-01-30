@@ -10,7 +10,8 @@
         "mirama",
         "pouru",
         "shinebright",
-        "tannin"
+        "tannin",
+        "tord"
     ],
     "appearances_weight": 420,
     "chapter": 42,
@@ -36,7 +37,7 @@
 
 “What is your name?”
 
-“My name is Tord,” says the man. “I swear, I don’t even know who hired us—”
+“My name is [Tord](/characters/tord/),” says the man. “I swear, I don’t even know who hired us—”
 
 “We have no desire to kill you,” says Harlan. “You can walk away from this if you give us all the information you have about the disaster that just took place here.”
 

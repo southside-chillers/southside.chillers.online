@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "borgrear",
         "buddy",
         "chunk",
         "eilistraee",
@@ -7,7 +8,8 @@
         "hanamir",
         "harlan",
         "kord",
-        "tannin"
+        "tannin",
+        "thelatha"
     ],
     "appearances_weight": 630,
     "chapter": 63,
@@ -20,7 +22,7 @@
 
 We are in the Shadowfell, and there is a winged thing flying around above us. 
 
-[**Galadriel](/characters/galadriel/):** Well, this could be good or bad. Remember Borgrear’s one creepy-looking Shadowfell dog? He was nice. And maybe it’s a dragon! Maybe I can bond with it over knowing [Buddy](/characters/buddy/). Like, 'You a dragon? I know a dragon.'
+**[Galadriel](/characters/galadriel/):** Well, this could be good or bad. Remember [Borgrear](/characters/borgrear/)’s one creepy-looking Shadowfell dog? He was nice. And maybe it’s a dragon! Maybe I can bond with it over knowing [Buddy](/characters/buddy/). Like, 'You a dragon? I know a dragon.'
 
 Can we see anything? 
 
@@ -33,7 +35,7 @@ The darkness here is *unusual*. [Harlan](/characters/harlan/) has a particularly
 
 **Galadriel:** So this creature is intelligent, since it understands the artificial boundary.
 
-[**Tannin](/characters/tannin/):** Or it’s just an animal that doesn’t want to be around people.
+**[Tannin](/characters/tannin/):** Or it’s just an animal that doesn’t want to be around people.
 
 **Hanamir:** So what’s our plan? Stay in the Shadowfell?
 
@@ -41,7 +43,7 @@ The darkness here is *unusual*. [Harlan](/characters/harlan/) has a particularly
 
 **Harlan:** We know that the clowns have the ability to get here. Is it safer with us than here? Did we get a definitive answer on the protocols surrounding the coin?
 
-[**Chunk](/characters/chunk/):** Let’s talk to Thelatha again and see about another coin flip.
+**[Chunk](/characters/chunk/):** Let’s talk to [Thelatha](/characters/thelatha/) again and see about another coin flip.
 
 ---
 

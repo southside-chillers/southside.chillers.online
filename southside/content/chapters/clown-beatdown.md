@@ -1,13 +1,17 @@
 {
     "appearances": [
+        "borgrear",
         "chunk",
         "galadriel",
         "hanamir",
         "harlan",
         "hjun",
+        "istus",
         "kord",
         "shinebright",
-        "tannin"
+        "tannin",
+        "thelatha",
+        "tord"
     ],
     "appearances_weight": 640,
     "chapter": 64,
@@ -24,7 +28,7 @@ Harlan dreams: he’s back in the sacred cave he once protected. It’s storming
 
 He hears a soft, musical voice. “That was never your fate.” 
 
-A short and slender woman, ageless, appears before him. She says, “They call me Istus." 
+A short and slender woman, ageless, appears before him. She says, “They call me [Istus](/characters/istus/)." 
 
 Harlan knows of her—this is the goddess of fate, who rules over the knowledge domain. 
 
@@ -53,11 +57,11 @@ Harlan's alignment is now Neutral Good.
 - He is generally more willing to abide by rules now. 
 - He doesn’t have a holy symbol of Istus yet, but no longer wears his Kord symbol.
 
-[**Tannin](/characters/tannin/):** So, you’re a nerd now?
+**[Tannin](/characters/tannin/):** So, you’re a nerd now?
 
 **Harlan:** A knowledge domain cleric, yes. Hopefully to keep us all from imminent death.
 
-[**Galadriel](/characters/galadriel/):** Nerd alert!!!
+**[Galadriel](/characters/galadriel/):** Nerd alert!!!
 
 - She is clearly glad to see him alive and well, but her interactions with him are full of some forced-seeming nonchalance, like she's maybe a little embarrassed by her outpouring of emotion.
 - Harlan himself is still a little withdrawn. It's hard trying to cope with your own death and rebirth, and some of his memories are not quite all there.
@@ -69,16 +73,16 @@ Tannin still wants to kill the dragon that killed Harlan; he thinks it would be 
 
 **Galadriel:** My advice? Tell King Kolme to flip the coin until he gets back to the material plane, and then stay there. It’s not safe in the Feywild; it's clearly not safe in the Shadowfell—all of this is stupid and none of it is worth it.
 
-When asked, Thelatha denies that the city stole the coin from a dragon’s hoard in the first place. She backpedals a little, saying if it *was* stolen, it was so long ago that no one remembers.
+When asked, [Thelatha](/characters/thelatha/) denies that the city stole the coin from a dragon’s hoard in the first place. She backpedals a little, saying if it *was* stolen, it was so long ago that no one remembers.
 
 ---
 
 # Snowmantle Estate smackdown
 
-The next morning, we use [Chunk](/characters/chunk/)’s guardian ring to come back to the material plane. Borgrear's house and the barren field are just as we left them, except without the coating of frost. 
+The next morning, we use [Chunk](/characters/chunk/)’s guardian ring to come back to the material plane. [Borgrear](/characters/borgrear/)'s house and the barren field are just as we left them, except without the coating of frost. 
 
 - Discussion: can we add this to our property empire?
-- We'd need a caretaker to keep the field clear. Is this Chunk’s job now? Can we move either Tord or [H'Jun](/characters/hjun/) from the [Shinebright](/characters/shinebright/) Tower over here?
+- We'd need a caretaker to keep the field clear. Is this Chunk’s job now? Can we move either [Tord](/characters/tord/) or [H'Jun](/characters/hjun/) from the [Shinebright](/characters/shinebright/) Tower over here?
 - Who will take care of Borgrear's dogs? It’s a remote place. Will they be okay?
 - (We assume they're pretty self-sufficient.) 
 
