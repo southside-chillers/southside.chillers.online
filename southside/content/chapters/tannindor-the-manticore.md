@@ -1,9 +1,11 @@
 {
     "appearances": [
+        "buddy",
         "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "mirama",
         "tannin"
     ],
     "appearances_weight": 690,
@@ -15,9 +17,9 @@
 
 # The second wyvern
 
-We still have the second wyvern to contend with. There’s some disagreement on whether we should just run for it or stick around to fight. Harlan takes a moment to cast Cure Wounds on Chunk, who is down to 8 HP. Hanamir, sprinting away from the wyvern pursuiing him, grabs Tannin kicking and screaming (mid-rage) and continues running toward the mouth of the cave.
+We still have the second wyvern to contend with. There’s some disagreement on whether we should just run for it or stick around to fight. [Harlan](/characters/harlan/) takes a moment to cast Cure Wounds on [Chunk](/characters/chunk/), who is down to 8 HP. [Hanamir](/characters/hanamir/), sprinting away from the wyvern pursuiing him, grabs [Tannin](/characters/tannin/) kicking and screaming (mid-rage) and continues running toward the mouth of the cave.
 
-From the ceiling, Galadriel tags the wyvern as it passes by her, and in doing so, casts Bestow Curse on it. (It must make a WIS save on the start of its turn, which, if it fails, it’ll have to give up its action.) Chunk then casts Lightning on the wyvern. Hanamir then uses Stunning Strike on the wyvern; it takes significant damage from his shortsword to a nerve center, like, under a plate of its scales or something. Like pressure points.
+From the ceiling, [Galadriel](/characters/galadriel/) tags the wyvern as it passes by her, and in doing so, casts Bestow Curse on it. (It must make a WIS save on the start of its turn, which, if it fails, it’ll have to give up its action.) Chunk then casts Lightning on the wyvern. Hanamir then uses Stunning Strike on the wyvern; it takes significant damage from his shortsword to a nerve center, like, under a plate of its scales or something. Like pressure points.
 
 Tannin is *very* upset about Hanamir picking him up. He's raising serious hell, punching him and berating him, and then as soon as Hanamir sets him down, he just transitions straight into another rage and starts tridenting the wyvern mercilessly. Harlan casts Sacred Flame for 10 radiant damage. Galadriel casts Cloud of Daggers for 13 damage. 
 
@@ -183,7 +185,7 @@ Outside, we reunite with Chunk and show him the payment. The bribe, the advance,
 
 With custody of the unhatched manticore taken care of, we move on to discussing our next move. We decide to take a long rest at the Half Full Flagon and regain our HP and spell slots. Once we're settled in, we point the Mirror of the Past at the Goldpeak documents, confirming that they’re authentic. We see him signing them. Odo kept them because having records of illicit transactions with a rich person might be handy someday. This outcome is clearly not what he expected, but still. The receipts are mostly for tapestries, which we note were in the chest at Goldpeak’s mansion. 
 
-Before sleep, Galadriel scans the air psychically for Buddy… but there's no answer. Seems he’s not in the city, or just not responding.
+Before sleep, Galadriel scans the air psychically for [Buddy](/characters/buddy/)… but there's no answer. Seems he’s not in the city, or just not responding.
 
 In the morning, Chunk has an epiphany: he remembers that one of the symbols on the Messenger scroll means “children”!!!! It’s like a memory, like maybe he saw the symbol somewhere somehow and had just forgotten about it temporarily. We theorize that this symbol came to him because he is now a parent to Tannindor. 
 
@@ -193,7 +195,7 @@ Hanamir goes to the half-orc monastery and gives Left Eye 100 gold to keep the p
 
 # A new lead
 
-We head to Kir Mirama’s office uptown with the Goldpeak papers. Tannin walks in familiarly and throws down the receipts on her desk.
+We head to Kir [Mirama](/characters/mirama/)’s office uptown with the Goldpeak papers. Tannin walks in familiarly and throws down the receipts on her desk.
 
 **Tannin:** We’ve got the receipts, Kir. Goldpeak isn’t your man.
 

@@ -1,9 +1,9 @@
 {
     "appearances": [
-        "hanamir",
-        "galadriel",
-        "harlan",
         "chunk",
+        "galadriel",
+        "hanamir",
+        "harlan",
         "tannin"
     ],
     "appearances_weight": 600,
@@ -25,7 +25,7 @@ We talk about our strategy: do we create an illusion to manipulate the giants be
 
 **Old Titan:** Creatures that have been driven mad by fear. 
 
-After Chunk translates this, the party discusses:
+After [Chunk](/characters/chunk/) translates this, the party discusses:
 
 [**Galadriel**](/characters/galadriel/): Uh oh. What if the king turned into a meanlock, driven mad by fear? Did we just kill the king?
 

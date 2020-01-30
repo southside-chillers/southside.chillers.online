@@ -1,9 +1,12 @@
 {
     "appearances": [
         "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "hjun",
+        "kord",
+        "shinebright",
         "tannin"
     ],
     "appearances_weight": 640,
@@ -13,7 +16,7 @@
     "title": "Clown Beatdown"
 }
 
-# Harlan's dream
+# [Harlan](/characters/harlan/)'s dream
 
 After Harlan's resurrection, still in the Shadowfell, we take a long rest. It’s finally restorative of spell slots! Whew.
 
@@ -27,7 +30,7 @@ Harlan knows of her—this is the goddess of fate, who rules over the knowledge 
 
 She continues: "A mysterious force is at work. Things long at rest have started to move. The gods themselves are threatened, and the threads of fate grow short for some of them. The devout are dying across the planes. In turn for your allegiance, I offer you my blessing.” 
 
-After his death, Harlan has emerged more cautious and reserved. Before, he used to think he could be reckless and foolish, and Kord would protect him. Now he realizes that was a fiction. If he can be killed so easily, he really can’t depend on Kord for very much at all. 
+After his death, Harlan has emerged more cautious and reserved. Before, he used to think he could be reckless and foolish, and [Kord](/characters/kord/) would protect him. Now he realizes that was a fiction. If he can be killed so easily, he really can’t depend on Kord for very much at all. 
 
 So to protect himself, he longs to know the will of fate, to have knowledge that might serve as a shield. He accept’s Istus’s offering, and becomes her cleric. He beseeches her for any warning of immediate danger; he feels responsible for himself and his party, to keep them from harm. 
 
@@ -50,11 +53,11 @@ Harlan's alignment is now Neutral Good.
 - He is generally more willing to abide by rules now. 
 - He doesn’t have a holy symbol of Istus yet, but no longer wears his Kord symbol.
 
-**Tannin:** So, you’re a nerd now?
+[**Tannin](/characters/tannin/):** So, you’re a nerd now?
 
 **Harlan:** A knowledge domain cleric, yes. Hopefully to keep us all from imminent death.
 
-**Galadriel:** Nerd alert!!!
+[**Galadriel](/characters/galadriel/):** Nerd alert!!!
 
 - She is clearly glad to see him alive and well, but her interactions with him are full of some forced-seeming nonchalance, like she's maybe a little embarrassed by her outpouring of emotion.
 - Harlan himself is still a little withdrawn. It's hard trying to cope with your own death and rebirth, and some of his memories are not quite all there.
@@ -72,10 +75,10 @@ When asked, Thelatha denies that the city stole the coin from a dragon’s hoard
 
 # Snowmantle Estate smackdown
 
-The next morning, we use Chunk’s guardian ring to come back to the material plane. Borgrear's house and the barren field are just as we left them, except without the coating of frost. 
+The next morning, we use [Chunk](/characters/chunk/)’s guardian ring to come back to the material plane. Borgrear's house and the barren field are just as we left them, except without the coating of frost. 
 
 - Discussion: can we add this to our property empire?
-- We'd need a caretaker to keep the field clear. Is this Chunk’s job now? Can we move either Tord or H'Jun from the Shinebright Tower over here?
+- We'd need a caretaker to keep the field clear. Is this Chunk’s job now? Can we move either Tord or [H'Jun](/characters/hjun/) from the [Shinebright](/characters/shinebright/) Tower over here?
 - Who will take care of Borgrear's dogs? It’s a remote place. Will they be okay?
 - (We assume they're pretty self-sufficient.) 
 
@@ -83,7 +86,7 @@ As this conversation winds down, we hear some ominous goofy laughter in the dist
 
 **Galadriel:** Are these more fox people? I don't know if we can take two of them.
 
-Hanamir casts Pass Without Trace in order to buy the party some time.
+[Hanamir](/characters/hanamir/) casts Pass Without Trace in order to buy the party some time.
 
 **Chunk:** Do we want to question them, or just attack? We know they're bad, right? 
 

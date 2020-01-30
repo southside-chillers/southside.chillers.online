@@ -1,9 +1,9 @@
 {
     "appearances": [
         "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
         "tannin"
     ],
     "appearances_weight": 610,
@@ -19,7 +19,7 @@ The titans (a.k.a. femorians) lead the party into the mountain with the rabbit c
 
 **Titan king:** Little giant… littler friends… where did you get this fortune?
 
-**Chunk:** We bring this as an offering of peace. We can give you more of this.
+[**Chunk](/characters/chunk/):** We bring this as an offering of peace. We can give you more of this.
 
 **Titan king:** Why should I not chain you up with the other dwarves?
 
@@ -27,7 +27,7 @@ The titans (a.k.a. femorians) lead the party into the mountain with the rabbit c
 
 **Titan king:** I will send one of you to show my scouts where there is more. The rest of you stay… as my guests.
 
-We make a compromise. Two of us (Galadriel and Tannin) can go with the scouts, and two of us (Chunk and Harlan) must stay as "guests." Hanamir remains outside the city.
+We make a compromise. Two of us [(Galadriel](/characters/galadriel/) and [Tannin](/characters/tannin/)) can go with the scouts, and two of us (Chunk and [Harlan](/characters/harlan/)) must stay as "guests." [Hanamir](/characters/hanamir/) remains outside the city.
 
 Harlan and Chunk are brought to a deeper part of the mountain. They are enlisted in a chain gang of dwarf prisoners. 
 

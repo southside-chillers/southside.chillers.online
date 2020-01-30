@@ -1,9 +1,12 @@
 {
     "appearances": [
+        "buddy",
         "chunk",
+        "eilistraee",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "kord",
         "tannin"
     ],
     "appearances_weight": 630,
@@ -17,20 +20,20 @@
 
 We are in the Shadowfell, and there is a winged thing flying around above us. 
 
-**Galadriel:** Well, this could be good or bad. Remember Borgrear’s one creepy-looking Shadowfell dog? He was nice. And maybe it’s a dragon! Maybe I can bond with it over knowing Buddy. Like, 'You a dragon? I know a dragon.'
+[**Galadriel](/characters/galadriel/):** Well, this could be good or bad. Remember Borgrear’s one creepy-looking Shadowfell dog? He was nice. And maybe it’s a dragon! Maybe I can bond with it over knowing [Buddy](/characters/buddy/). Like, 'You a dragon? I know a dragon.'
 
 Can we see anything? 
 
 - Not really.
-- Hanamir caught a glimpse of a wing, but nothing more. 
+- [Hanamir](/characters/hanamir/) caught a glimpse of a wing, but nothing more. 
 - Whatever it is, it's quite large. 
 - We can hear it as it flies around.
 
-The darkness here is *unusual*. Harlan has a particularly difficult time, though he can see things within a few feet of himself. Zotz’s echolocation is helpful, and he can maneuver okay. We try to get closer to the city; it’s pretty well-fortified and we’re maybe 10 minutes away walking. Hanamir casts Pass Without Trace on the party, and we head back to the city. The sound follows us. It is keeping its distance, but trailing us. It stops short of following us into the city.
+The darkness here is *unusual*. [Harlan](/characters/harlan/) has a particularly difficult time, though he can see things within a few feet of himself. Zotz’s echolocation is helpful, and he can maneuver okay. We try to get closer to the city; it’s pretty well-fortified and we’re maybe 10 minutes away walking. Hanamir casts Pass Without Trace on the party, and we head back to the city. The sound follows us. It is keeping its distance, but trailing us. It stops short of following us into the city.
 
 **Galadriel:** So this creature is intelligent, since it understands the artificial boundary.
 
-**Tannin:** Or it’s just an animal that doesn’t want to be around people.
+[**Tannin](/characters/tannin/):** Or it’s just an animal that doesn’t want to be around people.
 
 **Hanamir:** So what’s our plan? Stay in the Shadowfell?
 
@@ -38,7 +41,7 @@ The darkness here is *unusual*. Harlan has a particularly difficult time, though
 
 **Harlan:** We know that the clowns have the ability to get here. Is it safer with us than here? Did we get a definitive answer on the protocols surrounding the coin?
 
-**Chunk:** Let’s talk to Thelatha again and see about another coin flip.
+[**Chunk](/characters/chunk/):** Let’s talk to Thelatha again and see about another coin flip.
 
 ---
 
@@ -199,12 +202,12 @@ Hanamir plays the bagpipes, finally, which he’s been carrying around the entir
 
 Chunk vows to look after Zotz. 
 
-Galadriel’s pendant begins to glow—the pendant of Eilistraee’s Wish. She realizes that now’s the time. If the deal she made with Lolth to get it back would be worth anything, it’s Harlan’s life. She falls to her knees on the dais of the dwarf temple, clutching the pendant and pulling it by its chain from her neck. 
+Galadriel’s pendant begins to glow—the pendant of [Eilistraee](/characters/eilistraee/)’s Wish. She realizes that now’s the time. If the deal she made with Lolth to get it back would be worth anything, it’s Harlan’s life. She falls to her knees on the dais of the dwarf temple, clutching the pendant and pulling it by its chain from her neck. 
 
 **Galadriel:** Eilistraee… in your benevolence… please bring back my friend, Harlan Stormborne.
 
 There’s a swirling of shadow from the ground, almost the reverse of what Chunk saw—Harlan, in a somewhat ethereal form, appears in the temple. He takes a huge, gasping breath. 
 
-Eilistraee’s voice, echoing through the cathedral, says that Harlan's connection to Kord is severed, and that it is something he himself must restore, if he wishes. She can only bring back the person. His memory may be spotty, but should get stronger over time. And he won’t remember his death. 
+Eilistraee’s voice, echoing through the cathedral, says that Harlan's connection to [Kord](/characters/kord/) is severed, and that it is something he himself must restore, if he wishes. She can only bring back the person. His memory may be spotty, but should get stronger over time. And he won’t remember his death. 
 
 Harlan gives Galadriel a hug. She hugs him right back. 

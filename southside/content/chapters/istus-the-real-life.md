@@ -1,9 +1,17 @@
 {
     "appearances": [
+        "cazna",
         "chunk",
+        "deru",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "kandir",
+        "kord",
+        "mirama",
+        "nyanceth",
+        "pouru",
+        "slee",
         "tannin"
     ],
     "appearances_weight": 650,
@@ -17,11 +25,11 @@
 
 How much time has passed? We are not sure. The season has changed; it had been early spring when we left, and now it's more like early summer. It seems that in the Feywild, time passes in a different way than on the material plane. 
 
-We approach the military garrison at the outskirts of Aberith. Galadriel attempts to sashay past them confidently, but is stopped.
+We approach the military garrison at the outskirts of Aberith. [Galadriel](/characters/galadriel/) attempts to sashay past them confidently, but is stopped.
 
 **Guard:** Hold on, ma'am. What is your purpose in the city?
 
-**Galadriel:** Hail, good sir. We are close personal friends of King Slee and we have important business to attend to with him.
+**Galadriel:** Hail, good sir. We are close personal friends of King [Slee](/characters/slee/) and we have important business to attend to with him.
 
 The guard uses a sending stone to ask for direction from some higher authority. The sending stone crackles with a voice that says "Hold them."
 
@@ -33,7 +41,7 @@ The guard uses a sending stone to ask for direction from some higher authority. 
 
 This guy seems like he’s following orders and has nothing against us in particular. He's cheerful, but not super forthcoming.
 
-In a few minutes, Vedit arrives. (Jao Vedit is the head of the Amber Guard, and is now Minister of War, succeeding Pouru after her execution. We suspect that he is compromised by Kandir somehow—in [Chapter 41](/chapters/split-party-soup), we found evidence that Kandir did a financial favor for him.) He seems to recognize us. After greeting us, he explains that we cannot meet with Slee.
+In a few minutes, Vedit arrives. (Jao Vedit is the head of the Amber Guard, and is now Minister of War, succeeding [Pouru](/characters/pouru/) after her execution. We suspect that he is compromised by [Kandir](/characters/kandir/) somehow—in [Chapter 41](/chapters/split-party-soup), we found evidence that Kandir did a financial favor for him.) He seems to recognize us. After greeting us, he explains that we cannot meet with Slee.
 
 **Vedit:** The king has been moved to a secure location, so you cannot see him now. The city is on lockdown, and we can't take any chances, even with people deemed trustworthy, as a member of the nobility was found responsible for the attack on the Flats.
 
@@ -41,15 +49,15 @@ In a few minutes, Vedit arrives. (Jao Vedit is the head of the Amber Guard, and 
 
 **Vedit:** I cannot comment on the ongoing investigation. We’re being especially cautious.  We can let you into the city, but we can’t get you an audience with the king right now.
 
-**Harlan:** Understood. Would it be possible for us to speak with others on the council? Mr. Kandir or Ms. Mirama?
+[**Harlan](/characters/harlan/):** Understood. Would it be possible for us to speak with others on the council? Mr. Kandir or Ms. [Mirama](/characters/mirama/)?
 
 **Vedit:** Potentially. Mr. Kandir is quite busy with the investigation at the moment, but Ms. Mirama might be able to speak to you.
 
-**Tannin:** That’s good enough for me. Let’s go.
+[**Tannin](/characters/tannin/):** That’s good enough for me. Let’s go.
 
 **Galadriel:** Yes, thank you very much.
 
-**Chunk:** The city is on lockdown… does that mean martial law? 
+[**Chunk](/characters/chunk/):** The city is on lockdown… does that mean martial law? 
 
 - No, it's not that strict, but comings and goings are monitored.
 - There's no fighting in the streets or rioting or anything.
@@ -81,7 +89,7 @@ We assure him we won't, and that we're happy to talk whenever he's ready to loop
 
 **Galadriel:** Well, he was *going* to be involved with the clowns, but he backed out from financing their mission for the three-sided coin. He could've been playing us, but my instinct says he's innocent.
 
-**Hanamir:** Yes. He's their fall guy, because he backed out of the deal.
+[**Hanamir](/characters/hanamir/):** Yes. He's their fall guy, because he backed out of the deal.
 
 **Harlan:** Sounds like we need to investigate.
 
@@ -115,7 +123,7 @@ Left Eye nods.
 
 # ...or Istus Just Fantasy?
 
-We then go in search of a temple of Istus. There’s a small Istus temple on the northern side of the city. It's the nice part of town, but this temple is a modest place given that it serves one of the higher deities in the pantheon. It’s filled with books—Hanamir loves it—and it’s more like a fancy library than to a typical temple. Harlan finds it peculiar, since he’s used to the lavish cathedrals of Kord.
+We then go in search of a temple of Istus. There’s a small Istus temple on the northern side of the city. It's the nice part of town, but this temple is a modest place given that it serves one of the higher deities in the pantheon. It’s filled with books—Hanamir loves it—and it’s more like a fancy library than to a typical temple. Harlan finds it peculiar, since he’s used to the lavish cathedrals of [Kord](/characters/kord/).
 
 There, he meets the head of the temple, whose name is Lady Bright. She greets him and says that she had a vision that he would be coming. She has something for him. She hands him an emblem of Istus: a small wheel, like one for spinning thread, that he can wear.
 
@@ -261,15 +269,15 @@ Slurpt insinuates he wants a bribe for that kind of intel, and Galadriel shakes 
 **Slurpt:** Afraid not.
 
 - This is somewhat worrisome, as Lolth had her sights set on him. 
-- It's been quiet on the Cazna front, too. 
+- It's been quiet on the [Cazna](/characters/cazna/) front, too. 
 
 We thank Slurpt and are on our way.
 
 ---
 
-# Deru
+# [Deru](/characters/deru/)
 
-We go to the Kord temple to talk to Deru Nyanceth, our two-time restorer of severed hands. We offer condolences on her father's recent death, and get her take on the current situation in Aberith.
+We go to the Kord temple to talk to Deru [Nyanceth](/characters/nyanceth/), our two-time restorer of severed hands. We offer condolences on her father's recent death, and get her take on the current situation in Aberith.
 
 She says that the last few years of her father’s life were difficult for her. So while she grieves him, there's also the sense of a burden being lifted, and the gratitude that he's no longer suffering. As for the council, she has little interest now that her father is no longer involved. She heard that maybe they won’t fill his position at all—the role of Minister of Sea was really created for him in his decline. (Tannin volunteers!) Mostly, the Minister of Trade has taken over his duties.
 

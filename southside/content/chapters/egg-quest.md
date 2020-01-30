@@ -1,9 +1,12 @@
 {
     "appearances": [
+        "buddy",
         "chunk",
+        "fleck",
+        "frunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
         "tannin"
     ],
     "appearances_weight": 680,
@@ -27,9 +30,9 @@ On the road, we run into two people we recognize. They are Nim and Nizana, a dro
 
 **Nim:** G’day mates. Didn’t think we’d see you all again. 
 
-**Tannin:** Crikey! Good to see you both. You’ve never met this bloke, have you?
+[**Tannin](/characters/tannin/):** Crikey! Good to see you both. You’ve never met this bloke, have you?
 
-He gestures toward Chunk, whom they indeed have not met. They take a step back.
+He gestures toward [Chunk](/characters/chunk/), whom they indeed have not met. They take a step back.
 
 **Nim:** Can’t say we have. Wow, what are you?
 
@@ -41,11 +44,11 @@ He gestures toward Chunk, whom they indeed have not met. They take a step back.
 
 **Nim:** Clowns?
 
-**Galadriel:** Yes, with face paint on, and robes.
+[**Galadriel](/characters/galadriel/):** Yes, with face paint on, and robes.
 
 **Nim:** We’ve just been out here spreading the word, no clowns.
 
-**Harlan:** The word of the Messenger?
+[**Harlan](/characters/harlan/):** The word of the Messenger?
 
 **Nim:** Yes, that’s roight.
 
@@ -104,7 +107,7 @@ Tannin kicks a rock and says "Ehhh!!"
 
 **Nizana:** To Eillin!
 
-**Galadriel:** Oh! Say hello to Mayor Frunk for us. And bartender Fleck with his gold coin eyes.
+**Galadriel:** Oh! Say hello to Mayor [Frunk](/characters/frunk/) for us. And bartender [Fleck](/characters/fleck/) with his gold coin eyes.
 
 **Nim:** Oh, we’ve never been there.
 
@@ -119,14 +122,14 @@ They go on their way, indeed toward Eillin.
 Another hour passes on the road and we get to the clearing from the map. We see a wide mouth to a cave. It’s around sunset. 
 
 - Are manticores nocturnal? Chunk says no, typically not. They might go to sleep soon. 
-- Maybe we send Hanamir in now to poke around?
+- Maybe we send [Hanamir](/characters/hanamir/) in now to poke around?
 
 Hanamir casts Pass Without Trace, and the rest of us wait by the opening of the cave. He goes in. First thing that seems off: he finds a dead manticore. 
 
 - It died a violent death, and something killed it fairly recently. 
 - Immediate cause of death is slashing. Looks like slash marks from sets of three claws. That’s all he can tell.
 
-He presses onward, and sees a scaled tail ahead past a corner, but then it moves away. He hears rustling, then some chewing sounds. He’s down about 400-500 feet in the cave now. As he goes deeper, the thing chewing comes into view. It looks sort of like a dragon: it has long, silverish wings, and a long tail. It doesn’t look quite like Buddy, but Hanamir can’t really tell for sure if it’s something else. It's similar in size to Buddy, like 80 feet long. It’s feasting on another dead manticore, this one larger than the previous corpse.
+He presses onward, and sees a scaled tail ahead past a corner, but then it moves away. He hears rustling, then some chewing sounds. He’s down about 400-500 feet in the cave now. As he goes deeper, the thing chewing comes into view. It looks sort of like a dragon: it has long, silverish wings, and a long tail. It doesn’t look quite like [Buddy](/characters/buddy/), but Hanamir can’t really tell for sure if it’s something else. It's similar in size to Buddy, like 80 feet long. It’s feasting on another dead manticore, this one larger than the previous corpse.
 
 There are four side passages off the main chamber of the cave. Hanamir creeps back to the opening of the cave and reports back to the crew.
 

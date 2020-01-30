@@ -1,9 +1,11 @@
 {
     "appearances": [
         "chunk",
+        "galadriel",
         "hanamir",
         "harlan",
-        "galadriel",
+        "kandir",
+        "mirama",
         "tannin"
     ],
     "appearances_weight": 660,
@@ -15,13 +17,13 @@
 
 # The heist
 
-Per Mirama’s request, we are going to infiltrate Goldpeak’s mansion. We're looking for info that might exonerate him, or at least shed more light on his financial dealings that make him public enemy number one. 
+Per [Mirama](/characters/mirama/)’s request, we are going to infiltrate Goldpeak’s mansion. We're looking for info that might exonerate him, or at least shed more light on his financial dealings that make him public enemy number one. 
 
 There are a handful of guards posted around the grounds, making sure no one messes with the crime scene. We’re familiar enough with this outside area; in [Chapter 48](/chapters/partys-over/), we exited the gala through the garden behind the ballroom. In front, there’s a fountain and a path to the main entrance. The house is three stories tall. We really only know the layout of the first floor—it has a ballroom, a kitchen, and another room we didn’t see.
 
-Galadriel goes out front to distract the guards while the rest sneak in through the garden in back. She decides to say she’s doing a tribute concert for first responders, in thanks for tracking down the culprits in the terrible Flats explosion attack. 
+[Galadriel](/characters/galadriel/) goes out front to distract the guards while the rest sneak in through the garden in back. She decides to say she’s doing a tribute concert for first responders, in thanks for tracking down the culprits in the terrible Flats explosion attack. 
 
-Hanamir casts Pass Without Trace, facilitating a successful group sneak around the back of the mansion. There are two guards posted in the rear near the gardens, but they pose no problem. 
+[Hanamir](/characters/hanamir/) casts Pass Without Trace, facilitating a successful group sneak around the back of the mansion. There are two guards posted in the rear near the gardens, but they pose no problem. 
 
 Galadriel's performance is entertaining enough to the set of guards posted in front.
 
@@ -36,7 +38,7 @@ The others go straight to the ballroom and have no issues getting in. The ballro
 - some crates
 - some unidentified shapes covered by canvas cloths
 
-Chunk turns into a cat to be as stealthy as possible, and leads the way upstairs. They proceed into the study, where they see:
+[Chunk](/characters/chunk/) turns into a cat to be as stealthy as possible, and leads the way upstairs. They proceed into the study, where they see:
 
 - a desk, with drawers
 - some chairs
@@ -61,7 +63,7 @@ Initially, one of the guards starts to deny involvement, but then gets nudged by
 - He spins a crazy tale of unleashing magical creatures on Goldpeak. His friends aren’t correcting him, but it’s clear this isn’t true.
 - These are pretty lower level guards. Paul Blarts.
 
-The infiltrators go to the next room. There are some valuable items in here (including an egg similar to the one snaffled by Tannin!). This seems to be a place where more pricey things are kept. Something is missing from the wall—there's a dark spot where a painting clearly used to hang. There’s a large chest that is open in the middle of the floor, and it looks someone has rifled through it. This room is otherwise very neat, so this chest stands out as unusual. Without touching it, Hanamir peers inside and sees:
+The infiltrators go to the next room. There are some valuable items in here (including an egg similar to the one snaffled by [Tannin](/characters/tannin/)!). This seems to be a place where more pricey things are kept. Something is missing from the wall—there's a dark spot where a painting clearly used to hang. There’s a large chest that is open in the middle of the floor, and it looks someone has rifled through it. This room is otherwise very neat, so this chest stands out as unusual. Without touching it, Hanamir peers inside and sees:
 
 - fabrics that look to be fancy tapestries
 - these fabrics obscure whatever else might be in the chest
@@ -85,7 +87,7 @@ There are two small bedrooms, a reading room, and another art gallery up on the 
 - In the reading room, there is an Amber Guard uniform, hastily discarded! 
 - Other than that, there's just a collection of books, in bookshelves, and some nice old artifacts on the table. 
 
-Harlan casts Detect Magic (in absentia) and several things glow:
+[Harlan](/characters/harlan/) casts Detect Magic (in absentia) and several things glow:
 
 - a sword on the wall
 - two or three books
@@ -141,7 +143,7 @@ Hanamir shows her the sketch of the Amber Guardsman.
 
 **Mirama:** He's a young guy… seems normal, though I haven’t interacted with him much. But very recognizable—there's no mistaking the unibrow. 
 
-- We theorize he’s Kandir’s lackey or something.
+- We theorize he’s [Kandir](/characters/kandir/)’s lackey or something.
 
 Hanamir tells her about the overall scene, but Mirama is disappointed. Knowing what was taken from the wall or from the chest would have been helpful. The transaction with Odo is the most interesting part—though the fact that someone was watching an area, an unremarkable area, is also interesting. Goldpeak might have had an invenetory of his things, but since we didn’t get one, we're not much better off than we were before.
 
