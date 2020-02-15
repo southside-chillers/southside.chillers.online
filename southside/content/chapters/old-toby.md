@@ -5,6 +5,8 @@
         "goldpeak",
         "hanamir",
         "harlan",
+        "kaz",
+        "old-toby",
         "tannin"
     ],
     "appearances_weight": 700,
@@ -24,12 +26,12 @@ We go to Squawker, the Kenku who bought our basilisk corpse, to sell our mantico
 
 We talk about getting some health potions. Since there's still a ban buying and selling magical items in Aberith, we discuss where to go. There might be some sketchy potions available in the Kiln, or perhaps there's some kind of way around the ban if you know who to ask?
 
-- "Like, maybe it's prescription only, but you just have to say you have headaches," notes Tannin. 
+- "Like, maybe it's prescription only, but you just have to say you have headaches," notes [Tannin](/characters/tannin/). 
 - Squawker advises us that there is a potionmaker uptown who often buys parts of magical creatures from him (illicitly). He gives us a name (Telura) and address up in Silver Hill. 
 
 We go directly there. It's a fancy-looking storefront that seems to sell valuable items made of crystal; its clientele are all rather hoity-toity. Tannin's casual attire (loincloth, no shoes) garners some disapproving looks. A woman who matches the description Squawker gave us (elf woman of about 300, looks 70 by human standards) is sitting at a table near the back.
 
-**Galadriel:** Good morning, ma'am, might your name be Telura?
+[**Galadriel](/characters/galadriel/):** Good morning, ma'am, might your name be Telura?
 
 **Telura:** ...Pardon me, dear?
 
@@ -39,7 +41,7 @@ Galadriel repeats herself, a little louder.
 
 She gestures out to the crystal trinkets and things.
 
-**Harlan:** They are beautiful, but we were thinking something more... consumable. Something you drink? A... refreshment?
+[**Harlan](/characters/harlan/):** They are beautiful, but we were thinking something more... consumable. Something you drink? A... refreshment?
 
 **Telura:** A drink? I don’t need a drink.
 
@@ -87,7 +89,7 @@ Harlan points to the bottle set aside from the healing potions.
 
 **Galadriel:** Ooh, a bespoke potion master!
 
-**Hanamir:** Could you create a potion of invisibility?
+[**Hanamir](/characters/hanamir/):** Could you create a potion of invisibility?
 
 **Telura:** I could, indeed, young man.
 
@@ -111,7 +113,7 @@ She pulls out a light blue potion and says it “gives you wings.” It might be
 
 **Telura:** Flight. It’s 800 gold. 
 
-**Harlan:** Unless you have a layaway program, I think I’m good for now, but thank you. By the way, since you're in the neighborhood—do you happen to know Old Toby?
+**Harlan:** Unless you have a layaway program, I think I’m good for now, but thank you. By the way, since you're in the neighborhood—do you happen to know [Old Toby](/characters/old-toby/)?
 
 **Telura:** Yes… you mean, the young man with the pet? What do you want with him?
 
@@ -121,11 +123,11 @@ She pulls out a light blue potion and says it “gives you wings.” It might be
 
 Galadriel rolls insight to see if Telura is cool, or if she’s got an ulterior motive. It’s tough to get a full read on her since her hearing and memory aren't great, but... she’s operating an illegal potion shop in Silver Hill. She’s probably aware of the underworld in Aberith; she’s not senile, but seems forgetful. Galadriel decides to go for it.
 
-**Galadriel:** Do you know anyone by the name of Kaz?
+**Galadriel:** Do you know anyone by the name of [Kaz](/characters/kaz/)?
 
 **Telura:** Hmm, hmm, the name’s familiar. Yes, the rich one. The owner of the Prismatic Inn. They call him Kaz sometimes. Why are you looking for him?
 
-At this point, Chunk just spills the beans on our whole deal, says we’re trying to clear our friend’s name, and that we need information from Kaz to do so. LOL.
+At this point, [Chunk](/characters/chunk/) just spills the beans on our whole deal, says we’re trying to clear our friend’s name, and that we need information from Kaz to do so. LOL.
 
 **Telura:** ...I wish you the best of luck!
 
@@ -141,7 +143,7 @@ We loudly thank her and leave. We head for the Prismatic Inn to go talk to Old T
 
 # The return of Argentum Blunderbuss and Gaia von Hastings
 
-Before reaching the Prismatic Inn, Galadriel casts Disguise Self and becomes her alter ego from Goldpeak's art gala, Gaia von Hastings; Harlan adopts his own alter ego, Argentum Blunderbuss. Tannin plans to hang outside the place watching the front entrance—there's a dwarven vendor with a food cart nearby he could chat with. Chunk decides to enter separately from Galadriel and Harlan and provide backup if needed. He dresses up in his idea of fancy dress—wearing two monocles at once and an ill-fitting suit. Hanamir is hiding in the adjoining alley, waiting and watching for any suspicious figures entering or leaving.
+Before reaching the Prismatic Inn, Galadriel casts Disguise Self and becomes her alter ego from [Goldpeak](/characters/goldpeak/)'s art gala, Gaia von Hastings; Harlan adopts his own alter ego, Argentum Blunderbuss. Tannin plans to hang outside the place watching the front entrance—there's a dwarven vendor with a food cart nearby he could chat with. Chunk decides to enter separately from Galadriel and Harlan and provide backup if needed. He dresses up in his idea of fancy dress—wearing two monocles at once and an ill-fitting suit. Hanamir is hiding in the adjoining alley, waiting and watching for any suspicious figures entering or leaving.
 
 Galadriel and Harlan go in. There’s one guy sitting at the bar and lounge area who seems likely to be Toby; he’s having a lively conversation, holding court with three others. He’s telling them some story about some exploit of his—this one involves skeletons—and he's clearly embellishing or inventing most of it, but no one minds. 
 
