@@ -129,7 +129,7 @@ In the larger tent, Hanamir finds a singed scrap of paper that he immediately re
 
 "Oh! This was a good one. The Reproductive Cycle of the Slaad," he says. "Horrifying stuff."
 
-He also finds a diagram pinned to one panel of the tent. It looks like a rudimentary map of the wall that surrounds the City of the Dead. The orcs had made a few markings around its persimeter. 
+He also finds a diagram pinned to one panel of the tent. It looks like a rudimentary map of the wall that surrounds the City of the Dead. The orcs had made a few markings around its perimeter.
  
 "I wonder what these mean," he muses out loud. Resolving to figure it out, he rolls up the map and tucks it in his backpack.
 
