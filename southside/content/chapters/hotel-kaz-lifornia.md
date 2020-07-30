@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "bracket",
         "galadriel",
         "goldpeak",
         "hanamir",
@@ -28,7 +29,7 @@ We gather in the lounge at the Prismatic Inn to discuss our strategy for meeting
 
 After awhile of this chatter, the cloaked figure approaches the party and introduces himself, tersely, as Cal. 
 
-**Cal:** It looks like you folks might not belong here, and neither do I. I'm looking for someone who may have come through here. A gnome by the name of Bracket. You ever heard of him?
+**Cal:** It looks like you folks might not belong here, and neither do I. I'm looking for someone who may have come through here. A gnome by the name of [Bracket](/characters/bracket/). You ever heard of him?
 
 We tell him about the gnome we do know, [Redyl](/characters/redyl/), and the gnome neighborhood in Aberith called Gillyheart. This doesn't satisfy Cal. Bracket, he says, is an engineer or a mechanic of some sort who builds "metal beasts of destruction." We offer to help him find Bracket if he'll help us investigate the inn tonight, and he agrees.
 

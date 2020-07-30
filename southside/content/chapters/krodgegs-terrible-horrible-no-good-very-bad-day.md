@@ -1,9 +1,11 @@
 {
     "appearances": [
+        "akra",
         "chunk",
         "galadriel",
         "hanamir",
-        "harlan"
+        "harlan",
+        "krodgeg"
     ],
     "appearances_weight": 780,
     "chapter": 78,
@@ -12,7 +14,7 @@
     "title": "Krodgeg’s Terrible, Horrible, No Good, Very Bad Day"
 }
 
-# Krodgeg’s house burns down 
+# [Krodgeg](/characters/krodgeg/)’s house burns down 
 
 We return to the scene with Cal, who has just burned down a house and is now pretending he didn’t do it. The Dragonborn who was inside sleeping now stands beside him in front of the ruins of the structure.
 
@@ -88,7 +90,7 @@ Galadriel *(butchering the pronunciation)*: “Tooooob? Are the rest of your fri
 
 Krodgeg: “Yeah, though I don’t know them all that well. I was sent here, and you know, told that when I got here this would be the place for me. I only met these people once I arrived. But I think some of them did come from the same clan and we live up in Tubé.”
 
-Harlan gives Cal a look, and the two of them leave the room to discuss the Draconic note while Galadriel keeps Krodgeg busy. Cal fills in Harlan on the situation. Harlan takes a look at the Draconic note and translates it. It’s a straightforward letter of introduction that says that Krodgeg will be a good addition to some organization; he has an innate way with weapons and will serve them very well in the upcoming mission. The letter is addressed to someone named Akra. Harlan also translates the name of the place Krodgeg said he was from: it’s something like “the crater.”
+Harlan gives Cal a look, and the two of them leave the room to discuss the Draconic note while Galadriel keeps Krodgeg busy. Cal fills in Harlan on the situation. Harlan takes a look at the Draconic note and translates it. It’s a straightforward letter of introduction that says that Krodgeg will be a good addition to some organization; he has an innate way with weapons and will serve them very well in the upcoming mission. The letter is addressed to someone named [Akra](/characters/akra/). Harlan also translates the name of the place Krodgeg said he was from: it’s something like “the crater.”
 
 Galadriel keeps trying to pull more information out of Krodgeg, but doesn’t get far. The most she learns is that he’s been doing some work underground, but he won’t provide any more details. She gives him the address of a Dragonborn bar, and he’s appreciative of that.
 

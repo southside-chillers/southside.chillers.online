@@ -1,5 +1,7 @@
 {
     "appearances": [
+        "bracket",
+        "deladriel",
         "galadriel",
         "goldpeak",
         "hanamir",
@@ -23,11 +25,11 @@
 
 - Kaz doesn’t think another Sky Arrow-esque attack on the city is likely. He’s willing to offer us more information if we decide to work for him—and seems not so convinced that the Gehennans pose a real threat to him. He’s only swayed by [Harlan](/characters/harlan/)’s argument that they’re a threat to his business via the lives of his clientele.
 
-- We give him the scrolls from the fox man’s corpse (no big deal, since [Hanamir](/characters/hanamir/) made copies). In return, Kaz gives Cal the promised letter of introduction to Bracket the gnome, with directions on how to find him, and a reference book all about the creatures native to Gehenna. He also pitches an idea for how to clear [Goldpeak](/characters/goldpeak/)’s name: let someone else take the fall for the Sky Arrow attack, namely [Odo](/characters/odo/). We’d have to plant some evidence at Odo’s compound that would tie him to the crime… which Kaz can provide.
+- We give him the scrolls from the fox man’s corpse (no big deal, since [Hanamir](/characters/hanamir/) made copies). In return, Kaz gives Cal the promised letter of introduction to [Bracket](/characters/bracket/) the gnome, with directions on how to find him, and a reference book all about the creatures native to Gehenna. He also pitches an idea for how to clear [Goldpeak](/characters/goldpeak/)’s name: let someone else take the fall for the Sky Arrow attack, namely [Odo](/characters/odo/). We’d have to plant some evidence at Odo’s compound that would tie him to the crime… which Kaz can provide.
 
 - There’s some real tension on this point. [Galadriel](/characters/galadriel/) accuses Kaz outright of selling the Sky Arrow to the AML. After failing a WIS save, she’s charmed into recanting that accusation. The party agrees to frame Odo for the Sky Arrow attack.
 
-- The party goes to Bracket’s shop in the south of Aberith and uses a passphrase (“I’d like to find something to help with this weather”) to gain access to Bracket. Cal tells Bracket he’s here representing Lord Deladriel, who needs a replacement for one of his metal constructs, which Bracket had built for him in the past. Cal, whose true mission is actually to find Lord Deladriel, fishes for information on past drop-off locations, but Bracket is not forthcoming. Bracket gives Cal a strange metal cube, claiming that it is the replacement Deladriel needs.
+- The party goes to Bracket’s shop in the south of Aberith and uses a passphrase (“I’d like to find something to help with this weather”) to gain access to Bracket. Cal tells Bracket he’s here representing Lord [Deladriel](/characters/deladriel/), who needs a replacement for one of his metal constructs, which Bracket had built for him in the past. Cal, whose true mission is actually to find Lord Deladriel, fishes for information on past drop-off locations, but Bracket is not forthcoming. Bracket gives Cal a strange metal cube, claiming that it is the replacement Deladriel needs.
 
 - The party continues to stake out Bracket’s shop after this encounter. After a little while, Kaz shows up! He’s carrying a bag. Galadriel casts Clairvoyance to listen in on the conversation between Kaz and Bracket:
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "bracket",
         "chunk",
         "galadriel",
         "hanamir",
@@ -29,7 +30,7 @@ Kaz returns to the Prismatic Inn in the afternoon with a bag full of clown robes
 
 Cal clears his throat, and Kaz begrudgingly makes eye contact with him.
 
-**Cal:** I would be happy to accompany my new friends on this mission. Unfortunately, I do not think my lord would appreciate my diverting from my task without having revisited this conversation with you from earlier on about the gnome, Bracket. 
+**Cal:** I would be happy to accompany my new friends on this mission. Unfortunately, I do not think my lord would appreciate my diverting from my task without having revisited this conversation with you from earlier on about the gnome, [Bracket](/characters/bracket/). 
 
 Kaz seems distracted, and singularly focused on getting the clown infiltration mission done. 
 

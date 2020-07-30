@@ -1,6 +1,8 @@
 {
     "appearances": [
+        "bracket",
         "chunk",
+        "deladriel",
         "galadriel",
         "hanamir",
         "harlan",
@@ -16,7 +18,7 @@
 }
 
 
-## Searching Bracket’s shop
+## Searching [Bracket](/characters/bracket/)’s shop
 
 - The party decides to wait until Bracket’s shop closes and search it that night. After a cursory look around the outside of the building (and up the wall to a second-story room, in [Galadriel](/characters/galadriel/)’s case), we go inside.
 
@@ -47,7 +49,7 @@
 
 Bracket appears—he was hiding in the corner, invisible, watching us. He emerges with his hands up.
 
-- Cal says he needs Lord Deladriel’s location. Bracket, intimidated, offers to take us down to the workshop where he keeps his notes on all clients, past and present.
+- Cal says he needs Lord [Deladriel](/characters/deladriel/)’s location. Bracket, intimidated, offers to take us down to the workshop where he keeps his notes on all clients, past and present.
 
 ---
 
