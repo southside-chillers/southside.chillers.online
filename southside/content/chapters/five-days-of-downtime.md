@@ -1,7 +1,9 @@
 {
     "appearances": [
+        "bracket",
         "buddy",
         "chunk",
+        "deladriel",
         "galadriel",
         "hanamir",
         "harlan",
@@ -21,7 +23,7 @@
 
 # Back in the game
 
-After a long hiatus, we resume action mid-battle with Bracket. It’s Bracket’s turn.
+After a long hiatus, we resume action mid-battle with [Bracket](/characters/bracket/). It’s Bracket’s turn.
 
 - Bracket directs one of the guardian constructs to make two fist attacks against [Tannin](/characters/tannin/), which succeed; Tannin’s resistance to bludgeoning means he only takes 10 damage. Bracket then tries to get as far away from the crew as possible.
 
@@ -63,7 +65,7 @@ Harlan: “Perhaps we should take something of his to ensure compliance.”
 
 Meanwhile, Hanamir busies himself searching the workshop for evidence of Sky Arrow transactions. He finds some notes. As we know, the Arrow was in Bracket’s possession, and he was studying it. There’s a sketch of it: it looks like an actual arrow with some ornate markings on its surface. There’s also a list of tests he put it through: blasted it, poured stuff on it, etc. It was not reactive to water or flame.
 
-Cal also searches the workshop for items relating to Lord Deladriel. He finds some old transactions, which Bracket had told him about, so that checks out. The last-known Aberith address for Deladriel is also in there, confirming that Bracket was forthcoming with his information.
+Cal also searches the workshop for items relating to Lord [Deladriel](/characters/deladriel/). He finds some old transactions, which Bracket had told him about, so that checks out. The last-known Aberith address for Deladriel is also in there, confirming that Bracket was forthcoming with his information.
 
 Bracket asks, “What are you asking me to do? If I work for you, what does that mean?”
 

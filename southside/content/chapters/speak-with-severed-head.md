@@ -1,8 +1,11 @@
 {
     "appearances": [
+        "akra",
+        "deladriel",
         "galadriel",
         "hanamir",
         "harlan",
+        "krankaad",
         "sanford",
         "tannin"
     ],
@@ -14,7 +17,7 @@
 }
 
 
-We learn this Dragonborn’s name is Krankaad. When pressed for information, he gives some more details on how he ended up in Aberith as part of Akra’s crew. 
+We learn this Dragonborn’s name is [Krankaad](/characters/krankaad/). When pressed for information, he gives some more details on how he ended up in Aberith as part of [Akra](/characters/akra/)’s crew. 
 
 Krankaad: “I had gotten myself into a bit of trouble. Got caught stealing some things. One of the elders in our tribe, Varesh, gave me the opportunity to start over somewhere new, and he was in touch with Akra. He was still loyal to her, even though she’d been cast out.”
 
@@ -44,7 +47,7 @@ Once Harlan casts Speak With Dead, Akra’s head jolts to life. She says nothing
 
 “Akra… you have been summoned back,” says Harlan, standing behind her and speaking Draconic in the godliest voice he can muster. “Your mission here is not yet finished. We are trying to revive you or at the very least carry out your mission. But to do that, we need to know everything. Tell us. Who were you working with?”
 
-“Who?” says Akra, confused. “He only gave me the name Deladriel.”
+“Who?” says Akra, confused. “He only gave me the name [Deladriel](/characters/deladriel/).”
 
 “And what was this person’s goal?”
 

@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "bracket",
         "chunk",
         "galadriel",
         "hanamir",
@@ -16,7 +17,7 @@
 
 ## Escape from the Half-Full Flagon
 
-- The inn is on fire! And is under siege by six or so of Bracket’s metal constructs.
+- The inn is on fire! And is under siege by six or so of [Bracket](/characters/bracket/)’s metal constructs.
 
 - Instead of confronting the constructs, we decide to flee. 
 

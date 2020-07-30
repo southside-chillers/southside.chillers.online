@@ -1,9 +1,13 @@
 {
     "appearances": [
+        "akra",
         "chunk",
+        "deladriel",
         "galadriel",
         "hanamir",
         "harlan",
+        "krodgeg",
+        "patrin",
         "tannin"
     ],
     "appearances_weight": 790,
@@ -18,11 +22,11 @@ As the Dragonborn try to grab Cal and pull him into the rundown building, he dro
 
 Cal: “I’ve been more than patient with you. You’re not taking me anywhere else. Back off.”
 
-The more aggressive male Dragonborn (whose name, we learn, is Patrin) is brandishing his own weapon: an elongated hexagonal prism bent into an L-shape, like an oversized allen wrench.
+The more aggressive male Dragonborn (whose name, we learn, is [Patrin](/characters/patrin/)) is brandishing his own weapon: an elongated hexagonal prism bent into an L-shape, like an oversized allen wrench.
 
 From a distance, the rest of Team Chillers hears the lion’s roar and Cal’s stern voice, and they know it’s time to throw down. [Tannin](/characters/tannin/) charges ahead toward them as Patrin begins swinging his weapon at the lion—the element of surprise seems to have thrown him off his game, though, and he misses at first before hitting with his next attack. The lion bites back with a critical hit on Patrin, and Cal hits him too, doing a whole mess of damage.
 
-[Galadriel](/characters/galadriel/) sprints after Tannin and casts Bardic Inspiration on Cal at a distance. [Harlan](/characters/harlan/) chases after her in turn and casts Command on Krodgeg, but the Dragonborn passes his WIS saving throw. [Chunk](/characters/chunk/) brings up the rear. Seeing that the group has decided to join the fray, he shouts, “Not a good idea, guys!” at them as they approach. He then takes a swing at the lion with his short sword. 
+[Galadriel](/characters/galadriel/) sprints after Tannin and casts Bardic Inspiration on Cal at a distance. [Harlan](/characters/harlan/) chases after her in turn and casts Command on [Krodgeg](/characters/krodgeg/), but the Dragonborn passes his WIS saving throw. [Chunk](/characters/chunk/) brings up the rear. Seeing that the group has decided to join the fray, he shouts, “Not a good idea, guys!” at them as they approach. He then takes a swing at the lion with his short sword. 
 
 [Hanamir](/characters/hanamir/), meanwhile, sees the bloodlust in Tannin’s eyes and concludes he probably has the fight handled. He decides instead to Shadowstep from outside the building to a dimly-lit area inside the building. It’s quite run-down on the inside, mostly destroyed. There’s not much to see on the first floor—just crumbling walls and detritus. There is a staircase leading down to a root cellar of some sort. There are no other Dragonborn around. He slides into a crouch by the staircase and prepares an action to attack anyone who emerges.
 
@@ -40,7 +44,7 @@ Krodgeg fails his saving throw, and the suggestion takes. “Uh,” he says, mos
 
 The party goes inside and sees Hanamir and the stunned Dragonborn at the top of the stairs. Harlan takes out the Dimensional Shackles and affixes them to this person’s ankles. The crew is being as quiet as possible, and can hear the sound of at least one more Dragonborn from downstairs. 
 
-Hanamir puts a finger to his lips and begins creeping down the stairs, silent as a cloud. He takes the Mirror of the Past out, and, since he’s unable to use it for its magical properties until tomorrow, uses it simply to see around corners. There are in fact two more Dragonborn down in this cellar: one is Akra, the female dragonborn who collected Krodgeg from the Black Unicorn, and the other is male, seemingly of the same ranking as Krodgeg within the hierarchy of this organization. Hanamir scatters some caltrops on the floor and then sneaks back up the stairs.
+Hanamir puts a finger to his lips and begins creeping down the stairs, silent as a cloud. He takes the Mirror of the Past out, and, since he’s unable to use it for its magical properties until tomorrow, uses it simply to see around corners. There are in fact two more Dragonborn down in this cellar: one is [Akra](/characters/akra/), the female dragonborn who collected Krodgeg from the Black Unicorn, and the other is male, seemingly of the same ranking as Krodgeg within the hierarchy of this organization. Hanamir scatters some caltrops on the floor and then sneaks back up the stairs.
 
 Chunk takes his club and clocks the shackled Dragonborn over the head with it. Cal follows up with three more bludgeoning attacks, and then Tannin joins in on this action with the butt end of his trident, and the Dragonborn is successfully knocked out.
 
@@ -80,7 +84,7 @@ As for the cult, and the talk of Pholtus the “impostor” god… he only knows
 
 He gestures toward a room with cots, similar to the one at the house Cal burned down. There’s a small chest that belonged to Akra, and some of her papers scattered nearby. They’re written in Draconic, so Harlan takes a look. She has notes on her various recruits; there are about ten of them. She’s frustrated by the slow progress that’s being made, and the relatively scarce resources she’s been given. The target of the attack is revealed to be Aberith’s Temple of Liberty, which is indeed dedicated to Pholtus. There’s one more piece of correspondence written in Common; it says that the schedule has been moved up and that she will need to make do with the resources she has. It’s not signed. It looks like it may have been received recently.
 
-Cal turns to the last Dragonborn and asks, “Do you know who Deladriel is?”
+Cal turns to the last Dragonborn and asks, “Do you know who [Deladriel](/characters/deladriel/) is?”
 
 “No,” says the Dragonborn. “Never heard the name before.”
 
