@@ -1,6 +1,7 @@
 {
     "appearances": [
         "bracket",
+        "cal",
         "chunk",
         "galadriel",
         "hanamir",
@@ -29,7 +30,7 @@
 
 - We toss the amulets into a fountain as we continue running. We believe them to be connected to the constructs, so if they’re tracking us that way, they won’t be able to.
 
-- We split up, briefly, to throw the one AG off our trail (*if* he’s still pursuing us). Cal goes the woods, Tannin jumps in the river, the rest of us go different directions in the Kiln. After a little while, we meet back up at the Black Unicorn and rent a room.
+- We split up, briefly, to throw the one AG off our trail (*if* he’s still pursuing us). [Cal](/characters/cal/) goes the woods, Tannin jumps in the river, the rest of us go different directions in the Kiln. After a little while, we meet back up at the Black Unicorn and rent a room.
 
 ---
 

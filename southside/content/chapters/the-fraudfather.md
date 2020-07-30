@@ -1,6 +1,7 @@
 {
     "appearances": [
         "bracket",
+        "cal",
         "deladriel",
         "galadriel",
         "goldpeak",
@@ -25,7 +26,7 @@
 
 - Kaz doesn’t think another Sky Arrow-esque attack on the city is likely. He’s willing to offer us more information if we decide to work for him—and seems not so convinced that the Gehennans pose a real threat to him. He’s only swayed by [Harlan](/characters/harlan/)’s argument that they’re a threat to his business via the lives of his clientele.
 
-- We give him the scrolls from the fox man’s corpse (no big deal, since [Hanamir](/characters/hanamir/) made copies). In return, Kaz gives Cal the promised letter of introduction to [Bracket](/characters/bracket/) the gnome, with directions on how to find him, and a reference book all about the creatures native to Gehenna. He also pitches an idea for how to clear [Goldpeak](/characters/goldpeak/)’s name: let someone else take the fall for the Sky Arrow attack, namely [Odo](/characters/odo/). We’d have to plant some evidence at Odo’s compound that would tie him to the crime… which Kaz can provide.
+- We give him the scrolls from the fox man’s corpse (no big deal, since [Hanamir](/characters/hanamir/) made copies). In return, Kaz gives [Cal](/characters/cal/) the promised letter of introduction to [Bracket](/characters/bracket/) the gnome, with directions on how to find him, and a reference book all about the creatures native to Gehenna. He also pitches an idea for how to clear [Goldpeak](/characters/goldpeak/)’s name: let someone else take the fall for the Sky Arrow attack, namely [Odo](/characters/odo/). We’d have to plant some evidence at Odo’s compound that would tie him to the crime… which Kaz can provide.
 
 - There’s some real tension on this point. [Galadriel](/characters/galadriel/) accuses Kaz outright of selling the Sky Arrow to the AML. After failing a WIS save, she’s charmed into recanting that accusation. The party agrees to frame Odo for the Sky Arrow attack.
 

@@ -1,11 +1,11 @@
 {
     "class": "Ranger",
     "description": "",
-    "title": "Cal Verslun",
+    "title": "Cal",
     "race": "Wood Elf"
 }
 
-Cal is on a quest for revenge against Lord Deladriel. As he tells the story:
+Cal Verslun is on a quest for revenge against Lord Deladriel. As he tells the story:
 
 # The Saga of Cal Verslun
 

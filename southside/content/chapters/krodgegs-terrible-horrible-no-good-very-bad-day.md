@@ -1,6 +1,7 @@
 {
     "appearances": [
         "akra",
+        "cal",
         "chunk",
         "galadriel",
         "hanamir",
@@ -16,7 +17,7 @@
 
 # [Krodgeg](/characters/krodgeg/)’s house burns down 
 
-We return to the scene with Cal, who has just burned down a house and is now pretending he didn’t do it. The Dragonborn who was inside sleeping now stands beside him in front of the ruins of the structure.
+We return to the scene with [Cal](/characters/cal/), who has just burned down a house and is now pretending he didn’t do it. The Dragonborn who was inside sleeping now stands beside him in front of the ruins of the structure.
 
 Dragonborn: “Did you see who set the fire?”
 

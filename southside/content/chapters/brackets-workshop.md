@@ -1,6 +1,7 @@
 {
     "appearances": [
         "bracket",
+        "cal",
         "chunk",
         "deladriel",
         "galadriel",
@@ -26,7 +27,7 @@
 
 - We head downstairs to the workshop, finding no traps along the way.
 
-- Cal and Galadriel search the workshop. They find many metal constructs, plans for what look like Amber Guard containment chambers, drawings of the explosives we picked up off the clowns, and drawings of what look like amulets.
+- [Cal](/characters/cal/) and Galadriel search the workshop. They find many metal constructs, plans for what look like Amber Guard containment chambers, drawings of the explosives we picked up off the clowns, and drawings of what look like amulets.
 
 - There are no secret passageways or signs of Bracket himself anywhere.
 

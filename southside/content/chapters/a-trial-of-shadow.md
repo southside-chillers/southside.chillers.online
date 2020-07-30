@@ -2,6 +2,7 @@
     "appearances": [
         "borgrear",
         "buddy",
+        "cal",
         "cazna",
         "chunk",
         "galadriel",
@@ -133,7 +134,7 @@ Meanwhile, Galadriel takes a moment to connect with Buddy. She sends a thought o
 
 *Do you know anything about this place?* she thinks. *And are you feeling all right? Everything about this gives me the creeps. I feel awful.*
 
-HEY, DON'T WORRY ABOUT ME. I FEEL TOTALLY FINE, LIKE I ACHIEVED A 20 OUT OF 20 ON SOME KIND OF THEORETICAL GAME OF CHANCE. I CAN SENSE THAT YOU'RE FEELING GUILTY ABOUT ME, BUT REMEMBER WHAT I'VE ALWAYS SAID: I'M HERE FOR YOU, AND I WANT TO HELP IF YOU NEED ME…
+HEY, DON'T WORRY ABOUT ME. I FEEL TOTALLY FINE, LIKE I ACHIEVED A 20 OUT OF 20 ON SOME KIND OF THEORETI[CAL](/characters/cal/) GAME OF CHANCE. I CAN SENSE THAT YOU'RE FEELING GUILTY ABOUT ME, BUT REMEMBER WHAT I'VE ALWAYS SAID: I'M HERE FOR YOU, AND I WANT TO HELP IF YOU NEED ME…
 
 But Galadriel finds herself lost in rumination, even as Buddy tries to reassure her. His cheerfulness and good mood only underscore her sinking feeling that she’s going to get him killed. She whirls around and jabs the spider behind her in one of its eyes with her rapier.
 

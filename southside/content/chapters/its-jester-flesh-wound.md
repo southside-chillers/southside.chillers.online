@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "cal",
         "chunk",
         "galadriel",
         "hanamir",
@@ -16,7 +17,7 @@
 
 ## The clown in blue-striped robes
 
-We return to our heroes mid-conflict. Cal has successfully grappled the leader of the bombing group, a clown in blue-striped robes. He manages to whack the clown over the head with the butt of his rapier, while [Harlan](/characters/harlan/) tries to assist by applying the Dimensional Shackles. However, the clown squirms and struggles enough that wrangling any two limbs into the shackles proves impossible. Harlan instead uses Thaumaturgy to alert any bystanders that the temple is under attack. The sound of his booming voice causes them to scatter.
+We return to our heroes mid-conflict. [Cal](/characters/cal/) has successfully grappled the leader of the bombing group, a clown in blue-striped robes. He manages to whack the clown over the head with the butt of his rapier, while [Harlan](/characters/harlan/) tries to assist by applying the Dimensional Shackles. However, the clown squirms and struggles enough that wrangling any two limbs into the shackles proves impossible. Harlan instead uses Thaumaturgy to alert any bystanders that the temple is under attack. The sound of his booming voice causes them to scatter.
 
 [Hanamir](/characters/hanamir/) sees his friends struggling and makes a few quick moves. He first sprints toward the group of low-level clowns with bombs, faking a stab at one of them, before Shadowstepping sixty feet to join Harlan and Cal in attacking the clown leader. He hits with an immaculately-timed Stunning Strike, and the blue stripe clown is stunned. With this, blessedly, Harlan succeeds in placing the Dimensional Shackles on the clown’s ankles.
 

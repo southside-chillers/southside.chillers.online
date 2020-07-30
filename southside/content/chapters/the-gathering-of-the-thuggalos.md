@@ -1,6 +1,7 @@
 {
     "appearances": [
         "bracket",
+        "cal",
         "chunk",
         "galadriel",
         "hanamir",
@@ -18,7 +19,7 @@
 
 # Clown briefing
 
-Cal decides to take advantage of the time before [Kaz](/characters/kaz/) returns by returning to the office to steal some platinum from the safe. During the day, however, the office is manned by "some standard person." He waits for the person to go upstairs or down to the cellar and then sneaks inside. Since we know the combination to the safe, it's easy for him to open it, steal 35 platinum, and sneak out, unseen. The missing platinum will be noticed in time, but for now, he's in the clear.
+[Cal](/characters/cal/) decides to take advantage of the time before [Kaz](/characters/kaz/) returns by returning to the office to steal some platinum from the safe. During the day, however, the office is manned by "some standard person." He waits for the person to go upstairs or down to the cellar and then sneaks inside. Since we know the combination to the safe, it's easy for him to open it, steal 35 platinum, and sneak out, unseen. The missing platinum will be noticed in time, but for now, he's in the clear.
 
 Kaz returns to the Prismatic Inn in the afternoon with a bag full of clown robes and a folio of documents. [Harlan](/characters/harlan/) eyes the bag of robes.
 

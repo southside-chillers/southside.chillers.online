@@ -1,6 +1,7 @@
 {
     "appearances": [
         "akra",
+        "cal",
         "deladriel",
         "galadriel",
         "hanamir",
@@ -31,7 +32,7 @@ Krankaad: “I had gotten myself into a bit of trouble. Got caught stealing some
 
 We thank Krankaad for his help and let him go after conferring and deciding that we have no more questions for him. He runs off, surprised to escape with his life, in the direction of the other Dragonborn house.
 
-Cal reaches down and pockets Akra’s eye patch. “You never know,” he says.
+[Cal](/characters/cal/) reaches down and pockets Akra’s eye patch. “You never know,” he says.
 
 [Hanamir](/characters/hanamir/), whistling to himself, then slices off Akra’s head and stores it in the Bag of Holding. 
 

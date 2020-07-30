@@ -1,6 +1,7 @@
 {
     "appearances": [
         "akra",
+        "cal",
         "chunk",
         "deladriel",
         "galadriel",
@@ -18,7 +19,7 @@
 }
 
 
-As the Dragonborn try to grab Cal and pull him into the rundown building, he drops one of his wondrous figurines and yells “MUFASA!” This is the command word that brings the figurine to life. It transforms into a real live golden lion, growling and snarling. Cal steps back and draws his rapiers.
+As the Dragonborn try to grab [Cal](/characters/cal/) and pull him into the rundown building, he drops one of his wondrous figurines and yells “MUFASA!” This is the command word that brings the figurine to life. It transforms into a real live golden lion, growling and snarling. Cal steps back and draws his rapiers.
 
 Cal: “I’ve been more than patient with you. You’re not taking me anywhere else. Back off.”
 

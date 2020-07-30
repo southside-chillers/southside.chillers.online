@@ -1,6 +1,7 @@
 {
     "appearances": [
         "bracket",
+        "cal",
         "galadriel",
         "goldpeak",
         "hanamir",
@@ -19,7 +20,7 @@
     "title": "Hotel Kaz-lifornia"
 }
 
-# Meet Cal
+# Meet [Cal](/characters/cal/)
 
 We gather in the lounge at the Prismatic Inn to discuss our strategy for meeting [Kaz](/characters/kaz/) in the morning. We would first like to search the inn for any helpful information about Kaz that we might be able to find. We're not being super subtle about it, and there's a cloaked figure across the lounge who might be eavesdropping on us.
 

@@ -2,6 +2,7 @@
     "appearances": [
         "bracket",
         "buddy",
+        "cal",
         "chunk",
         "deladriel",
         "galadriel",
@@ -31,7 +32,7 @@ After a long hiatus, we resume action mid-battle with [Bracket](/characters/brac
 
 - The next-closest snake makes a lunge at Hanamir and tries to bite him, but misses.
 
-- The third remaining snake attacks Cal, who makes a CON saving throw and passes. He’s not poisoned, but he takes 5 piercing damage.
+- The third remaining snake attacks [Cal](/characters/cal/), who makes a CON saving throw and passes. He’s not poisoned, but he takes 5 piercing damage.
 
 - The second construct (not the one who attacked Tannin) moves to get [Galadriel](/characters/galadriel/) away from Bracket. It takes a swing at her with a large stone obelisk it’s using as a club. It hits her and knocks her prone, doing 8 bludgeoning damage. 
 
