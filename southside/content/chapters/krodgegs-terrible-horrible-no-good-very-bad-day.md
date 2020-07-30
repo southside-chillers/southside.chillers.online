@@ -1,10 +1,9 @@
 {
     "appearances": [
-        "buddy",
         "chunk",
         "galadriel",
         "hanamir",
-        "tannin"
+        "harlan"
     ],
     "appearances_weight": 780,
     "chapter": 78,
@@ -33,7 +32,7 @@ Cal: “Sure, give me your contact information and I’d be happy to follow up. 
 
 Dragonborn: “I was thinking we could go now.”
 
-Cal: “Oh. Okay.” He pats his pocket, where Chunk is still hiding out in some small animal form that we’ve forgotten to nail down. “Yeah, let’s go see if we can pick up a trail on this guy.”
+Cal: “Oh. Okay.” He pats his pocket, where [Chunk](/characters/chunk/) is still hiding out in some small animal form that we’ve forgotten to nail down. “Yeah, let’s go see if we can pick up a trail on this guy.”
 
 They set off together toward the alleyway. Chunk finds a moment to sneak out of Cal’s pocket and trail behind them at a distance. Maybe he’s a squirrel? That seems to fit this scenario.
 
@@ -67,7 +66,7 @@ Krodgeg: “Krodgeg.”
 
 # Krodgeg catches a break
 
-Cal leads Krodgeg to the Black Unicorn, which has become the crew’s interim HQ after the Half-Full Flagon burned down. He introduces him to the group and excuses himself to go reserve a room for Krodgeg. In the meantime, Galadriel tries to get a read on this guy, sensing that something weird is going on. 
+Cal leads Krodgeg to the Black Unicorn, which has become the crew’s interim HQ after the Half-Full Flagon burned down. He introduces him to the group and excuses himself to go reserve a room for Krodgeg. In the meantime, [Galadriel](/characters/galadriel/) tries to get a read on this guy, sensing that something weird is going on. 
 
 Galadriel: “Hey, welcome. What’s your story?”
 
@@ -83,7 +82,7 @@ Krodgeg: “You know, I didn’t know what to expect coming here to Aberith, but
 
 Galadriel: “I can’t say I’ve met a ton of Dragonborn in my life, but there are plenty in Aberith, especially in the Kiln. May I ask where you’re from originally?”
 
-Krodgeg says the name of a place. It’s in Draconic, which only Harlan speaks. At this point, Cal returns with a key to another room and hands it to Krodgeg. 
+Krodgeg says the name of a place. It’s in Draconic, which only [Harlan](/characters/harlan/) speaks. At this point, Cal returns with a key to another room and hands it to Krodgeg. 
 
 Galadriel *(butchering the pronunciation)*: “Tooooob? Are the rest of your friends from the tube, too?”
 
@@ -99,7 +98,7 @@ Galadriel keeps trying to pull more information out of Krodgeg, but doesn’t ge
 
 At this point, there’s a voice from outside the Black Unicorn that’s shouting Krodgeg’s name. From the window, we can see a large, imposing female Dragonborn with one eye. She seems quite upset. 
 
-Krodgeg, looking sheepish, hurries downstairs to meet her. Their conversation is heated from the start. Harlan lurks nearby, not letting on that he can understand what they’re saying. The gist is that she’s upset that the house burned down and that now he’s just hanging out in some bar with some strangers. She says they have work to do, and things they need to get done—they have an entire [unintelligible word in Draconic] to build. 
+Krodgeg, looking sheepish, hurries downstairs to meet her. Their conversation is heated from the start. Harlan lurks nearby, not letting on that he can understand what they’re saying. The gist is that she’s upset that the house burned down and that now he’s just hanging out in some bar with some strangers. She says they have work to do, and things they need to get done—they have an entire (unintelligible word in Draconic) to build. 
 
 Krodgeg calls Cal over.
 
@@ -108,7 +107,7 @@ Krodgeg: “I need you to come with me.”
 
 Cal: “Sure, happy to help. Can my friends come?”
 
-There is an extended argument on this point. The female Dragonborn, whom we learn is the one named Akra, does not want to bring anyone but the alleged witness to the fire. At some point, Hanamir sneakily points the Mirror of the Past at Akra, and sees a few visions:
+There is an extended argument on this point. The female Dragonborn, whom we learn is the one named Akra, does not want to bring anyone but the alleged witness to the fire. At some point, [Hanamir](/characters/hanamir/) sneakily points the Mirror of the Past at Akra, and sees a few visions:
 
 He sees her growing up in a desolate, icy wasteland.
 He sees her as a young adult, fighting in some Dragonborn war.

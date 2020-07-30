@@ -1,12 +1,10 @@
 {
     "appearances": [
-        "buddy",
         "chunk",
         "galadriel",
         "hanamir",
-        "tannin",
         "harlan",
-        "cal"
+        "tannin"
     ],
     "appearances_weight": 790,
     "chapter": 79,
@@ -22,11 +20,11 @@ Cal: “I’ve been more than patient with you. You’re not taking me anywhere 
 
 The more aggressive male Dragonborn (whose name, we learn, is Patrin) is brandishing his own weapon: an elongated hexagonal prism bent into an L-shape, like an oversized allen wrench.
 
-From a distance, the rest of Team Chillers hears the lion’s roar and Cal’s stern voice, and they know it’s time to throw down. Tannin charges ahead toward them as Patrin begins swinging his weapon at the lion—the element of surprise seems to have thrown him off his game, though, and he misses at first before hitting with his next attack. The lion bites back with a critical hit on Patrin, and Cal hits him too, doing a whole mess of damage.
+From a distance, the rest of Team Chillers hears the lion’s roar and Cal’s stern voice, and they know it’s time to throw down. [Tannin](/characters/tannin/) charges ahead toward them as Patrin begins swinging his weapon at the lion—the element of surprise seems to have thrown him off his game, though, and he misses at first before hitting with his next attack. The lion bites back with a critical hit on Patrin, and Cal hits him too, doing a whole mess of damage.
 
-Galadriel sprints after Tannin and casts Bardic Inspiration on Cal at a distance. Harlan chases after her in turn and casts Command on Krodgeg, but the Dragonborn passes his WIS saving throw. Chunk brings up the rear. Seeing that the group has decided to join the fray, he shouts, “Not a good idea, guys!” at them as they approach. He then takes a swing at the lion with his short sword. 
+[Galadriel](/characters/galadriel/) sprints after Tannin and casts Bardic Inspiration on Cal at a distance. [Harlan](/characters/harlan/) chases after her in turn and casts Command on Krodgeg, but the Dragonborn passes his WIS saving throw. [Chunk](/characters/chunk/) brings up the rear. Seeing that the group has decided to join the fray, he shouts, “Not a good idea, guys!” at them as they approach. He then takes a swing at the lion with his short sword. 
 
-Hanamir, meanwhile, sees the bloodlust in Tannin’s eyes and concludes he probably has the fight handled. He decides instead to Shadowstep from outside the building to a dimly-lit area inside the building. It’s quite run-down on the inside, mostly destroyed. There’s not much to see on the first floor—just crumbling walls and detritus. There is a staircase leading down to a root cellar of some sort. There are no other Dragonborn around. He slides into a crouch by the staircase and prepares an action to attack anyone who emerges.
+[Hanamir](/characters/hanamir/), meanwhile, sees the bloodlust in Tannin’s eyes and concludes he probably has the fight handled. He decides instead to Shadowstep from outside the building to a dimly-lit area inside the building. It’s quite run-down on the inside, mostly destroyed. There’s not much to see on the first floor—just crumbling walls and detritus. There is a staircase leading down to a root cellar of some sort. There are no other Dragonborn around. He slides into a crouch by the staircase and prepares an action to attack anyone who emerges.
 
 Back outside, Cal tries diplomacy again.
 

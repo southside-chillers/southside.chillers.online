@@ -1,11 +1,10 @@
 {
     "appearances": [
-        "chunk",
         "galadriel",
         "hanamir",
-        "tannin",
-        "cal",
-        "harlan"
+        "harlan",
+        "sanford",
+        "tannin"
     ],
     "appearances_weight": 800,
     "chapter": 80,
@@ -19,11 +18,11 @@ We learn this Dragonborn’s name is Krankaad. When pressed for information, he 
 
 Krankaad: “I had gotten myself into a bit of trouble. Got caught stealing some things. One of the elders in our tribe, Varesh, gave me the opportunity to start over somewhere new, and he was in touch with Akra. He was still loyal to her, even though she’d been cast out.”
 
-“Krankaad, where are your friends? Where’s the rest of this digging crew?” asks Tannin.
+“Krankaad, where are your friends? Where’s the rest of this digging crew?” asks [Tannin](/characters/tannin/).
 
 “Let’s see. You killed a few of them. There are five more. They’re probably at the other house we’d been staying in, the one that didn’t burn down,” says Krankaad.
 
-“And do you think they’ll continue digging this tunnel even though Akra’s dead?” asks Galadriel.
+“And do you think they’ll continue digging this tunnel even though Akra’s dead?” asks [Galadriel](/characters/galadriel/).
 
 “Well, no,” says Krankaad. “We don’t have any of the details on what she was even planning. She didn’t delegate much, other than the actual digging.”
 
@@ -31,11 +30,11 @@ We thank Krankaad for his help and let him go after conferring and deciding that
 
 Cal reaches down and pockets Akra’s eye patch. “You never know,” he says.
 
-Hanamir, whistling to himself, then slices off Akra’s head and stores it in the Bag of Holding. 
+[Hanamir](/characters/hanamir/), whistling to himself, then slices off Akra’s head and stores it in the Bag of Holding. 
 
 “We’ll want to Speak With Dead,” he explains. “But we’ll also want to high-tail it out of here before any more Dragonborn show up.”
 
-Unable to shake the unresolved mystery of the missing ring from the burned-down Dragonborn house, Cal returns to the ashes of his arson. He digd through the rubble again, and does not find a ring—but he does find a strange pendant in the shape of a demon’s head, along with a spell scroll. He takes both back with him for Harlan to identify.
+Unable to shake the unresolved mystery of the missing ring from the burned-down Dragonborn house, Cal returns to the ashes of his arson. He digd through the rubble again, and does not find a ring—but he does find a strange pendant in the shape of a demon’s head, along with a spell scroll. He takes both back with him for [Harlan](/characters/harlan/) to identify.
 
 ---
 
@@ -93,4 +92,4 @@ Galadriel tries to tune in to the static that she’d heard during her downtime,
 
 Since Deladriel is not expected back at the tunnel until later in the day, Hanamir goes to the library. He has a few things he wants to research: first, the Dragonborn pantheon, and whether or not there’s a god that is “nameless” or matching Akra’s description otherwise. He reads about Bahomet and Tiamat, but nothing jumps out at him. So Akra’s beliefs seem to be unorthodox—perhaps unorthodox enough to get her cast out of her clan for heresy. He also asks the librarian if he knows the “power” symbol from Akra’s tattoo, but he does not recognize it.
 
-During this time, at Tannin’s suggestion, a few of us join him in helping to rebuild the Half-Full Flagon. We also take some of the healing potions from the bag of holding in preparation for our ambush plan, and we end with Harlan planning a shopping trip to Sanford & Son using his magical Ring of Sanford & Son Location.
+During this time, at Tannin’s suggestion, a few of us join him in helping to rebuild the Half-Full Flagon. We also take some of the healing potions from the bag of holding in preparation for our ambush plan, and we end with Harlan planning a shopping trip to [Sanford](/characters/sanford/) & Son using his magical Ring of Sanford & Son Location.
