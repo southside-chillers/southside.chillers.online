@@ -54,4 +54,4 @@ Then we have the goblin lieutenant, Fol, jump in and get close to him with a kni
 
 A ranged weapon hit does actually get him. 
 
-We end the dream with Dolhan surging in power and defeating Odo. The last thing we give him is the sense that “it’s not too late to prevent this” and an overhead shot of where Dolhan hangs out. 
+We end the dream with Dolhen surging in power and defeating Odo. The last thing we give him is the sense that “it’s not too late to prevent this” and an overhead shot of where Dolhen hangs out. 
