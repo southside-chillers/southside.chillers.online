@@ -11,7 +11,7 @@
     "appearances_weight": 980,
     "chapter": 98,
     "date": "2021-02-12T12:00:00-04:00",
-    "description": "A powerful person is revealed to be a member of the Anti-Magic League.",
+    "description": "A powerful person is suspected to be a member of the Anti-Magic League.",
     "title": "Suspicious, Vedit Suspicious"
 }
 
