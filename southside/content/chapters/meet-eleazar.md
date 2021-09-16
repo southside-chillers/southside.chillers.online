@@ -71,7 +71,7 @@ Galadriel 🎸 grants Eleazar 🧙‍♂️ a Bardic Inspiration (+d8) for a fut
 
 "Yeah, skeleton looking guy 💀? Broken crown? Power hungry?" says Tannin 🧜‍♂️. We're thinking it is maybe the Lich 💀💀💀.
 
-"We are the Kendari family," says Eleazar 🧙‍♂️. "My ancestor's name was Thidror. We don't really talk about him often. Most of our lives in the city 🏙️ have been relatively normal, other than this rule that we don't leave, for risk of being found by one of his band."
+"We are the Kandari family," says Eleazar 🧙‍♂️. "My ancestor's name was Thidror. We don't really talk about him often. Most of our lives in the city 🏙️ have been relatively normal, other than this rule that we don't leave, for risk of being found by one of his band."
 
 He explains that the illusion ✨ is similar to gravity 🍎 in how it's discussed. The artifact is studied like one might study the Big Bang 👩‍🏫.
 
