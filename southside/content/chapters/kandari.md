@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "eleazar",
         "hanamir",
         "harlan",
         "istus",
@@ -15,7 +16,7 @@
     "title": "Kandari"
 }
 
-The Chillers plan to approach the center of the underground town to seek an audience with Rolan. Patrols are fairly light due to the illusory nature of the city, but there are at least nominally people who are supposed to protect the perimeter. Think the "Paul Blarts" of city keepers. Eleazar cautions the group that outsiders have never really been seen here, so we will stick out and be noticed. We could pretend to be in costume for a performance??? Or maybe just Pass Without Trace...
+The Chillers plan to approach the center of the underground town to seek an audience with Rolan. Patrols are fairly light due to the illusory nature of the city, but there are at least nominally people who are supposed to protect the perimeter. Think the "Paul Blarts" of city keepers. [Eleazar](/characters/eleazar/) cautions the group that outsiders have never really been seen here, so we will stick out and be noticed. We could pretend to be in costume for a performance??? Or maybe just Pass Without Trace...
 
 [Tannin](/characters/tannin/) is convinced that if there's any air in the Bag of Holding, we could transport him inside of it. [Harlan](/characters/harlan/) hates this idea. Tannin tries to sneak in anyway, but trips over himself trying to get into it.
 

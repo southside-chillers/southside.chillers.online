@@ -1,5 +1,6 @@
 {
     "appearances": [
+        "eleazar",
         "galadriel",
         "hanamir",
         "harlan",
@@ -13,7 +14,7 @@
     "title": "Meet Eleazar"
 }
 
-Where we left off... a tunnel of caves. A strange young wizard 🧙‍♂️ named Eleazar. [Galadriel](/characters/galadriel/) cast Leomund's Tiny Hut 🍕, smelling of pizza and looking iridescent 💎 as always, to provide temporary shelter 🏠. Eleazar explains he does "not" belong to a cult. He says there is "blood in the hills" here?
+Where we left off... a tunnel of caves. A strange young wizard 🧙‍♂️ named [Eleazar](/characters/eleazar/). [Galadriel](/characters/galadriel/) cast Leomund's Tiny Hut 🍕, smelling of pizza and looking iridescent 💎 as always, to provide temporary shelter 🏠. Eleazar explains he does "not" belong to a cult. He says there is "blood in the hills" here?
 
 He begins a story about how his people started hiding. There was a lot of conflict ⚔️ over the land long ago, and they decided to hide away.
 
