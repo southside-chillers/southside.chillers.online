@@ -3,6 +3,7 @@
         "bryn",
         "deru",
         "galadriel",
+        "grizzleby",
         "hanamir",
         "harlan",
         "hermione",
@@ -101,7 +102,7 @@ Slee purses his lips. He seems to be considering her words carefully.
 
 “Please explain why you feel that the suspect is not in control of her actions,” he says.
 
-Galadriel explains: the ever-burning forest fire, the tiefling skeletons, the lone hut spared from the flames. The knowledge that Grizzleby, the red dragon, had killed everyone [Magick](/characters/magick/) had ever known and loved. The erratic bursts of magic that resulted whenever they’d tried confronting her about stealing the dragon book from Bryn, and subsequently killing him...
+Galadriel explains: the ever-burning forest fire, the tiefling skeletons, the lone hut spared from the flames. The knowledge that [Grizzleby](/characters/grizzleby/), the red dragon, had killed everyone [Magick](/characters/magick/) had ever known and loved. The erratic bursts of magic that resulted whenever they’d tried confronting her about stealing the dragon book from Bryn, and subsequently killing him...
 
 “The trauma of the loss of her people, combined with whatever magical force has possessed her now, leads us to believe that she may not be entirely responsible for what happened to Bryn,” concludes Galadriel. “She may be the unwitting tool of some more sinister actor.”
 
