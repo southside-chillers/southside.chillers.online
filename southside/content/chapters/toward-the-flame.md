@@ -5,6 +5,7 @@
         "fleck",
         "frunk",
         "galadriel",
+        "grizzleby",
         "hanamir",
         "harlan",
         "hjun",
@@ -71,7 +72,7 @@ As they lead the tiefling out of the forest, past the fake fire, they try to gle
 
 "Do you know who is in the tower?" asks Hanamir. 
 
-"No one, I suspect," says Magick. "Once the red dragon set this fire, it went back to sleep, I think. No one left in the forest now except for me and old Grizzleby. That's the dragon's name. It's a very common dragon name."
+"No one, I suspect," says Magick. "Once the red dragon set this fire, it went back to sleep, I think. No one left in the forest now except for me and old [Grizzleby](/characters/grizzleby/). That's the dragon's name. It's a very common dragon name."
 
 They bid the tiefling farewell and return down the left-side fork in the path, past the hut this time. They come to a rocky clearing that leads to a cave. There is a great heat emanating from the cave, and it looks unnaturally dark inside. Galadriel, using the gauntlet's blindsight, peers inside. "It looks great in here!" she says. "Lots of spider webs. Tons of them on all the walls. I am feeling really good about exploring in here."
 

@@ -2,6 +2,7 @@
     "appearances": [
         "chunk",
         "galadriel",
+        "grizzleby",
         "harlan",
         "istus",
         "kandir",
@@ -14,7 +15,7 @@
     "title": "To Free an Efreeti"
 }
 
-On the way to Grizzleby's lair, we discuss bringing Grizzleby a cow tribute. Or several cows! Or, Fibsy suggests, an entire army of ducks (given sentience by a druid)?
+On the way to [Grizzleby](/characters/grizzleby/)'s lair, we discuss bringing Grizzleby a cow tribute. Or several cows! Or, Fibsy suggests, an entire army of ducks (given sentience by a druid)?
 
 A couple miles away from the lair, we know that there's a stream running down from the volcano (presumed to be his lair). The easiest path is going to be to follow that stream. The woods are mostly burnt out; there aren't a lot of creatures around this area. We don't see the giant spiders that used to live in this area--seems Lolth has cleared out. We come to a cave at the foothills of the mountain. We have the option to proceed on foot through the area where the water has cut caves into the mountain, or the area that's more difficult to walk on (lava flow, etc). We're still about 2 miles out from the center of this area.
 

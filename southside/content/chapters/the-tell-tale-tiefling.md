@@ -3,6 +3,7 @@
         "bryn",
         "frunk",
         "galadriel",
+        "grizzleby",
         "hanamir",
         "harlan",
         "hermione",
@@ -218,7 +219,7 @@ The cube tilts its body toward Magick.
 
 “What evil population did you have in mind?” asks Hermione.
 
-“The ones that terrorize us! I will have my vengeance!” Magick says with a surge of righteous anger. “At first, I wanted just to slay Grizzleby… he killed everyone I ever knew…”
+“The ones that terrorize us! I will have my vengeance!” Magick says with a surge of righteous anger. “At first, I wanted just to slay [Grizzleby](/characters/grizzleby/)… he killed everyone I ever knew…”
 
 “Grizzleby, the, uh, *red* dragon?” interjects Harlan, with a glance at Galadriel.
 
