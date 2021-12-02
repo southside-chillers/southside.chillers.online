@@ -1,10 +1,11 @@
 {
     "appearances": [
+        "chunk",
         "galadriel",
-        "hanamir",
         "harlan",
-        "tannin",
-        "the-messenger"
+        "istus",
+        "kandir",
+        "tannin"
     ],
     "appearances_weight": 1190,
     "chapter": 119,
@@ -17,9 +18,9 @@ On the way to Grizzleby's lair, we discuss bringing Grizzleby a cow tribute. Or 
 
 A couple miles away from the lair, we know that there's a stream running down from the volcano (presumed to be his lair). The easiest path is going to be to follow that stream. The woods are mostly burnt out; there aren't a lot of creatures around this area. We don't see the giant spiders that used to live in this area--seems Lolth has cleared out. We come to a cave at the foothills of the mountain. We have the option to proceed on foot through the area where the water has cut caves into the mountain, or the area that's more difficult to walk on (lava flow, etc). We're still about 2 miles out from the center of this area.
 
-Tannin scans around the cave entrance for footprints. Is it home to something or someone? He rolls a 27 survival with the Blessing of Istus. This cave was carved by water, and it doesn't seem like a creature constructed it. The stream gets somewhat warmer as he explores into it. It probably does lead pretty deep within the volcano. Tannin is excited to go underwater and underground--it's his comfort zone.
+[Tannin](/characters/tannin/) scans around the cave entrance for footprints. Is it home to something or someone? He rolls a 27 survival with the Blessing of [Istus](/characters/istus/). This cave was carved by water, and it doesn't seem like a creature constructed it. The stream gets somewhat warmer as he explores into it. It probably does lead pretty deep within the volcano. Tannin is excited to go underwater and underground--it's his comfort zone.
 
-Harlan is on team "be polite" and wants to make ourselves known before we sneak inside any caverns. The night before we started our journey, he had cast Legend Lore on Grizzleby, and learned: by most accounts, stories say he's an adult (not ancient) red dragon. This is lucky, as ancient dragons are a LOT tougher. He's very interested in powerful opponents, and has prided himself in seeking them out. There are stories from across the continent of him seeking challenges and taking trophies. Lots of local champions have been slain by Grizzleby.
+[Harlan](/characters/harlan/) is on team "be polite" and wants to make ourselves known before we sneak inside any caverns. The night before we started our journey, he had cast Legend Lore on Grizzleby, and learned: by most accounts, stories say he's an adult (not ancient) red dragon. This is lucky, as ancient dragons are a LOT tougher. He's very interested in powerful opponents, and has prided himself in seeking them out. There are stories from across the continent of him seeking challenges and taking trophies. Lots of local champions have been slain by Grizzleby.
 
 Fibsy suggests we construct a rigged game that we know he can't win. Maybe involving the sovereign glue? Will he keep his word? Red dragons aren't known to be lawful.
 
@@ -95,11 +96,11 @@ Grizzleby lifts an eyelid and takes a look at what we've offered. Then he closes
 
 "While fighting th eundead might not provide the visceral pleasure of fighting the living, you should understand the power he ahs accumulated. He seeks to spread his power across the southeast. You, surely, are going to be on his list. Do we not all greatly benefit by seeing you lay this Lich low? Truly, you can cast a greater blow for yourself this way."
 
-Galadriel beseeches him in a more pleading way, appealing to his potential desire to be loved by a grateful people who have no one more powerful to turn to against this threat. "Oh great Grizzleby, there is no one else that we can turn to. While we know that your interests are your own, there is so much to be said for the love and gratitude of an entire people. They would see you as a leader."
+[Galadriel](/characters/galadriel/) beseeches him in a more pleading way, appealing to his potential desire to be loved by a grateful people who have no one more powerful to turn to against this threat. "Oh great Grizzleby, there is no one else that we can turn to. While we know that your interests are your own, there is so much to be said for the love and gratitude of an entire people. They would see you as a leader."
 
 "CAn you imagine the trophy? An entire city taken by you?" says Fibsy.
 
-"And all of this pales in comparison to another... have you heard tell of the great monster Kandir?" says Harlan.
+"And all of this pales in comparison to another... have you heard tell of the great monster [Kandir](/characters/kandir/)?" says Harlan.
 
 During all of this, Grizzleby has watched us interact with each other. He seems mildly amused by our theatrics. The mention of Kandir though... he does seem to lose his composure. He turns his head quickly and breathes a small amount of flame. A reminder o fhis innate powers.
 
@@ -141,7 +142,7 @@ Initiative order
 Galadriel
 Fibsy
 Ifreeti
-Chunk
+[Chunk](/characters/chunk/)
 Harlan
 
 

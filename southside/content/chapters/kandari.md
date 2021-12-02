@@ -1,8 +1,10 @@
 {
     "appearances": [
-        "galadriel",
         "hanamir",
         "harlan",
+        "istus",
+        "kandir",
+        "magick",
         "tannin",
         "the-messenger"
     ],
@@ -15,9 +17,9 @@
 
 The Chillers plan to approach the center of the underground town to seek an audience with Rolan. Patrols are fairly light due to the illusory nature of the city, but there are at least nominally people who are supposed to protect the perimeter. Think the "Paul Blarts" of city keepers. Eleazar cautions the group that outsiders have never really been seen here, so we will stick out and be noticed. We could pretend to be in costume for a performance??? Or maybe just Pass Without Trace...
 
-Tannin is convinced that if there's any air in the Bag of Holding, we could transport him inside of it. Harlan hates this idea. Tannin tries to sneak in anyway, but trips over himself trying to get into it.
+[Tannin](/characters/tannin/) is convinced that if there's any air in the Bag of Holding, we could transport him inside of it. [Harlan](/characters/harlan/) hates this idea. Tannin tries to sneak in anyway, but trips over himself trying to get into it.
 
-Hanamir casts Pass Without Trace on the group. For an hour, we can sneak around much more stealthily. We make our way without incident to the center of the town, which is a large hollowed-out cavern. We come to the mayor's residence, where Rolan is working diligently. It's evening, but not too late yet. He is sitting with one other person we can see—his longtime assistant, Keir. Eleazar gives us the backstory: Keir is a bit more aggressive than Rolan. Rolan is widely respected, and known to be even-keeled. At times when the whole town is on alert, for instance if the illusion is threatened, Keir has always been more in favor of proactive responses.
+[Hanamir](/characters/hanamir/) casts Pass Without Trace on the group. For an hour, we can sneak around much more stealthily. We make our way without incident to the center of the town, which is a large hollowed-out cavern. We come to the mayor's residence, where Rolan is working diligently. It's evening, but not too late yet. He is sitting with one other person we can see—his longtime assistant, Keir. Eleazar gives us the backstory: Keir is a bit more aggressive than Rolan. Rolan is widely respected, and known to be even-keeled. At times when the whole town is on alert, for instance if the illusion is threatened, Keir has always been more in favor of proactive responses.
 
 Eleazar decides to distract Keir by showing them the book with the Infernal writing.
 
@@ -47,7 +49,7 @@ Rolan goes quiet. Eleazar jumps in to explain that his spellbook told him to go 
 
 "We know the history of this thing is contentious, but we think we can find Thidror," says Eleazar.
 
-Rolan scans the group. Harlan wears a visible marker of his alignment with Istus, and Rolan takes note of it. His initial startled reaction turns to anger, then regains control over his expression.
+Rolan scans the group. Harlan wears a visible marker of his alignment with [Istus](/characters/istus/), and Rolan takes note of it. His initial startled reaction turns to anger, then regains control over his expression.
 
 "Of course. I knew that these five would be arriving. I'm so grateful that you brought them to me. For it was Istus that had helped them navigate the illusion protecting this place, and Istus who brought us together. We should all rejoice for this new beginning for our city." He cranes his neck a bit to see what's keeping Keir away so long. He addresses Harlan. "What can you tell me of the nature of your intentions?"
 
@@ -83,9 +85,9 @@ Imprisoned or dead? We don't see a reason to keep him alive. We'd be righting a 
 
 Thidror, the outcast, had tried to consolidate power. He ended up setting out on his own. he heard tell of a settlement of strange beings in the southern woods. He thought maybe he could align with them or steal from them. After some time, he was sort of accepted into their settlement. These were Tieflings, and they had an unusual connection with the weave, which underlies magical power. Thidror learned a lot while he was there. Some of the Tieflings had ancient knowledge. They told a story of an elder god who had created the others, along with these artifacts. He realized his people's problems could be solved if they could just find one or two of these artifacts. He begged his father (who was in charge here) to send a party across the sea to try to find them. His father was weary of his son's thirst for power, cast him out. He made him forget his home. The mountain dwarves, however, were willing to offer him a small exploration party. He went in search of a blade that would help him banish all the orcs from this plane. He led them on an expedition, but instead of going where he said he was going, he instead took them to Teron, where this vial was apparently stored. It was there that he betrayed the dwarves. He slaughtered the party that had helped him get there. When the news of this came back to his home, that is when his father decided to seal the city entirely and prevent Thidror from returning (and remembering). He therefore left Thidror as a problem for the rest of the world. As for the Tieflings, it's not known what became of them. Presumably, Thidror would have returned there at some point... their settlement was basically due south of here.
 
-We know that settlement... and its sole survivor. Magick!
+We know that settlement... and its sole survivor. [Magick](/characters/magick/)!
 
-Hanamir speculates that Thidror may be The Messenger. Quietly, laying in his ditch.
+Hanamir speculates that Thidror may be [The Messenger](/characters/the-messenger/). Quietly, laying in his ditch.
 
 The idea that there is another god who created gods like Pelor and Lolth would probably be great sacrilege to followers of those gods. There are parts of this story that make a cleric (Harlan) uncomfortable, but there are also aspects that just don't make sense. It's unclear how truthful this is. It's understood that gods exist, in differing levels of power, and you align yourself with the one who embodies your ideals.
 
@@ -95,4 +97,4 @@ Is there a legendary home of Thidror? No, speaking of him at all is largely tabo
 
 "But sending you after him risks him capturing you and reading your minds," says Rolan. "He has no doubt attained such abilities, as his power has been growing for centuries. I would ask of you that if he captures any of you, that I'm given your word that you'd die before allowing him to search your mind. If I have your word on that, then I could part with the records, which end several decades ago, but which might give a lead on some of his activity."
 
-We make the suicide pact. Yikes! Roland hands us the texts compiled by the small group of wizards dispatched to keep an eye on Thidror. They tracked him off-continent for awhile. He returns about eighty years ago and makes his way to Aberith. They lose track of him there. He has a few other aliases. The family name that he went by was Kandari, like Eleazar's name... and then, Kandir!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+We make the suicide pact. Yikes! Roland hands us the texts compiled by the small group of wizards dispatched to keep an eye on Thidror. They tracked him off-continent for awhile. He returns about eighty years ago and makes his way to Aberith. They lose track of him there. He has a few other aliases. The family name that he went by was Kandari, like Eleazar's name... and then, [Kandir](/characters/kandir/)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
